@@ -10,8 +10,6 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;!— <img alt="體驗製作者向同業學習" src="./assets/skill-exchange.png" /> --->
-
 向Adobe專家和同行學習如何充分利用您的Adobe解決方案。 選擇適用於從業者的主題， _作者：_ 這些互動式會議從業者可分享「各種可能性」的使用案例、最佳實務和秘訣與技巧。
 
 >[!TIP]
