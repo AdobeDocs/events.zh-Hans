@@ -1,8 +1,8 @@
 ---
-user-guide-title: APAC商務活動
-breadcrumb-title: APAC商務活動
-user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和想法。
-source-git-commit: 2880d89fc0a783887efb0982010ea52385c0fb3c
+user-guide-title: APAC商务活动
+breadcrumb-title: APAC商务活动
+user-guide-description: Adobe Commerce Events是一个视频库，专家和同行可以在其中分享他们关于如何使用Adobe Commerce的想法和想法。
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 8%
@@ -10,21 +10,21 @@ ht-degree: 8%
 ---
 
 
-# APAC商務活動 {#apac-commerce-recordings}
+# APAC商务活动 {#apac-commerce-recordings}
 
 + [概述](overview.md)
 + 2023 {#2023}
-   + [Adobe的PaaS雲端商務](2023/adobes-paas-cloud-commerce.md)
-   + [AI支援的個人化](2023/ai-personalisation.md)
+   + [Adobe的PaaS云商务](2023/adobes-paas-cloud-commerce.md)
+   + [AI支持的个性化](2023/ai-personalisation.md)
 + 2022 年 {#2022}
-   + [2022年假期整備](2022/holiday.md)
+   + [2022年假期准备工作](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)
-   + [全網站分析工具](2022/analysis-tool.md)
-   + [使用MBI將資料轉換成價值](2022/mbi.md)
+   + [站点范围分析工具](2022/analysis-tool.md)
+   + [利用MBI将数据转换为价值](2022/mbi.md)
    + [从 升级至 2.4.4](2022/upgrade.md)
-+ [發行藍圖重點說明](release-highlights.md)
++ [发行路线图亮点](release-highlights.md)
 
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -37,4 +37,4 @@ ht-degree: 8%
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->

@@ -1,6 +1,6 @@
 ---
-title: AEM GEM講座
-description: 這是AEM GEM的登陸頁面，包括網路研討會系列資訊和報名資訊、先前和即將舉辦的網路研討會
+title: AEM GEM会话
+description: 这是AEM GEM的登陆页，包括网络研讨会系列信息和注册信息，以及以前和即将召开的网络研讨会
 role: Leader
 cloud: Experience Cloud
 product: adobe experience manager
@@ -9,8 +9,8 @@ feature-set: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: AEM GEM講座
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+user-guide-description: AEM GEM会话
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -19,11 +19,11 @@ ht-degree: 2%
 
 # Adobe Experience Manager Gems
 
-<img alt="數位體驗" src="./assets/ADX_Gems.png"/>
+<img alt="数字体验" src="./assets/ADX_Gems.png"/>
 
-## 先前的AEM GEM活動！
+## 上一个AEM GEM活动！
 
-<!---  Remove the comment marks, and put the upcoming event in the below table
+<!--  Remove the comment marks, and put the upcoming event in the below table
 
 <table style="max-width: 1214px;">
 <tr>
@@ -42,35 +42,35 @@ ht-degree: 2%
 </tr>
 </table>
 
---->
-我們最新的AEM GEM網路研討會於 **透過快速開發環境加速Adobe Experience ManagerCloud Service開發** 執行日期 *2023年2月22日*.
-此 **錄製** 可在此處找到： [AEM快速開發環境網路研討會](gems2023/Rapid-Development-Environments.md)
+-->
+我们最新的AEM GEM网络研讨会，日期： **使用快速开发环境加快Adobe Experience ManagerCloud Service开发** 执行日期 *2023年2月22日*.
+此 **录制** 可在此处找到： [AEM快速开发环境网络研讨会](gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
-> 報名參加即將舉辦的AEM GEM網路研討會，以接收相關通知 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+> 注册以接收有关即将召开的AEM GEM网络研讨会的通知，网址： [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 
-## 2022年重新啟動AEM GEM
+## 2022年重新启动AEM GEM
 
-歡迎使用 **AEM GEM**  — 我們由Adobe專家提供的關於Adobe Experience Manager的一系列技術深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以聯絡並深入瞭解特定主題。
+欢迎使用 **AEM GEM**  — 我们由Adobe专家提供的关于Adobe Experience Manager的一系列技术深入探讨。 本系列是对产品文档和所有其他有关Adobe Experience Manager技术渠道的补充，使开发人员能够联系并深入了解特定主题。
 
-網路研討會將定期進行，包括以下內容：
+网络研讨会将定期举行，包括以下内容：
 
-* 持續時間上限為60分鐘
-* 問答環節和聊天專家可在整個網路研討會中找到
-* 每個網路研討會之後可用的錄製
-* 網路研討會是免費的
+* 最长持续60分钟
+* 最后的问答和在线研讨会中提供的聊天专家
+* 每次网络研讨会后可用的录像
+* 网络研讨会免费
 
-我們所有的AEM GEM網路研討會都是免費的，而且是以虛擬方式進行。
+我们所有的AEM GEM网络研讨会都是免费的，并且以虚拟方式进行。
 
-註冊位置 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關我們即將舉辦的網路研討會的通知。
+注册位置 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以接收有关我们即将召开的网络研讨会的通知。
 
-## Experience League社群
+## Experience League社区
 
-我們的 [Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 在支援產品採用和客戶成功上扮演關鍵角色。
+我们的 [Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 在支持产品采用和客户成功方面起到关键作用。
 
-* 連線：與同行和Adobe人員建立網路，以獲得從實作到擴大產品使用的指引和最佳實務
-* 快速解答：廣泛的真實使用案例解答，可支援成功主動使用Adobe解決方案
-* 創意與意見反應：聽取客戶產品創意並向產品團隊提供寶貴的VoC意見反應
+* 连接：与同行和Adobe人员建立网络，以提供从实施到扩展产品使用的指导和最佳实践
+* 快速解答：大量真实用例解答以支持成功主动使用Adobe解决方案
+* 创意和反馈：获取客户产品创意并向产品团队提供宝贵的VoC反馈
 
 

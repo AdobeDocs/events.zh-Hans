@@ -1,18 +1,18 @@
 ---
-title: 商務與咖啡
-description: Adobe Commerce和Coffee系列著重於商務策略和戰術，並有反映此活動主題的統計資料作為支援。
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+title: 商务和咖啡
+description: Adobe Commerce和Coffee系列专注于商业战略和战术，并辅以反映活动主题的统计数据。
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-# 商務與咖啡
+# 商务和咖啡
 
-Commerce &amp; Coffee系列適用於所有技能等級的現有Adobe Commerce客戶，並提供Sr. Commerce Strategy Consultant， Corey Gelato的功能。 此系列專注於商務策略和戰術，由反映事件主題的統計資料所支援。 在簡報後，將有一個即時示範，展示如何將所討論的策略化為在Commerce平台中的行動。 每場活動的最後都會讓與會者有機會即時提問，並直接與Adobe專家互動。 每次活動都能讓您重新瞭解為何以及如何保持競爭力並取得成功，同時讓Adobe Commerce平台發揮最大效用。
+Commerce &amp; Coffee系列适用于所有技能级别的现有Adobe Commerce客户，并具有Sr. Commerce Strategy Consultant， Corey Gelato的功能。 该系列侧重于商业战略和战术，并辅以反映事件主题的统计数据。 在演示之后，有一个实时演示展示了如何在Commerce平台中实施所讨论的策略。 每场活动都以向与会者提供现场提问并直接与Adobe专家互动的机会作为结束。 您将重新了解为什么以及如何保持竞争力并取得成功，同时最大限度地利用您的Adobe Commerce平台所提供的功能。
 
-<!---
+<!--
 ## What's New
 
 <table>
@@ -58,8 +58,8 @@ Commerce &amp; Coffee系列適用於所有技能等級的現有Adobe Commerce客
   </td>
 </tr>
 </table>
---->
+-->
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**左侧导航中列出了所有录制的会话**.
