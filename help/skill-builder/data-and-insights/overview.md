@@ -1,58 +1,58 @@
 ---
-title: 技能培養概觀
-description: 使用整個組織的線上和離線資料分析，在任何管道上推動即時個人化。
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+title: Skill Builder概述
+description: 使用整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '208'
 ht-degree: 6%
 
 ---
 
-# 資料和深入分析
+# 数据和见解
 
-使用整個組織的線上和離線資料分析，在任何管道上推動即時個人化。
+使用整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。
 
 ## 新增功能
 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
       <img alt="使用 Adobe Target 打造个性化和自动化" src="assets/343821.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
         <strong>使用 Adobe Target 打造个性化和自动化</strong>
       </a>
     </div>
     <p>
-    <em>參加此會議，瞭解使用Auto Target和Auto Personalization自動化和最佳化Adobe Target功能的核心概念。</em>
+    <em>参加此会议，了解使用自动定位和自动个性化来实现Adobe Target功能自动化和优化的核心概念。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
-      <img alt="2022年創新與趨勢" src="assets/343818.jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+      <img alt="2022年创新和趋势" src="assets/343818.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
-        <strong>2022年創新與趨勢</strong>
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+        <strong>2022年创新和趋势</strong>
       </a>
     </div>
     <p>
-    <em>在這場主題演講中，您將瞭解D&amp;I的主要趨勢。加入我們，探索如何充分發揮Experience Cloud投資的最大效益，進而對您的資料進行相關的運用，並深入瞭解新的創新技術。</em>
+    <em>在本主题演讲中，您将了解D&amp;I中的主要趋势。加入我们，探索如何通过充分实现您的Experience Cloud投资的最大化来充分利用您的数据，并深入了解新的创新。</em>
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="適用於行動應用程式的Analytics和Target應用程式" src="assets/343819.jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+      <img alt="适用于移动设备和应用程序的Analytics和Target应用程序" src="assets/343819.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
-        <strong>適用於行動應用程式的Analytics和Target應用程式</strong>
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+        <strong>适用于移动设备和应用程序的Analytics和Target应用程序</strong>
       </a>
     </div>
     <p>
-    <em>在這場會議中，您將瞭解如何在行動裝置上使用Analytics儀表板的最佳實務，以及如何透過Target個人化應用程式。</em>
+    <em>在此会话中，您将了解如何在移动设备上使用Analytics功能板的最佳实践，以及如何通过Target使应用程序个性化。</em>
     <p>
   </td>
 </tr>
@@ -60,4 +60,4 @@ ht-degree: 6%
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**左侧导航中列出了所有录制的会话**.

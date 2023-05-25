@@ -1,6 +1,6 @@
 ---
-title: 詢問專家 — Web SDK基本知識
-description: 瞭解Web SDK。 我們將向您展示Web SDK的所有基本知識，包括它背後的推理、它如何運作以及它支援的重要使用案例。
+title: 咨询专家 — Web SDK基础知识
+description: 了解Web SDK。 我们将向您展示Web SDK的所有基础知识，包括它背后的推理、它的工作方式以及它支持的重要用例。
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: 343335.jpeg
@@ -8,32 +8,32 @@ event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '252'
 ht-degree: 9%
 
 ---
 
 # 咨询专家：Web SDK 基础
 
-在有關Adobe Experience Cloud資料收集的三場直播會議中的第一場，瞭解使用Web SDK進行網頁資料收集的「未來趨勢」。 我們將向您展示Web SDK的所有基本知識，包括它背後的推理、它如何運作以及它支援的重要使用案例。 我們將會有專家全程瞭解此內容，因此我們能夠回答問題並展示最佳實務。
+在有关Adobe Experience Cloud数据收集的三场直播会议中的第一场中，了解使用Web SDK进行Web数据收集的“未来趋势”。 我们将向您展示Web SDK的所有基础知识，包括它背后的推理、它的工作方式以及它支持的重要用例。 我们将有专家帮助我们全面了解它，因此我们将能够回答问题并展示最佳实践。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**繼續討論** 在 [Experience League社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}！
+**继续讨论** 在 [Experience League社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}！
 
-## 此資料收集系列的其他Experience League即時工作階段
+## 此数据收集系列中的其他Experience League实时会话
 
 * [咨询专家 – Real-Time CDP 连接](exl-live-episode-06-23-22.md)
-* [詢問專家 — 資料串流和資料準備](exl-live-episode-07-21-22.md)
+* [咨询专家 — 数据流和数据准备](exl-live-episode-07-21-22.md)
 
-### 一些實用連結
+### 一些有用链接
 
-* [教學課程：使用Web SDK實作Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans){target="_blank"}
-* [在Web SDK中自動收集的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
-* [免費Web SDK布建](https://adobe.ly/websdkaccess){target="_blank"}
-* [Web SDK中第一方裝置ID的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debugger概觀和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [行動SDK檔案](https://aep-sdks.gitbook.io/docs/){target="_blank"}
-* [混合式應用程式集合資訊](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [教程：使用Web SDK实施Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans){target="_blank"}
+* [Web SDK中自动收集的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [免费Web SDK配置](https://adobe.ly/websdkaccess){target="_blank"}
+* [有关Web SDK中第一方设备ID的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
+* [Adobe Experience Platform Debugger概述和下载](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Mobile SDK文档](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
+* [混合应用程序收藏集信息](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

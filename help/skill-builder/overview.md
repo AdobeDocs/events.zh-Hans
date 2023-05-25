@@ -1,18 +1,18 @@
 ---
-title: 技能培養概觀
-description: 網路研討會系列影片，協助您建立知識庫，並將Adobe Experience Cloud投資效益最大化。
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+title: Skill Builder概述
+description: 录制的网络研讨会系列，用于构建您的知识库并最大化您对Adobe Experience Cloud的投资。
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '162'
 ht-degree: 3%
 
 ---
 
-# 技能培養
+# Skill Builder
 
-Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您對Adobe Experience Cloud的投資發揮到極致。
+Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最大限度地增加您在Adobe Experience Cloud中的投资。
 
-## Adobe企業商務解決方案
+## Adobe企业业务解决方案
 
 <table>
 <tr>
@@ -22,34 +22,34 @@ Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您�
       <strong>Content and Commerce</strong>
     </div>
     <p>
-    <em>建立並管理一系列有趣的網站、行動應用程式和表單。 此外，您還可以學習如何使用我們靈活的AI支援商務解決方案，在單一平台上建立多管道商務體驗。</em>
+    <em>创建和管理一系列引人入胜的网站、移动应用程序和表单。 此外，学习使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽工作階段</span>
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
     </a>
   </td>
   <td>
-    <img alt="客戶歷程" src="assets/customer-journey.png" />
+    <img alt="客户历程" src="assets/customer-journey.png" />
     <div>
-      <strong>客戶歷程</strong>
+      <strong>客户历程</strong>
     </div>
     <p>
-    <em>從所有來源提取資料，建立個人化的跨管道歷程，以開發即時客戶設定檔。</em>
+    <em>通过从所有来源提取数据以创建个性化的跨渠道历程来开发实时客户档案。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽工作階段</span>
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
     </a>
   </td>
   <td>
-    <img alt="資料和深入分析" src="assets/data-insights.png" />
+    <img alt="数据和见解" src="assets/data-insights.png" />
     <div>
-      <strong>資料和深入分析</strong>
+      <strong>数据和见解</strong>
     </div>
     <p>
-    <em>使用整個組織的線上和離線資料分析，在任何管道上推動即時個人化。</em>
+    <em>使用整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽工作階段</span>
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
     </a>
   </td>  
 </tr>
@@ -57,4 +57,4 @@ Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您�
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**左侧导航中列出了所有录制的会话**.
