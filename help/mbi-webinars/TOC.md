@@ -1,8 +1,8 @@
 ---
 user-guide-title: MBI事件
 breadcrumb-title: MBI事件
-user-guide-description: MBI Events是一個影片庫，專家和同業可在此分享他們對Adobe Commerce的想法和想法。
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+user-guide-description: MBI Events是一个视频库，专家和同行可以在其中分享他们对Adobe Commerce的想法和想法。
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 37%
@@ -13,12 +13,12 @@ ht-degree: 37%
 # MBI事件  {#mbi-webinars-recordings}
 
 + [概述](overview.md)
-+ 2022 年 {#2022}
-   + [在MBI中管理資料集](2021-22/manage-data-sets.md)
++ 2023 {#2023}
+   + [在MBI中管理数据集](2023/manage-data-sets.md)
 + 2021 年{#2021}
    + [MBI 快速入门](2021-22/getting-started.md)
    + [优化您的 MBI 数据仓库](2021-22/optimize-data-warehouse.md)
-   + [MBI儀表板深入探討](2021-22/dashboards-deep-dive.md)
+   + [MBI功能板深入探讨](2021-22/dashboards-deep-dive.md)
    + [MBI 为假期做好准备](2021-22/holiday-readiness.md)
    + [MBI – 咨询专家](2021-22/ask-expert.md)
 

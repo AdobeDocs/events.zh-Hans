@@ -1,6 +1,6 @@
 ---
-title: AI支援的個人化
-description: 人工智慧無處不在，並開始滲透到我們的許多日常互動。 如果能以正確的方式運用，AI可協助您為客戶提供高度相關且令人難忘的體驗。 Adobe多年來在AI上投入巨資，最近，我們看到AI功能在Commerce中脫穎而出。 在這場網路研討會中，我們將與Commerce Solutions Consulting APAC經理Jason Ford一起進一步瞭解如何運用Adobe工具組來為您的個人化策略充電。
+title: AI驱动的个性化
+description: 人工智能就在我们身边并开始渗透到我们的许多日常互动中。 如果以正确的方式加以利用，AI可以帮助您为客户提供高度相关且令人难忘的体验。 多年来，Adobe在人工智能方面投入巨资，最近，我们看到人工智能功能在Commerce中脱颖而出。 在本网络研讨会中，我们将与APAC商业解决方案咨询部经理Jason Ford一起了解有关如何利用Adobe工具包为您的个性化策略提供支持的更多信息。
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -10,7 +10,8 @@ level: Beginner
 last-substantial-update: 2023-05-03T00:00:00Z
 jira: KT-13194
 thumbnail: 3419107.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+event-start-time: 2023-5-2 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,8 +19,8 @@ ht-degree: 0%
 ---
 
 
-# AI支援的個人化
+# AI驱动的个性化
 
-人工智慧無處不在，並開始滲透到我們的許多日常互動。 如果能以正確的方式運用，AI可協助您為客戶提供高度相關且令人難忘的體驗。 Adobe多年來在AI上投入巨資，最近，我們看到AI功能在Commerce中脫穎而出。 在這場網路研討會中，我們將與Commerce Solutions Consulting APAC經理Jason Ford一起進一步瞭解如何運用Adobe工具組來為您的個人化策略充電。
+人工智能就在我们身边并开始渗透到我们的许多日常互动中。 如果以正确的方式加以利用，AI可以帮助您为客户提供高度相关且令人难忘的体验。 多年来，Adobe在人工智能方面投入巨资，最近，我们看到人工智能功能在Commerce中脱颖而出。 在本网络研讨会中，我们将与APAC商业解决方案咨询部经理Jason Ford一起了解有关如何利用Adobe工具包为您的个性化策略提供支持的更多信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419107/?learn=on)

@@ -1,21 +1,22 @@
 ---
-title: Marketo和Mochas — 傳遞能力（第1部分）
-description: 這場Marketo與Mochas研討會的主題是Marketo傳遞經理Sean Wirt和資深行銷自動化業務顧問Cynthia Chang。 在這場會議中，Sean深入探討傳遞能力的最佳實務，強調信譽、資料品質因素、參與型別以及共用與專用IP的利弊。 Cynthia隨後會示範如何以Marketo Engage匯入傳遞能力計畫。 活動以現場問答結束，Sean在此回答註冊者和出席者的問題。
+title: Marketo和Mochas — 可投放性（第1部分）
+description: 这场Marketo与Mochas研讨会的主题是Marketo可投放性经理Sean Wirt和高级营销自动化业务顾问Cynthia Chang。 在本次研讨会中，Sean深入了解可投放性最佳实践，重点介绍了信誉、数据质量因素、参与类型以及共享与专用IP的优缺点。 然后，Cynthia演示了如何以Marketo Engage导入“可投放性计划”。 活动以现场问答结束，Sean在此回答注册者和参加者的问题。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-03-16T00:00:00Z
 jira: KT-12926
 thumbnail: 3416666.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+event-start-time: 2023-3-24 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Marketo和Mochas — 傳遞能力（第1部分）
+# Marketo和Mochas — 可投放性（第1部分）
 
-這場Marketo與Mochas研討會的主題是Marketo傳遞經理Sean Wirt和資深行銷自動化業務顧問Cynthia Chang。 在這場會議中，Sean深入探討傳遞能力的最佳實務，強調信譽、資料品質因素、參與型別以及共用與專用IP的利弊。 Cynthia隨後會示範如何以Marketo Engage匯入傳遞能力計畫。 活動以現場問答結束，Sean在此回答註冊者和出席者的問題。
+这场Marketo与Mochas研讨会的主题是Marketo可投放性经理Sean Wirt和高级营销自动化业务顾问Cynthia Chang。 在本次研讨会中，Sean深入了解可投放性最佳实践，重点介绍了信誉、数据质量因素、参与类型以及共享与专用IP的优缺点。 然后，Cynthia演示了如何以Marketo Engage导入“可投放性计划”。 活动以现场问答结束，Sean在此回答注册者和参加者的问题。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416666/?quality=12&learn=on)

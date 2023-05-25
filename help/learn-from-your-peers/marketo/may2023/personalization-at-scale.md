@@ -1,6 +1,6 @@
 ---
-title: 使用Marketo Engage在規模程式碼中破解個人化
-description: 涵蓋Adobe Marketo Engage中可用的個人化功能；代號、區段、動態內容和代碼片段以及Velocity指令碼。  進階Velocity指令碼使用案例，包括使用來自自訂物件的資料個人化內容。
+title: 使用Marketo Engage破解Special At Scale Code
+description: 涵盖Adobe Marketo Engage中可用的个性化功能、令牌、分段、Dynamic Content & Snippets和Velocity脚本。  高级Velocity脚本使用案例，包括使用来自自定义对象的数据对内容进行个性化。
 solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
@@ -8,7 +8,8 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+event-start-time: 2023-5-4 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -16,14 +17,14 @@ ht-degree: 0%
 ---
 
 
-# 使用Marketo Engage在規模程式碼中破解個人化
+# 使用Marketo Engage破解Special At Scale Code
 
-在現今的資料導向世界中，如果您沒有個人化行銷內容，就失去了與受眾連結的機會。 加入Marketo Engage Champions、Courtny Edwards-Jones和Darshil Shah，分享他們的智慧，使用Adobe Marketo Engage中提供的個人化功能獲得最大的里程數。
+在当今的数据驱动型世界中，如果您没有对营销内容进行个性化，那么您将失去与受众建立联系的机会。 加入Marketo Engage支持者Courtny Edwards-Jones和Darshil Shah的行列，分享他们通过Adobe Marketo Engage中提供的个性化功能获得最大里程的智慧。
 
-在這場網路研討會中，您將瞭解：
+在本网络研讨会中，您将了解：
 
-* 個人化為何重要？
-* 用於每個人的關鍵個人化使用案例和技術。 我們將會教導您如何使用Marketo Engage中可用的功能和技巧：代號、區段、動態內容和代碼片段以及Velocity指令碼。
-* 進階Velocity指令碼使用案例，包括使用來自自訂物件的資料個人化內容。
+* 为什么个性化很重要？
+* 要用于每个客户机的关键个性化用例和技术。 Marketo Engage中可用的功能和技术，我们将教您如何使用：令牌、分段、Dynamic Content &amp; Snippets和Velocity Scripting。
+* 高级Velocity脚本使用案例，包括使用来自自定义对象的数据对内容进行个性化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)

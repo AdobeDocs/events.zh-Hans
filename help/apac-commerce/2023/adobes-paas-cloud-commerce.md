@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe的PaaS Cloud Commerce簡化您的業務
-description: 探索Adobe的Commerce CloudPaaS解決方案的價值。 任何人若目前自行託管，且想瞭解PaaS解決方案能提供哪些功能，便可參加此網路研討會。
+title: 利用Adobe的PaaS Cloud Commerce简化您的业务
+description: 探索Adobe的Commerce CloudPaaS解决方案的价值。 对于当前正在自行托管并想了解PaaS解决方案可为他们提供什么内容的任何人，本次网络研讨会敬请参加。
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -10,7 +10,8 @@ level: Beginner
 doc-type: Event
 last-substantial-update: 2023-05-17T00:00:00Z
 jira: KT-13206
-source-git-commit: 2880d89fc0a783887efb0982010ea52385c0fb3c
+event-start-time: 2023-4-27 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -18,10 +19,10 @@ ht-degree: 0%
 ---
 
 
-# 使用Adobe的PaaS Cloud Commerce簡化您的業務
+# 利用Adobe的PaaS Cloud Commerce简化您的业务
 
-在最新期的APAC商務網路研討會系列中，我們探索Adobe的Commerce CloudPaaS解決方案的價值。 任何自行託管、且想瞭解PaaS解決方案可能提供什麼內容的人，都可以參加這個網路研討會。 如果您已經是Adobe Commerce Cloud客戶，可以加入我們，深入瞭解如何最大化現有設定的價值。 
+在最新一期的APAC Commerce网络研讨会系列中，我们探讨了AdobeCommerce CloudPaaS解决方案的价值。 对于自行托管并想了解PaaS解决方案可为他们提供什么内容的任何人，本网络研讨会敬请参加。 如果您已经是Adobe Commerce Cloud客户，可以加入我们，详细了解如何最大限度地提高现有设置的价值。
 
-我們有一位客戶，是印尼領先的運動服裝經銷商Panatrade，向您介紹他們從內部部署到Adobe Commerce Cloud的歷程，以及他們如何為電子商務業務轉向完全最佳化及受管理的解決方案而獲得回報。
+您将了解我们的一位客户，即印度尼西亚领先的运动服装分销商Panatrade是如何从内部部署到Adobe Commerce Cloud的，以及他们如何通过转向为其电子商务业务提供全面优化和管理的解决方案而获得回报的。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419132/?learn=on)
