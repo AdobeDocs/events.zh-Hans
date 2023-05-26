@@ -2,9 +2,9 @@
 title: Adobe Experience League事件
 description: 强制使用Adobe企业产品时发生的事件录制集合
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: ecbca1c217f26d718dc5fb69f063c8fbb0f5cdb2
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '747'
 ht-degree: 10%
 
 ---
@@ -157,7 +157,7 @@ ht-degree: 10%
       </a>
       <div>
          <a href="/help/learn-from-your-peers/overview.md"><strong>向同行学习</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics，AdobeMarketo</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Experience Manager、AdobeMarketo</em>
       </div>
       <p>
         <br/>
