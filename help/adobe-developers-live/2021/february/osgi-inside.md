@@ -12,7 +12,7 @@ kt: 7174
 type: Event
 thumbnail: 331740.jpg
 exl-id: e1ac9124-847a-4432-8ab4-eef52b2a88c7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 一个由Carsten Ziegeler、Karl Pauls和David Bosschaert参加的面板，其中介绍了我们为什么使用OSGi、为什么它在Cloud中相关以及Adobe Experience Manager开发人员需要了解的内容。
 
-在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

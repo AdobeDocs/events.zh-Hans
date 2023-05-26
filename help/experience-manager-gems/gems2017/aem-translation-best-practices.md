@@ -5,10 +5,10 @@ uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
 exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '211'
+ht-degree: 6%
 
 ---
 
@@ -31,6 +31,8 @@ Mathias Siegel，高级产品经理， [!DNL AEM Sites]，Adobe
 
 ## 相关链接 {#related-links}
 
-* [AEM Sites翻译文档](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
-* [管理多语言资产](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [翻译最佳实践文档](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+>[!WARNING]
+>
+>AEM版本6.4及更早版本已终止使用，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>由于它与此会话相关，请参阅 *AEM Sites翻译文档*， *翻译最佳实践文档* 和 *管理多语言资产* 在AEM 6.3文档中。

@@ -5,9 +5,9 @@ uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 539da93f-b3be-4c66-81de-fe97fcb19727
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '261'
 ht-degree: 10%
 
 ---
@@ -31,9 +31,8 @@ Stefan Egli，开发人员，Adobe
 ## 相关链接 {#related-links}
 
 * [适用于Eclipse的AEM开发人员工具 — 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
-* [AEM Developer Tools下载站点](http://eclipse.adobe.com/aem/dev-tools/)
 * [Sling IDE工具](https://sling.apache.org/documentation/development/ide-tooling.html)
-* [讨论与问题论坛](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
+* [讨论与问题论坛](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [问题报告和跟踪](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
-* [Hobbes.js： UI测试框架](http://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
+* [Hobbes.js： UI测试框架](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
 * [返回概述](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

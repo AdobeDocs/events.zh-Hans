@@ -6,10 +6,10 @@ topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
 exl-id: 19ded93d-2183-4a26-9dc6-8c25cdd4caeb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 9%
+source-wordcount: '182'
+ht-degree: 10%
 
 ---
 
@@ -31,11 +31,12 @@ Timothee Maret，高级开发人员，Adobe
 
 ## 资源 {#resources}
 
-用户同步
+>[!WARNING]
+>
+>AEM版本6.4及更早版本已终止使用，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>由于它与此会话相关，请参阅 *用户同步* 在AEM文档中。
 
-* [AEM 6.3 文档](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [AEM 6.2 文档](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [AEM 6.1 文档](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
 * [Apache Sling内容分发](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [返回概述](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 

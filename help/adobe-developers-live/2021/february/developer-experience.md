@@ -10,7 +10,7 @@ kt: 7169
 type: Event
 thumbnail: 331770.jpg
 exl-id: caacac94-9d03-42f3-aa14-0bd7307c863e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 与Developer Experience for Experience Cloud的Director的Jonathan Roeder一起了解Adobe Experience Cloud中的最新开发人员更新。
 
-在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 

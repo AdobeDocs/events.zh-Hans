@@ -5,10 +5,10 @@ uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: f29e6070-62d3-472c-9772-d470134e76d1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 1%
+source-wordcount: '270'
+ht-degree: 4%
 
 ---
 
@@ -34,5 +34,8 @@ Adobe Experience Manager 6.2中引入了新的模板编辑器，为构建、结�
 
 ## 相关链接 {#related-links}
 
-* [页面模板](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [创建页面模板](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+>[!WARNING]
+>
+>AEM版本6.4及更早版本已终止使用，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>由于它与此会话相关，请参阅 *页面模板* 和 *创建页面模板* 在AEM 6.2文档中。

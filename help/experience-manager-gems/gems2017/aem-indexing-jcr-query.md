@@ -6,10 +6,10 @@ topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
 exl-id: 30a68d44-f4f1-4370-8e96-edc6f9cbfe1a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 17%
+source-wordcount: '155'
+ht-degree: 14%
 
 ---
 
@@ -29,8 +29,15 @@ ht-degree: 17%
 
 AEM 文档
 
-* [Oak查询和索引](https://docs.adobe.com/docs/en/aem/6-3/deploy/platform/queries-and-indexing.html)
-* [有关查询和索引的最佳实践](https://docs.adobe.com/docs/en/aem/6-3/deploy/best-practices/best-practices-for-queries-and-indexing.html)
+>[!CAUTION]
+>
+>**左侧导航中列出了所有录制的会话**.
+
+>[!WARNING]
+>
+>AEM版本6.4及更早版本已终止使用，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>由于它与此会话相关，请参阅 *Oak查询和索引* 和 *有关查询和索引的最佳实践* 在AEM 6.3文档中。
 
 Oak文档
 

@@ -5,10 +5,10 @@ uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 5%
+source-wordcount: '263'
+ht-degree: 8%
 
 ---
 
@@ -35,5 +35,10 @@ AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案
 
 ## 相关链接 {#related-links}
 
-* [部署Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Screens概念](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>AEM版本6.4及更早版本已终止使用，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>由于它与此会话相关，请参阅 *部署Screens* 和 *Screens概念* 在AEM 6.2文档中。
+

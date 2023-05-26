@@ -13,7 +13,7 @@ kt: 7164
 type: Event
 thumbnail: 331767.jpg
 exl-id: 11c79583-4260-4b83-95c3-615ac7b49f3f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 重新构想Adobe Experience Manager Screensas a Cloud Service：从与CMS紧密耦合到成为完全托管和可伸缩的云服务的历程。
 
-在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 

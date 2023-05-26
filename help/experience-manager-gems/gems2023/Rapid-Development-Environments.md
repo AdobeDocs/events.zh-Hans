@@ -14,10 +14,10 @@ kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -42,6 +42,6 @@ RDE允许开发人员快速部署和审查更改，从而最大限度地减少�
 
 >[!NOTE]
 >
->* 有关Experience League上特定于会话的社区交互，请访问此 [上下文线程](http://bit.ly/3x1Cl8x)
+>* 有关Experience League上特定于会话的社区交互，请访问此 [上下文线程](https://bit.ly/3x1Cl8x)
 >* 要收到有关我们即将召开的网络研讨会的通知，请注册于 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 

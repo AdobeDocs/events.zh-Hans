@@ -11,7 +11,7 @@ level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
 exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
@@ -30,7 +30,7 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->* [“相应的Adobe Experience Manager用户组事件”页](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [“相应的Adobe Experience Manager用户组事件”页](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
 >* [对应的上下文线程](https://adobe.ly/3rqbSOz)
 >* 请在以下地址注册： [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以获取有关即将召开的网络研讨会的通知。
 

@@ -5,7 +5,7 @@ uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
 exl-id: d4579ae7-70f8-4ad4-9f4f-7f2a4182a827
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 6%
@@ -31,5 +31,5 @@ ht-degree: 6%
 ## 相关链接 {#related-links}
 
 * [文档](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS产品页面](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS产品页面](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
 * [DPSCLOUD SERVICE](https://helpx.adobe.com/cn/digital-publishing-suite/help/eol-statement-for-dpsc.html)

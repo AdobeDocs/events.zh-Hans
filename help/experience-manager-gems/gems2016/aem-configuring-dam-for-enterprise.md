@@ -6,10 +6,10 @@ dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 4d9bd5a8-9052-42e6-87df-2c1bdfce575a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 
@@ -35,6 +35,11 @@ ht-degree: 0%
 
 ## 相关链接 {#related-links}
 
+>[!WARNING]
+>
+>AEM版本6.4及更早版本已终止使用，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>由于它与此会话相关，请参阅 *桌面应用程序发行说明* 在AEM 6.2文档中。
+
 * [AEM Assets文档更新](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-* [AEM 6.1 SP2发行说明](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
-* [AEM 6.2桌面应用程序发行说明](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
+

@@ -3,7 +3,7 @@ title: Adobe Developers Live 2021年2月
 description: 作为Adobe Developers Live Content活动的一部分提供的Adobe Experience Manager Sites的视频和教程集合。
 sub-product: sites, content-services
 exl-id: fe98b6e8-b45c-4780-bf57-7541c240ed97
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 10%
@@ -18,7 +18,7 @@ ht-degree: 10%
 
 该为期两天的会议将提供重要的Adobe Experience Manager开发人员更新，例如Headless和GraphQL、Adobe Experience Manager as a Cloud Service、技术会议和社区社交机会。
 
-与其他开发人员联系并加入会话对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
+与其他开发人员联系并加入会话对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 
 ## 亮点
 
