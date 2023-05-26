@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 07619d719d0dd1429202686ca359c9744bec77c4
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 48%
+source-wordcount: '165'
+ht-degree: 49%
 
 ---
 
@@ -23,16 +23,8 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-5-24-23.md">
-      <img alt="Experience League直播5月24日" src="assets/May24_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-5-24-23.md">
-        <strong>利用Adobe Journey Optimizer最大程度地发挥移动应用程序的潜力</strong>
-      </a>
-      <br/><em>桑德拉·豪斯曼、切坦·普拉萨德和彼得·弗兰森的合影</em>
-      <br/><em>2023年5月24日</em>
-    </div>
+  <td>
+    请尽快返回以获取信息。 我们将于2023年6月举办两场时装秀，并将很快在此提供相关信息。
   </td>
 </tr>
 </table>
