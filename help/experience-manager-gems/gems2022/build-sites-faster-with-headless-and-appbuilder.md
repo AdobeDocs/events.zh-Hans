@@ -10,7 +10,7 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: d9ab4de0d6666713727f41bb385ad80e2de42cb2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 2%
@@ -28,7 +28,10 @@ ht-degree: 2%
 该网络研讨会于2022年3月23日召开，由软件开发工程师Duy Nguyen主持
 
 >[!MORELIKETHIS]
-<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
+>
 >* [对应的上下文线程](https://adobe.ly/3LkSWdm)
 >* 请在以下地址注册： [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以获取有关即将召开的网络研讨会的通知。
 
+
+
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
