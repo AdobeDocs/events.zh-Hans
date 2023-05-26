@@ -1,7 +1,7 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: 这是将显示在登陆页上的用户指南描述。
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 45%
@@ -44,8 +44,6 @@ ht-degree: 45%
       + [跨B2B和B2C的客户历程趋势和创新](customer-journeys/2022/keynote.md)
       + [携手共进 - Adobe Marketo Engage 和 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [使用 Marketo Engage 和 Adobe Experience Cloud 的 B2B 体验](customer-journeys/2022/b2b-experiences.md)
-
-<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + 数据和见解 {#data-and-insights}
    + [概述](data-and-insights/overview.md)
    + 2022 年 {#2022}
@@ -54,3 +52,5 @@ ht-degree: 45%
       + [使用 Adobe Target 打造个性化和自动化](data-and-insights/2022/personalize.md)
       + [适用于移动设备和应用程序的Analytics和Target应用程序](data-and-insights/2022/mobile-and-apps.md)
       + [跨设备分析和Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
