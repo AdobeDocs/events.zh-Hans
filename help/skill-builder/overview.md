@@ -1,7 +1,7 @@
 ---
 title: Skill Builder概述
 description: 录制的网络研讨会系列，用于构建您的知识库并最大化您对Adobe Experience Cloud的投资。
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 3%
@@ -48,7 +48,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
     <p>
     <em>使用整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
     </a>
   </td>  
