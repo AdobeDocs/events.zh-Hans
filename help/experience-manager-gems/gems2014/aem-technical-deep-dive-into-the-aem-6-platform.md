@@ -1,38 +1,39 @@
 ---
-title: 深入探討AEM 6平台的技術知識
-description: 深入瞭解新的存放庫架構，並瞭解開發人員和營運團隊的主要差異和改善。
+title: 深入了解AEM 6平台的技术资料
+description: 深入了解新的存储库架构，了解开发人员和运营团队的主要差异和改进。
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: d76a0437-2fdd-490d-a575-f64bbe449d7f
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 3%
 
 ---
 
-# 深入探討AEM 6平台的技術知識{#technical-deep-dive-into-the-aem-platform}
+# 深入了解AEM 6平台的技术资料{#technical-deep-dive-into-the-aem-platform}
 
-AEM 6隨附全新的存放庫後端，專為改善效能與擴充性而設計。 此課程將深入探討新的存放庫架構，並說明開發人員和營運團隊的主要差異和改善專案。 涵蓋的主題包括：
+AEM 6随附全新的存储库后端，旨在提高性能和可扩展性。 该会议将深入探讨新的存储库架构，并介绍开发人员和运营团队的主要差异和改进。 涵盖的主题包括：
 
 * 内容迁移
-* 回溯相容性
-* 主要部署案例
-* 自訂搜尋索引
+* 向后兼容性
+* 关键部署方案
+* 自定义搜索索引
 
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
-*傳送日期： 2014年6月18日*
+*交付日期：2014年6月18日*
 
-**展示者：**
+**呈列方式：**
 
-Jukka Zitting，Adobe資深開發人員
+Jukka Zitting，Adobe高级开发人员
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
-* [AEM升級檔案](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [來自ApacheCon的簡報「Oak，Apache Jackrabbit 3的架構」](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [AEM升级文档](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* [ApacheCon的演示文稿“Oak， Apache Jackrabbit 3的架构”](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

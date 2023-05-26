@@ -1,19 +1,20 @@
 ---
-title: Magento Marketplace中的消費型解決方案
-description: Commerce服務由策略性合作夥伴提供技術支援，為Magento Open Source商戶配備領先業界的解決方案，以提供順暢的購物者體驗…… （說明應該介於60到160個字元之間）
+title: Magento Marketplace中基于消费的解决方案
+description: Commerce services由战略合作伙伴提供支持，为Magento Open Source商户配备了行业领先的解决方案，以提供无缝的购物体验……（请用60到160个字符描述）
 role: User
 level: Beginner
 kt: 9788
 thumbnail: 340626.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 669d8140-40db-4024-9968-3fca674b73cd
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Magento Marketplace中的消費型解決方案
+# Magento Marketplace中基于消费的解决方案
 
-Commerce Services在策略性合作夥伴的支援下，為Magento Open Source商戶配備領先業界的解決方案，以提供順暢的購物體驗。 以消費為導向的Adobe讓作業系統更容易從小處著手，隨著時間推移增加使用量和成本，同時加速其成長。 我們將逐步引導您瞭解支付服務和未來商務服務擴充功能如何節省開發時間，並從Adobe提供符合成本效益的統一解決方案。
+Commerce Services由战略合作伙伴提供支持，为Magento Open Source商户配备了行业领先的解决方案，以提供无缝购物体验。 秉持以消费为基础的理念，Adobe使操作系统更容易从小处开始，随着时间的推移增加其使用量和成本，同时加快其增长。 我们将向您介绍支付服务和未来商务服务扩展如何节省开发时间，并从Adobe提供经济高效的统一解决方案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340626/?quality=12&learn=on)

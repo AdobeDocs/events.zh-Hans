@@ -1,6 +1,6 @@
 ---
-title: 在測試建置和分析中導覽SPA挑戰
-description: 從Panera Bread測試和最佳化計畫學到的單頁應用程式(SPA)網站設計最佳實務和經驗教訓。 我們將說明資料層考量事項、測試傳送對頁面載入或檢視的影響
+title: 在Test Builds & Analysis中导航SPA挑战
+description: 单页应用程序(SPA)站点设计最佳实践和从Panera Bread测试和优化项目中吸取的经验教训。 我们将介绍数据层注意事项、测试交付对页面加载或查看的影响
 solution: Analytics
 topic: SPA
 feature-set: Analytics
@@ -9,15 +9,16 @@ role: User
 level: Intermediate, Experienced
 kt: 10462
 thumbnail: 343324.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c347e8ee-9d6b-468b-85fd-a716dfdb5997
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# 在測試建置和分析中導覽SPA挑戰
+# 在Test Builds &amp; Analysis中导航SPA挑战
 
-單頁應用程式(SPA)網站設計正在興起，雖然它比多頁應用程式(MPA)提供許多優勢，但若不注意正確的詳細資訊，它仍可對您的測試建置和分析造成嚴重破壞。 在這場會議中，我們將與您分享Panera Bread測試和最佳化計畫的一些最佳實務和經驗教訓。 我們將說明資料層考量事項、測試傳送對頁面載入或檢視的影響等。
+单页应用程序(SPA)网站设计正在兴起，虽然它比多页应用程序(MPA)具有许多优势，但它可能会对测试构建和分析造成巨大破坏，而无需关注正确的详细信息。 在本次研讨会中，我们将与您分享从Panera Bread测试和优化项目中学到的一些最佳实践和经验教训。 我们将介绍数据层注意事项、测试交付对页面加载或查看的影响等等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343324/?quality=12&learn=on)

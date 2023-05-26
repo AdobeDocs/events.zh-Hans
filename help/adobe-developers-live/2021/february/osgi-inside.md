@@ -1,6 +1,6 @@
 ---
-title: 內嵌OSGi — 我們為何喜歡，以及您為何不需要真正關心
-description: 此面板由Carsten Ziegeler、Karl Pauls和David Bosschaert組成，說明為何我們使用OSGi、為何其適用於雲端，以及Adobe Experience Manager開發人員需要瞭解的相關資訊。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: OSGi内部 — 为什么我们喜欢它以及您为什么不需要真正关心
+description: 一个由Carsten Ziegeler、Karl Pauls和David Bosschaert参加的面板，其中介绍了我们为什么使用OSGi、为什么它在Cloud中相关以及Adobe Experience Manager开发人员需要了解的内容。 此会话作为Adobe Developers Live内容事件的一部分提供。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -11,18 +11,18 @@ version: Cloud Service
 kt: 7174
 type: Event
 thumbnail: 331740.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e1ac9124-847a-4432-8ab4-eef52b2a88c7
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
+# OSGi内部 — 为什么我们喜欢它以及您为什么不需要真正关心
 
-# 內嵌OSGi — 我們為何喜歡，以及您為何不需要真正關心
+一个由Carsten Ziegeler、Karl Pauls和David Bosschaert参加的面板，其中介绍了我们为什么使用OSGi、为什么它在Cloud中相关以及Adobe Experience Manager开发人员需要了解的内容。
 
-此面板由Carsten Ziegeler、Karl Pauls和David Bosschaert組成，說明為何我們使用OSGi、為何其適用於雲端，以及Adobe Experience Manager開發人員需要瞭解的相關資訊。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

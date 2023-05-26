@@ -1,6 +1,6 @@
 ---
-title: Experience Cloud開發人員體驗
-description: 加入Developer Experience for Experience Cloud的Director Jonathan Roeder，瞭解Adobe Experience Cloud的最新開發人員更新。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: Experience Cloud开发人员体验
+description: 与Developer Experience for Experience Cloud的Director的Jonathan Roeder一起了解Adobe Experience Cloud中的最新开发人员更新。 此会话作为Adobe Developers Live内容事件的一部分提供。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -9,20 +9,20 @@ solution: Experience Cloud
 kt: 7169
 type: Event
 thumbnail: 331770.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: caacac94-9d03-42f3-aa14-0bd7307c863e
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
+# Experience Cloud开发人员体验
 
-# Experience Cloud開發人員體驗
+与Developer Experience for Experience Cloud的Director的Jonathan Roeder一起了解Adobe Experience Cloud中的最新开发人员更新。
 
-加入Developer Experience for Experience Cloud的Director Jonathan Roeder，瞭解Adobe Experience Cloud的最新開發人員更新。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/developer-experience.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/developer-experience.pdf)** 用于会话幻灯片。

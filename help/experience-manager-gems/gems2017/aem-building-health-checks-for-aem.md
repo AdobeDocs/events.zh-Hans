@@ -1,31 +1,32 @@
 ---
-title: 建立AEM健康情況檢查
-description: 判斷AEM執行個體是否正常運作並非易事。 此工作階段將深入分析操作控制面板的「健全狀況報表」區段。
+title: 为AEM构建运行状况检查
+description: 确定AEM实例是否正常工作并不是一项简单的任务。 此会话将深入分析操作功能板的“运行状况报表”部分。
 uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 03298b03-360c-43af-9ece-ad95b49f581b
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 2%
 
 ---
 
-# 建立AEM健康情況檢查{#building-health-checks-for-aem}
+# 为AEM构建运行状况检查{#building-health-checks-for-aem}
 
-判斷AEM執行個體是否正常運作並非易事。 此會議將深入分析操作控制面板的「健全狀況報表」區段：一組現成可用的檢查，這些檢查是根據我們的安全性和效能建議，並使用Sling健全狀況檢查架構開發。 您將瞭解如何修正一些常見的失敗健康情況檢查、如何使用外部工具檢查其結果，以及如何編寫您自己的應用程式特定檢查。
+确定AEM实例是否正常工作并不是一项简单的任务。 本会议将深入分析操作仪表板的“运行状况报表”部分：一组现成的检查，这些检查基于我们的安全和性能建议并使用Sling运行状况检查框架开发。 您将了解如何修复一些常见的失败运行状况检查、如何使用外部工具检查其结果，以及如何编写自己的应用程序特定检查。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*傳送日期： 2017年7月12日*
+*2017年7月12日交付*
 
-**Ana Vinatoru，Adobe軟體工程師**
+**Ana Vinatoru，软件工程师，Adobe**
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/aem-gems-health-checks-for-aem.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
 * [AEM 文档](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
-* [Sling檔案](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)
+* [Sling文档](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

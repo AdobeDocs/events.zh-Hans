@@ -1,14 +1,15 @@
 ---
 title: MBI – 咨询专家
-description: 觀看這些錄製的網路研討會，與MBI產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
-landing-page-description: 觀看這些錄製的網路研討會，與MBI產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
-short-description: 觀看這些錄製的網路研討會，與MBI產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
+description: 观看这些录制的网络研讨会，深入了解MBI产品团队，包括通过智能数据实现业务转型。
+landing-page-description: 观看这些录制的网络研讨会，深入了解MBI产品团队，包括通过智能数据实现业务转型。
+short-description: 观看这些录制的网络研讨会，深入了解MBI产品团队，包括通过智能数据实现业务转型。
 kt: 10404
 solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 4%
@@ -17,35 +18,35 @@ ht-degree: 4%
 
 # MBI – 咨询专家
 
-工作階段1：
+第1场会议：
 
-- 客戶對MBI的看法
-- 透過智慧型資料進行業務轉型
+- 客户对MBI的看法
+- 通过智能数据实现业务转型
 
-工作階段2：
+第2场会议：
 
-- 使用通用表格運算式的SQL最佳化
-- SQL型報表的最佳作法
-- SQL型報表示範
-- 問題與解答
+- 使用公用表表达式的SQL优化
+- 基于SQL的报表中的最佳实践
+- 基于SQL的报告演示
+- 问题与解答
 
-## 網路研討會錄製內容
+## 录制的网络研讨会内容
 
-_詢問專家_ 由兩個工作階段組成：
+_咨询专家_ 由两个会话组成：
 
-### 工作階段1
+### 会话1
 
 >[!VIDEO](https://video.tv.adobe.com/v/342409?quality=12&learn=on)
 
-### 工作階段2
+### 会话2
 
 >[!VIDEO](https://video.tv.adobe.com/v/342410?quality=12&learn=on)
 
-## 有用的資源
+## 有用的资源
 
 >[!TIP]
 >
->若您為MBI的新手， [快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您不熟悉MBI，则可以 [入门视频系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
 
-- [MBI簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [MBI支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [MBI简介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [MBI支持](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

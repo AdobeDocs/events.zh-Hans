@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Experience Manager as a Cloud Service進行API驗證
-description: Adobe Experience Manager Dev Console中的新機制如何允許以開發人員和第三方應用程式的身分，驗證雲端中的Adobe Experience Manager執行個體。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: 使用Adobe Experience Manager as a Cloud Service进行API身份验证
+description: Adobe Experience Manager Dev Console中的新机制如何允许以开发人员和第三方应用程序的身份对Adobe Experience Manager在云中的实例进行身份验证。 此会话作为Adobe Developers Live内容事件的一部分提供。
 solution: Experience Manager
 product: experience manager
 feature: APIs
@@ -11,19 +11,20 @@ version: Cloud Service
 kt: 7167
 type: Event
 thumbnail: 331768.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 27e1a74d-f922-4a5c-bf8a-1c16a47d3e9e
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Experience Manager as a Cloud Service進行API驗證
+# 使用Adobe Experience Manager as a Cloud Service进行API身份验证
 
-Adobe Experience Manager Dev Console中的新機制如何允許以開發人員和第三方應用程式的身分，驗證雲端中的Adobe Experience Manager執行個體。
+Adobe Experience Manager Dev Console中的新机制如何允许以开发人员和第三方应用程序的身份对Adobe Experience Manager在云中的实例进行身份验证。
 
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/api-authentication.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/api-authentication.pdf)** 用于会话幻灯片。

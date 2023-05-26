@@ -1,22 +1,23 @@
 ---
-title: 使用Sensei將Analysis Workspace提升到新的境界
-description: 探索如何運用Adobe所提供的人工智慧Sensei架構，智慧地分析客戶和受眾區段…… （說明應該介於60到160個字元之間）
+title: 使用Sensei将Analysis Workspace提升到新的水平
+description: 了解如何利用Adobe提供的人工智能Sensei来智能分析客户和受众区段……（请用60到160个字符描述）
 solution: Analytics, Customer Journey Analytics
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10580
 thumbnail: 343830.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 7f0a7ba7-0b93-4fa7-961f-b981914dadcb
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-# 使用Sensei將Analysis Workspace提升到新的境界
+# 使用Sensei将Analysis Workspace提升到新的水平
 
-探索如何運用Adobe所提供的人工智慧Sensei架構，聰明地分析客戶和受眾區段，以找出有意義的差異、歸因轉換因子並預測未來行為。
+探索如何利用Adobe提供的人工智能Sensei智能分析客户和受众区段，以找到有意义的差异、归因转化因素并预测未来行为。
 
-*Matthias Kolitsch* 資深多解決方案培訓師EMEA/Adobe
+*马蒂亚斯·科利奇* 高级多解决方案培训师EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

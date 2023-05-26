@@ -1,6 +1,6 @@
 ---
-title: 快速前端開發 — 您未來的工作流程
-description: 使用網站範本只要按幾下即可建立新網站，並透過CSS和JS等前端資產的快速部署，帶回前端開發的樂趣。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: 快速前端开发 — 您的未来工作流程
+description: 使用站点模板只需单击几下即可创建新站点，并通过快速部署前端资产（如CSS和JS）使前端开发的乐趣回归。 此会话作为Adobe Developers Live内容事件的一部分提供。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,20 +12,20 @@ version: Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# 快速前端开发 — 您的未来工作流程
 
-# 快速前端開發 — 您未來的工作流程
+使用站点模板只需单击几下即可创建新站点，并通过快速部署前端资产（如CSS和JS）使前端开发的乐趣回归。
 
-使用網站範本只要按幾下即可建立新網站，並透過CSS和JS等前端資產的快速部署，帶回前端開發的樂趣。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** 用于会话幻灯片。

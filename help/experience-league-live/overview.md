@@ -5,7 +5,8 @@ solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 48%
@@ -18,7 +19,7 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <div id="upcoming-events">
 
-## 即將推出的Experience League直播活動
+## 即将推出的Experience LeagueLIVE活动
 
 <table>
 <tr>
@@ -27,9 +28,9 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
     </a>
     <div>
       <a href="episodes/exl-live-episode-5-24-23.md">
-        <strong>透過Adobe Journey Optimizer發揮行動應用程式的潛力</strong>
+        <strong>利用Adobe Journey Optimizer最大程度地发挥移动应用程序的潜力</strong>
       </a>
-      <br/><em>與Sandra Hausmann、Chetan Prasad和Peter Fransen</em>
+      <br/><em>桑德拉·豪斯曼、切坦·普拉萨德和彼得·弗兰森的合影</em>
       <br/><em>2023年5月24日</em>
     </div>
   </td>
@@ -57,13 +58,13 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience League即時4月21日" src="assets/youtube-thumbnails/april-21-yt.jpg">
+      <img alt="Experience League直播4月21日" src="assets/youtube-thumbnails/april-21-yt.jpg">
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>從Headful到Headless的AEM</strong>
+        <strong>从Headful到Headless的AEM</strong>
       </a>
-      <br/><em>與Danny Gordon、Amol Anand、Sachin Mali和Sean Steimer</em>
+      <br/><em>丹尼·戈登、阿莫尔·阿南德、萨钦·马里和肖恩·施泰默</em>
       <br/><em>2022年4月21日</em>
     </div>
   </td>
@@ -73,8 +74,8 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
       <img alt="Experience LeagueLIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics — 內幕消息</strong></a>
-      <br/><em>與特雷弗·保爾森、羅希特·高斯恩、亞歷克斯·斯特勞恩一起</em>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics — 内部消息</strong></a>
+      <br/><em>与特雷弗·波尔森、罗希特·戈桑、亚历克斯·斯特劳恩一起</em>
       <br/><em>2021年1月25日</em>
     </div>
   </td>
@@ -85,9 +86,9 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>詢問專家：Web SDK基本知識</strong>
+        <strong>询问专家：Web SDK基础知识</strong>
       </a>
-      <br/><em>與Rudi Shumpert、Jeff Chasin和Eric Matisoff合作</em>
+      <br/><em>鲁迪·舒姆伯特、杰夫·查辛和埃里克·马蒂索夫</em>
       <br/><em>2022年5月26日</em>
     </div>
   </td>

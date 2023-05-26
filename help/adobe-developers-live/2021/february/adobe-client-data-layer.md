@@ -1,6 +1,6 @@
 ---
-title: Adobe使用者端資料層 — 追蹤訪客資料
-description: 瞭解ACDL的事件導向API。 Commerce範例將說明核心元件如何將其與Launch擴充功能與AA和AT介面進行水合化。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: Adobe客户端数据层 — 跟踪访客数据
+description: 了解ACDL的事件驱动API。 Commerce示例将显示核心组件如何为其补充水合物，以及Launch扩展如何与AA和AT接口。 此会话作为Adobe Developers Live内容事件的一部分提供。
 solution: Experience Manager, Experience Manager Sites, Analytics, Target
 product: experience manager
 sub-product: sites
@@ -12,19 +12,20 @@ version: Cloud Service
 kt: 7162
 type: Event
 thumbnail: 331733.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 8419f5e7-bbae-44e7-ab19-61e05c7a3b03
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# Adobe使用者端資料層 — 追蹤訪客資料
+# Adobe客户端数据层 — 跟踪访客数据
 
-瞭解ACDL的事件導向API。 Commerce範例將說明核心元件如何將其與Launch擴充功能與AA和AT介面進行水合化。
+了解ACDL的事件驱动API。 Commerce示例将显示核心组件如何为其补充水合物，以及Launch扩展如何与AA和AT接口。
 
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331733/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** 用于会话幻灯片。

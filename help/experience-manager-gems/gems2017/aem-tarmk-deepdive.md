@@ -1,31 +1,32 @@
 ---
-title: 進入tar pit - TarMK深究
-description: 有想過TarMK的tar檔案裡有什麼嗎？ 什麼是區段和什麼是記錄？ 區段存放區垃圾收集如何運作及為什麼（或為什麼不是）？ 本課程會回答這些問題及其他許多問題。
+title: 进入焦油坑 — TarMK深究
+description: 有没有想过TarMK的tar文件里面有什么？ 什么是区段？什么是记录？ 区段存储垃圾收集的工作方式以及原因（或原因）？ 本课程将回答这些问题及其他许多问题。
 uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 42ec8561-d39c-4798-88ff-7d3f5275ee13
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
 
 ---
 
-# 進入tar pit：深入探索TarMK{#into-the-tar-pit-a-tarmk-deep-dive}
+# 进入焦油坑：TarMK深究{#into-the-tar-pit-a-tarmk-deep-dive}
 
-有想過TarMK的tar檔案裡有什麼嗎？ 什麼是區段和什麼是記錄？ 區段存放區垃圾收集如何運作及為什麼（或為什麼不是）？ 本課程將回答這些問題及其他許多問題。 它將說明TarMK的內部工作、其系統需求和效能特性。 它有助於參與者更好地瞭解和診斷常見問題的原因，並提供用於診斷和偵錯的工具和技術。 最後，我們將預覽目前處理的新功能和增強功能。
+有没有想过TarMK的tar文件里面有什么？ 什么是区段？什么是记录？ 区段存储垃圾收集的工作方式以及原因（或原因）？ 此会话将回答这些问题及其他许多问题。 文中介绍了TarMK的内部工作方式、系统要求和性能特点。 它有助于参与者更好地了解和诊断常见问题的原因，并提供用于诊断和调试的工具和技术。 最后，将预览我们当前正在处理的新增功能和增强功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19138/?quality=9)
 
-*2017年2月15日推出*
+*2017年2月15日提交*
 
-**Adobe資深開發人員Michael Duerig**
+**Michael Duerig，Adobe高级开发人员**
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/aem-gems-tarmk-deep-dive.pptx)
 
-問題與解答
+问题与答案
 
 [获取文件](assets/aem-gems-qandas-tarmk-deep-dive.pdf)
 <!--

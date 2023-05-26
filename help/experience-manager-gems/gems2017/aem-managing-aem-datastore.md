@@ -1,10 +1,11 @@
 ---
 title: 管理AEM DataStore
-description: 此課程提供DataStore (DS)的概觀，以及AEM中各種支援拓撲的DS設定和維護的詳細資訊。 此外，也涵蓋了疑難排解提示，包括DS GC的疑難排解提示。
+description: 该会话概述了DataStore (DS) ，并详细介绍了AEM中各种受支持拓扑的DS的配置和维护。 此外，还介绍了针对DS GC的故障排除提示。
 uuid: 65aabe5c-2f33-4caf-a01c-803e2c71f49d
 discoiquuid: 2d92a9bf-4a98-46d9-8b4c-583654e5bac0
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 85a7f830-5a72-499e-9b41-797537fbf2be
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 2%
@@ -13,17 +14,17 @@ ht-degree: 2%
 
 # 管理AEM DataStore{#managing-aem-datastore}
 
-此課程將提供DataStore (DS)的概觀，以及AEM中各種支援拓撲的DS設定和維護的詳細資訊。 此外，也涵蓋了疑難排解提示，包括DS GC的疑難排解提示。
+该会话将概述DataStore (DS) ，并详细介绍AEM中各种受支持拓扑的DS配置和维护情况。 此外，还介绍了针对DS GC的故障排除提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*2017年10月11日傳遞*
+*交付日期：2017年10月11日*
 
-**展示者：**
+**呈列方式：**
 
-Adobe資深電腦科學家Amit Jain
+Amit Jain，高级Adobe科学家
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/managing-aem-datastoreoct17.pdf)
 <!--

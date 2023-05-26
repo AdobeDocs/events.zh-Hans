@@ -1,19 +1,20 @@
 ---
-title: 提示與秘訣
-description: 改善您的分析工作流程的秘訣，並著重說明產品中的最新創新。
+title: 提示和技巧
+description: 改进分析工作流的提示并重点介绍产品中的最新创新。
 role: User
 level: Intermediate, Experienced
 kt: 10467
 thumbnail: 343333.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 4bcfd697-ce13-46b7-bb5d-e3a5194302e6
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# 提示與秘訣
+# 提示和技巧
 
-加入Adobe Analytics多重解決方案架構師Christos Voutsakis，分享改善分析工作流程的秘訣，並重點說明產品中的最新創新。
+加入Adobe Analytics多解决方案架构师Christos Voutsakis的行列，他将分享改进您的分析工作流的技巧并重点介绍该产品中的最新创新。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343333/?quality=12&learn=on)

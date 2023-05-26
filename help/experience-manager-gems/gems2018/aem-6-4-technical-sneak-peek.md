@@ -1,31 +1,32 @@
 ---
-title: 深入探討Adobe Experience Manager 6.4
-description: Experience Manager提供敏捷的解決方案，可跨網路、行動裝置和客戶歷程中的任何端點，設計、預測及提供迅速調整的體驗。 參加此會議，預覽即將發行的Adobe Experience Manager 6.4的重要功能和整合。
+title: 深入了解Adobe Experience Manager 6.4
+description: Experience Manager提供了一款敏捷的解决方案，可以跨Web、移动和客户历程中的任何端点设计、预测并提供快速调整的体验。 参加此会议，预览即将发布的Adobe Experience Manager 6.4的主要功能和集成。
 uuid: 6cb2db2b-f465-412f-8039-e0281454b264
 discoiquuid: 98f017e8-42e3-436f-b7e4-a60e57042617
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: ac1cbab8-eb54-401a-b425-423faedba367
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
 
 ---
 
-# 深入探討Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
+# 深入了解Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 
-Experience Manager提供敏捷的解決方案，可跨網路、行動裝置和客戶歷程中的任何端點，設計、預測及提供迅速調整的體驗。 參加此會議，預覽即將發行的Adobe Experience Manager 6.4的重要功能和整合。議程將涵蓋： AEM 6.4概覽 |核心元件2 |樣式系統 |由於內容與應用程式/產品分離而導致的路徑變更 | Oak和Sling的變更 — 包括 內容相關設定 |讓單頁應用程式可編輯，並著重於React
+Experience Manager提供了一款敏捷的解决方案，可以跨Web、移动和客户历程中的任何端点设计、预测并提供快速调整的体验。 参加此会议，预览即将发布的Adobe Experience Manager 6.4的主要功能和集成。议程将涵盖：AEM 6.4概述 |核心组件2 |样式系统 |由于将内容与应用程序/产品分离，路径发生更改 | Oak和Sling中的更改 — 包括 上下文相关配置 |使单页应用程序可编辑，并关注React
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
-*2018年3月14日送達*
+*交付日期：2018年3月14日*
 
-**展示者：**
+**呈列方式：**
 
-Adobe產品經理Gabriel Walt
+Gabriel Walt，Adobe产品经理
 
-Cedric Huesler，Director產品管理，Adobe
+Cedric Huesler，Director产品管理部，Adobe
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/aem64-developerupdate31418.pdf)
 

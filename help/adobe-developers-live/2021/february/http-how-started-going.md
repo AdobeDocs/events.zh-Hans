@@ -1,6 +1,6 @@
 ---
-title: HTTP? 如何開始、如何進行
-description: 採訪HTTP通訊協定共同作者、REST發明者Roy Fielding，瞭解HTTP從早期到目前QUIC和HTTP/3工作的演變。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: HTTP? 事情的开端，进展如何
+description: 对HTTP协议的共同作者、REST的发明者Roy Fielding的采访，了解HTTP从早期到现在在QUIC和HTTP/3方面的演变。 此会话作为Adobe Developers Live内容事件的一部分提供。
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -8,18 +8,18 @@ level: Beginner, Intermediate, Experienced
 kt: 7172
 type: Event
 thumbnail: 331738.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 424175a9-0efb-4486-8028-1ab4e48bd0e9
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 2%
 
 ---
 
+# HTTP? 事情的开端，进展如何
 
-# HTTP? 如何開始、如何進行
+对HTTP协议的共同作者、REST的发明者Roy Fielding的采访，了解HTTP从早期到现在在QUIC和HTTP/3方面的演变。
 
-採訪HTTP通訊協定共同作者、REST發明者Roy Fielding，瞭解HTTP從早期到目前QUIC和HTTP/3工作的演變。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

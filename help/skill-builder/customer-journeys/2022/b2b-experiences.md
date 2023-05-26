@@ -1,12 +1,13 @@
 ---
 title: 使用 Marketo Engage 和 Adobe Experience Cloud 的 B2B 体验
-description: 將Marketo Engage與Adobe應用程式連線起來，以簡化B2B體驗、簡化受眾管理並最大化個人化程度。
+description: 通过将Marketo Engage与Adobe应用程序连接起来，为B2B体验提供强大动力，从而简化流程、优化受众管理和最大限度地实现个性化。
 solution: Marketo, Experience Cloud
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10569
 thumbnail: 343826.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 562f17b9-b36b-42e9-8914-e43ad49f3446
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 22%
@@ -15,8 +16,8 @@ ht-degree: 22%
 
 # 使用 Marketo Engage 和 Adobe Experience Cloud 的 B2B 体验
 
-將Marketo Engage與Adobe應用程式連線起來，以簡化B2B體驗、簡化受眾管理並最大化個人化程度。 本課程將逐步介紹Marketo Engage與Adobe Experience Cloud應用程式之間的整合，以及可解決哪些痛點。
+通过将Marketo Engage与Adobe应用程序连接起来，为B2B体验提供强大动力，从而简化流程、优化受众管理和最大限度地实现个性化。 该会议将介绍Marketo Engage与Adobe Experience Cloud应用程序之间的集成，以及可以解决哪些棘手问题。
 
-*米哈伊·普里薩卡留* CJM/Adobe解決方案顧問
+*米哈伊·普里萨卡留* CJM/Adobe解决方案顾问
 
 >[!VIDEO](https://video.tv.adobe.com/v/343826/?quality=12&learn=on)

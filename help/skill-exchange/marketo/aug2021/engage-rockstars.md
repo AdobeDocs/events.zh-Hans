@@ -1,20 +1,21 @@
 ---
-title: Marketo Engage Rockstars
-description: 三位「Rockstar」客戶將分別展示其最佳的Marketo Engage秘訣或技巧。 誰能讓你眼花繚亂，難以置信？ 即時觀看和投票。
+title: Marketo Engage摇滚明星
+description: 三位“Rockstar”客户将各自展示其优秀的Marketo Engage提示或技巧。 谁能让你目瞪口呆？ 实时观看并投票。
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 kt: 10327
 thumbnail: 342559.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 2f47b7af-0802-4f64-9f28-2b2520a8c4b3
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage Rockstars
+# Marketo Engage摇滚明星
 
-三位「Rockstar」客戶將分別展示其最佳的Marketo Engage秘訣或技巧。 誰能讓你眼花繚亂，難以置信？ 即時觀看和投票。
+三位“Rockstar”客户将各自展示其优秀的Marketo Engage提示或技巧。 谁能让你目瞪口呆？ 实时观看并投票。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

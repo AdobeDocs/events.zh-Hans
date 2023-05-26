@@ -1,36 +1,37 @@
 ---
-title: AEM 6的使用者介面自訂
-description: 瞭解如何延伸AEM 6.0使用者介面。 透過新的資源合併，您可以透過覆蓋來修改每個Admin Console，以變更、刪除或新增任何節點或屬性。
+title: AEM 6用户界面自定义
+description: 了解如何扩展AEM 6.0用户界面。 通过新的资源合并器，可以通过叠加来修改每个管理控制台，以更改、删除或添加任何节点或属性。
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0604122c-2296-4db4-a70d-e9d11280b6bd
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
 
 ---
 
-# AEM 6的使用者介面自訂{#user-interface-customization-for-aem}
+# AEM 6用户界面自定义{#user-interface-customization-for-aem}
 
-此課程會逐步引導您瞭解如何延伸AEM 6.0的使用者介面。 透過新的資源合併，您可以透過覆蓋來修改每個Admin Console，以變更、刪除或新增任何節點或屬性。 結合新的使用者端基礎辭彙，開啟產品自訂的新方式。 此外，AEM在新頁面製作中提供廣泛的擴充功能點，以連結分層架構中的自訂實作。
+该课程将指导您了解如何扩展AEM 6.0的用户界面。 通过新的资源合并器，可以通过叠加来修改每个管理控制台，以更改、删除或添加任何节点或属性。 结合新的客户端基础词汇，为产品的定制开辟了新的途径。 此外，AEM在新页面创作中提供了广泛的扩展点，以便挂接分层架构中的自定义实施。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*2014年5月7日送達*
+*2014年5月7日交付*
 
-**展示者：**
+**呈列方式：**
 
-* Gilles Knobloch，Adobe工程經理
-* Damien Antipa，高級UX工程師，Adobe
+* Gilles Nonbloch，Adobe工程经理
+* Damien Antipa，高级UX工程师，Adobe
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/user-interface-customization-for-aem6.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
 * [Touch UI概念](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
 * [结构](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [自訂主控台（觸控最佳化UI）](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [自訂頁面編寫（觸控最佳化UI）](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [自定义控制台（触屏优化UI）](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [自定义页面创作（触屏优化UI）](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

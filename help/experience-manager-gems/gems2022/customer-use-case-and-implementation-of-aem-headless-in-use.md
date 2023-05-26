@@ -1,6 +1,6 @@
 ---
-title: 客戶使用案例與使用中AEM Headless的實作
-description: 工作階段宣告
+title: 客户用例和使用AEM Headless的实施
+description: 会话公告
 solution: Experience Manager
 feature-set: Experience Manager
 version: 6.5
@@ -8,50 +8,51 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# AEM GEM功能 — AEM Headless使用的客戶使用案例與實作
+# AEM GEM功能 — AEM Headless的客户用例和实施
 
-*此網路研討會已於下列日期舉行：**10月12日星期三下午3點(UTC)**. 錄製內容如下。*
+*该网络研讨会已于以下日期举行&#x200B;**世界协调时10月12日，星期三下午3点**. 下面提供了该录制。*
 
-這次特別的AEM GEM講座提供兩位以客戶身分操作AEM的演講者。 此工作階段將分為兩半，如下所示：
+这次特别的AEM GEM讲座有两个演讲者，他们以客户的身份操作AEM。 该会话将分为两半，如下所示：
 
-## 第1部分：AEM as a headless CMS地點/時間/原因？
+## 第1部分：AEM作为Headless CMS的位置/时间/原因
 
-主持人： Vengadesh Shanmugavelu — 卡達航空技術架構師
+主持人： Vengadesh Shanmugavelu — 卡塔尔航空技术架构师
 
-**工作階段說明：**
-我們可以透過許多方式透過AEM實作Headless CMS。
-在本次研討會中，我們將介紹下列內容：
+**会话描述：**
+通过AEM可以有许多种方式实现Headless CMS。
+在本会议中，我们将介绍以下内容：
 
-* 透過匯出工具/servlet的內容服務
-* 透過資產API的內容片段（示範）
-* 透過graphql的內容片段（示範）
-* 使用內容片段及其方法的部分即時使用案例
-* SPA編輯器學習（選擇時的一些解決方案方法） （示範）
+* 通过导出程序/servlet提供的内容服务
+* 通过资产API的内容片段（演示）
+* 通过graphql的内容片段（演示）
+* 有关使用内容片段及其方法的一些实时用例
+* SPA编辑器学习（关于何时选择的一些解决方案方法）（演示）
 
-## 第2部分：透過GraphQL API和內容片段傳送Headless內容
+## 第2部分：通过GraphQL API和内容片段提供Headless内容
 
-主持人： Debal Das - IBM資深系統分析師
+演示者：Debal Das - IBM高级系统分析师
 
-**工作階段說明：**
-在本次研討會中，我們將說明GraphQL對內容片段的使用（除了現有的JSON API）。
+**会话描述：**
+在本会话中，我们将介绍GraphQL对内容片段的使用（除了已存在的JSON API之外）。
 
-在概念上，GraphQL類似於SQL資料庫查詢，唯一例外是將API用於查詢，而不是資料庫。
+从概念上讲，GraphQL类似于SQL数据库查询，不同之处在于，API用于查询而不是数据库。
 
-如此一來，API便不需要提供許多端點，為不同客戶提供不同磁碟區或資料群組，並讓各種使用者端都能根據自己的需求查詢API。
+这就消除了API为不同客户提供不同卷或数据组的许多端点的需求，并允许各种客户端查询API以满足其自身需求。
 
-**工作階段錄製**
+**会话录制**
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410160)
 
 >[!NOTE]
 >
->* 若為Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://adobe.ly/3r6P4nr)
->* 若要接收有關網路研討會的自動通知，請註冊網址： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 有关Experience League上特定于会话的社区交互，请访问此 [上下文线程](https://adobe.ly/3r6P4nr)
+>* 要收到有关网络研讨会的自动通知，请注册于 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 

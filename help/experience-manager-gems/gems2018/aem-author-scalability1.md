@@ -1,29 +1,30 @@
 ---
-title: AEM中作者擴充性的實驗
-description: 縮放AEM作者主要是為了縮放Oak，但最佳方式為何？ 在這場會議中，我們將介紹一些已經完成的實驗，以探索如何縮放AEM和Oak。 我們將說明從這些實驗中學到的內容、我們所學到的內容如何影響我們對內容儲存的看法、這些實驗產生的專案和工具，以及一些令人驚訝且非直覺的結果。
+title: AEM创作可扩展性实验
+description: 缩放AEM作者主要是为了缩放Oak，但最佳方法是什么？ 在本次研讨会中，我们将介绍为探索如何扩展AEM和Oak而完成的大量实验。 我们将介绍从这些实验中学到的内容，我们所学到的内容如何影响我们对内容存储的看法，这些实验中得到的项目和工具，以及一些令人惊讶和非直观的收获。
 uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8960b457-323b-4a68-a66b-b1cd3bc798af
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
 
 ---
 
-# AEM中作者擴充性的實驗{#experiments-in-aem-author-scalability}
+# AEM创作可扩展性实验{#experiments-in-aem-author-scalability}
 
-縮放AEM作者主要是為了縮放Oak，但最佳方式為何？ 在這場會議中，我們將介紹一些已經完成的實驗，以探索如何縮放AEM和Oak。 我們將說明從這些實驗中學到的內容、我們所學到的內容如何影響我們對內容儲存的看法、這些實驗產生的專案和工具，以及一些令人驚訝且非直覺的結果。
+缩放AEM作者主要是为了缩放Oak，但最佳方法是什么？ 在本次研讨会中，我们将介绍为探索如何扩展AEM和Oak而完成的大量实验。 我们将介绍从这些实验中学到的内容，我们所学到的内容如何影响我们对内容存储的看法，这些实验中得到的项目和工具，以及一些令人惊讶和非直观的收获。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21522/?quality=9)
 
-*2018年2月7日傳遞*
+*2018年2月7日交付*
 
-**展示者：**
+**呈列方式：**
 
-Adobe資深軟體工程師Matt Ryan
+Matt Ryan，Adobe高级软件工程师
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--

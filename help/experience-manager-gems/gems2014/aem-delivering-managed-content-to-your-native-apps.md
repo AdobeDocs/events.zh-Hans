@@ -1,29 +1,30 @@
 ---
-title: 將受管理的內容提供給您的原生應用程式
-description: 雖然您可能無法完全改用PhoneGap Enterprise提供的網頁技術和跨平台開發，但還是可以將Web內容直接新增到您現有的原生應用程式中，以運用AEM的強大功能。 此課程將詳細涵蓋如何使用AEM應用程式建立內容，以及如何將其與現有Android應用程式整合。 整合至原生應用程式後，AEM內容即可更新，而不需要任何進一步的原生開發，並可與原生應用程式的其餘部分通訊。
+title: 将托管内容交付到本机应用程序
+description: 虽然您可能无法完全转为使用PhoneGap Enterprise提供的Web技术和跨平台开发，但通过将Web内容直接添加到您现有的本机应用程序中，仍可以利用AEM的强大功能。 此会话将详细介绍如何使用AEM应用程序创建的内容然后可以与现有Android应用程序集成。 一旦集成到本机应用程序中，AEM内容就可以更新，而无需任何进一步的本机开发，并且它可以与本机应用程序的其余部分通信。
 uuid: debfe153-74e7-4e52-9fec-494e7ca6c780
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9f7d017c-acf7-4f0b-87a5-14370ae7bb84
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# 將受管理的內容提供給您的原生應用程式{#delivering-managed-content-to-your-native-apps}
+# 将托管内容交付到本机应用程序{#delivering-managed-content-to-your-native-apps}
 
-雖然您可能無法完全改用PhoneGap Enterprise提供的網頁技術和跨平台開發，但還是可以將Web內容直接新增到您現有的原生應用程式中，以運用AEM的強大功能。 此課程將詳細涵蓋如何使用AEM應用程式建立內容，以及如何將其與現有Android應用程式整合。 整合至原生應用程式後，AEM內容即可更新，而不需要任何進一步的原生開發，並可與原生應用程式的其餘部分通訊。
+虽然您可能无法完全转为使用PhoneGap Enterprise提供的Web技术和跨平台开发，但通过将Web内容直接添加到您现有的本机应用程序中，仍可以利用AEM的强大功能。 此会话将详细介绍如何使用AEM应用程序创建的内容然后可以与现有Android应用程序集成。 一旦集成到本机应用程序中，AEM内容就可以更新，而无需任何进一步的本机开发，并且它可以与本机应用程序的其余部分通信。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*2014年9月10日傳遞*
+*交付日期：2014年9月10日*
 
-**展示者：**
+**呈列方式：**
 
-Anthony Rumsey，Adobe電腦科學家
+Anthony Rumsey，Adobe计算机科学家
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--

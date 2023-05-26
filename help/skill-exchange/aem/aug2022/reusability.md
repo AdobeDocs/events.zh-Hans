@@ -1,20 +1,21 @@
 ---
-title: 可重複使用的功能
-description: 我們將討論如何利用體驗片段來推動整個生態系統的重複使用和效率。  這會影響ROI並加快速度。  與會者可瞭解如何定位及使用體驗片段。 出席者。 將瞭解如何套用此功能，為您的客戶加速數位體驗。
+title: 可重复使用的强大功能
+description: 我们将讨论如何利用体验片段推动整个生态系统的重复使用和效率。  这将影响ROI并提高速度。  与会者将了解如何定位和利用体验片段。 与会者。 将了解如何应用此功能以加快为您的客户提供数字体验的速度。
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 5e6c4863-a700-4115-a6f9-81b64ca3591c
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# 可重複使用的功能
+# 可重复使用的强大功能
 
-我們將討論如何利用體驗片段來推動整個生態系統的重複使用和效率。  這會影響ROI並加快速度。  與會者可瞭解如何定位及使用體驗片段。 出席者。 將瞭解如何套用此功能，為您的客戶加速數位體驗。
+我们将讨论如何利用体验片段推动整个生态系统的重复使用和效率。  这将影响ROI并提高速度。  与会者将了解如何定位和利用体验片段。 与会者。 将了解如何应用此功能以加快为您的客户提供数字体验的速度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346387/?quality=12&learn=on)

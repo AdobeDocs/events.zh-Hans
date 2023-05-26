@@ -1,36 +1,37 @@
 ---
-title: 適用於Headless使用案例的AEM Fluid Experience
-description: 瞭解流動體驗及其在管理Headful或Headless CMS案例的內容和體驗中的應用。 瞭解關鍵AEM 6.3最新功能，這些功能可實現不受管道影響的體驗管理使用案例等。
+title: 适用于Headless用例的AEM Fluid Experiences
+description: 了解流畅的体验及其在管理Headful或Headless CMS场景的内容和体验中的应用。 了解关键AEM 6.3最新功能，这些功能支持不受渠道限制的体验管理用例等。
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0172cee5-fe07-499c-a6cb-3a8f6e402539
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 2%
 
 ---
 
-# 適用於Headless使用案例的AEM Fluid Experience{#aem-fluid-experiences-for-headless-usecases}
+# 适用于Headless用例的AEM Fluid Experiences{#aem-fluid-experiences-for-headless-usecases}
 
-在本次研討會中，我們將介紹Adobe Experience Manager流動體驗及其在管理Headful或Headless CMS案例的內容和體驗中的應用。 瞭解關鍵AEM 6.3最新功能，這些功能可啟用不受管道影響的體驗管理使用案例。 瞭解其他客戶如何使用體驗片段和內容服務，在行動應用程式、單頁應用程式和自訂應用程式間重複使用網站內容。 加入我們，瞭解內容整合的實施詳細資料、示範和應用程式。 瞭解如何建立一次並跨管道傳送。
+在本次研讨会中，我们将介绍Adobe Experience Manager Fluid体验及其在管理Headful或Headless CMS场景的内容和体验中的应用。 了解支持与渠道无关的体验管理用例的关键AEM 6.3最新功能。 了解其他客户如何使用体验片段和内容服务在移动应用程序、单页应用程序和自定义应用程序中重用Web内容。 加入我们，了解内容联合的实施详细信息、演示和应用程序。 了解如何创建一次并跨渠道交付。
 
 关键要点:
 
-* 瞭解全通路CMS對話中可用的新資源
-* 能夠透過Fluid Experience提供Adobe的觀點和解決方案
-* 適用於客戶交談的新示範和操作說明
+* 了解可用于全渠道CMS对话的新资源
+* 能够通过Fluid Experiences提供Adobe的观点和解决方案
+* 新的演示和操作方法可供您的客户对话使用
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*2017年10月18日傳遞*
+*交付日期：2017年10月18日*
 
-**展示者：**
+**呈列方式：**
 
-* Adobe策略與產品行銷AEMDirector的Haresh Kumar
-* Gilles Knobloch，Adobe資深工程經理
+* Haresh Kumar，战略与产品营销AEMDirector，Adobe
+* Gilles Nonbloch，Adobe高级工程经理
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/gems-fluid-experiencesoct1617.pdf)
 <!--

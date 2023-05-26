@@ -1,26 +1,27 @@
 ---
-title: 動態內容與個人化的力量
-description: 在本次研討會中，瞭解如何運用動態內容，將更具針對性的相關內容傳送至您的資料庫。
+title: 动态内容和个性化的强大功能
+description: 在本会话中，了解如何利用动态内容向数据库发送更有针对性、更相关的内容。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e39b9f63-d5b2-4211-8fa9-6aebbbf8bbf8
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
 
 ---
 
-# 動態內容與個人化的力量
+# 动态内容和个性化的强大功能
 
-在本次研討會中，瞭解如何運用動態內容，將更具針對性的相關內容傳送至您的資料庫。
+在本会话中，了解如何利用动态内容向数据库发送更有针对性、更相关的内容。
 
 **关键要点**
 
-* 利用動態內容簡化Marketo Engage計畫建置並節省時間
-* 瞭解如何劃分資料庫以支援動態內容
-* 報告動態內容的影響，以指導未來的行銷決策
+* 利用Dynamic Content简化Marketo Engage计划构建并节省时间
+* 了解如何划分数据库以支持动态内容
+* 报告动态内容的影响以指导未来的营销决策
 
 >[!VIDEO](https://video.tv.adobe.com/v/340597/?quality=12&learn=on)

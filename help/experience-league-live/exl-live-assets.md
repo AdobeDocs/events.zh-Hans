@@ -1,21 +1,22 @@
 ---
-title: Experience League即時資產
-description: 此頁面內含用於「即時Experience League」的資產
+title: Experience League实时资源
+description: 本页包含用于Experience LeagueLIVE的资源
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f95be3f3-72a3-4531-ad73-1e2470583f21
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
-# Experience League即時資產
+# Experience League实时资源
 
-此頁面內含用於「即時Experience League」的資產
+本页包含用于Experience LeagueLIVE的资源
 
-![第6集側欄影像](assets/exl-live-ep6-sidebar.jpg)
+![第6集侧栏图像](assets/exl-live-ep6-sidebar.jpg)
 
-![Experience LeagueLive標誌](assets/exl-live-logo.png)
+![Experience League实时徽标](assets/exl-live-logo.png)

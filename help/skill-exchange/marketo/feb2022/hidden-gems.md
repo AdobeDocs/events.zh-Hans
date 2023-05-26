@@ -1,20 +1,21 @@
 ---
-title: 資料庫中隱藏的Gem — 重新參與記錄
-description: 參加我們的會議，我們將逐步引導您完成在Alma實施重新參與流程的步驟，以及在此過程中所學到的知識。
+title: 数据库中隐藏的Gem — 重新参与的记录
+description: 参加我们的会议，我们将向您介绍我们为实施Alma重新接触流程所采取的步骤以及我们在此过程中学到的东西。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9771
 thumbnail: 340591.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 5032a4e6-066e-4413-b673-f91f3d67f557
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# 資料庫中隱藏的Gem：重新參與記錄
+# 数据库中的隐藏Gem：重新参与的记录
 
-回收的銷售機會、已關閉的遺失，以及流失的記錄（再次）進入您的資料庫。 您如何根據記錄的生命週期階段處理這些記錄？ 參加我們的會議，我們將逐步引導您完成在Alma實施重新參與流程的步驟，以及在此過程中所學到的知識。
+回收的商机、已关闭的丢失的记录以及已流失的记录（再次）进入数据库。 您如何根据记录的生命周期阶段处理这些记录？ 参加我们的会议，我们将向您介绍我们为实施Alma重新接触流程所采取的步骤以及我们在此过程中学到的东西。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340591/?quality=12&learn=on)

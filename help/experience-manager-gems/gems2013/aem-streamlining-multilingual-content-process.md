@@ -1,27 +1,28 @@
 ---
-title: 簡化多語言內容程式
-description: 瞭解最佳實務，以簡化多語言內容建立和本地化的流程，讓您的使用者無需離開CQ使用者介面即可執行工作。 AEM與Translations.com GlobalLink®技術緊密整合，以符合使用者的需求。 觀看Keith示範如何使用MSM、語言副本和GlobalLink®來設定多語言網站。 透過即時示範，向您展示這對您的使用者有多麼容易。
+title: 简化多语言内容处理
+description: 了解最佳实践，以简化多语言内容创建和本地化过程，使用户无需离开CQ用户界面即可执行任务。 AEM和Translations.com GlobalLink®技术紧密地集成到了用户心目中。 Watch Keith演示了如何使用MSM、语言副本和GlobalLink®设置和配置多语言网站。 通过实时演示向您的用户展示它有多么简单。
 uuid: c4900ed3-f85b-4139-8e42-b5d1c03c36da
 discoiquuid: 77f623b6-4ca9-4122-9a48-5efe4d118865
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 17f25976-5be7-423f-bdbf-8c686e061c3d
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# 簡化多語言內容程式{#streamlining-multilingual-content-process}
+# 简化多语言内容处理{#streamlining-multilingual-content-process}
 
-您是否正在尋找最佳實務，以簡化多語言內容建立和本地化的流程，讓使用者無需離開CQ使用者介面即可執行工作？ 這個會議是為您而設！ AEM與Translations.com GlobalLink®技術緊密整合，以符合使用者的需求。 在這場會議中，Keith示範了如何使用MSM、語言副本和GlobalLink®來設定多語言網站。 透過即時示範，向您展示這對您的使用者有多麼容易。
+您是否正在寻找最佳实践来简化多语言内容创建和本地化的流程，以便用户执行其任务而无需离开CQ用户界面？ 这个会议是为您准备的！ AEM和Translations.com GlobalLink®技术紧密地集成到了用户心目中。 在此会话中，Keith演示了如何使用MSM、语言副本和GlobalLink®设置和配置多语言网站。 通过实时演示向您的用户展示它有多么简单。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
 
-*2013年10月30日傳遞*
+*交付日期：2013年10月30日*
 
-**展示者：**
+**呈列方式：**
 
-Keith Brazil，技術副總裁，Translations.com
+Keith Brazil，技术副总裁，Translations.com
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

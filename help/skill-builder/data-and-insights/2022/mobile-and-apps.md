@@ -1,22 +1,23 @@
 ---
-title: 適用於行動應用程式的Analytics和Target應用程式
-description: 在這場會議中，您將瞭解如何在行動裝置上使用Analytics儀表板的最佳實務，以及如何透過Target個人化應用程式。
+title: 适用于移动设备和应用程序的Analytics和Target应用程序
+description: 在此会话中，您将了解如何在移动设备上使用Analytics功能板的最佳实践，以及如何通过Target使应用程序个性化。
 solution: Analytics, Target
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10568
 thumbnail: 343819.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 84ad109b-650f-4f33-bb1d-6e3a98c46ad1
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# 適用於行動應用程式的Analytics和Target應用程式
+# 适用于移动设备和应用程序的Analytics和Target应用程序
 
-在這場會議中，您將瞭解如何在行動裝置上使用Analytics儀表板的最佳實務，以及如何透過Target個人化應用程式。
+在此会话中，您将了解如何在移动设备上使用Analytics功能板的最佳实践，以及如何通过Target使应用程序个性化。
 
-*蘆果藍季* 解決方案顧問/Adobe
+*芦嘉蓝吉* 解决方案顾问/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

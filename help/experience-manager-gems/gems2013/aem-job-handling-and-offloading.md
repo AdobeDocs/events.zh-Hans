@@ -1,40 +1,41 @@
 ---
-title: AEM 5.6.1中的工作處理與解除安裝簡介。
-description: 取得進階工作處理功能的技術簡介。 工作處理是復寫和工作流程處理等功能的基礎架構。 瞭解探索模組以及改進的工作處理API和新功能。
+title: AEM 5.6.1中的作业处理和卸载简介。
+description: 获取高级作业处理功能的技术简介。 作业处理是复制和工作流处理等功能的底层基础结构。 了解发现模块以及改进的作业处理API和新功能。
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 13888662-d1c5-4fff-b55e-38acede95396
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 1%
 
 ---
 
-# 介紹AEM 5.6.1中的工作處理與解除安裝。 {#introduction-of-job-handling-and-offloading-in-aem}
+# AEM 5.6.1中的作业处理和卸载简介。 {#introduction-of-job-handling-and-offloading-in-aem}
 
-工作處理是復寫和工作流程處理等功能的基礎架構。 這是進階作業處理功能的技術簡介。 我們將討論新的探索模組，以及改進的工作處理API和新功能。 解除安裝架構以作業處理和探索為基礎，著重於在非叢集執行個體之間分配作業。 我們將更仔細地瞭解解除安裝如何擴展分散式工作處理。 然後，我們會檢視它如何用於目前的工作流程解除安裝實施，以及人們如何可以在自己的專案中使用它。
+作业处理是复制和工作流处理等功能的底层基础结构。 这是对高级作业处理功能的技术介绍。 我们将讨论新的发现模块以及改进的作业处理API和新功能。 该卸载框架以作业处理和发现为基础，重点在非集群实例间分发作业。 我们将更详细地了解卸载如何扩展分布式作业处理。 然后，我们查看它如何用于工作流卸载的当前实施，以及如何在自己的项目中使用它。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*傳送日期： 2013年7月24日*
+*交付日期： 2013年7月24日*
 
-**展示者：**
+**呈列方式：**
 
-Carsten Ziegeler，Adobe資深開發人員
+Carsten Ziegeler，Adobe高级开发人员
 
-Marc Pfaff，Adobe首席開發人員
+Marc Pfaff，Adobe首席开发人员
 
-簡報者投影片 — 第1部分
+演示者幻灯片 — 第1部分
 
 [获取文件](assets/jobhandling.pdf)
 
-簡報者投影片 — 第2部分
+演示者幻灯片 — 第2部分
 
 [获取文件](assets/offloading.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
-* [Apache Sling事件和作業處理](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API及其實施](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [正在解除安裝工作](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Apache Sling事件和作业处理](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [Discovery API及其实施](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [卸载作业](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

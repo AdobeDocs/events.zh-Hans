@@ -1,20 +1,21 @@
 ---
-title: Rockstar區段
-description: 四位「Rockstar」客戶將各展示其最佳的Adobe Analytics秘訣或技巧。
+title: Rockstar区段
+description: 四位“Rockstar”客户将分别展示其优秀的Adobe Analytics使用提示或技巧。
 solution: Analytics
 role: User
 level: Intermediate, Experienced
 kt: 10479
 thumbnail: 343346.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8d81d47b-7bc0-4db6-b0e1-b5b1f4cf54e5
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Rockstar區段
+# Rockstar区段
 
-四位「Rockstar」客戶將各展示其最佳的Adobe Analytics秘訣或技巧。 誰能讓你眼花繚亂，難以置信？ 即時觀看和投票。
+四位“Rockstar”客户将分别展示其优秀的Adobe Analytics使用提示或技巧。 谁能让你目瞪口呆？ 实时观看并投票。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343346/?quality=12&learn=on)

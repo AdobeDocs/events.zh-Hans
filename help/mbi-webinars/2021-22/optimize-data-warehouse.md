@@ -1,14 +1,15 @@
 ---
 title: 优化您的 MBI 数据仓库
-description: 觀看此網路研討會，進一步瞭解Data Warehouse管理員。
-landing-page-description: 觀看此網路研討會影片，前往
-short-description: 觀看此網路研討會影片，前往
+description: 观看此网络研讨会，了解有关Data warehouse管理器的更多信息。
+landing-page-description: 观看本网络研讨会录制视频：
+short-description: 观看本网络研讨会录制视频：
 kt: 10403
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 7%
@@ -17,29 +18,29 @@ ht-degree: 7%
 
 # 优化您的 MBI 数据仓库
 
-使用「Data Warehouse管理員」，您可以管理表格和欄同步設定、深入研究表格的綱要，以及建立要在報表中使用的計算欄。
+使用Data warehouse管理器，您可以管理表和列同步设置，深入了解表的架构，并创建计算列以在报告中使用。
 
 >[!NOTE]
 >
->存取Data Warehouse管理員需要管理員許可權。
+>访问Data warehouse管理器，需要管理员权限。
 
-在這場網路研討會中：
+在本网络研讨会中：
 
-- Data Warehouse簡介
-- 更新週期和最佳化
-- 復寫和重新檢查
-- Data Warehouse檢視
-- 問題與解答
+- data warehouse简介
+- 更新周期和优化
+- 复制和重新检查
+- data warehouse查看次数
+- 问题与解答
 
 ## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
-## 有用的資源
+## 有用的资源
 
 >[!TIP]
 >
->若您為MBI的新手， [快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您不熟悉MBI，则可以 [入门视频系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
 
-[最佳化資料庫以進行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[分段和篩選的建議資料Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[优化数据库以进行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[分段和过滤的建议数据Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

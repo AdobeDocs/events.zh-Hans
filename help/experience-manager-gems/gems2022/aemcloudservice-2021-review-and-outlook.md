@@ -1,6 +1,6 @@
 ---
-title: AEMas a Cloud Service- 2021年回顧和2022年展望
-description: 觀看2021年AEM GEM網路研討會，瞭解AEMas a Cloud Service的回顧。 另外取得2022年儲存內容的概觀。
+title: AEMas a Cloud Service- 《2021年回顾》和《2022年展望》
+description: 观看2021年AEM GEM网络研讨会，了解AEMas a Cloud Service概况。 另外还概要介绍了2022年将会推出的功能。
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -10,26 +10,27 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
 
 ---
 
-# Adobe Experience Manager as a Cloud Service： 2021年回顧和2022年展望
+# Adobe Experience Manager as a Cloud Service：《2021年回顾与2022年展望》
 
-此AEM GEM網路研討會影片將包含下列內容：
+此AEM GEM网络研讨会录像将包括以下内容：
 
-在這場會議中，我們將先檢閱Adobe Experience Manager (AEM) 2021as a Cloud Service的主要變更，以及一些關鍵量度。 我們也會討論預計於2022年進行的變更。
+在本次研讨会中，我们将首先回顾对Adobe Experience Manager (AEM)as a Cloud Service2021年的主要更改以及一些关键指标。 我们还将讨论计划于2022年进行的更改。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341444/?quality=12&learn=on)
 
-此網路研討會於2022年1月25日舉行，由Director產品管理Bertrand de Coatpont主持
+该网络研讨会于2022年1月25日召开，由Director产品管理部Bertrand de Coatpont主持
 
 >[!MORELIKETHIS]
 >
->* [對應的Adobe Experience Manager使用者群組事件頁面](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
->* [對應的內容執行緒](https://adobe.ly/3rqbSOz)
->* 請在以下網址報名： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關即將舉辦的網路研討會的通知。
+>* [“相应的Adobe Experience Manager用户组事件”页](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [对应的上下文线程](https://adobe.ly/3rqbSOz)
+>* 请在以下地址注册： [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以获取有关即将召开的网络研讨会的通知。
 

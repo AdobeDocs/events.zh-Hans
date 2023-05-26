@@ -1,10 +1,11 @@
 ---
 title: AEM 核心组件
-description: 瞭解核心元件及其相關功能的所有資訊，以及它們如何運作和改變遊戲。 瞭解可讓您將需要建立和維護的元件數量減少一個數量級的策略。
+description: 了解关于核心组件及其相关功能、其工作方式以及它们如何改变游戏规则的一切。 了解使您需要创建和维护的元件数量减少一个数量级的策略。
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8433df98-80ec-4d29-9656-633a639c62e8
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 6%
@@ -13,18 +14,18 @@ ht-degree: 6%
 
 # AEM 核心组件{#aem-core-components}
 
-瞭解核心元件及其相關功能的所有資訊，以及它們如何運作和改變遊戲。 瞭解可讓您將需要建立和維護的元件數量減少一個數量級的策略。
+了解关于核心组件及其相关功能、其工作方式以及它们如何改变游戏规则的一切。 了解使您需要创建和维护的元件数量减少一个数量级的策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*2018年12月5日提供*
+*2018年12月5日交付*
 
-**展示者：**
+**呈列方式：**
 
-Adobe產品經理Gabriel Walt
+Gabriel Walt，Adobe产品经理
 
-[AEM核心元件檔案](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[AEM核心组件文档](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
-AEM Gems - AEM核心元件 — 日期： 2018/12/05
+AEM Gems - AEM核心组件 — 日期： 2018年12月5日
 
 [获取文件](assets/aem-gems-aem-sitescorecomponents-12052018.pdf)

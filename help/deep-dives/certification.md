@@ -1,23 +1,24 @@
 ---
-title: 自我投資 — Adobe Marketo Engage認證
-description: 您是否對認證程式感興趣，以及它如何能協助您的行銷事業？ 或者，您對學習、準備和參加考試的過程感興趣？ 加入Adobe Marketo Engage Champions，討論成為Marketo認證專家或架構師的歷程！
+title: 自力更生 — Adobe Marketo Engage认证
+description: 您对认证流程是否感兴趣，以及它如何帮助您发展营销职业生涯？ 或者你可能对学习、准备和参加考试的过程感兴趣？ 与Adobe Marketo Engage Champions一起讨论他们成为Marketo认证专家或架构师的历程！
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-03-16T00:00:00Z
 jira: KT-12941
 thumbnail: 3416760.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: af0a6310-5fc9-4109-adab-edd16682ce6d
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# 自我投資 — Adobe Marketo Engage認證
+# 自力更生 — Adobe Marketo Engage认证
 
-您是否對認證程式感興趣，以及它如何能協助您的行銷事業？ 或者，您對學習、準備和參加考試的過程感興趣？ 加入Adobe Marketo Engage Champions，討論成為Marketo認證專家或架構師的歷程！
+您对认证流程是否感兴趣，以及它如何帮助您发展营销职业生涯？ 或者你可能对学习、准备和参加考试的过程感兴趣？ 与Adobe Marketo Engage Champions一起讨论他们成为Marketo认证专家或架构师的历程！
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-按一下 **[此處](assets/certification.pdf){target="_blank"}** 用於工作階段投影片。
+单击 **[此处](assets/certification.pdf){target="_blank"}** 用于会话幻灯片。

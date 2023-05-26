@@ -1,6 +1,6 @@
 ---
-title: Adobe Developer App Builder深入探討
-description: 好，想要聽更多Adobe Developer App Builder開發人員的事嗎？ 加入我們，觀看Adobe Developer App Builder的實際運作 — 程式碼、安全性、Headfull和Headless應用程式、CI/CD等。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: Adobe Developer App Builder深入分析
+description: 好，想要了解更多Adobe Developer App Builder开发人员知识吗？ 加入我们，观看Adobe Developer App Builder的实际操作情况 — 代码、安全性、Headfull和Headless应用程序、CI/CD等。 此会话作为Adobe Developers Live内容事件的一部分提供。
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,20 +10,20 @@ version: Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 5c303ecd-d33e-48c6-94da-f8bbb07577f1
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# Adobe Developer App Builder深入分析
 
-# Adobe Developer App Builder深入探討
+好，想要了解更多Adobe Developer App Builder开发人员知识吗？ 加入我们，观看App Builder的实际操作情况：代码、安全性、Headfull和Headless应用程序、CI/CD等。
 
-好，想要聽更多Adobe Developer App Builder開發人員的事嗎？ 加入我們，觀看App Builder的實際運作：程式碼、安全性、Headfull和Headless應用程式、CI/CD等。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/app-builder.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/app-builder.pdf)** 用于会话幻灯片。

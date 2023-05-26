@@ -1,6 +1,6 @@
 ---
 title: 资产链接
-description: 您與Adobe Creative Cloud的原生連線。
+description: 您与Adobe Creative Cloud的本地连接。
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -12,29 +12,30 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7342
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 143c57da-554b-4437-a228-e8642e622ebc
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 10%
 
 ---
 
-# Asset Link - Adobe Experience Manager資產系列
+# Asset Link - Adobe Experience Manager Asset Series
 
-使用這個由五部分組成的網路研討會系列，建立您的知識庫，並最大化您在Adobe Experience Manager資產中的投資。 如果您是初次使用Adobe Experience Manager Assets或已經使用Adobe Experience Manager Assets一段時間且希望進一步掌握現有技能的從業者，這是深入探究解決方案最重要的五個領域的理想方式。 Adobe專家將檢閱基本知識，並提供進階深入分析，帶給您可立即實施的可操作後續步驟。
+使用这个由五部分组成的网络研讨会系列来构建您的知识库，并最大化您对Adobe Experience Manager Assets的投资。 如果您是初次使用Adobe Experience Manager Assets或已经使用Adobe Experience Manager Assets一段时间且希望复习现有技能的从业者，那么这是深入了解解决方案最重要的五个领域的理想方式。 Adobe专家将审查基础知识，并提供高级见解，为您提供可立即付诸实践的可操作后续步骤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-Asset Link是您與Adobe Creative Cloud的原生連線。
+Asset Link是您与Adobe Creative Cloud的本机连接。
 
 ## 资源
 
-* [Adobe資產連結影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-* [適用於Adobe XD的Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [為Adobe Asset Link設定AEM Assets 6.5和6.4](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [為Adobe資產連結設定AEMas a Cloud Service](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [AdobeAsset Link视频](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
+* [适用于Adobe XD的Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [为AdobeAsset Link配置AEM Assets 6.5和6.4](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [为Adobe资源链接配置AEMas a Cloud Service](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
-## 系列錄製
+## 系列录制
 
 * [Brand Portal](brand-portal.md)
 * [Dynamic Media](dynamic-media.md)

@@ -10,7 +10,8 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM会话
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 595f6977-935a-4859-9cfd-161d45847f85
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -72,5 +73,3 @@ ht-degree: 2%
 * 连接：与同行和Adobe人员建立网络，以提供从实施到扩展产品使用的指导和最佳实践
 * 快速解答：大量真实用例解答以支持成功主动使用Adobe解决方案
 * 创意和反馈：获取客户产品创意并向产品团队提供宝贵的VoC反馈
-
-

@@ -1,19 +1,20 @@
 ---
-title: Workfront系統維護（2021年7月27日）
-description: 聽取Workfront系統管理員專家分享他們的想法和技巧，瞭解如何透過持續系統保持您的系統整潔和運作…… （說明應該介於60到160個字元之間）
+title: Workfront系统维护（2021年7月27日）
+description: 听由Workfront系统管理员专家组成的小组分享他们的想法和技巧，了解如何通过连续的系统保持系统清洁和运行……（请用60到160个字符描述）
 role: Admin
 level: Beginner, Intermediate
 kt: 10011
 thumbnail: 341213.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 625a74fd-9113-462f-a743-e9b066eafdd3
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Workfront系統維護（2021年7月27日）
+# Workfront系统维护（2021年7月27日）
 
-聽取Workfront系統管理員專家小組分享他們的想法和技巧，瞭解如何透過持續的系統維護來保持您的系統清潔和運作。
+听取Workfront系统管理员专家小组分享他们的想法和技巧，了解如何通过持续系统维护保持系统清洁和运行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341213/?quality=12&learn=on)

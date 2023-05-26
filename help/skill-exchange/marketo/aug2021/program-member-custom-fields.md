@@ -1,20 +1,21 @@
 ---
-title: 釋放方案成員自訂欄位的潛力
-description: 計畫會員客戶欄位(PMCF)是Marketo新增的新功能中，最能改變遊戲規則的新功能之一。
+title: 解锁项目群成员自定义字段的潜力
+description: 计划成员客户字段(PMCF)是Marketo新增功能中最具变革性的部分之一。
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 kt: 10328
 thumbnail: 342560.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: cc05f2e6-8fb4-4aba-b32c-20a7da6e24b4
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# 釋放方案成員自訂欄位的潛力
+# 解锁项目群成员自定义字段的潜力
 
-計畫會員客戶欄位(PMCF)是Marketo新增的新功能中，最能改變遊戲規則的新功能之一。 但它們只是新的欄位型別，對嗎？ 錯誤。 加入3x Marketo Champion，Grace Brebner，解釋為什麼PMCF會從根本上改變您對於在Marketo Engage執行個體中擷取及報告關鍵資料的方式，以及許多可套用PMCF的真實情境，以及您可以採取的實際步驟，以開始自行實作。
+计划成员客户字段(PMCF)是Marketo新增功能中最具变革性的部分之一。 但是它们只是新的领域类型，对吧？ 错了。 加入3倍速Marketo Champion，Grace Brebner，解释为什么PMCF将从根本上改变您对捕获和报告Marketo Engage实例中关键数据的看法，同时还将应用于许多实际情景，以及您可以采取的实际步骤以开始自己实施PMCF。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342560/?quality=12&learn=on)

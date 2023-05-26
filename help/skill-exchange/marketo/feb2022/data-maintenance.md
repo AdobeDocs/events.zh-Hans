@@ -1,24 +1,25 @@
 ---
-title: 資料維護採用簡單的方法，讓您最重要的資產保持乾淨
-description: 簡單採用的方法，讓您最重要的資產保持乾淨
+title: 数据维护可轻松采用的方法来保持最重要的资产干净
+description: 易于采用的方法来保持最重要的资产清洁
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9765
 thumbnail: 340596.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c09970c3-00a4-4c0f-a406-f59eb0e4b9aa
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# 資料維護 — 採用簡單的方法，保持您最重要的資產整潔
+# 数据维护 — 易于采用的方法保持最重要的资产清洁
 
-在這場會議中，您將瞭解，
+在本课程中，您将了解，
 
-* 人員、程式、技術如何共同達成「清潔資料」
-* 簡單採用的方法，讓您最寶貴的資產保持乾淨
-* 要檢查的嚴密通知
+* 人员、过程、技术如何共同实现“清洁数据”
+* 易于采用的方法可使您最重要的资产保持干净
+* 要检查的注意通知
 
 >[!VIDEO](https://video.tv.adobe.com/v/340596/?quality=12&learn=on)

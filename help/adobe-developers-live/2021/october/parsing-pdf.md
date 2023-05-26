@@ -1,6 +1,6 @@
 ---
-title: 剖析PDF — 與PDF擷取API搭配使用JSON資料一樣簡單
-description: 瞭解Adobe PDF Services API中的PDF擷取服務如何讓剖析PDF變得像剖析JSON一樣容易。 在這場會議中，瞭解PDF擷取API的作用、它為何與您之前看到的任何內容不同，以及如何使用它來建立獨特的PDF體驗，而不需要瞭解PDF規格或PDF「內部因素」的任何資訊。 使用PDF Extract API時，它就是JSON！
+title: 解析PDF — 与使用PDF提取API处理JSON数据一样简单
+description: 了解Adobe PDF Services API中的PDF提取服务如何让解析PDF变得像解析JSON一样简单。 在此会话中，了解PDF提取API的作用、它为何与您之前看到的任何内容不同，以及如何使用它来创建独一无二的PDF体验，而无需了解PDF规范或PDF“内部机制”。 使用PDF提取API，它就是JSON！
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -8,16 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9149
 type: Event
-source-git-commit: 9dc3872ec0b8bb547a8a8993517aad09bf544c59
+exl-id: 91904051-0450-43d5-91f5-bf9dcf7a78b5
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 15%
 
 ---
 
-# 剖析PDF — 與PDF擷取API搭配使用JSON資料一樣簡單
+# 解析PDF — 与使用PDF提取API处理JSON数据一样简单
 
-瞭解Adobe PDF Services API中的PDF擷取服務如何讓剖析PDF變得像剖析JSON一樣容易。 在這場會議中，瞭解PDF擷取API的作用、它為何與您之前看到的任何內容不同，以及如何使用它來建立獨特的PDF體驗，而不需要瞭解PDF規格或PDF「內部因素」的任何資訊。 使用PDF Extract API時，它就是JSON！
+了解Adobe PDF Services API中的PDF提取服务如何让解析PDF变得像解析JSON一样简单。 在此会话中，了解PDF提取API的作用、它为何与您之前看到的任何内容不同，以及如何使用它来创建独一无二的PDF体验，而无需了解PDF规范或PDF“内部机制”。 使用PDF提取API，它就是JSON！
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337600/?quality=12&learn=on&hidetitle=true)

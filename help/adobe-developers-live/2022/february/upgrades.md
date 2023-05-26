@@ -1,19 +1,20 @@
 ---
-title: 簡化升級和升級相容性工具
-description: 為何以及如何升級至Adobe Commerce和Magento Open Source2.4.4
+title: 简化升级和升级兼容性工具
+description: 为何以及如何升级到Adobe Commerce和Magento Open Source2.4.4
 role: User
 level: Beginner
 kt: 9789
 thumbnail: 340622.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: d9c0c5bb-4a42-4ad2-b421-983d747cddaa
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-# 深入探討簡化升級和升級相容性工具
+# 深入探讨简化升级和升级兼容性工具
 
-Adobe Commerce和Magento Open Source2.4.4於2022年3月發行，將包含重要更新，為客戶和開發人員帶來寶貴的新功能和增強體驗。 我們預計明年會有相當大一部分的客戶群升級至2.4.4。 瞭解如何協助商戶簡化此轉變。 我們將說明升級為何重要、升級方式、最佳實務，以及簡化升級程式的工具。 我們特別對升級相容性工具進行了重大改進，並將向您展示如何使用它來設定升級專案的範圍。
+Adobe Commerce和Magento Open Source2.4.4将于2022年3月发布，其中将包括重要更新，为客户和开发人员带来有价值的新功能和增强体验。 我们预计我们的一大部分客户将在明年升级到2.4.4。 了解如何帮助商家简化此过渡。 我们将介绍升级之所以重要的原因、升级方法、最佳实践以及简化此过程的工具。 特别是，我们对升级兼容性工具进行了重大改进，将向您展示如何使用该工具对升级项目进行范围设定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340622/?quality=12&learn=on)

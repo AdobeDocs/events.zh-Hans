@@ -1,35 +1,36 @@
 ---
-title: 使用AEM查詢建立器輕鬆搜尋表單
-description: 此課程說明相較於JCR棧疊上的其他查詢語言，查詢產生器所依據的原則。 它顯示如何使用它來輕鬆建立可編寫的搜尋表單、如何建立有效的搜尋、如何偵錯查詢以及如何擴充它。
+title: 使用AEM查询生成器轻松搜索表单
+description: 此会话说明了与JCR栈栈上的其他查询语言相比，查询生成器所遵循的原则。 它显示了如何使用它来轻松构建可创作的搜索表单、如何构建高效的搜索、如何调试查询以及如何扩展它。
 uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f0fd2a81-80c9-41df-844b-d94362c9f27a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
 
 ---
 
-# 使用AEM查詢建立器輕鬆搜尋表單{#search-forms-made-easy-with-the-aem-querybuilder}
+# 使用AEM查询生成器轻松搜索表单{#search-forms-made-easy-with-the-aem-querybuilder}
 
-大多數開發人員發現AEM查詢產生器是主要用於使用者介面的高階查詢語言，但想要瞭解更多有關它以充分利用它。 此課程將說明相較於JCR棧疊上的其他查詢語言，查詢產生器背後的原則，說明您如何能夠非常輕鬆地使用查詢產生器建立可編寫的搜尋表單、如何建立有效的搜尋、如何偵錯查詢以及如何擴充查詢。
+大多数开发人员发现AEM查询生成器是一种主要用在用户界面中的高级查询语言，但他们想要了解更多相关信息，以便充分利用。 此会话将解释与JCR栈栈上的其他查询语言相比，查询生成器所遵循的原则，显示如何使用查询生成器轻松构建可创作搜索表单、如何构建高效搜索、如何调试查询以及如何扩展查询。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19139/?quality=9)
 
-*2017年2月22日推出*
+*2017年2月22日提交*
 
-**Alexander Klimetschek，Adobe資深開發人員**
+**Alexander Klimetschek，Adobe高级开发人员**
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/aem-gems-querybuilder-2017.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
 演示
 
-* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，由Alexander Klimetschek提供
+* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，亚历山大·克里梅切克提供
 
 AEM 文档
 

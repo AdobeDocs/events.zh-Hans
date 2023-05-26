@@ -1,6 +1,6 @@
 ---
-title: Experience PlatformSDK和Launch Server Side
-description: 透過AEP Web & Mobile SDK，充分發揮AEP Launch Server Side的潛力，將企業資料收集最佳化。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: Experience PlatformSDK和Launch服务器端
+description: 使用AEP Web & Mobile SDK释放AEP Launch服务器端的全部潜力，优化您的企业数据收集。 此会话作为Adobe Developers Live内容事件的一部分提供。
 solution: Data Collection
 product: experience platform
 sub-product: launch
@@ -11,20 +11,20 @@ level: Intermediate
 kt: 7179
 type: Event
 thumbnail: 331761.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 93ee54d3-b522-47c8-91f9-eb9f9487afc9
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
+# Experience PlatformSDK和Launch服务器端
 
-# Experience PlatformSDK和Launch Server Side
+使用AEP Web &amp; Mobile SDK释放AEP Launch服务器端的全部潜力，优化您的企业数据收集。
 
-透過AEP Web &amp; Mobile SDK，充分發揮AEP Launch Server Side的潛力，將企業資料收集最佳化。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** 用于会话幻灯片。

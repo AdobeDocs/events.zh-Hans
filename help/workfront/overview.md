@@ -1,7 +1,8 @@
 ---
 title: Workfront On-Demand事件
 description: Workfront Events是一个视频库，专家和同行可以在其中就如何使用Workfront增强为组织完成的工作分享他们的想法和想法。
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 5b294be1-9ba6-4cd1-b74b-ea4e321dcaaf
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

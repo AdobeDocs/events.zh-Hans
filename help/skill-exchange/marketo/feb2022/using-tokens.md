@@ -1,26 +1,27 @@
 ---
-title: 在Marketo Engage中使用Token的可擴充性和效率
-description: 瞭解如何在個人化之外使用代號，讓您的方案建置和操作在Marketo Engage中更有效率。
+title: 使用Marketo Engage中的令牌的可扩展性和效率
+description: 了解如何在个性化之外使用令牌，以使您的项目构建和操作在Marketo Engage中更有效。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8f061a2b-2a7a-4186-be46-55690e21c0fd
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
 
 ---
 
-# 在Marketo Engage中使用Token的可擴充性和效率
+# 使用Marketo Engage中的令牌的可扩展性和效率
 
-瞭解如何在個人化之外使用代號，讓您的方案建置和操作在Marketo Engage中更有效率。
+了解如何在个性化之外使用令牌，以使您的项目构建和操作在Marketo Engage中更有效。
 
 **关键要点**
 
-* 瞭解不同型別的代號及其使用位置
-* 瞭解如何記錄代號策略的想法
-* 檢閱使用Token的使用案例和想法
+* 了解不同类型的令牌以及可在何处使用它们
+* 了解如何记录令牌策略
+* 查看使用令牌的用例和想法
 
 >[!VIDEO](https://video.tv.adobe.com/v/340593/?quality=12&learn=on)

@@ -1,34 +1,35 @@
 ---
-title: AEM現代化套裝簡介
-description: 瞭解如何將靜態範本頁面轉換為可編輯的範本。 瞭解如何將自訂或舊版元件轉換為核心元件代理程式等。
+title: AEM现代化套件简介
+description: 了解如何将静态模板页面转换为可编辑模板。 了解如何将自定义组件或旧版组件转换为核心组件代理等。
 uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: d66b78b7-9d7c-4229-87c6-b99bdad97306
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 1%
 
 ---
 
-# AEM現代化套裝簡介{#introducing-the-aem-modernization-suite}
+# AEM现代化套件简介{#introducing-the-aem-modernization-suite}
 
-有些客戶仍仰賴Classic UI提供AEM Sites撰寫體驗。 隨著此介面的淘汰，我們建議使用Summit實驗室來幫助我們的客戶將其實施更新到最新功能。 為了支援實驗室並為客戶提供必要的方法，Bryan Stopp和Gilles Knobloch建立了AEM現代化工具套件。  瞭解此新工具的功能，您可以：
+某些客户仍然依赖经典UI来获得其AEM Sites创作体验。 弃用此界面后，建议使用Summit实验室，以帮助我们的客户将其实施更新到最新功能。 为了支持该实验室并为我们的客户提供必要的方法，Bryan Stopp和Gilles Knobloch创建了AEM现代化工具套件。  了解此新工具的功能，您可以：
 
-* 將靜態範本頁面轉換為可編輯的範本
-* 將自訂/舊元件轉換為核心元件代理（或其他自訂元件）
-* 匯入和轉換元件設計為可編輯的範本原則
-* 和（當然）將Classic/Coral2對話方塊更新為Coral 3對話方塊
+* 将静态模板页面转换为可编辑模板
+* 将自定义/旧版组件转换为核心组件代理（或其他自定义组件）
+* 将组件设计作为可编辑模板策略导入和转换
+* 和（当然）将Classic/Coral2对话框更新为Coral 3对话框
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*2019年5月8日傳遞*
+*2019年5月8日交付*
 
-**展示者：**
+**呈列方式：**
 
-* Bryan Stopp，AEM技術架構師，Adobe
-* Gilles Knobloch，Adobe資深工程經理
+* Bryan Stopp，AEM技术架构师，Adobe
+* Gilles Nonbloch，Adobe高级工程经理
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/modernization-toolsaemgems.pdf)

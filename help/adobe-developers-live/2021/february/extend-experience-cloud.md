@@ -1,6 +1,6 @@
 ---
-title: 因此您想要擴充Adobe Experience Cloud
-description: 您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 我們認為您應該嘗試使用Adobe Developer App Builder。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: 因此，您希望扩展Adobe Experience Cloud
+description: 您是否希望使用适用于多个解决方案的现代架构来扩展Adobe解决方案？ 我们认为您应该尝试使用Adobe Developer App Builder。 此会话作为Adobe Developers Live内容事件的一部分提供。
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -8,20 +8,20 @@ level: Experienced
 kt: 7189
 type: Event
 thumbnail: 331852.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: fe442380-d52d-4718-84ff-fec4011ae8f2
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
+# 那么您要扩展Adobe Experience Cloud吗？
 
-# 您要擴充Adobe Experience Cloud嗎？
+您是否希望使用适用于多个解决方案的现代架构来扩展Adobe解决方案？ 我们认为您应该尝试使用Adobe Developer App Builder。
 
-您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 我們認為您應該嘗試使用Adobe Developer App Builder。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** 用于会话幻灯片。

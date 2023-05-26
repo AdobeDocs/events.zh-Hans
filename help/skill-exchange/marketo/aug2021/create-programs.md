@@ -1,24 +1,25 @@
 ---
-title: 在Marketo Engage中建立計畫
-description: 此課程會教導您所有關於方案結構的知識，包括方案型別、管道和狀態和標籤。
+title: 在Marketo Engage中创建程序
+description: 本课程将向您讲授项目结构，包括项目类型、渠道和状态以及标记。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a9d48fa2-6d89-4576-bd69-079c2e62b7d5
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# 在Marketo Engage中建立計畫
+# 在Marketo Engage中创建程序
 
-本課程將教導您 *程式結構* 包括：方案型別、管道和狀態和標籤。 您也會瞭解 *基礎計畫概念* 以及組成計畫的因素。
+本课程将教导您 *项目结构* 包括：项目类型、渠道和状态以及标记。 您还将了解 *基础计划概念* 以及什么构成了一个程序。
 
-在本次研討會結束時，您將瞭解如何以最有效率的方式設定Marketo Engage執行個體以滿足您的業務需求，以及如何建立程式以執行電子郵件和網路研討會。
+在本次研讨会结束时，您将了解如何以最有效的方式设置Marketo Engage实例以满足您的业务需求，以及如何构建程序以执行电子邮件和网络研讨会。
 
-在本次研討會結束時，您將會收到即時問答的解答，回答您所有未完成的問題。
+在本次研讨会结束时的实时问答将回答您的任何未决问题。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342555/?quality=12&learn=on)

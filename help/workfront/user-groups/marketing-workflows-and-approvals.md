@@ -1,19 +1,20 @@
 ---
-title: 行銷工作流程與核准，Leap 2020 （2020年7月1日）
-description: 聆聽，因為Catherine Hayes提供通路公司如何在其公司建立和使用行銷工作流程的深入分析。
+title: 营销工作流程和批准，Leap 2020（2020年7月1日）
+description: 听好，因为Catherine Hayes深入分析了渠道公司如何在其公司中创建和使用营销工作流。
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10003
 thumbnail: 341225.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 076f1d0e-b700-4091-9502-0bc04168e132
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# 行銷工作流程和核准，Leap 2020 （2020年7月1日）
+# 营销工作流程和批准，Leap 2020（2020年7月1日）
 
-聆聽，因為Catherine Hayes提供通路公司如何在其公司建立和使用行銷工作流程的深入分析。
+听好，因为Catherine Hayes深入分析了渠道公司如何在其公司中创建和使用营销工作流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341225/?quality=12&learn=on)

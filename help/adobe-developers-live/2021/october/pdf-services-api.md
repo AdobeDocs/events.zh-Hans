@@ -1,6 +1,6 @@
 ---
-title: Adobe PDF Services API簡介
-description: Adobe的PDF服務API可讓開發人員透過功能強大且靈活的雲端式API，從PDF建立、合併、匯出及擷取資料。 在這場會議中，瞭解如何開始使用Adobe PDF Services API，將檔案體驗整合到您的應用程式和客戶體驗中。
+title: Adobe PDF Services API简介
+description: Adobe的PDF服务API使开发人员能够通过功能强大且灵活的基于Cloud的API从PDF创建、组合、导出和提取数据。 在此会话中，了解如何开始使用Adobe PDF Services API将文档体验集成到您的应用程序和客户体验中。
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -8,16 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9206
 type: Event
-source-git-commit: 9dc3872ec0b8bb547a8a8993517aad09bf544c59
+exl-id: fffd2485-a373-43b0-a38e-5ed573c82cc1
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 21%
 
 ---
 
-# Adobe PDF Services API簡介
+# Adobe PDF Services API简介
 
-Adobe的PDF服務API可讓開發人員透過功能強大且靈活的雲端式API，從PDF建立、合併、匯出及擷取資料。 在這場會議中，瞭解如何開始使用Adobe PDF Services API，將檔案體驗整合到您的應用程式和客戶體驗中。
+Adobe的PDF服务API使开发人员能够通过功能强大且灵活的基于Cloud的API从PDF创建、组合、导出和提取数据。 在此会话中，了解如何开始使用Adobe PDF Services API将文档体验集成到您的应用程序和客户体验中。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337601/?quality=12&learn=on&hidetitle=true)

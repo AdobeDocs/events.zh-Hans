@@ -1,6 +1,6 @@
 ---
-title: 數位體驗的資料收集 — 使用者端效能和伺服器端整合的強大功能
-description: 網頁和行動裝置上的數位體驗以及您的工具都在迅速改變。 快來瞭解Adobe在Edge Technology中採取哪些措施來改善效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
+title: 为数字体验收集数据 — 客户端性能和服务器端集成的强大功能
+description: Web和移动设备上的数字体验瞬息万变，您的工具也应如此。 了解Adobe在Edge Technology中做了哪些工作来提高性能，并允许开发人员和模式将代码部署到世界上最大的数据收集基础架构之一。
 solution: Data Collection
 feature: Web SDK, Debugger, Tags, Event Forwarding
 topic: Development
@@ -8,16 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9140
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e3bea0bb-d31a-4089-a0be-af3816d43e7e
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 19%
 
 ---
 
-# 數位體驗的資料收集 — 使用者端效能和伺服器端整合的強大功能
+# 为数字体验收集数据 — 客户端性能和服务器端集成的强大功能
 
-網頁和行動裝置上的數位體驗以及您的工具都在迅速改變。 快來瞭解Adobe在Edge Technology中採取哪些措施來改善效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
+Web和移动设备上的数字体验瞬息万变，您的工具也应如此。 了解Adobe在Edge Technology中做了哪些工作来提高性能，并允许开发人员和模式将代码部署到世界上最大的数据收集基础架构之一。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337584/?quality=12&learn=on&hidetitle=true)
 

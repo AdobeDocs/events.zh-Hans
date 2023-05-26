@@ -1,22 +1,23 @@
 ---
-title: 您的Marketo藍圖
-description: Marketo可自訂且可擴充，因此有很多商機。 但同時，不良規劃或缺乏規劃可能會使您留下…… （說明應該介於60到160個字元之間）
+title: 您的Marketo路线图
+description: Marketo可定制且可扩展，因此带来了大量机会。 但同时，规划不良或缺乏规划可能会使您遇到……（请用60到160个字符描述）
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: bca21526-3565-4bc3-bbf3-870b69683999
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# 您的Marketo藍圖
+# 您的Marketo路线图
 
-Marketo可自訂且可擴充，因此有很多商機。 但同時，規劃不良或缺乏規劃，可能會使您面臨規模不良的Marketo例項和大量技術債務。
+Marketo可定制且可扩展，因此带来了大量机会。 但与此同时，计划不周或缺乏计划，可能会让你面临一个规模糟糕的Marketo实例和大量科技债。
 
-將您的Marketo執行個體視為產品很有幫助。 您有客戶，而且需要將執行個體開發成可讓客戶滿意的產品。 但是，直接急著進行生命週期行銷或反彈道導彈可能沒有好的結局。 因此，您也有產品藍圖，這是您的工作方案，指導您如何實現目標。
+将您的Marketo实例视为产品很有帮助。 您有客户，并且需要将您的实例开发成一种让客户满意的产品。 但是，匆忙进行生命周期营销或反补贴税可能收效不佳。 您还有一个产品路线图，它是您的工作计划，指导您如何实现目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342564/?quality=12&learn=on)

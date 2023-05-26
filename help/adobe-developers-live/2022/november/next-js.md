@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - 11月22日 — 將內容內嵌和Headless編寫帶到Next.JS應用程式
-description: 將In-Context和Headless Authoring帶入您的Next.JS AppNext.js提供絕佳的開發人員體驗，以建置準備好用於生產的React應用程式，尤其是透過混合靜態和伺服器呈現。 它是由Adobe Experience Manager提供支援的網站的完美傳送工具。在本次研討會中，我們將說明如何：快速啟動搭配Adobe Experience Manager內容使用的新Next.js應用程式使用React Editable SDK啟用內容內嵌編輯從Adobe Experience Manager Headless CMS擷取內容，並在Next.js應用程式中轉譯
+title: Adobe Developers Live - 11月22日 — 将上下文和Headless创作引入您的Next.JS应用程序
+description: 将In-Context和Headless创作引入您的Next.JS AppNext.js为构建准备好用于生产的React应用程序（尤其是混合静态和服务器渲染）提供了出色的开发人员体验。 它是由Adobe Experience Manager提供支持的网站的理想交付工具。在本会话中，我们将向您展示如何：快速引导一个使用Adobe Experience Manager内容的新Next.js应用程序使用React Editable SDK启用上下文编辑从Adobe Experience Manager Headless CMS获取内容并在Next.js应用程序中渲染
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,21 +11,22 @@ level: Intermediate
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11482
 thumbnail: 3411303.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: d62ea5f5-9239-44f5-9e5d-4d543e94f1c0
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# 將內容內嵌和Headless編寫帶到Next.JS應用程式
+# 将上下文和Headless创作引入您的Next.JS应用程序
 
-Next.js提供絕佳的開發人員體驗，可建置已準備好投入生產的React應用程式，尤其是混合靜態和伺服器轉譯。 這是由Adobe Experience Manager提供支援的網站的完美傳送工具。
+Next.js为构建准备好用于生产的React应用程序提供了出色的开发人员体验，尤其是通过混合静态渲染和服务器渲染的应用程序。 它是Adobe Experience Manager支持的网站的完美交付工具。
 
-在本次研討會中，我們將說明如何：
+在本会话中，我们将向您说明如何：
 
-* 快速啟動處理Adobe Experience Manager內容的新Next.js應用程式
-* 使用React Editable SDK來啟用內容內編輯
-* 從Adobe Experience Manager Headless CMS擷取內容並在Next.js應用程式中轉譯
+* 快速引导适用于Adobe Experience Manager内容的新Next.js应用程序
+* 使用React Editable SDK启用上下文内编辑
+* 从Adobe Experience Manager Headless CMS获取内容并在Next.js应用程序中渲染
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411303/?quality=12&learn=on)

@@ -1,22 +1,23 @@
 ---
-title: 關於跨裝置分析和Customer Journey Analytics的所有須知事項
-description: 進一步瞭解如何使用Adobe Analytics和Customer Journey Analytics來分析跨瀏覽器/裝置/應用程式和多個管道的使用者行為。
+title: 您需要了解的关于Cross Device Analytics和Customer Journey Analytics的所有信息
+description: 更好地了解如何使用Adobe Analytics和Customer Journey Analytics分析跨浏览器/设备/应用程序和多个渠道的用户行为。
 solution: Customer Journey Analytics, Analytics
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10565
 thumbnail: 343820.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: ddb44c5f-563b-4f42-bcdc-7eccefbe5239
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# 關於跨裝置分析和Customer Journey Analytics的所有須知事項
+# 您需要了解的关于Cross Device Analytics和Customer Journey Analytics的所有信息
 
-進一步瞭解如何使用Adobe Analytics和Customer Journey Analytics來分析跨瀏覽器/裝置/應用程式和多個管道的使用者行為。
+更好地了解如何使用Adobe Analytics和Customer Journey Analytics分析跨浏览器/设备/应用程序和多个渠道的用户行为。
 
-*Sonia Charles* 解決方案顧問、資料與見解/Adobe
+*索尼娅·查尔斯* 解决方案顾问、数据和见解/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

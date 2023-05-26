@@ -1,6 +1,6 @@
 ---
-title: 畫面Cloud Service
-description: 瞭解為數位看板頻道傳送內容與傳送網站之間的差異，以及Screensas a Cloud Service如何提供頻道特定的傳送機制，以解決數位看板的獨特需求。
+title: 屏幕Cloud Service
+description: 了解为数字标牌渠道交付内容与交付网站之间的区别，以及Screensas a Cloud Service如何提供特定于渠道的交付机制来满足数字标牌的独特要求。
 solution: Experience Manager,Experience Manager Screens
 feature: Developer Tools
 topic: Development
@@ -9,23 +9,24 @@ level: Experienced
 version: Cloud Service
 kt: 9193
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 948ef31b-2793-4a1c-aea4-b269c86881af
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 11%
 
 ---
 
-# 畫面Cloud Service
+# 屏幕Cloud Service
 
-瞭解為數位看板頻道傳送內容與傳送網站之間的差異，以及Screensas a Cloud Service如何提供頻道特定的傳送機制，以解決數位看板的獨特需求。
+了解为数字标牌渠道交付内容与交付网站之间的区别，以及Screensas a Cloud Service如何提供特定于渠道的交付机制来满足数字标牌的独特要求。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3umX8Be)**.
+在中继续对话 **[Experience League社区](https://adobe.ly/3umX8Be)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337885/?quality=12&learn=on&hidetitle=true)
 
 ## 其他资源
 
 - [Adobe Experience Manager 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience ManagerCloud Service概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience ManagerCloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

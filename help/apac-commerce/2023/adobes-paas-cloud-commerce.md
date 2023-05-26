@@ -11,17 +11,17 @@ doc-type: Event
 last-substantial-update: 2023-05-17T00:00:00Z
 jira: KT-13206
 event-start-time: 2023-4-27 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: 064aa963-a1a9-4f0d-8294-dc7b774420b0
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-
 # 利用Adobe的PaaS Cloud Commerce简化您的业务
 
-在最新一期的APAC Commerce网络研讨会系列中，我们探讨了AdobeCommerce CloudPaaS解决方案的价值。 对于自行托管并想了解PaaS解决方案可为他们提供什么内容的任何人，本网络研讨会敬请参加。 如果您已经是Adobe Commerce Cloud客户，可以加入我们，详细了解如何最大限度地提高现有设置的价值。
+在最新一期的APAC Commerce网络研讨会系列中，我们探讨了Adobe的Commerce CloudPaaS解决方案的价值。 对于自行托管并想了解PaaS解决方案可为他们提供什么内容的任何人，本网络研讨会敬请参加。 如果您已经是Adobe Commerce Cloud客户，可以加入我们，详细了解如何最大限度地提高现有设置的价值。
 
 您将了解我们的一位客户，即印度尼西亚领先的运动服装分销商Panatrade是如何从内部部署到Adobe Commerce Cloud的，以及他们如何通过转向为其电子商务业务提供全面优化和管理的解决方案而获得回报的。
 

@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Experience Manager as a Cloud Service的本機組建分析器
-description: 專注於新增到AEM原型的新分析器，允許重新產生將在Cloud Manager部署管道中完成的本機驗證。
+title: 使用Adobe Experience Manager as a Cloud Service的本地内部版本分析器
+description: 重点关注添加到AEM原型的新分析器，允许重现将在Cloud Manager部署管道中完成的本地验证。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,20 +12,20 @@ version: Cloud Service
 kt: 7406
 type: Event
 thumbnail: 332307.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: e8bcfcde-7173-4c99-9857-bd5da4333953
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
+# 使用Adobe Experience Manager as a Cloud Service的本地内部版本分析器
 
-# 使用Adobe Experience Manager as a Cloud Service的本機組建分析器
+了解ACDL的事件驱动API。 Commerce示例将显示核心组件如何为其补充水合物，以及Launch扩展如何与AA和AT接口。
 
-瞭解ACDL的事件導向API。 Commerce範例將說明核心元件如何將其與Launch擴充功能與AA和AT介面進行水合化。
-
-繼續對話於 **[Experience League社群](http://adobe.ly/36Yd3v6)**.
+在中继续对话 **[Experience League社区](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** 用於工作階段投影片。
+单击 **[此处](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** 用于会话幻灯片。

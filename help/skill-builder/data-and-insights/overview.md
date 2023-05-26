@@ -1,7 +1,8 @@
 ---
 title: Skill Builder概述
 description: 使用整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。
-source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
+exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -18,7 +19,7 @@ ht-degree: 6%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
-      <img alt="使用 Adobe Target 打造个性化和自动化" src="assets/343821.jpeg" />
+      <img alt="使用 Adobe Target 打造个性化和自动化" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
@@ -31,7 +32,7 @@ ht-degree: 6%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
-      <img alt="2022年创新和趋势" src="assets/343818.jpeg" />
+      <img alt="2022年创新和趋势" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
@@ -44,7 +45,7 @@ ht-degree: 6%
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="适用于移动设备和应用程序的Analytics和Target应用程序" src="assets/343819.jpeg" />
+      <img alt="适用于移动设备和应用程序的Analytics和Target应用程序" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
@@ -61,4 +62,3 @@ ht-degree: 6%
 >[!TIP]
 >
 >**左侧导航中列出了所有录制的会话**.
-

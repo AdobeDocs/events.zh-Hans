@@ -1,27 +1,28 @@
 ---
-title: 簡化資料管理的第一步
-description: 隨著資料量不斷增加，公司很難有效擷取數位互動資料，並將資料傳送至適當的行銷…… （說明應該介於60到160個字元之間）
+title: 简化您的第一步数据管理
+description: 数据量不断增加，使公司很难高效地捕获数字交互数据并将这些数据发送到适当的营销部门……（请用60到160个字符描述）
 solution: Real-time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 57d7697c-455e-428e-95ed-7a29852a702a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
 
 ---
 
-# 簡化資料管理的第一步
+# 简化您的第一步数据管理
 
-資料量不斷增加，讓公司很難有效擷取數位互動資料，並將資料傳送至適當的行銷管道。 瀏覽器淘汰第三方Cookie增添了額外的複雜性，這要求公司尋找伺服器端解決方案，以繼續將資料傳送給合作夥伴。 在這場網路研討會中，Adobe的Gabriel Jaquier、Jeff Chasin和Jon Viray分享了如何運用Real-Time CDP Connections克服這些挑戰的策略。
+数据量不断增加，使公司难以有效地捕获数字交互数据并将其发送到适当的营销渠道。 浏览器弃用第三方Cookie又增加了一个复杂程度，它要求公司找到服务器端解决方案以继续向合作伙伴发送数据。 在本网络研讨会中，Adobe的Gabriel Jaquier、Jeff Chasin和Jon Viray分享了有关如何通过利用Real-Time CDP Connections克服这些挑战的策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344311/?quality=12&learn=on)
 
 ## 其他信息
 
-* [選擇客戶資料平台以取得成功](cdp-success.md)
-* [客戶資料管理的人員與流程最佳實務](people-and-process.md)
-* [使用客戶設定檔建立更好的體驗](building-better-experiences-with-customer-profiles.md)
+* [选择客户数据平台以取得成功](cdp-success.md)
+* [客户数据管理人员和流程最佳实践](people-and-process.md)
+* [利用客户配置文件构建更好的体验](building-better-experiences-with-customer-profiles.md)

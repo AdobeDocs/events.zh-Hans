@@ -1,33 +1,34 @@
 ---
-title: AEM 5.6升級機制
-description: 瞭解CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用計畫和內容，只需將CQ/AEM jar檔案替換為新的檔案即可。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並評論與升級相關的一些技術挑戰。
+title: AEM 5.6升级机制
+description: 了解CQ/AEM中的升级机制，该机制允许仅通过将CQ/AEM jar文件替换为新文件来升级CQ本身以及自定义应用程序和内容。 我们将介绍一般升级方案，描述升级扩展点，解释我们如何测试升级机制，并评论与升级相关的一些技术挑战。
 uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 59101371-c17d-45cc-a184-6ce7ebb01fe2
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
 
 ---
 
-# AEM 5.6升級機制 {#aem-upgrade-mechanisms}
+# AEM 5.6升级机制 {#aem-upgrade-mechanisms}
 
-本會議說明CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用程式和內容，只需以新檔案取代CQ/AEM jar檔案即可。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並評論與升級相關的一些技術挑戰。
+此会话介绍了CQ/AEM中的升级机制，这些机制允许仅通过将CQ/AEM jar文件替换为新的文件来升级CQ本身以及自定义应用程序和内容。 我们将介绍一般升级方案，描述升级扩展点，解释我们如何测试升级机制，并评论与升级相关的一些技术挑战。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*2013年5月22日送達*
+*2013年5月22日交付*
 
-**展示者：**
+**呈列方式：**
 
-Bertrand Delacretaz，Adobe資深開發人員
+Bertrand Delacretaz，高级开发人员，Adobe
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
 [文档](http://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
 

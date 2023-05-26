@@ -1,19 +1,20 @@
 ---
-title: 進階報告
-description: Monique Evans分享其組織瞭解工作進度和完成工作所需的報告。 （2020年6月2日）
+title: 高级报告
+description: 莫妮克·埃文斯分享了她的组织需要知道工作进展和完成工作的报告。 （2020年6月2日）
 role: Admin, User
 level: Experienced
 kt: 9979
 thumbnail: 341212.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 944536e0-137f-4218-88f8-4ff89a7d95bb
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# 進階報告
+# 高级报告
 
-加入我們，因為Monique Evans會分享其組織建立的報表，以瞭解工作進度和完成工作所需的內容。  （2020年6月2日）
+欢迎加入我们，Monique Evans与我们分享她的组织创建的报告，以了解工作进展和需要完成的工作。  （2020年6月2日）
 
 >[!VIDEO](https://video.tv.adobe.com/v/341212/?quality=12&learn=on)
