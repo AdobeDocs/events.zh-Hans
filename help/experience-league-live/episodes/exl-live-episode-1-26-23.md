@@ -1,29 +1,29 @@
 ---
-title: 資料收集重點和藍圖
-description: 資料收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，今年我们即将推出非常棒的产品。
+title: 数据收集亮点和路线图
+description: 数据收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，今年我们即将推出非常棒的产品。
 solution: Data Collection,Experience Platform,Analytics,Real-time Customer Data Platform,Customer Journey Analytics
 kt: 11645
-thumbnail: 3412963.jpg
+thumbnail: https://video.tv.adobe.com/v/3412963?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=Gj_FDCMgU8I
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230126.html
 event-start-time: 2023-1-26 09:00-8
 event-guests: Rudi Shumpert,Mitch Rice,Doug Moore
 exl-id: f2552b21-3b1e-4538-bfe4-a37f4225c4d0
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 2f91f340269875ee9affbfafc09a3476bfb80d39
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 37%
 
 ---
 
-# 資料收集重點和藍圖
+# 数据收集亮点和路线图
 
-**我們發佈的內容和Adobe資料收集的功能**
+**我们发布的内容和Adobe数据收集的功能**
 
-資料收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，今年我们即将推出非常棒的产品。
+数据收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，今年我们即将推出非常棒的产品。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412963/?quality=12&learn=on)
 
-觀看上述影片以觀看此直播串流活動，Adobe資料收集專家在此會回顧最近的重要更新，並快速瀏覽即將推出的藍圖專案。
+观看上面的视频，观看此实时流活动，其中Adobe数据收集专家回顾了最近的重要更新，并一窥即将推出的路线图项目。
 
-有任何問題嗎？ 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+有疑问吗？ 在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
