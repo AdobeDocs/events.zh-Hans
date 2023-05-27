@@ -3,10 +3,10 @@ title: Adobe Developers Live
 description: Adobe Developers Live中的会话录制集合
 solution: Experience Cloud, Experience Manager
 exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 29%
 
 ---
 
@@ -24,104 +24,108 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
 >
 >**左侧导航中列出了所有录制的会话**.
 
-## 2021 年 10 月
+<!--
 
-跨Adobe Experience Cloud、Document Cloud和Creative CloudAdobe产品团队展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。
+## October 2021
 
-查看所有其他 [会话](2021/october/overview.md) ！
+Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries.
+
+Check out the all of the other [sessions](2021/october/overview.md) !
 
 <table>
   <tr>
    <td>
       <a href="2021/october/headless.md">
-      <img alt="Headless站点" src="assets/mathias.png"/>
+      <img alt="Headless Sites" src="assets/mathias.png"/>
       </a>
       <div>
-         <a href="2021/october/headless.md"><strong>Headless站点</strong></a>         
-         <br/><em>AEM Sites首席产品经理Mathias Siegl</em>
+         <a href="2021/october/headless.md"><strong>Headless Sites</strong></a>         
+         <br/><em>with Mathias Siegl, Principal Product Manager, AEM Sites</em>
       </div>
       <p>
         <br/>
-         借助适用于AEM 6.5和Adobe Experience Manager as a Cloud Service的GraphQL for Content Fragments，让我们探索如何使用Adobe Experience Manager作为Headless CMS。
+         With GraphQL for Content Fragments available for AEM 6.5 and Adobe Experience Manager as a Cloud Service, let's explore how Adobe Experience Manager can be used as a headless CMS.
       </p>
      </td>   
      <td>
       <a href="2021/october/aep-integration.md">
-      <img alt="Adobe Experience Platform集成概述" src="assets/eric.png"/>
+      <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
       </a>
       <div>
-         <a href="2021/october/aep-integration.md"><strong>Adobe Experience Platform集成概述</strong></a>
-         <br/><em>与首席企业解决方案设计师Eric Knee一起</em>
+         <a href="2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
+         <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
       </div>
       <p>
         <br/>
-         该会议将为您全面介绍Adobe Experience Platform可在您的生态系统中集成的各种方式，以及在规划集成工作时要考虑的事项。
+         This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work.
       </p>
    </td>
    </td>
      <td>
       <a href="2021/october/pdf-services-api.md">
-      <img alt="使用Adobe Sign API在您的应用程序中生成文档并捕获电子签名" src="assets/ben.png"/>
+      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
       </a>
       <div>
-         <a href="2021/october/pdf-services-api.md"><strong>使用Adobe Sign API在您的应用程序中生成文档并捕获电子签名</strong></a>
-         <br/><em>首席开发商Evangelist</em>
+         <a href="2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
+         <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
       </div>
       <p>
         <br/>
-         Adobe生成API是一种功能强大的文档创建服务，由与您的数据合并的Microsoft Word模板驱动。 在与Adobe Sign API结合使用时，开发人员可以轻松地生成动态文档，以便通过“签名”工作流进行处理。
+         Adobe Document Generation API is a powerful document creation service driven by Microsoft Word templates merged with your data. When combined with Adobe Sign API, developers have an easy way to generate dynamic documents ready to be processed through the Sign workflow.
       </p>
    </td> 
   </tr>
 </table>
 
-## 2021 年 2 月
+## February 2021
 
-该为期两天的会议将提供重要的Adobe Experience Manager开发人员更新，例如Headless和GraphQL、Adobe Experience Manager as a Cloud Service、技术会议和社区社交机会。
+This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
-查看所有其他 [会话](2021/february/overview.md).
+Check out the all of the other [sessions](2021/february/overview.md).
 
 <table>
   <tr>
    <td>
       <a href="2021/february/headless-graphql-content-fragments.md">
-      <img alt="Headless — 带有内容片段的GraphQL" src="assets/jabran.png"/>
+      <img alt="Headless - GraphQL with Content Fragments" src="assets/jabran.png"/>
       </a>
       <div>
-         <a href="2021/february/headless-graphql-content-fragments.md"><strong>Headless — 带有内容片段的GraphQL</strong></a>         
-         <br/><em>高级软件工程师Jabran Asghar</em>
+         <a href="2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
+         <br/><em>with Jabran Asghar, Sr. Software Engineer</em>
       </div>
       <p>
         <br/>
-         了解最新的内容片段增强功能的新Headless功能。 本课程将重点介绍适用于AEM Cloud Service的GraphQL API。
+         Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for AEM Cloud Service.
       </p>
      </td>   
      <td>
       <a href="2021/february/rapid-frontend-devlopment.md">
-      <img alt="前端开发 — 您未来的工作流程，用于快速构建和部署网站的前端。" src="assets/gabriel.png"/>
+      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="assets/gabriel.png"/>
       </a>
       <div>
-         <a href="2021/february/rapid-frontend-devlopment.md"><strong>前端开发 — 您未来的工作流程，用于快速构建和部署网站的前端。</strong></a>
-         <br/><em>高级产品经理Gabriel Walt</em>
+         <a href="2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
+         <br/><em>with Gabriel Walt, Sr. Product Manager</em>
       </div>
       <p>
         <br/>
-         使用站点模板只需单击几下即可创建新站点，并可通过快速部署前端资产（如CSS&amp;JS）而让前端开发的乐趣回归。
+         Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS&JS.
       </p>
    </td>
    </td>
      <td>
       <a href="2021/february/get-ready-aem-cloud.md">
-      <img alt="为Cloud Service做好准备 — 迁移最佳实践" src="assets/andreea.png"/>
+      <img alt="Get ready for the Cloud Service - Migration best practices" src="assets/andreea.png"/>
       </a>
       <div>
-         <a href="2021/february/get-ready-aem-cloud.md"><strong>为Cloud Service做好准备 — 迁移最佳实践</strong></a>
-         <br/><em>高级软件工程师Andreea Moise</em>
+         <a href="2021/february/get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
+         <br/><em>with Andreea Moise, Sr. Software Engineer</em>
       </div>
       <p>
         <br/>
-         调整您的代码库以使其对云友好并抵御未来在幕后处理的升级是最大限度地发挥AEM Cloud Service好处的关键。
+         Adapting your code base to make it cloud-friendly and bulletproof against future upgrades handled under the hood is key to maximize AEM Cloud Service benefits.
       </p>
    </td>
   </tr>
 </table>
+
+-->
