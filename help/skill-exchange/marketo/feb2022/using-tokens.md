@@ -1,22 +1,22 @@
 ---
-title: 使用Marketo Engage中的令牌的可扩展性和效率
-description: 了解如何在个性化之外使用令牌，以使您的项目构建和操作在Marketo Engage中更有效。
+title: 使用Token实现可扩展性和效率 [!DNL Marketo Engage]
+description: 了解如何在个性化之外使用令牌，以使您的项目构建和操作在中更高效 [!DNL Marketo Engage].
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 8f061a2b-2a7a-4186-be46-55690e21c0fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 使用Marketo Engage中的令牌的可扩展性和效率
+# 使用Token实现可扩展性和效率 [!DNL Marketo Engage]
 
-了解如何在个性化之外使用令牌，以使您的项目构建和操作在Marketo Engage中更有效。
+了解如何在个性化之外使用令牌，以使您的项目构建和操作在中更高效 [!DNL Marketo Engage].
 
 **关键要点**
 

@@ -2,9 +2,9 @@
 title: Adobe内容管理论坛
 description: Adobe内容管理论坛中的会话录制集合
 exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 * 如何使体验管理现代化，实现内容创作大众化、使全渠道交付变得轻而易举，并扩展个性化以使每个体验都具有重要意义。
 * 如何构建可针对个性化进行扩展的内容供应链
 * 如何缩短新站点创建的上市时间并减少对技术资源的依赖
-* 作为云原生服务提供的Experience Manager的最新创新，以及您如何在保持领先地位的同时适应不断变化的市场预期
-* 如何使用GraphQL和内容片段，以Adobe Experience Manager as a Headless CMS更快地构建站点
+* 的最新创新 [!DNL Experience Manager] 作为云原生服务提供，以及您如何适应不断变化的市场预期，同时保持领先
+* 如何使用Adobe更快地构建站点 [!DNL Experience Manager] 作为Headless CMS，使用GraphQL和内容片段
 * 加快Adobe Experience Manager Sites上市时间的开发人员最佳实践
 
 >[!TIP]
@@ -46,12 +46,12 @@ ht-degree: 0%
       <img alt="全部资产" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>使用AdobeApp Builder扩展Adobe Experience Manager Headless</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>扩展Adobe [!DNL Experience Manager] 带Adobe的Headless [!DNL App Builder]</strong></a>         
          <br/><em>和普妮玛·拉乔尔·罗伊</em>
       </div>
       <p>
         <br/>
-          了解Assets Essentials如何成为适用于部门和中型企业的新数字资产管理系统。
+          了解如何 [!DNL Assets Essentials] 是新的 [!DNL Digital Asset Management] 适用于部门和中型公司的系统。
       </p>
    </td>
    <td>

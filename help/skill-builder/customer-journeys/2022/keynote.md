@@ -1,16 +1,16 @@
 ---
 title: 主题演讲 - 跨 B2B 和 B2C 的 Customer Journey 趋势和创新
 description: 了解跨B2B和B2C的客户历程管理的最新趋势
-solution: Marketo, Campaign Classic v7, Campaign v8
+solution: Marketo, [!DNL Campaign Classic] v7, Campaign v8
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10572
 thumbnail: 343822.jpeg
 exl-id: 86eb7396-72c9-4a3e-9689-22cb77184a21
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 23%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

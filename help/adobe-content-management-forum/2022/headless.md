@@ -1,6 +1,6 @@
 ---
-title: 使用AdobeApp Builder扩展Adobe Experience Manager Headless
-description: 关于Experience ManagerHeadless和AdobeApp Builder。 从事件驱动的集成、可扩展的无服务器处理到单页应用程序(SPA)，将AEM与第三方系统集成
+title: 使用App Builder扩展Experience ManagerHeadless
+description: 了解Experience Manager无头和AdobeApp Builder。 将AEM与第三方系统集成，从事件驱动的集成、可扩展的无服务器处理到单页应用程序(SPA)。
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools, APIs, Integrations
 topic: Headless, Development
@@ -9,15 +9,15 @@ level: Intermediate, Experienced
 kt: 10790
 thumbnail: 345380.png
 exl-id: 84c85f98-98e5-44fe-96b4-5a6e4546cece
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 使用AdobeApp Builder扩展Adobe Experience Manager Headless
+# 扩展 [!DNL Experience Manager] 带Adobe的Headless [!DNL App Builder]
 
-Sean Steimer和Kelvin Xu谈到了Experience ManagerHeadless和AdobeApp Builder。 从事件驱动型集成、可扩展的无服务器处理到单页应用程序(SPA)，App Builder提供了强大的功能，可将Adobe Experience Manager与第三方系统以Headless方式集成。 了解一些实际用例和常见模式，在这些用例中，App Builder用于扩展Adobe Experience Manager。
+肖恩·施泰默和许家骅谈论 [!DNL Experience Manager] Headless和 [!DNL App Builder]. 从事件驱动的集成、可扩展的无服务器处理到单页应用程序(SPA)， [!DNL App Builder] 为集成Adobe提供了强大的功能 [!DNL Experience Manager] 与第三方系统一起以Headless方式运行。 了解一些实际用例和常见模式，其中 [!DNL App Builder] 已用于扩展Adobe [!DNL Experience Manager].
 
 >[!VIDEO](https://video.tv.adobe.com/v/345380/?quality=12&learn=on)

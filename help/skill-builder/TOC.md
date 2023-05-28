@@ -1,10 +1,10 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: 这是将显示在登陆页上的用户指南描述。
-source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 45%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,10 +40,12 @@ ht-degree: 45%
    + [概述](customer-journeys/overview.md)
    + 2022 年 {#2022}
       + [Adobe Campaign Standard 的关键提示和技巧](customer-journeys/2022/tips-and-tricks.md)
-      + [在 Adobe Campaign Classic 中开发和自定义数据模型](customer-journeys/2022/data-models.md)
+      + [在Adobe中开发和自定义数据模型 [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [跨B2B和B2C的客户历程趋势和创新](customer-journeys/2022/keynote.md)
-      + [携手共进 - Adobe Marketo Engage 和 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [使用 Marketo Engage 和 Adobe Experience Cloud 的 B2B 体验](customer-journeys/2022/b2b-experiences.md)
+      + [携手共进 — Adobe [!DNL Marketo Engage] 和Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [ [!DNL Marketo Engage] 使用 和 Adobe Experience Cloud 的 B2B 体验](customer-journeys/2022/b2b-experiences.md)
+&lt;!---    + 
+[Adobe Campaign Classic V7 与 V8](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + 数据和见解 {#data-and-insights}
    + [概述](data-and-insights/overview.md)
    + 2022 年 {#2022}

@@ -2,10 +2,10 @@
 title: Skill Builder — 客户历程
 description: 录制的网络研讨会系列，通过从所有来源提取数据以创建个性化的跨渠道历程，帮助您开发实时客户档案。
 exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 24%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,28 +19,28 @@ ht-degree: 24%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="携手共进 - Adobe Marketo Engage 和 Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
+      <img alt="携手共进 — Adobe [!DNL Marketo Engage] 和Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>携手共进 - Adobe Marketo Engage 和 Real-Time CDP</strong>
+        <strong>携手共进 — Adobe [!DNL Marketo Engage] 和Real-Time CDP</strong>
       </a>
     </div>
     <p>
-    <em>了解如何使用Marketo Engage和RT-CDP （B2B版本）来编排B2B营销活动，以及解锁的主要用例和优势有哪些。</em>
+    <em>了解如何使用编排B2B活动 [!DNL Marketo Engage] 和RT-CDP（B2B版本）以及解锁的顶级用例和优势有哪些。</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="在 Adobe Campaign Classic 中开发和自定义数据模型" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
+      <img alt="在Adobe中开发和自定义数据模型 [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>在 Adobe Campaign Classic 中开发和自定义数据模型</strong>
+        <strong>在Adobe中开发和自定义数据模型 [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>与我们的Campaign培训师一起参加此会议，了解如何在Campaign Classic中的数据模型中开发数据架构。</em>
+    <em>与我们的Campaign培训师一起参加此会议，了解如何在中开发数据模型中的数据架构 [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>

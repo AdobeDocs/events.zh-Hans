@@ -1,22 +1,22 @@
 ---
-title: 在Marketo Engage中报告
-description: 了解Marketo Engage中的高级报表功能，并深入了解报表和智能列表。
+title: 报告范围 [!DNL Marketo Engage]
+description: 了解内的高级报告功能 [!DNL Marketo Engage]，并深入了解报表和智能列表。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
 exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 在Marketo Engage中报告
+# 报告范围 [!DNL Marketo Engage]
 
-该会议将回顾Marketo Engage中可用的所有报告工具，包括：
+该会议将回顾以下站点提供的所有报告工具： [!DNL Marketo Engage] 包括：
 
 * 报告
 * 智能列表
@@ -29,6 +29,6 @@ ht-degree: 2%
 * 何时使用标准报表与智能列表
 * 订阅
 
-在本次研讨会结束时，您将了解Marketo Engage中的高级报表功能，并深入了解报表和智能列表。
+在本次研讨会结束时，您将了解以下各项的高级报告功能： [!DNL Marketo Engage]，并深入了解报表和智能列表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

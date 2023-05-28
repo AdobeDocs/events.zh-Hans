@@ -9,9 +9,9 @@ last-substantial-update: 2022-10-31T00:00:00Z
 kt: 11371
 thumbnail: 3410646.jpeg
 exl-id: 857c5b59-fc03-42ed-aed0-506c761cda37
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 * 将数据转化为价值
 * 构建强大的数据基础
-* 组合MBI和Analytics数据
+* 组合MBI和 [!DNL Analytics] 数据
 
 您还将看到平台的实时演示，以将这些概念带入现实中。
 
