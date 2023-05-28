@@ -44,8 +44,6 @@ ht-degree: 0%
       + [跨B2B和B2C的客户历程趋势和创新](customer-journeys/2022/keynote.md)
       + [携手共进 — Adobe [!DNL Marketo Engage] 和Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [ [!DNL Marketo Engage] 使用 和 Adobe Experience Cloud 的 B2B 体验](customer-journeys/2022/b2b-experiences.md)
-&lt;!---    + 
-[Adobe Campaign Classic V7 与 V8](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + 数据和见解 {#data-and-insights}
    + [概述](data-and-insights/overview.md)
    + 2022 年 {#2022}
