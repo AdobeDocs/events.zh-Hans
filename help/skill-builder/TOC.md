@@ -1,10 +1,10 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: 这是将显示在登陆页上的用户指南描述。
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 31%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 0%
       + [在Adobe中开发和自定义数据模型 [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [跨B2B和B2C的客户历程趋势和创新](customer-journeys/2022/keynote.md)
       + [携手共进 — Adobe [!DNL Marketo Engage] 和Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [ [!DNL Marketo Engage] 使用 和 Adobe Experience Cloud 的 B2B 体验](customer-journeys/2022/b2b-experiences.md)
+      + [使用的B2B体验 [!DNL Marketo Engage] 和Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
 + 数据和见解 {#data-and-insights}
    + [概述](data-and-insights/overview.md)
    + 2022 年 {#2022}
