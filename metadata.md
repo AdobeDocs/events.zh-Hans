@@ -2,12 +2,13 @@
 cloud: Experience Cloud
 solution: Experience Cloud
 product: experience cloud
-description: 來自Adobe直播串流活動的錄製集合。
+feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
+description: Adobe直播活动的录制集合。
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.zh-Hans
 index: true
-source-git-commit: 01971230eeaa291ac8f9130ece58484e925d611a
+source-git-commit: 93ecb00dde2ad0cd9bdc93e861cac82e7da07f49
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 83%
