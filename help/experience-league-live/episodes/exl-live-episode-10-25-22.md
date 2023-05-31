@@ -3,13 +3,15 @@ title: 通过决策管理在适当的时间提供适当的优惠
 description: Adobe Target和Adobe Real-time Customer Data Platform可以集成，以提供更加个性化的客户体验。 在这个直播活动中，了解集成这两个平台如何帮助企业实时收集数据，然后创建和测试有针对性的体验。 在实时演示中查看此强大功能的端到端过程。
 solution: Journey Optimizer
 kt: 11028
+feature: Offers
+role: User
 thumbnail: https://video.tv.adobe.com/v/3410560?format=jpeg
 event-cta-text: Set Reminder
 event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: 26cd8c02afc6f8cf506d82b363ccfd0482c3bafd
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
