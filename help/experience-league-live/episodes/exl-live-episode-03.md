@@ -3,14 +3,14 @@ title: 专家提示让您的假日营销活动引人注目
 description: 就像假日购物越早开始越好一样，计划火爆的假日营销活动也是越早开始越好。借助Adobe Campaign，您可以设计、规划和执行营销活动，使组织的所有假日愿望都成真。 但是您知道让举行的营销活动圆满结束的小贴士吗？ 请参加我们的现场讨论，我们会邀请三位在这方面拥有丰富的集体智慧的 Adobe 专家。我们将讨论可投放性和执行最佳实践，并向您展示如何在Adobe Campaign中完成所有这些操作。
 solution: Campaign
 feature: Deliverability
-role: user
+role: User
 kt: 8581
 thumbnail: https://video.tv.adobe.com/v/337219?format=jpeg
 event-cta-url: null
 event-start-time: 2021-09-22 09:00-7
 event-guests: Sandra Hausmann,Bruce Swann,Alyssa Nahatis,Stephen Ford
 exl-id: f31c00e6-0981-4224-b4c5-1bab123e9587
-source-git-commit: a9f78c1b470867b263b8dc1475524f9ac95bddcd
+source-git-commit: c761e3efb97d326a059660d359c817a8308a9aa0
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 44%
