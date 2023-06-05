@@ -2,9 +2,9 @@
 title: Skill Builder概述
 description: 使用整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。
 exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: d2a3a5edcdf1aa38a0d0daf469a6e83d4e0b996b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 6%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
       <img alt="使用 Adobe Target 打造个性化和自动化" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
         <strong>使用 Adobe Target 打造个性化和自动化</strong>
       </a>
     </div>
@@ -31,11 +31,11 @@ ht-degree: 6%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
       <img alt="2022年创新和趋势" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
         <strong>2022年创新和趋势</strong>
       </a>
     </div>
@@ -44,11 +44,11 @@ ht-degree: 6%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
       <img alt="适用于移动设备和应用程序的Analytics和Target应用程序" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
         <strong>适用于移动设备和应用程序的Analytics和Target应用程序</strong>
       </a>
     </div>
