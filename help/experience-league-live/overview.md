@@ -6,9 +6,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 66db5d4c9ae904c4dfa7f69c00142538021523b4
+source-git-commit: ebf56636b1eff403aebdda4e3417fdf12a0955eb
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 46%
 
 ---
@@ -23,16 +23,8 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-6-14-23.md">
-      <img alt="Experience League直播6月14日" src="assets/Jun14_2023_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-6-14-23.md">
-        <strong>通过Web渠道和内容实验，探索Adobe Journey Optimizer的未来</strong>
-      </a>
-      <br/><em>Sandra Hausmann、Robert Calangiu、Erik Wiener和Daniel Cristian Popescu</em>
-      <br/><em>2023年6月14日</em>
-    </div>
+  <td>
+    请稍后回来查看有关我们即将播出的节目的更多详细信息，网址为 <b>2023年7月20日</b>. 我们将讨论新的 <b>Real-Time CDP中的Audience Portal和组合功能</b>.
   </td>
 </tr>
 </table>
