@@ -2,9 +2,9 @@
 title: APAC Commerce网络研讨会系列
 description: APAC Commerce网络研讨会系列是面向Adobe Commerce客户的每月一次的研讨会，涵盖了从最佳实践到产品路线图和行业趋势的广泛主题。
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,15 @@ APAC Commerce网络研讨会系列是面向Adobe Commerce客户的每月一次�
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="用于可扩展和敏捷电子商务的可组合商务策略" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>New Relic Masterclass</strong>
+        <strong>用于可扩展和敏捷电子商务的可组合商务策略</strong>
       </a>
     </div>
     <p>
-    <em>参加此网络研讨会，了解如何使用New Relic控制您的基础设施。 通过访问和了解您的基础架构数据，满怀信心地开展您的下一个活动。</em>
+    <em>请参加我们的网络研讨会，深入了解可组合架构及其如何变革电子商务格局。</em>
     <p>
   </td>  
 </tr>
