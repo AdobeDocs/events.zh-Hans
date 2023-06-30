@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League活动录制
 user-guide-breadcrumb: Event Recordings
 user-guide-description: 强制使用Adobe企业产品时发生的事件录制集合
-source-git-commit: 03d83282eee7d5d3b7a2c5bdf2c6c82ac268b9a9
+source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 12%
+source-wordcount: '580'
+ht-degree: 13%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 12%
    + [Adobe Campaign Insider系列](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe内容管理论坛](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+   + [AEM Champion办公时间](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC商务活动](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [商务和咖啡](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [客户数据管理意见](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
@@ -55,6 +56,7 @@ ht-degree: 12%
    + Adobe Experience Manager {#aem}
       + [Adobe内容管理论坛](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+      + [AEM Champion办公时间](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
       + [Experience League直播](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [EXPERIENCE MANAGERGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Experience Manager版本概述](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
