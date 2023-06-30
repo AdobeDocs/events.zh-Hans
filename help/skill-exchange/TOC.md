@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: 来自Experience Makers的录制者技能交流的集合
 event-series: The Skill Exchange
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '379'
+ht-degree: 12%
 
 ---
 
@@ -15,6 +15,13 @@ ht-degree: 0%
 
 + [概述](overview.md)
 + Analytics {#analytics}
+   + 2023 年 5 月 {#may2023}
+      + [Adobe Analytics提示和技巧](analytics/may2023/tips-and-tricks.md)
+      + [迁移到EDDL/WebSDK](analytics/may2023/tips-and-tricks.md)
+      + [Rockstar提示](analytics/may2023/rockstar-tips.md)
+      + [提高生产效率](analytics/may2023/productivity.md)
+      + [了解指标](analytics/may2023/metrics.md)
+      + [用户界面基础知识](analytics/may2023/user-interface.md)
    + 2022 年 10 月 {#oct2022}
       + [快速入门](analytics/oct2022/getting-started.md)
       + [分析数据](analytics/oct2022/analyzing-the-data.md)
