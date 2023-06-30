@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: ebf56636b1eff403aebdda4e3417fdf12a0955eb
+source-git-commit: 32f483cf4faf83dfcf671ea5b9836a9b0f960105
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 46%
+source-wordcount: '169'
+ht-degree: 47%
 
 ---
 
@@ -23,8 +23,16 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td>
-    请稍后回来查看有关我们即将播出的节目的更多详细信息，网址为 <b>2023年7月20日</b>. 我们将讨论新的 <b>Real-Time CDP中的Audience Portal和组合功能</b>.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-7-20-23.md">
+      <img alt="Experience League直播 — 2023年7月20日" src="assets/July20_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-7-20-23.md">
+        <strong>可操作的受众，位于一个位置，来自任何来源，具有标准控件</strong>
+      </a>
+      <br/><em>阿隆·希尔兹、金·沃特科特和安德烈斯·蒙罗伊</em>
+      <br/><em>2023年7月20日</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -91,4 +99,4 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 >[!TIP]
 >
->如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
