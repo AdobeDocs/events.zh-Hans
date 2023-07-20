@@ -1,11 +1,11 @@
 ---
-user-guide-title: "[!DNL Experience Makers Learn from your peers]"
+user-guide-title: ”[!DNL Experience Makers Learn from your peers]”
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: “以下项的录制集合： [!DNL Experience Makers Learn from your peers]”
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '87'
+ht-degree: 21%
 
 ---
 
@@ -31,6 +31,8 @@ ht-degree: 22%
 + Experience Manager {#experience-manager}
    +  年 5 月{#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   +  年 7 月{#july2023}
+      + [Cloud Service中的有效安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
    +  年 6 月{#june2023}
       + [跟踪、分析和优化营销活动](marketo/june2023/marketing-campaigns.md)
