@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform Destination SDK简介
 description: 在本次研讨会中，我们将向您介绍Destination SDK- Adobe Experience Platform的一项新功能，它允许合作伙伴和客户在Adobe Experience Platform和Real-time Customer Data Platform中创建目标。 您将了解如何设置新的目标集成，以及它如何使贵组织和我们的共同客户受益。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Destinations
 topic: Development
 role: Developer, Architect
@@ -9,7 +9,7 @@ level: Experienced
 kt: 9146
 type: Event
 exl-id: 2355378d-9d5b-4143-97d5-d5a79b7ff2e9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 18%

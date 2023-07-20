@@ -1,7 +1,7 @@
 ---
 title: 一个故事，两种看法 - 品牌对消费者
 description: Adobe揭示广告商和出版商对于无与伦比的未来的理解和准备程度、对其用例的影响以及他们对更广泛的生态系统的看法。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -10,7 +10,7 @@ thumbnail: 332060.jpg
 kt: 7335
 type: Event
 exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 16%

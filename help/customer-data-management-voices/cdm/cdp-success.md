@@ -1,14 +1,14 @@
 ---
 title: 选择客户数据平台以取得成功
 description: 由于市场上有关CDP的喧嚣，我们很难知道应将重点放在何处以及如何为成功做好准备。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
 exl-id: 87bed2ec-5ad6-4eab-bf68-30275aaea2db
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
