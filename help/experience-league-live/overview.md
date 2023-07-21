@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 32f483cf4faf83dfcf671ea5b9836a9b0f960105
+source-git-commit: 8d5f937630f7a521c5cbe1d32d723a24cf8b2b21
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 47%
+source-wordcount: '159'
+ht-degree: 50%
 
 ---
 
@@ -23,16 +23,8 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-7-20-23.md">
-      <img alt="Experience League直播 — 2023年7月20日" src="assets/July20_2023_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-7-20-23.md">
-        <strong>可操作的受众，位于一个位置，来自任何来源，具有标准控件</strong>
-      </a>
-      <br/><em>阿隆·希尔兹、金·沃特科特和安德烈斯·蒙罗伊</em>
-      <br/><em>2023年7月20日</em>
-    </div>
+  <td style="vertical-align: top;">
+    请尽快返回此页面，了解我们即将播出的2023年8月节目的更多详细信息！
   </td>
 </tr>
 </table>
