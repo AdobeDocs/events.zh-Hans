@@ -3,10 +3,10 @@ title: Adobe Experience League事件
 description: 活动录制集合，重点介绍如何使用Adobe的企业产品
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
 workflow-type: tm+mt
-source-wordcount: '792'
-ht-degree: 10%
+source-wordcount: '836'
+ht-degree: 9%
 
 ---
 
@@ -87,6 +87,19 @@ ht-degree: 10%
          APAC Commerce网络研讨会系列是面向Adobe Commerce客户的每月一次的研讨会，涵盖了从最佳实践到产品路线图和行业趋势的广泛主题。
       </p>
     </td>
+      <td>
+      <a href="/help/adobe-customer-success-webinars/overview.md">
+      <img style="width:100%" alt="Adobe客户成功网络研讨会" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe客户成功网络研讨会</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Experience Cloud、Audience Manager、Real-Time CDP</em>
+      </div>
+      <p>
+        <br/>
+         由Adobe客户成功引导的网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
+      </p>
+    </td> 
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="商务和咖啡" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,7 @@ ht-degree: 10%
          您作为客户数据管理技术和营销实践领导者和专家的目标。 一站式服务，听取同行意见、获取灵感并了解市场技术方面的发展。
       </p>
     </td>
+   <tr> 
    <td>
       <a href="/help/deep-dives/overview.md">
       <img style="width:100%" alt="深度挖掘" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
@@ -126,8 +140,6 @@ ht-degree: 10%
          Deep Dive按需活动录制可帮助您更好地了解如何使用AdobeMarketo支持您的业务。
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -166,6 +178,8 @@ ht-degree: 10%
          快速大致了解 Adobe Experience Manager as a Cloud Service 的最新功能. 这些短视频时长约为 10 分钟，由 AEM 产品团队发布，其中介绍最新发行版的各项重大功能。
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
       <img style="width:100%" alt="向同行学习" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
@@ -179,8 +193,6 @@ ht-degree: 10%
          向Adobe专家和同行学习如何充分利用您的Adobe解决方案。 通过从业者为从业人员选择主题，这些交互式会议共享“可能的”用例、最佳实践以及提示和技巧。
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketo和莫哈斯" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -220,6 +232,8 @@ ht-degree: 10%
          Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最大限度地增加您在Adobe Experience Cloud中的投资。
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo和莫哈斯" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -233,8 +247,6 @@ ht-degree: 10%
          Experience Makers技能交流是一系列全球虚拟客户学习活动，重点是深入了解Adobe Experience Cloud解决方案。 此计划通过分享最佳实践和提示与技巧，为Adobe产品专家和专家同行提供学习的机会。
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
