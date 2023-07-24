@@ -2,10 +2,10 @@
 user-guide-title: 商业和咖啡活动
 breadcrumb-title: 商业和咖啡活动
 user-guide-description: Adobe Commerce和Coffee是一个视频库，专家和同行可以在其中分享有关如何使用Adobe Commerce的想法和想法。
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + 2023 {#2023}
    + [有机增长](2023/organic-growth.md)
    + [建立客户忠诚度和维系率的7种方法](2023/loyalty-retention.md)
+   + [支持B2B成功](2023/b2b.md)
 + 2022 年 {#2022}
    + [AI和自动化](2022/ai-and-automation.md)
    + [电子商务趋势](2022/ecommerce-trends.md)

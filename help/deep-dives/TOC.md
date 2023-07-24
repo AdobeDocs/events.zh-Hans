@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d8d773222bc081f58eea44d79c0deae28466fc54
+source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 7%
+source-wordcount: '30'
+ht-degree: 6%
 
 ---
 
@@ -24,4 +24,5 @@ ht-degree: 7%
    + [认证](certification.md)
    + [电子邮件培养](email-nurture.md)
    + [继承实例](inheriting-an-instance.md)
+   + [商机生命周期](lead-lifecycles.md)
    + [通过一支小型团队最大化您的实例](small-team-instance.md)
