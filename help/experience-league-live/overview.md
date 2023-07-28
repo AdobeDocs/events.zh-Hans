@@ -1,16 +1,16 @@
 ---
 title: Experience League LIVE 活动
 description: 一组指向原有 Experience League LIVE 活动的链接
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 50%
+source-wordcount: '167'
+ht-degree: 48%
 
 ---
 
@@ -20,12 +20,20 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <div id="upcoming-events">
 
-## 即将推出的Experience LeagueLIVE活动
+## 即将举行的Experience League直播活动
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    请尽快返回此页面，了解我们即将播出的2023年8月节目的更多详细信息！
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>Adobe Journey Optimizer中的API触发消息传递</strong>
+      </a>
+      <br/><em>桑德拉·豪斯曼、西达特·贾恩、尼基尔·夏尔马和切坦·普拉萨德</em>
+      <br/><em>2023年8月23日</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -51,13 +59,13 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience League直播4月21日" src="assets/youtube-thumbnails/april-21-yt.jpg">
+      <img alt="Experience LeagueLIVE 4月21日" src="assets/youtube-thumbnails/april-21-yt.jpg">
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
         <strong>从Headful到Headless的AEM</strong>
       </a>
-      <br/><em>丹尼·戈登、阿莫尔·阿南德、萨钦·马里和肖恩·施泰默</em>
+      <br/><em>与丹尼·戈登、阿莫尔·阿南德、萨钦·马里和肖恩·施泰默合作</em>
       <br/><em>2022年4月21日</em>
     </div>
   </td>
@@ -81,7 +89,7 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
       <a href="episodes/exl-live-episode-05-26-22.md">
         <strong>询问专家：Web SDK基础知识</strong>
       </a>
-      <br/><em>鲁迪·舒姆伯特、杰夫·查辛和埃里克·马蒂索夫</em>
+      <br/><em>与鲁迪·舒姆伯特、杰夫·查辛和埃里克·马蒂索夫合作</em>
       <br/><em>2022年5月26日</em>
     </div>
   </td>
