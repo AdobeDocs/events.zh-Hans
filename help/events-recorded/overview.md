@@ -3,20 +3,20 @@ title: Adobe Experience League事件
 description: 活动录制集合，重点介绍如何使用Adobe的企业产品
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '895'
 ht-degree: 9%
 
 ---
 
 # Adobe Experience League活动录制 {#events}
 
-## 对于Experience League来说，学习是一件大事。
+## 对于Experience League来说，学习就是一件大事。
 
-与独家活动和网络研讨会保持密切联系，扩大您的学习范围。 经常访问此分享空间以查看以往活动的录像，如Experience League直播、Skill Builders、开发人员直播，等等。 如果您要注册即将举行的活动，请查看 [即将举行的活动](https://%65xperienceleague.adobe.com/events/?lang=en) 在Experience League时。
+关注独家活动和网络研讨会，扩大您的学习范围。 请经常访问此空间，观看过去的活动(如Experience League直播、Skill Builders、开发人员直播，等等)的录像。 如果要注册参加即将举行的活动，请查看 [即将举行的活动](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League时。
 
-## 事件系列
+## 事件序列
 
 <table>
   <tr>
@@ -30,7 +30,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         面向Adobe Campaign客户的提示和技巧及灵感，以帮助制定跨渠道营销策略、提高团队营销从业人员的技能，并帮助组织推出更高级的跨渠道营销策略。
+         面向Adobe Campaign客户的提示和技巧及灵感，以帮助制定跨渠道营销策略、提升团队营销从业人员的技能，并帮助组织推出更高级的跨渠道营销策略。
       </p>
     </td>
    <td>
@@ -43,7 +43,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         向Adobe专家学习，他们讨论内容管理战略的当前和未来状态、交付件、挑战和技术要求。
+         向Adobe专家学习，讨论内容管理战略的当前和未来状态、交付件、挑战和技术要求。
       </p>
     </td>
    <td>
@@ -69,7 +69,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         Adobe Developers Live汇聚了背景各异但目标单一的Adobe开发人员和体验构建人员，共同创造超乎想象的端到端体验。
+         Adobe Developers Live汇聚背景各异但目标单一的Adobe开发人员和体验构建人员，共同创造超乎想象的端到端体验。
       </p>
     </td>
     </tr>
@@ -80,24 +80,24 @@ ht-degree: 9%
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM Champion办公时间</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Commerce、Adobe Experience Manager、Adobe Campaign、Adobe Marketo、Adobe Target、Customer Journey Analytics、Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         如果您有兴趣增进对Adobe Experience Manager的了解和使用、与Experience Manager思想领袖互动以及获得独家奖励，那么现在就加入AEM Champion办公时间用户组！
+         如果您有兴趣提高对Adobe Experience Manager的了解和使用、与Experience Manager思想领袖互动以及获得独家奖励，那么现在就加入AEM Champion办公时间用户组！
       </p>
     </td> 
    <td>
       <a href="/help/apac-commerce/overview.md">
-      <img style="width:100%" alt="亚太地区Adobe Commerce网络研讨会" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
+      <img style="width:100%" alt="APAC Adobe Commerce网络研讨会" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
       </a>
       <div>
-         <a href="/help/apac-commerce/overview.md"><strong>亚太地区Adobe Commerce网络研讨会</strong></a>
+         <a href="/help/apac-commerce/overview.md"><strong>APAC Adobe Commerce网络研讨会</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         APAC Commerce网络研讨会系列是面向Adobe Commerce客户的每月一次的研讨会，涵盖了从最佳实践到产品路线图和行业趋势的广泛主题。
+         APAC商务网络研讨会系列每月为Adobe Commerce客户举办一系列研讨会，涵盖从最佳实践到产品路线图和行业趋势等众多主题。
       </p>
     </td>
       <td>
@@ -110,7 +110,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         由Adobe客户成功引导的网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
+         以客户成功为导向的Adobe网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
       </p>
     </td>
    <td>
@@ -123,7 +123,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         Commerce &amp; Coffee系列适用于所有技能级别的现有Adobe Commerce客户，并具有Sr. Commerce Strategy Consultant， Corey Gelato的功能。 该系列侧重于商业战略和战术，并辅以反映事件主题的统计数据。
+         Commerce &amp; Coffee系列适用于所有技能级别的现有Adobe Commerce客户，具有Sr. Commerce Strategy Consultant和Corey Gelato的特点。 该系列侧重于商业战略和战术，并辅以反映事件主题的统计数据。
       </p>
     </td>
     </tr>
@@ -204,7 +204,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         向Adobe专家和同行学习如何充分利用您的Adobe解决方案。 通过从业者为从业人员选择主题，这些交互式会议共享“可能的”用例、最佳实践以及提示和技巧。
+         向Adobe专家和同行学习如何从您的Adobe解决方案中获取最大价值。 这些交互式会议通过从业者为从业人员选择主题，分享“可能的艺术”用例、最佳实践以及提示和技巧。
       </p>
     </td>
    <td>
@@ -220,6 +220,21 @@ ht-degree: 9%
          Marketo和Mochas将帮助您更好地了解如何使用AdobeMarketo支持您的业务。
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="办公室会议" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>办公时间</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         “办公时间”是一种主动减少案例的方法，它为客户提供了特定于解决方案的网络研讨会。 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI网络研讨会" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -230,24 +245,24 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         MBI网络研讨会系列是面向MBI客户的定期活动。 这些网络研讨会涵盖了充分利用MBI的各种主题和最佳实践。
+         MBI网络研讨会系列是面向MBI客户的定期活动。 这些网络研讨会涵盖了充分利用MBI的一系列主题和最佳实践。
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
       </a>
       <div>
          <a href="/help/skill-builder/overview.md"><strong>技能培养者</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics， Adobe Commerce， Adobe Experience Manager， Adobe Campaign，AdobeMarketo， Adobe Target，Customer Journey Analytics， Real-Time CDP</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Commerce、Adobe Experience Manager、Adobe Campaign、Adobe Marketo、Adobe Target、Customer Journey Analytics、Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最大限度地增加您在Adobe Experience Cloud中的投资。
+         Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最大化您对Adobe Experience Cloud的投资。
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo和莫哈斯" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -271,7 +286,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         一个录制的Workfront活动库，专家和同行可以在其中分享有关如何使用Workfront的想法。
+         Workfront活动录音库，专家和同行可在该库中分享有关如何使用Workfront的想法。
       </p>
     </td>
   </tr>    
