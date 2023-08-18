@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe Experience League活动录制
 user-guide-breadcrumb: Event Recordings
-user-guide-description: 强制使用Adobe企业产品时发生的事件录制集合
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+user-guide-description: 强制使用Adobe企业产品的事件记录集合
+source-git-commit: cd312615b7569fd5eabdee3b08e63ccb23b6ec28
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 13%
+source-wordcount: '588'
+ht-degree: 16%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 13%
    + [向同行学习](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo和莫哈斯](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [MBI网络研讨会](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+   + [办公时间](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
    + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -51,7 +52,7 @@ ht-degree: 13%
       + [商务和咖啡](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [MBI网络研讨会](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + 了解 Adobe Customer Journey Analytics {#cja}
+   + Adobe Customer Journey Analytics {#cja}
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Experience Manager {#aem}
       + [Adobe内容管理论坛](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
@@ -75,7 +76,7 @@ ht-degree: 13%
       + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
       + [Experience League直播](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + AdobeReal-time CDP {#rtcdp}
+   + Adobe实时CDP {#rtcdp}
       + [客户数据管理意见](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience League直播](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
