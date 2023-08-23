@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 48%
+source-wordcount: '171'
+ht-degree: 47%
 
 ---
 
@@ -24,16 +24,8 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-8-23-23.md">
-        <strong>Adobe Journey Optimizer中的API触发消息传递</strong>
-      </a>
-      <br/><em>桑德拉·豪斯曼、西达特·贾恩、尼基尔·夏尔马和切坦·普拉萨德</em>
-      <br/><em>2023年8月23日</em>
-    </div>
+  <td>
+    不久将来，请访问此页面以了解即将播出的内容，包括有关Real-time Customer Data Platform中相似受众的2023年9月播出的一集！
   </td>
 </tr>
 </table>
