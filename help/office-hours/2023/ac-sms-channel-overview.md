@@ -1,15 +1,17 @@
 ---
 title: 短信渠道概述和疑难解答提示
-description: 在此会话中，我们将介绍SMS架构、配置SMS渠道、配置SMPP外部帐户、创建SMS投放和疑难解答。
+description: 涵盖短信架构、配置短信渠道、配置SMPP外部帐户、创建短信投放和疑难解答。
+feature-set: Campaign
+feature: SMS, Architecture, Troubleshooting, External Account
 role: Admin, User
 level: Beginner
 doc-type: Event
 last-substantial-update: 2023-08-17T00:00:00Z
 jira: KT-13814
 thumbnail: 3422741.jpeg
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---

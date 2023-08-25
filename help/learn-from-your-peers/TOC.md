@@ -1,11 +1,11 @@
 ---
-user-guide-title: ”[!DNL Experience Makers Learn from your peers]”
+user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: “以下项的录制集合： [!DNL Experience Makers Learn from your peers]”
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+user-guide-description: “以下各项的录制收藏： [!DNL Experience Makers Learn from your peers]"
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '97'
+ht-degree: 20%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 21%
 + [Experience Maker](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
+      +  年 8 月{#aug2023}
+         + [在Adobe Analytics中释放处理规则的强大功能](analytics/aug2023/processing-rules.md)
       +  年 2 月{#feb2023}
          + [构建数据驱动型文化](analytics/feb2023/data-driven-culture.md)
          + [构建数据驱动型文化跟进问答](analytics/feb2023/data-driven-culture-q-and-a.md)
@@ -25,7 +27,7 @@ ht-degree: 21%
       +  年 8 月{#aug2022}
          + [数据质量和采用](analytics/aug2022/data-quality.md)
       +  年 6 月{#jun2022}
-         + [可能派人提供文件](analytics/june2022/mission-possible.md)
+         + [可能的文件访问](analytics/june2022/mission-possible.md)
       +  年 3 月{#mar2022}
          + [用数据讲述有影响力的故事](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
@@ -35,8 +37,8 @@ ht-degree: 21%
       + [Cloud Service中的有效安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
    +  年 6 月{#june2023}
-      + [跟踪、分析和优化营销活动](marketo/june2023/marketing-campaigns.md)
+      + [跟踪、分析和优化您的营销活动](marketo/june2023/marketing-campaigns.md)
    +  年 5 月{#may2023}
-      + [使用以下方式破解Scale Code中的个性化 [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
+      + [使用在规模代码中破解个性化 [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    +  年 3 月{#mar2023}
-      + [如何使您的 [!DNL Adobe Marketo Engage] 内容可缩放](marketo/mar2023/templates-tokens-teamwork.md)
+      + [如何创建您的 [!DNL Adobe Marketo Engage] 内容可缩放](marketo/mar2023/templates-tokens-teamwork.md)

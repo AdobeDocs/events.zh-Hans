@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 95a4f33eb72b0feb1d15875b04ee67d7256d1bd6
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 10%
+source-wordcount: '33'
+ht-degree: 9%
 
 ---
 
@@ -26,4 +26,5 @@ ht-degree: 10%
    + [可交付性 — 第2部分](2023/deliverability-part-two.md)
    + [商机评分](2023/lead-scoring.md)
    + [生命周期建模](2023/lifecycle-modeling.md)
+   + [MSI最佳实践和优化](2023/msi-best-practices.md)
    + [在线渠道与离线渠道](2023/online-offline.md)
