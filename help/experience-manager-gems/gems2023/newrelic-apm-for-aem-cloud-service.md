@@ -1,6 +1,6 @@
 ---
 title: aem云服务的newrelic apm
-description: 加入我们，参与我们的会议，我们将指导您认识和解决影响最终用户客户的挑战，并通过提高AEMas a Cloud Service项目的效率确保出色的体验 |衡量外部服务对您的AEMas a Cloud Service系统的影响 |充分利用定制和定制视图。 了解访问New Relic的过程，AEMas a Cloud Service默认包含该功能。 请随时回答您的查询和问题。
+description: 加入我们，参与我们的会议，我们将指导您认识和解决影响最终用户客户的挑战，通过提高AEMas a Cloud Service项目的效率确保出色的体验 |衡量外部服务对您的AEMas a Cloud Service系统的影响 |充分利用定制和定制视图。 了解访问New Relic的过程，AEMas a Cloud Service默认包含该功能。 请随时回答您的查询和问题。
 version: Cloud Service
 feature: Developer Tools
 topic: Performance
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: d66714c84c19ae2d34e61b4e8b221364e39f2774
+source-git-commit: 881f82df9eaa7438c0ffa8ee0bd5cf1c5505019a
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
