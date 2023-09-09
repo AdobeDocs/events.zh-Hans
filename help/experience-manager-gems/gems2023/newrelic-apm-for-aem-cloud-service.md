@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 3f90292238ae559361bf6ca3736e30742044a5b0
+source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 最大限度地提高性能并加快问题解决。
 
-该网络研讨会将于9月20日至下午5点（中部标准时间） \|太平洋夏季时间上午8点\|晚上8:30（印度标准时间）召开
+本网络研讨会将于9月20日至下午5点（中部标准时间） — 太平洋夏季时间上午8点 — 晚上8:30（印度标准时间）召开
 
 ## 注册
 
