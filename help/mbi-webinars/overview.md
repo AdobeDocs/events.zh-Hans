@@ -1,19 +1,23 @@
 ---
-title: MBI事件
-description: 探索MBI网络研讨会录像，其中涵盖了充分利用MBI的广泛主题和最佳实践。
+title: Commerce Intelligence网络研讨会
+description: 探索Commerce Intelligence录制的网络研讨会，其中涵盖最充分地使用Commerce Intelligence的多种主题和最佳实践。
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 30%
+source-wordcount: '303'
+ht-degree: 19%
 
 ---
 
-# MBI网络研讨会
+# Adobe Commerce Intelligence网络研讨会
 
-MBI网络研讨会系列是面向MBI客户的定期活动。 这些网络研讨会涵盖了充分利用MBI的各种主题和最佳实践。
+>[!NOTE]
+>
+>Adobe Commerce Intelligence以前称为 [!DNL Magento Business Intelligence (MBI)]. 过去活动的录制反映了之前的名字。
 
-来自所有地区的与会者都可现场参加活动，以更好地了解产品并获得关于MBI功能的问题的直接解答。
+Commerce Intelligence网络研讨会系列是面向MBI客户的定期事件。 这些网络研讨会涵盖了最充分地使用Commerce Intelligence的一系列主题和最佳实践。
+
+来自所有地区的与会者均可以参加实时活动，以更好地了解产品并获得关于Commerce Intelligence功能问题的直接解答。
 
 这些主题会偶尔重复出现，以适应客户可能提出的任何新问题。
 
@@ -31,7 +35,7 @@ MBI网络研讨会系列是面向MBI客户的定期活动。 这些网络研讨�
       </a>
     </div>
     <p>
-    <em>直接从 Commerce 产品团队了解 MBI 的核心功能，深入了解预配置的仪表板和可用的自定义选项。</em>
+    <em>通过深入了解预配置的仪表板和可用的自定义选项，直接从产品团队了解Commerce Intelligence的核心功能。</em>
     <p>
   </td>
   <td>
@@ -57,7 +61,7 @@ MBI网络研讨会系列是面向MBI客户的定期活动。 这些网络研讨�
       </a>
     </div>
     <p>
-    <em>使用Data warehouse管理器，您可以管理表和列同步设置，深入了解表的架构，并创建计算列以在报告中使用。</em>
+    <em>使用Data Warehouse管理器，您可以管理表和列同步设置、深入查看表的架构以及创建计算列以在报告中使用。</em>
     <p>
   </td>
 </tr>
@@ -65,9 +69,9 @@ MBI网络研讨会系列是面向MBI客户的定期活动。 这些网络研讨�
 
 >[!TIP]
 >
->**所有录制的网络研讨会都列在左侧导航栏中**.
+>**所有录制的网络研讨会都列在左侧导航区域中**.
 
 ## 有用的资源
 
-- [MBI视频和教程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+- [Commerce Intelligence视频和教程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)

@@ -1,22 +1,26 @@
 ---
-title: 在 MBI 中管理数据集
-description: 观看本网络研讨会，了解MBIData warehouse管理器的一些强大功能。
-landing-page-description: 观看本网络研讨会，了解MBIData warehouse管理器的一些强大功能。
-short-description: 观看本网络研讨会，了解MBIData warehouse管理器的一些强大功能。
+title: 在Commerce Intelligence管理数据集
+description: 观看此网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
+landing-page-description: 观看此网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
+short-description: 观看此网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
 kt: 10410
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: fa45b78f-9dc6-4466-a7d1-0deeb08c4d2c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 24%
+source-wordcount: '173'
+ht-degree: 20%
 
 ---
 
-# 在 MBI 中管理数据集
+# 在Commerce Intelligence管理数据集
+
+>[!NOTE]
+>
+>Adobe Commerce Intelligence以前称为 [!DNL Magento Business Intelligence (MBI)]. 过去活动的录制反映了之前的名字。
 
 直接从 Adobe Commerce 产品团队了解 MBI 数据仓库管理器的一些强大功能。超越基本的报告构建，了解如何利用您的数据做更多事情。
 
@@ -28,9 +32,5 @@ ht-degree: 24%
 
 ## 有用的资源
 
->[!TIP]
->
->如果您不熟悉MBI，则可以 [入门视频系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
-
-[data warehouse管理器导览](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[Data Warehouse经理导览](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
 [连接数据](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
