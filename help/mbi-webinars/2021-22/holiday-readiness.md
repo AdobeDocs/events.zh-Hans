@@ -4,12 +4,12 @@ description: 观看此网络研讨会，了解如何使用您的电子商务数�
 landing-page-description: 观看本网络研讨会录制视频，了解如何利用您的电子商务数据在假日季节取得成功。
 short-description: 观看本网络研讨会录制视频，了解如何利用您的电子商务数据在假日季节取得成功。
 kt: 10409
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 00ca556edca8e39734489d1385029c6b79f3587d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 3%
