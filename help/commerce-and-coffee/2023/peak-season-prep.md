@@ -1,7 +1,7 @@
 ---
 title: 高峰季准备
 description: Corey Gelato深入了解旺季最佳实践和策略，了解如何在您的网站上成功有效地推广您的产品和/或服务，并在一年中的任何时候在旺季保持竞争力。 在演示了包括内容暂存和预览、促销、目录和购物车价格规则等功能后，Cory将在实时问答会话中回答问题。
-solution: Adobe Commerce
+solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
 role: Admin, Leader, User
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-20T00:00:00Z
 jira: KT-13992
 thumbnail: 3424390.jpeg
-source-git-commit: dd032d0b6f0fef7a5939ef78837d0450c0741544
+source-git-commit: 8f73eadc11a0906ffc987aa2fe5bd83755245b19
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
