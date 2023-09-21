@@ -11,9 +11,9 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ ht-degree: 0%
 
 最大限度地提高性能并加快问题解决。
 
-本网络研讨会将于9月20日至下午5点（中部标准时间） — 太平洋夏季时间上午8点 — 晚上8:30（印度标准时间）召开
-
-## 注册
-
-[请通过AEM用户组注册以加入此会话](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-rapid-issue-fix/)
+此网络研讨会于 **9月20日**，2023年。 请查看下面的录制。
 
 ## 会话描述
 
@@ -47,8 +43,12 @@ ht-degree: 0%
 * Luciana Surdoiu，Adobe部云自动化总监
 * Michael Campbell，Adobe高级AEM站点可靠性工程师
 
+## 网络研讨会录像 — 2023年9月20日
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424439/)
+
 >[!NOTE]
 >
->* 对于Experience League上特定于会话的社区互动，稍后将发布一个链接。
+>* 有关Experience League上特定会话的社区互动，请访问我们的 [上下文主题](https://adobe.ly/3sV67N5).
 >
 >* 要收到有关我们即将召开的网络研讨会的通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
