@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 47%
+source-wordcount: '165'
+ht-degree: 49%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td>
-    不久将来，请访问此页面以了解即将播出的内容，包括有关Real-time Customer Data Platform中相似受众的2023年9月播出的一集！
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="assets/Oct26_exl_live_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-10-26-23.md">
+        <strong>Workfront版本深入探讨 — 新的Workfront主页</strong>
+      </a>
+      <br/><em>贝齐·韦斯特、本·罗宾斯和杰米·史密斯</em>
+      <br/><em>2023年10月26日</em>
+    </div>
   </td>
 </tr>
 </table>
