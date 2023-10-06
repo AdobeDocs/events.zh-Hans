@@ -2,17 +2,16 @@
 title: 深入了解AEM Sites的工具
 description: 有效利用工具和转变AEM Sites体验的最佳实践。 标记类型了解不同的标记类型如何增强内容组织和可发现性。  设置和应用标记获得对高效标记实施的动手见解，以节省时间并提高生产效率。  文件夹元数据架构通过文件夹元数据架构发现结构化内容管理的强大功能。元数据架构通过熟悉元数据架构设计提升内容相关性和用户体验。 设置报表通过设置综合报表，利用数据驱动型分析进行战略决策。您可以在此处访问演示幻灯片。
 feature-set: Experience Manager
-feature: Tagging, 
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Tagging
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 doc-type: Event
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-06T00:00:00Z
 jira: KT-14118
 thumbnail: 3424735.jpeg
-source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
+source-git-commit: 426722ebded091c3dc685b951b6823f432e58a4d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
