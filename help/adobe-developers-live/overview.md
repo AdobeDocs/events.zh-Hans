@@ -2,8 +2,8 @@
 title: Adobe Developers Live
 description: Adobe Developers Live中的会话录制集合
 solution: Experience Cloud, Experience Manager
-exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 29%
@@ -14,11 +14,11 @@ ht-degree: 29%
 
 <img alt="Adobe Developers Live" src="assets/adl.png" />
 
-Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人员和体验构建者聚集在一起，以创造令人难以置信的端到端体验。该为期两天的会议将提供重要的开发人员更新、技术研讨会和社区交流机会。
+Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人员和体验构建者聚集在一起，以创造令人难以置信的端到端体验。该为期两天的会议将提供重要的开发人员更新、技术会议和社区交流机会。
 
-跨Adobe Experience Cloud、Document Cloud和Creative CloudAdobe产品团队将展示最新的技术进步和开发人员工具，这些工具可推动跨行业设计、内容创建工作流、文档服务和客户体验管理。
+跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe产品团队将展示最新的技术进步和开发人员工具，这些工具可推动跨行业设计、内容创建工作流、文档服务和客户体验管理。
 
-注册参加未来的活动 **[此处](https://developerevents.adobe.com/)**.
+注册参加未来活动 **[此处](https://developerevents.adobe.com/)**.
 
 >[!TIP]
 >

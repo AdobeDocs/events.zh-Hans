@@ -1,19 +1,19 @@
 ---
 title: 客户数据管理意见
-description: 您作为客户数据管理技术和营销实践领导者和专家的目标。  本页面是您聆听同行意见、获取灵感并了解市场技术发展的一站式商店。
-exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+description: 您作为客户数据管理技术和营销实践领导者和专家的目标。  本页面是您听取同行意见、获取灵感并了解市场技术发展的一站式服务。
+exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
-# 客户数据管理 — 意见 {#overview}
+# 客户数据管理 - 意见 {#overview}
 
 <img alt="客户数据管理意见" src="./assets/cdp-voices-banner.png" />
 
-欢迎来到客户数据管理团队，作为客户数据管理技术和营销实践的领导者和专家，对您的目标提出意见。 本页面是您聆听同行意见、获取灵感并了解市场技术发展的一站式商店。 无需注册，只需点击即可观看。
+欢迎使用客户数据管理功能以客户数据管理技术和营销实践领导者和专家的身份提出您的目标。 本页面是您听取同行意见、获取灵感并了解市场技术发展的一站式服务。 无需注册，只需点击即可观看。
 
 >[!TIP]
 >
@@ -54,10 +54,10 @@ ht-degree: 18%
    <tr> 
    <td>
       <a href="./cdm/evolving-your-audience-center-of-excellence.md">
-      <img alt="发展您的受众卓越中心" src="./assets/evolving-your-audience-center-of-excellence.png"/>
+      <img alt="发展您的卓越受众中心" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>发展您的受众卓越中心</strong></a>
+         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>发展您的卓越受众中心</strong></a>
          <br/>
       </div>
     </td>
@@ -84,7 +84,7 @@ ht-degree: 18%
   </tr>
 </table>
 
-## 受众和配置文件数据治理和隐私
+## 受众和配置文件数据管理及隐私
 
 <table>
   <tr>
@@ -131,10 +131,10 @@ ht-degree: 18%
   <tr>
      <td>
       <a href="./industry/build-superb-experiences-with-your-first-party-data.md">
-      <img alt="使用您的第一方数据构建卓越体验" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
+      <img alt="使用您的第一方数据构建卓越的体验" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>使用您的第一方数据构建卓越体验</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>使用您的第一方数据构建卓越的体验</strong></a>
       </div>
       <p>
       </p>

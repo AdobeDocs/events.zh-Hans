@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Developer App Builder扩展AEM Content and Commerce
-description: 使用Commerce Integration Framework (CIF)的Adobe Experience Manager Content & Commerce提供了一个灵活的架构，以将Adobe Experience Manager与Adobe Commerce或任何其他商业解决方案（商业解决方案与自主解决方案）连接起来。 App Builder和GraphQL在Adobe Experience Manager Content & Commerce和CIF中发挥着重要作用。 本讨论讨论Adobe Experience Manager Commerce集成和使用App Builder的可扩展性模式。 它重点介绍了App Builder可以用作中间件并将您的商业解决方案与Adobe Experience Manager连接起来的各种集成模式。 我们将展示如何使用App Builder为Adobe Experience Manager Commerce提供商务数据和交易。
+description: 使用Commerce integration framework(CIF)的Adobe Experience Manager Content & Commerce提供了一个灵活的架构，以将Adobe Experience Manager与Adobe Commerce或任何其他商业解决方案（商业解决方案与自主解决方案）连接。 App Builder和GraphQL在Adobe Experience Manager Content & Commerce和CIF中发挥着重要作用。 此演讲讨论了使用App Builder的Adobe Experience Manager Commerce集成和可扩展性模式。 它重点介绍了App Builder可以用作中间件并将您的商务解决方案与Adobe Experience Manager连接的各种集成模式。 我们将展示如何使用App Builder为Adobe Experience Manager Commerce提供商务数据和交易。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,8 +9,8 @@ level: Intermediate, Experienced
 version: Cloud Service
 kt: 9143
 type: Event
-exl-id: 8f19f9a3-9f00-4e7d-a747-2c37222e8639
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ed18588f-208b-46a8-a46d-07f15f2504d9
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 # 使用Adobe Developer App Builder扩展AEM Content and Commerce
 
-使用Commerce Integration Framework (CIF)的Adobe Experience Manager Content &amp; Commerce提供了一个灵活的架构，以将Adobe Experience Manager与Adobe Commerce或任何其他商业解决方案（商业解决方案与自主解决方案）连接起来。 App Builder和GraphQL在Adobe Experience Manager Content &amp; Commerce和CIF中发挥着重要作用。 本讨论讨论Adobe Experience Manager Commerce集成和使用App Builder的可扩展性模式。 它重点介绍了App Builder可以用作中间件并将您的商业解决方案与Adobe Experience Manager连接起来的各种集成模式。 我们将展示如何使用App Builder为Adobe Experience Manager Commerce提供商务数据和交易。
+使用Commerce integration framework(CIF)的Adobe Experience Manager Content &amp; Commerce提供了一个灵活的架构，以将Adobe Experience Manager与Adobe Commerce或任何其他商业解决方案（商业解决方案与自主解决方案）连接。 App Builder和GraphQL在Adobe Experience Manager Content &amp; Commerce和CIF中发挥着重要作用。 此演讲讨论了使用App Builder的Adobe Experience Manager Commerce集成和可扩展性模式。 它重点介绍了App Builder可以用作中间件并将您的商务解决方案与Adobe Experience Manager连接的各种集成模式。 我们将展示如何使用App Builder为Adobe Experience Manager Commerce提供商务数据和交易。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/3om4942)**.
 

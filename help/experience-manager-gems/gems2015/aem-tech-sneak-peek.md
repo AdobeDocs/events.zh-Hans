@@ -1,26 +1,26 @@
 ---
-title: AEM技术偷看
-description: 在一次技术演讲中，了解我们为下一代Adobe Experience Manager所做的工作。
+title: AEM技术偷偷窥视
+description: 在一次技术演讲中，了解我们正在为下一代Adobe Experience Manager做的事情。
 uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
-exl-id: 1f21ad13-cd08-450b-acbe-85748611087a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9b023ec2-70c3-40ba-92bf-37271c197602
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 3%
 
 ---
 
-# AEM技术偷看{#aem-tech-sneak-peek}
+# AEM技术偷偷窥视{#aem-tech-sneak-peek}
 
-在一次技术演讲中，了解我们为下一代Adobe Experience Manager所做的工作。
+在一次技术演讲中，了解我们正在为下一代Adobe Experience Manager做的事情。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*交付日期：2015年1月21日*
+*2015年1月21日交付*
 
-**呈列方式：**
+**提交人：**
 
 * Gabriel Walt，Adobe产品经理
 

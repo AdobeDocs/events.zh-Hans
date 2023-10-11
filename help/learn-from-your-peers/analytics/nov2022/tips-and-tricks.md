@@ -1,21 +1,21 @@
 ---
-title: ‘[!DNL Adobe Analytics] Champion提示和技巧'
-description: 加入五个 [!DNL Adobe Analytics] 来自全球的冠军们，分享了帮助他们主控的秘诀和技巧 [!DNL Adobe Analytics].
+title: ’[!DNL Adobe Analytics] 冠军技巧和窍门
+description: 加入五个 [!DNL Adobe Analytics] 来自世界各地的冠军们分享有助于他们掌握的技巧和窍门 [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
 kt: 11845
 thumbnail: 3414191.jpeg
-exl-id: a4602675-9bd6-4d49-9561-bdbce9141830
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e15bafe6-f559-426f-9770-ee31a9a628a1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Champion提示和技巧
+# [!DNL Adobe Analytics] 冠军提示和技巧
 
-加入五个 [!DNL Adobe Analytics] 来自全球的冠军们，分享了帮助他们主控的秘诀和技巧 [!DNL Adobe Analytics].
+加入五个 [!DNL Adobe Analytics] 来自世界各地的冠军们分享有助于他们掌握的技巧和窍门 [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

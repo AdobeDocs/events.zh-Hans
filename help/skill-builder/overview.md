@@ -1,8 +1,8 @@
 ---
 title: Skill Builder概述
 description: 录制的网络研讨会系列，用于构建您的知识库并最大化您对Adobe Experience Cloud的投资。
-exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%
@@ -11,7 +11,7 @@ ht-degree: 3%
 
 # Skill Builder
 
-Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最大限度地增加您在Adobe Experience Cloud中的投资。
+Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最大化您对Adobe Experience Cloud的投资。
 
 ## Adobe企业业务解决方案
 
@@ -23,7 +23,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
       <strong>Content and Commerce</strong>
     </div>
     <p>
-    <em>创建和管理一系列引人入胜的网站、移动应用程序和表单。 此外，学习使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。</em>
+    <em>创建和管理一系列引人入胜的网站、移动应用程序和表单。 此外，学习如何使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
@@ -47,7 +47,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
       <strong>数据和见解</strong>
     </div>
     <p>
-    <em>使用整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。</em>
+    <em>使用您整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>

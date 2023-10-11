@@ -1,6 +1,6 @@
 ---
-title: 快速前端开发 — 您的未来工作流程
-description: 使用站点模板只需单击几下即可创建新站点，并通过快速部署前端资产（如CSS和JS）使前端开发的乐趣回归。 此会话作为Adobe Developers Live内容事件的一部分提供。
+title: 快速前端开发 — 您的未来工作流
+description: 使用站点模板只需单击几下即可创建新站点，并通过快速部署前端资产（如CSS和JS）使前端开发的乐趣回归。 此会话作为Adobe Developers Live内容活动的一部分提供。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,15 +12,15 @@ version: Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
-exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 3365d609-70e7-404c-ad4d-c9049ed00b35
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# 快速前端开发 — 您的未来工作流程
+# 快速前端开发 — 您的未来工作流
 
 使用站点模板只需单击几下即可创建新站点，并通过快速部署前端资产（如CSS和JS）使前端开发的乐趣回归。
 

@@ -6,11 +6,11 @@ role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
-exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: be7ce77f-d4e0-47fa-b811-f1792ef76be6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 0%
 * 分析器
 * MPI
 * 电子邮件分析
-* Revenue Explorer
+* 收入浏览器
 * 报表类型概述
    * 全局报表(Analytics)与本地报表（营销活动）
 * 何时使用标准报表与智能列表
    * 订阅
 
-在本次研讨会结束时，您将了解以下各项的高级报告功能： [!DNL Marketo Engage]，并深入了解报表和智能列表。
+在本次研讨会结束时，您将了解内的高级报告功能， [!DNL Marketo Engage]，并深入了解报表和智能列表。
 
-在本次研讨会结束时的实时问答将回答您的任何未决问题。
+在本次研讨会结束时，实时问答将回答您的任何未决问题。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342557/?quality=12&learn=on)

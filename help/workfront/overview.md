@@ -1,8 +1,8 @@
 ---
 title: Workfront On-Demand事件
 description: Workfront Events是一个视频库，专家和同行可以在其中就如何使用Workfront增强为组织完成的工作分享他们的想法和想法。
-exl-id: 5b294be1-9ba6-4cd1-b74b-ea4e321dcaaf
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Workfront On-Demand事件 {#overview}
 
-一个录制的Workfront活动库，专家和同行可以在其中分享有关如何使用Workfront的想法。
+Workfront活动录音库，专家和同行可在该库中分享有关如何使用Workfront的想法。
 
 ## 专题会议
 
@@ -53,7 +53,7 @@ ht-degree: 0%
       </div>
       <p>
         <br/>
-         Agile专家讨论Agile在业务中普遍存在的重要特点和趋势，以及他们如何使用Workfront实现Agile。
+         Agile专家讨论他们通过Agile、一般业务敏捷性发现的高点和趋势，以及他们如何使用Workfront实现Agile。
       </p>
     </td>
   </tr>

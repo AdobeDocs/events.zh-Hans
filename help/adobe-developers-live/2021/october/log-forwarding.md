@@ -1,5 +1,5 @@
 ---
-title: 通过日志转发监视App Builder应用程序
+title: 使用日志转发监视App Builder应用程序
 description: 在选择的受支持的日志管理解决方案中访问您的所有App Builder应用程序日志。 在本会话中，我们将独家预览即将推出的日志转发功能，以及如何提前试用这些功能。
 feature: Developer Tools
 topic: Development
@@ -7,15 +7,15 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 kt: 9123
 type: Event
-exl-id: 996b8d07-db06-49f2-8a31-a06fada7b846
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a2e7d00e-e7b9-4ad7-aa3e-fd3850384d07
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 21%
+ht-degree: 24%
 
 ---
 
-# 通过日志转发监视App Builder应用程序
+# 使用日志转发监视App Builder应用程序
 
 在选择的受支持的日志管理解决方案中访问您的所有App Builder应用程序日志。 在本会话中，我们将独家预览即将推出的日志转发功能，以及如何提前试用这些功能。
 

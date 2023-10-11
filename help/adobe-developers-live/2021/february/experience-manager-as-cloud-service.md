@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager as a Cloud Service
-description: 通过云中分享Adobe Experience Manager的策略和创新洞见，同时描述导致我们今天所处位置的重大变化，我们可以通过幕后了解这些洞察。 此会话作为Adobe Developers Live内容事件的一部分提供。
+description: 通过回顾云中Adobe Experience Manager的幕后情况，分享关于其战略和创新的洞见，同时描述导致我们今天这一局面的重大变化。 此会话作为Adobe Developers Live内容活动的一部分提供。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7163
 type: Event
 thumbnail: 331278.jpg
-exl-id: 40ddb1fc-13ec-4db1-b344-98d0ee805075
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: f5ae88b3-d42c-4b40-9d70-e2dbb254e070
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 13%
@@ -21,7 +21,7 @@ ht-degree: 13%
 
 # Adobe Experience Manager as a Cloud Service
 
-通过云中分享Adobe Experience Manager的策略和创新洞见，同时描述导致我们今天所处位置的重大变化，我们可以通过幕后了解这些洞察。
+通过回顾云中Adobe Experience Manager的幕后情况，分享关于其战略和创新的洞见，同时描述导致我们今天这一局面的重大变化。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 

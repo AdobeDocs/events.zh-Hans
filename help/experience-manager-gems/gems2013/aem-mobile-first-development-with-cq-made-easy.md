@@ -1,26 +1,26 @@
 ---
 title: 使用CQ轻松实现移动端优先的开发
-description: 了解CQ中响应式设计的模式，以及如何提供在低带宽连接上执行的富媒体HTML5移动体验。 为了展示这些模式，我们通过将CQ站点从仅使用桌面设备转变为使用移动设备优先来开展工作。 我们深入研究了如何运用移动优先设计原理、自适应图像和渐进式增强来创建该模型，并讨论了过程中遇到的隐患。 该会议以Bruce在瑞士巴塞尔的CQ会议（CQCON，2013年）上的讲话为基础。
+description: 了解CQ中响应式设计的模式，以及如何提供在低带宽连接上执行的富媒体HTML5移动体验。 为了演示这些模式，我们通过将CQ站点从仅桌面转换为移动优先来开展工作。 我们深入研究了如何运用移动优先设计原理、自适应图像和渐进增强来创建该模型，并讨论了过程中遇到的隐患。 本会议基于Bruce在瑞士巴塞尔的CQ会议（CQCON，2013年）上的讲话。
 uuid: 20f50539-8299-4080-818c-77201047022b
 discoiquuid: 5d79cfc0-a128-445b-9745-fd3722b550ac
 targetaudience: target-audience advanced
-exl-id: 29d15dc9-7e53-4ec3-ad4f-eb58be7d2e27
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 712d673f-3016-4b18-8dcd-480a6eda3e13
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-# 使用CQ轻松实现移动优先的开发{#mobile-first-development-with-cq-made-easy}
+# 使用CQ轻松实现移动端优先的开发{#mobile-first-development-with-cq-made-easy}
 
-了解CQ中响应式设计的模式，以及如何提供在低带宽连接上执行的富媒体HTML5移动体验。 为了展示这些模式，我们通过将CQ站点从仅使用桌面设备转变为使用移动设备优先来开展工作。 我们深入研究了如何运用移动优先设计原理、自适应图像和渐进式增强来创建该模型，并讨论了过程中遇到的隐患。 该会议以Bruce在瑞士巴塞尔的CQ会议（CQCON，2013年）上的讲话为基础。
+了解CQ中响应式设计的模式，以及如何提供在低带宽连接上执行的富媒体HTML5移动体验。 为了演示这些模式，我们通过将CQ站点从仅桌面转换为移动优先来开展工作。 我们深入研究了如何运用移动优先设计原理、自适应图像和渐进增强来创建该模型，并讨论了过程中遇到的隐患。 本会议基于Bruce在瑞士巴塞尔的CQ会议（CQCON，2013年）上的讲话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*交付日期： 2013年9月18日*
+*2013年9月18日交付*
 
-**呈列方式：**
+**提交人：**
 
 Bruce Lefebvre，Adobe计算机科学家
 

@@ -1,23 +1,23 @@
 ---
 title: Adobe Commerce的演变可降低您的总拥有成本
-description: 保持您的Adobe Commerce平台更新是维护安全、高效和可靠的电子商务商店的关键。 就像您负责实体店一样，电子商务商店需要进行维护，以确保您为客户提供最佳体验。  对于Adobe而言，让我们的客户运行无摩擦升级是一个优先事项。 在本次研讨会中，您将了解Adobe Commerce的发布策略和最佳实践，从而降低总拥有成本。
+description: 保持您的Adobe Commerce平台处于最新状态，是维护安全、高效和可靠的电子商务商店的关键。 就像您照顾实体店一样，电子商务商店需要进行维护，以确保您为客户提供最佳体验。  对于Adobe而言，让我们的客户运行无摩擦的升级是一个优先事项。 在此会议中，您将了解Adobe Commerce的发布策略和最佳实践以降低总拥有成本。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 kt: 9198
 type: Event
-exl-id: 6192e4a2-e1a6-4782-8569-2f3473b5ed50
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f7407854-aa76-4006-b4fd-b271e52e63aa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 
 # Adobe Commerce的演变可降低您的总拥有成本
 
-保持您的Adobe Commerce平台更新是维护安全、高效和可靠的电子商务商店的关键。 就像您负责实体店一样，电子商务商店需要进行维护，以确保您为客户提供最佳体验。  对于Adobe而言，让我们的客户运行无摩擦升级是一个优先事项。 在本次研讨会中，您将了解Adobe Commerce的发布策略和最佳实践，从而降低总拥有成本。
+保持您的Adobe Commerce平台处于最新状态，是维护安全、高效和可靠的电子商务商店的关键。 就像您照顾实体店一样，电子商务商店需要进行维护，以确保您为客户提供最佳体验。  对于Adobe而言，让我们的客户运行无摩擦的升级是一个优先事项。 在此会议中，您将了解Adobe Commerce的发布策略和最佳实践以降低总拥有成本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337765/?quality=12&learn=on&hidetitle=true)
 

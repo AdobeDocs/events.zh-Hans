@@ -1,11 +1,11 @@
 ---
 title: AEM 核心组件
-description: 了解关于核心组件及其相关功能、其工作方式以及它们如何改变游戏规则的一切。 了解使您需要创建和维护的元件数量减少一个数量级的策略。
+description: 了解关于核心组件及其相关功能、其工作方式以及它们如何改变游戏规则的一切信息。 了解一些策略，这些策略使您能够将需要创建和维护的元件数量减少一个数量级。
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 8433df98-80ec-4d29-9656-633a639c62e8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 097253e8-bfc7-4de3-8571-b6b012a27f89
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 6%
@@ -14,13 +14,13 @@ ht-degree: 6%
 
 # AEM 核心组件{#aem-core-components}
 
-了解关于核心组件及其相关功能、其工作方式以及它们如何改变游戏规则的一切。 了解使您需要创建和维护的元件数量减少一个数量级的策略。
+了解关于核心组件及其相关功能、其工作方式以及它们如何改变游戏规则的一切信息。 了解一些策略，这些策略使您能够将需要创建和维护的元件数量减少一个数量级。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
 *2018年12月5日交付*
 
-**呈列方式：**
+**提交人：**
 
 Gabriel Walt，Adobe产品经理
 

@@ -1,6 +1,6 @@
 ---
 title: Experience PlatformSDK和Launch服务器端
-description: 使用AEP Web & Mobile SDK释放AEP Launch服务器端的全部潜力，优化您的企业数据收集。 此会话作为Adobe Developers Live内容事件的一部分提供。
+description: 使用AEP Web & Mobile SDK充分发挥AEP Launch服务器端的潜力，优化企业数据收集。 此会话作为Adobe Developers Live内容活动的一部分提供。
 solution: Data Collection
 product: experience platform
 sub-product: launch
@@ -11,8 +11,8 @@ level: Intermediate
 kt: 7179
 type: Event
 thumbnail: 331761.jpg
-exl-id: 93ee54d3-b522-47c8-91f9-eb9f9487afc9
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 86dd2104-fad4-4ad7-bf25-e76efa753a5d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Experience PlatformSDK和Launch服务器端
 
-使用AEP Web &amp; Mobile SDK释放AEP Launch服务器端的全部潜力，优化您的企业数据收集。
+使用AEP Web &amp; Mobile SDK充分发挥AEP Launch服务器端的潜力，优化企业数据收集。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 

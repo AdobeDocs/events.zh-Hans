@@ -4,8 +4,8 @@ description: 了解如何在AEM 6.1中为Touch UI对话框实施自定义字段�
 uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
-exl-id: f5d7cf6e-86a8-4a59-95c4-fea76ffbdf7c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
@@ -23,9 +23,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*交付日期：2015年10月7日*
+*2015年10月7日交付*
 
-**呈列方式：**
+**提交人：**
 
 * Christanto Leonardo，Adobe高级开发人员
 * Christian Meyer，开发人员，Adobe

@@ -6,8 +6,8 @@ role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10578
 thumbnail: 343821.jpeg
-exl-id: 4e97c331-65de-49d0-b1a6-6360cef80000
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 75f166d7-4d65-4ca6-a88b-d28dc8119069
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 11%
@@ -18,6 +18,6 @@ ht-degree: 11%
 
 参加此会议，了解使用自动定位和自动个性化来实现Adobe Target功能自动化和优化的核心概念。
 
-*马蒂亚斯·科利奇* 高级多解决方案培训师EMEA/Adobe
+*马提亚斯·科利奇* 高级多解决方案培训师EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

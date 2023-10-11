@@ -1,12 +1,12 @@
 ---
 title: Adobe Developer (IO)事件 — Analytics触发器
-description: 将事件驱动型体系结构的强大功能与实时客户行为模式识别功能相结合 — 此会议讨论如何通过Adobe Developer(Adobe I/O)事件利用Analytics Triggers的强大功能对客户行为做出反应并近乎实时地重新定位。
+description: 将事件驱动型体系结构的强大功能和实时客户行为模式识别功能结合使用 — 该会议讨论如何通过Adobe Developer(Adobe I/O)事件利用Analytics触发器的强大功能对客户行为做出反应并近乎实时地重新定位。
 uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
-exl-id: 3a4078d0-2e25-47c2-bb8b-fe0278b93ff7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 870620f5-60dd-43b0-86ed-b2bb82779531
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
@@ -19,9 +19,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
-*交付日期：2018年6月27日*
+*2018年6月27日交付*
 
-**呈列方式：**
+**提交人：**
 
 Sarah Xu，Adobe开发人员宣传员
 
@@ -37,7 +37,6 @@ Sarah Xu，Adobe开发人员宣传员
 >
 >* [Solr作为AEM的Oak索引](solr-as-an-oak-index-for-aem.md)
 >* [使用AEM 6.4解锁更强大的资产分析](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
-
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

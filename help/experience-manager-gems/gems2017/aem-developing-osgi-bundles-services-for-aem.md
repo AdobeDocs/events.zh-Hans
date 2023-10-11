@@ -1,11 +1,11 @@
 ---
 title: 为AEM开发OSGi包和服务
-description: 了解为AEM开发OSGi捆绑包和服务是多么容易。 本会议首先简要介绍OSGi的基本概念。
+description: 了解为AEM开发OSGi包和服务是多么容易。 此会议从简要介绍OSGi的基本概念开始。
 uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
-exl-id: 4baf91ab-3282-4432-8db4-003918deac10
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 821b72b1-de34-45aa-9722-3041aabc774b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 1%
@@ -14,20 +14,20 @@ ht-degree: 1%
 
 # 为AEM开发OSGi包和服务{#developing-osgi-bundles-and-services-for-aem}
 
-在此会话中了解为AEM开发OSGi包和服务是多么的容易。 此会议首先简要介绍OSGi的基本概念：捆绑包和服务。 随后，它演示了使用成熟注释来开发捆绑包和服务的简单且直接的方法。 此外，还包括使AEM开发更轻松并避免缺点和隐患的提示和技巧以及最佳实践。
+在本课程中了解为AEM开发OSGi包和服务是多么容易。 此会话首先简要介绍OSGi的基本概念：捆绑包和服务。 随后，它演示了如何使用成熟注释来开发捆绑包和服务，既简单又直接。 此外，还包括使AEM开发更轻松并避免缺点和隐患的提示和技巧以及最佳实践。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*交付日期：2017年9月6日*
+*2017年9月6日交付*
 
-**呈列方式：**
+**提交人：**
 
 Carsten Ziegeler，Adobe首席科学家
 
-Karl Pauls，Adobe计算机科学家
+Karl Pauls，计算机科学家，Adobe
 
 聊天专家：\
-Adobe部高级软件工程师David Bosschaert
+David Bosschaert，Adobe高级软件工程师
 
 **演示者幻灯片**
 

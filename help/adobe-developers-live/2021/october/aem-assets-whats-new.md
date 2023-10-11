@@ -1,23 +1,23 @@
 ---
-title: Adobe Experience Manager Assetsas a Cloud Service的新增功能
-description: 2021年，我们为Adobe Experience Manager Assetsas a Cloud Service添加了许多功能，以解决关键开发人员和业务用例问题。 今年年末，请参加此会议以查看新增功能，或许还可以观看一两个演示。
+title: Adobe Experience Manager资产as a Cloud Service的新增功能
+description: 我们在2021年向Adobe Experience Manager Assetsas a Cloud Service添加了许多功能，以解决关键开发人员和业务用例问题。 今年快结束时，请参加此课程以获取新增功能速成课程，或许还可观看一两个演示。
 solution: Experience Manager,Experience Manager Assets
 role: User
 level: Beginner
 version: Cloud Service
 kt: 9152
 type: Event
-exl-id: 90bd3f58-823c-4cca-be35-ab55d88d4799
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ce592a15-3ed9-4bff-bc3c-b655037e22b9
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 18%
+ht-degree: 20%
 
 ---
 
-# Adobe Experience Manager Assetsas a Cloud Service的新增功能
+# Adobe Experience Manager资产as a Cloud Service的新增功能
 
-2021年，我们为Adobe Experience Manager Assetsas a Cloud Service添加了许多功能，以解决关键开发人员和业务用例问题。 今年年末，请参加此会议以查看新增功能，或许还可以观看一两个演示。
+我们在2021年向Adobe Experience Manager Assetsas a Cloud Service添加了许多功能，以解决关键开发人员和业务用例问题。 今年快结束时，请参加此课程以获取新增功能速成课程，或许还可观看一两个演示。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/2XSAcg)**.
 

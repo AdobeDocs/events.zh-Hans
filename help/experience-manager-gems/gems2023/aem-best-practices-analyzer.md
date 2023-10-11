@@ -1,6 +1,6 @@
 ---
 title: 适用于内部部署和AMS环境的AEM最佳实践分析器
-description: 最佳实践分析器是一种工具，可提供有关AEM内部部署和AMS实例的分析和报告功能。 它通过指明未遵循建议的最佳实践的领域，生成对您当前AEM实施的评估，同时还提供有关如何采取行动纠正潜在问题的指导。
+description: 最佳实践分析器是一个工具，可提供有关AEM内部部署和AMS实例的分析和报告功能。 它通过指明未遵循建议的最佳实践的区域，生成您当前AEM实施的评估，同时还提供有关如何采取行动纠正潜在问题的指导。
 solution: Experience Manager
 feature-set: Experience Manager
 version: 6.5
@@ -10,8 +10,8 @@ role: User
 level: Intermediate
 kt: 11630
 event-start-time: 2023-1-18 08:30-8
-exl-id: 04b5d071-18a4-44e3-af7b-6a4db594cacb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9e952d3a-aec8-41f7-a9bc-19e187276af0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 1%
@@ -20,12 +20,12 @@ ht-degree: 1%
 
 # 适用于内部部署和AMS环境的AEM最佳实践分析器
 
-## 此网络研讨会已于2023年1月18日举行 — 请查看以下录像
+## 此网络研讨会已于2023年1月18日举行 — 请观看以下录像
 
 ## 描述
 
-最佳实践分析器是一个工具，它提供有关AEM内部部署和AMS实例的分析和报告功能。 它通过指明未遵循建议的最佳实践的领域，生成对您当前AEM实施的评估，同时还提供有关如何采取行动纠正潜在问题的指导。 其动机很简单；发现并解决您的AEM环境中仅存在一次误用问题有可能改善用户体验，减少技术债务，进而降低您的总拥有成本(TCO)。 因此，为什么不花些时间看看是否存在改善的机会。
-请注意，AEM Best Practices Analyzer不适用于AEMas a Cloud Service环境。
+最佳实践分析器是一个工具，可提供有关AEM内部部署和AMS实例的分析和报告功能。 它通过指明未遵循建议的最佳实践的区域，生成您当前AEM实施的评估，同时还提供有关如何采取行动纠正潜在问题的指导。 这样做的动机很简单；发现并解决您的AEM环境中仅出现的1个误用情形可能会改善用户体验，减少技术债务，进而降低您的总拥有成本(TCO)。 所以，为什么不花时间看看有没有改善的机会。
+请注意，AEM最佳实践分析器不适用于AEMas a Cloud Service环境。
 
 ### 演示者
 
@@ -41,6 +41,5 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->* 有关Experience League上特定于会话的社区交互，请访问此 [上下文线程](https://bit.ly/3Z6AyM1)
->* 要收到有关网络研讨会的自动通知，请注册于 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
-
+>* 有关Experience League上特定于会话的社区交互，请访问此 [上下文主题](https://bit.ly/3Z6AyM1)
+>* 要接收有关网络研讨会的自动通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).

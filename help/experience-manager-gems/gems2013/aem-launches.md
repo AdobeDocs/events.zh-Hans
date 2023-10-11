@@ -1,28 +1,28 @@
 ---
-title: AEM启动次数 — 同时准备多个版本的网站(AEM 5.6)
+title: AEM启动项 — 同时准备多个版本的网站(AEM 5.6)
 description: 了解如何使用AEM启动项在同一个站点的多个版本上并行工作，并在它们之间同步更改。 了解AEM Launches如何集成在AEM中，并了解其基本机制。
 uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
-exl-id: dca9a8d0-c956-42a7-93e6-12abaf47d041
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 5a80f708-3536-4009-a76d-38611d505a89
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 2%
 
 ---
 
-# AEM启动次数：同时准备多个版本的网站(AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
+# AEM启动项：同时准备多个版本的网站(AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
 
-Adobe Experience Manager提供了各种功能，可轻松地在网站和移动网站上创建和发布数字内容。 但内容创建者可能希望同时处理同一站点的多个版本，并在这些版本之间同步更改。 可使用AEM启动项实现此目标。 在此会议中，您将了解该功能是如何在AEM中集成的，并了解其基本机制。
+Adobe Experience Manager提供了各种功能，可轻松地在网站和移动网站上创建和发布数字内容。 但内容创建者可能希望同时处理同一站点的多个版本，并在这些版本之间同步更改。 可使用AEM启动项实现此目标。 在此会议中，您将了解该功能如何在AEM中集成，并了解其基本机制。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
 *2013年6月12日交付*
 
-**呈列方式：**
+**提交人：**
 
-Gilles Nonbloch，Adobe首席开发人员
+Gilles Knonbloch，Adobe首席开发人员
 
 **演示者幻灯片**
 

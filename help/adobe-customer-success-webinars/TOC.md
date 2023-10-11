@@ -5,7 +5,7 @@ user-guide-description: 以客户成功为导向的Adobe网络研讨会，旨在
 source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 1%
    + [Campaign编排的基本策略](2023/foundational-strategy-campaign.md)
    + [优先考虑智能和测量](2023/intelligence-and-measurement.md)
    + [Real-time CDP迁移准备工作](2023/rtcdp-migration-readiness.md)
-   + [制定有效的Audience Activation策略](2023/audience-activation.md)
+   + [制定有效的 Audience Activation 策略](2023/audience-activation.md)
    + [过渡到Real-time CDP](2023/aam-to-rtcdp.md)

@@ -1,23 +1,23 @@
 ---
 title: 内容维护
-description: 演示Adobe Experience Manager现代化工具包中可用的功能。 了解开发团队可以如何使用它来整合、转换或升级内容，从而随着组件库的发展减轻作者的负担。
+description: 演示Adobe Experience Manager现代化工具套件中可用的功能。 了解开发团队可以如何使用它来整合、转换或升级内容，从而随着组件库的发展减轻作者的负担。
 solution: Experience Manager
 role: User
 level: Beginner
 version: Cloud Service
 kt: 9135
 type: Event
-exl-id: edc8be9b-bf88-48e1-834c-885724bf5e91
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: da237121-7d66-49fc-864f-6132e3936fed
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 23%
+ht-degree: 27%
 
 ---
 
 # 内容维护
 
-演示Adobe Experience Manager现代化工具包中可用的功能。 了解开发团队可以如何使用它来整合、转换或升级内容，从而随着组件库的发展减轻作者的负担。
+演示Adobe Experience Manager现代化工具套件中可用的功能。 了解开发团队可以如何使用它来整合、转换或升级内容，从而随着组件库的发展减轻作者的负担。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/3zJuUBH)**.
 

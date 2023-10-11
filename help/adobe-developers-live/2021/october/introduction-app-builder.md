@@ -1,23 +1,23 @@
 ---
-title: App Builder简介 — 构建自定义云应用程序以满足您的业务需求所需的一切
-description: 探索App Builder的功能，并询问我们您希望了解的所有信息。 加入我们，详细了解App Builder如何让您构建云原生应用程序，以扩展Adobe Experience Manager和其他Adobe产品的现成功能。 您将了解常见用例以及如何开始使用App Builder进行构建。
+title: App Builder简介 — 构建自定义云应用程序以满足业务需求所需的一切
+description: 探索使用App Builder可以提供的功能，并询问我们您希望了解的所有信息。 加入我们，详细了解App Builder如何让您构建云原生应用程序，以扩展Adobe Experience Manager和其他Adobe产品的开箱即用功能。 您将了解常见用例以及如何开始使用App Builder进行构建。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
 kt: 9214
 type: Event
-exl-id: a2d4018b-1571-48c7-ae9b-f816c0564ede
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3b8d4aa4-5b2b-43b2-8cb4-3b01e2fb6e74
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 
-# App Builder简介 — 构建自定义云应用程序以满足您的业务需求所需的一切
+# App Builder简介 — 构建自定义云应用程序以满足业务需求所需的一切
 
-探索App Builder的功能，并询问我们您希望了解的所有信息。 加入我们，详细了解App Builder如何让您构建云原生应用程序，以扩展Adobe Experience Manager和其他Adobe产品的现成功能。 您将了解常见用例以及如何开始使用App Builder进行构建。
+探索使用App Builder可以提供的功能，并询问我们您希望了解的所有信息。 加入我们，详细了解App Builder如何让您构建云原生应用程序，以扩展Adobe Experience Manager和其他Adobe产品的开箱即用功能。 您将了解常见用例以及如何开始使用App Builder进行构建。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/3AYeJlv)**.
 

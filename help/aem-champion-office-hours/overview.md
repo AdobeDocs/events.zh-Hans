@@ -1,7 +1,8 @@
 ---
 title: AEM Champion办公时间
-description: 此Adobe Experience Manager用户组(AEMUG)由2022-2023 AEM Champion课程支持。 Champions将使用此AEMUG作为他们每月办公时间的平台
-source-git-commit: 231676141badaab1abfff99fad3c2f820e3047cb
+description: 此Adobe Experience Manager用户组(AEMUG)由2022-2023 AEM Champion课程推动。 支持人员将此AEMUG用作他们每月办公时间的平台
+exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -10,9 +11,9 @@ ht-degree: 0%
 
 # AEM Champion办公时间
 
-此Adobe Experience Manager用户组(AEMUG)由2022-2023 AEM Champion课程支持。 Champions将利用此AEMUG作为其每月办公时间的平台，所有AEM实践者和开发人员均可参加该平台，并由专家Experience Manager客户、合作伙伴和顾问回答他们最棘手的问题。
+此Adobe Experience Manager用户组(AEMUG)由2022-2023 AEM Champion课程推动。 支持人员将此AEMUG用作他们每月办公时间的平台，所有AEM体验级别的从业人员和开发人员都可以参加此会议，并由Experience Manager专家、合作伙伴和顾问回答他们最棘手的问题。
 
-如果您有兴趣增进对Adobe Experience Manager的了解和使用、与Experience Manager思想领袖互动以及获得独家奖励，那么现在就加入AEM Champion办公时间用户组！
+如果您有兴趣提高对Adobe Experience Manager的了解和使用、与Experience Manager思想领袖互动以及获得独家奖励，那么现在就加入AEM Champion办公时间用户组！
 
 <!--
 ## What's New

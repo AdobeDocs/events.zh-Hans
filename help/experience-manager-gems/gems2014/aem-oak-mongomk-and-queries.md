@@ -1,11 +1,11 @@
 ---
 title: AEM 6 Oak - MongoMK和查询
-description: 了解Oak的查询引擎以及它与Jackrabbit 2.x的比较。会话提供了有关如何分析查询性能和管理自定义索引的指针。 在第二部分中，我们对MongoMK进行了介绍，重点介绍了AEM中新的集群实现提供的一致性保证。
+description: 了解Oak的查询引擎以及它与Jackrabbit 2.x的比较。会话提供了有关如何分析查询性能和管理自定义索引的指示。 在第二部分中，我们讨论了MongoMK，重点介绍了AEM中新的集群实现提供的一致性保证。
 uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
-exl-id: ab0851fb-7271-49c5-9f11-81ea7c7c0d47
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: dea6d73e-0659-4b9a-b338-ee5eac0bc342
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 5%
@@ -14,13 +14,13 @@ ht-degree: 5%
 
 # AEM 6 Oak - MongoMK和查询{#aem-oak-mongomk-and-queries}
 
-了解Oak的查询引擎以及它与Jackrabbit 2.x的比较。会话提供了有关如何分析查询性能和管理自定义索引的指针。 在第二部分中，我们对MongoMK进行了介绍，重点介绍了AEM中新的集群实现提供的一致性保证。
+了解Oak的查询引擎以及它与Jackrabbit 2.x的比较。会话提供了有关如何分析查询性能和管理自定义索引的指示。 在第二部分中，我们讨论了MongoMK，重点介绍了AEM中新的集群实现提供的一致性保证。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19402/?quality=9)
 
-*交付日期： 2014年11月19日*
+*2014年11月19日交付*
 
-**呈列方式：**
+**提交人：**
 
 * Thomas Mueller，高级软件工程师
 * 高级软件工程师Marcel Reutegger
@@ -29,7 +29,7 @@ ht-degree: 5%
 
 [获取文件](assets/aem-6-oak-mongomk-and-queries.pdf)
 
-**会话问题与解答**
+**会话问题与答案**
 
 [获取文件](assets/q-a-11-19-14-gem-session-oak.pdf)
 

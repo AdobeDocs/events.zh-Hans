@@ -5,16 +5,16 @@ role: User
 level: Beginner
 kt: 9790
 thumbnail: 340623.jpeg
-exl-id: 6adc46a6-695c-4710-b8cc-1c2cf071c702
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 33c44945-5838-471e-972d-5b331549a9e3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# 使用Headless集成进行创新 — 深入了解
+# 使用Headless集成进行创新 — 纵览
 
-技术趋势每年都在变化。 随着技术不断成熟，它们为开发人员创造了创造神奇体验的新机会，可以针对其独特客户进行量身定制，达到前所未有的水平。 加入我们，我们将通过深入了解我们的合作伙伴如何通过解锁和扩展我们的商业API的潜力来创新和创造令人惊叹的体验，探索Headless集成作为技术趋势的真正价值。
+技术趋势每年都在变化。 随着技术的日益成熟，这些技术为开发人员创造了创造神奇体验的新机会，为他们独特的客户量身定制到前所未有的程度。 加入我们，我们将更深入地了解我们的合作伙伴如何通过解锁和扩展我们的商业API的潜力来创新和创造令人惊叹的体验，从而探索Headless集成作为技术趋势的真正价值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340623/?quality=12&learn=on)

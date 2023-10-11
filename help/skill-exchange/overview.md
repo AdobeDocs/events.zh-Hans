@@ -1,8 +1,8 @@
 ---
 title: Experience Makers技能交流
 description: Experience Makers技能交流是一系列全球虚拟客户学习活动，重点是深入了解Adobe Experience Cloud解决方案。
-exl-id: 90283549-2f9d-4d05-9d76-9252bcff1c9a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -58,20 +58,20 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
       </div>
       <p>
         <br/>
-         易于采用的方法来保持最重要的资产清洁。
+         采用简单的方法保持最重要的资产清洁。
       </p>
     </td>
    <td>
       <a href="workfront/apr2022/ten-tips.md">
-      <img alt="让您的Workfront惊叹的10个技巧" src="./assets/workfront-10-tips.png"/>
+      <img alt="令人惊叹的10个技巧Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>让您的Workfront惊叹的10个技巧</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>令人惊叹的10个技巧Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         这些小贴士是面向已经存在了一段时间、希望以更有效的方式做事的管理员的。
+         这些小贴士是迎合已经存在了一段时间、希望以更有效的方式做事情的管理员。
       </p>
     </td>
   </tr>

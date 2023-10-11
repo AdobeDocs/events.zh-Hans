@@ -1,8 +1,8 @@
 ---
 title: Skill Builder — 内容和商务
 description: 录制的网络研讨会系列，用于构建您的知识库并最大化您对Adobe内容和商业解决方案的投资
-exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 46%
@@ -11,7 +11,7 @@ ht-degree: 46%
 
 # Content and Commerce
 
-创建和管理一系列引人入胜的网站、移动应用程序和表单。 此外，学习使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。
+创建和管理一系列引人入胜的网站、移动应用程序和表单。 此外，学习如何使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。
 
 ## 新增功能
 
@@ -53,7 +53,7 @@ ht-degree: 46%
       </a>
     </div>
     <p>
-    <em>在本课程中，您将了解将工作流用于资产管理的好处以及如何快速创建工作流。</em>
+    <em>在本课程中，您将了解将工作流用于资产管理的好处以及如何快速创建它们。</em>
     <p>
   </td>
 </tr>

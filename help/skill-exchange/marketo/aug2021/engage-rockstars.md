@@ -1,21 +1,21 @@
 ---
 title: Marketo Engage摇滚明星
-description: 三家“Rockstar”客户将各自展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你目瞪口呆？ 实时观看并投票。
+description: 三家“Rockstar”客户将各展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你眼花缭乱？ 实时观看并投票。
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 kt: 10327
 thumbnail: 342559.jpeg
-exl-id: 2f47b7af-0802-4f64-9f28-2b2520a8c4b3
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: b7dd06e2-73f5-4b32-ac6a-63783e90b30c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Rokstars
+# [!DNL Marketo Engage] Rockstars
 
-三家“Rockstar”客户将各自展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你目瞪口呆？ 实时观看并投票。
+三家“Rockstar”客户将各展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你眼花缭乱？ 实时观看并投票。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

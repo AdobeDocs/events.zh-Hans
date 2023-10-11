@@ -1,6 +1,6 @@
 ---
-title: SPA Editor 2.0 — 将上下文内可编辑内容污点添加到任何应用程序
-description: 在页面编辑器中加载现有的React或AngularSPA，只需极少量的干预，即可让作者插入他们在上下文中编辑的内容。 此会话作为Adobe Developers Live内容事件的一部分提供。
+title: SPA Editor 2.0 — 将上下文中可编辑的内容点添加到任何应用程序
+description: 在页面编辑器中加载现有的React或AngularSPA，只需很少的干预，即可让作者插入他们在上下文中编辑的内容。 此会话作为Adobe Developers Live内容活动的一部分提供。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,17 +12,17 @@ version: Cloud Service
 kt: 7178
 type: Event
 thumbnail: 331743.jpg
-exl-id: b541fca1-de05-444a-adb5-44398d0df9ad
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6ce514e5-ec47-4a86-b062-a729fe15254b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# SPA Editor 2.0 — 将上下文内可编辑内容污点添加到任何应用程序
+# SPA Editor 2.0 — 将上下文中可编辑的内容点添加到任何应用程序
 
-在页面编辑器中加载现有的React或AngularSPA，只需极少量的干预，即可让作者插入他们在上下文中编辑的内容。
+在页面编辑器中加载现有的React或AngularSPA，只需很少的干预，即可让作者插入他们在上下文中编辑的内容。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 

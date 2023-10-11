@@ -1,7 +1,8 @@
 ---
 title: Adobe [!DNL Campaign] 内部人员系列
-description: Adobe的提示和技巧及灵感 [!DNL Campaign] 客户可帮助发展跨渠道营销策略、提升团队营销从业人员的技能，并帮助组织推出更高级的跨渠道营销策略。
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+description: Adobe的提示和技巧及灵感 [!DNL Campaign] 客户：帮助制定跨渠道营销策略、提升团队营销从业者的技能，以及帮助组织推出更高级的跨渠道营销策略。
+exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 5%
@@ -10,7 +11,7 @@ ht-degree: 5%
 
 # Adobe [!DNL Campaign] 内部人员系列
 
-Adobe的提示和技巧及灵感 [!DNL Campaign] 客户可帮助发展跨渠道营销策略、提升团队营销从业人员的技能，并帮助组织推出更高级的跨渠道营销策略。
+Adobe的提示和技巧及灵感 [!DNL Campaign] 客户：帮助制定跨渠道营销策略、提升团队营销从业者的技能，以及帮助组织推出更高级的跨渠道营销策略。
 
 >[!TIP]
 >
@@ -22,16 +23,16 @@ Adobe的提示和技巧及灵感 [!DNL Campaign] 客户可帮助发展跨渠道�
   <tr>
    <td>
       <a href="2022/cross-channel.md">
-      <img alt="利用Adobe提升您的跨渠道营销水平 [!DNL Campaign Classic]" src="assets/cross-channel.png"/>
+      <img alt="利用Adobe提升您的跨渠道营销 [!DNL Campaign Classic]" src="assets/cross-channel.png"/>
       </a>
       <div>
-         <a href="./2022/cross-channel.md"><strong>利用Adobe提升您的跨渠道营销水平 [!DNL Campaign Classic]</strong></a>
+         <a href="./2022/cross-channel.md"><strong>利用Adobe提升您的跨渠道营销 [!DNL Campaign Classic]</strong></a>
          <br/>
       </div>
    </td>
    <td>
       <a href="2022/integrations.md">
-      <img alt="Adobe [!DNL Campaign] 与营销生态系统的集成" src="assets/integrations.png"/>
+      <img alt="Adobe [!DNL Campaign] 与营销生态系统集成" src="assets/integrations.png"/>
       </a>
       <div>
          <a href="./2022/integrations.md"><strong>[!DNL Campaign]Adobe 与营销生态系统集成</strong></a>

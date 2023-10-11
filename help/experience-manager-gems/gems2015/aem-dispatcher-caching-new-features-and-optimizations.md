@@ -1,11 +1,11 @@
 ---
 title: Dispatcher缓存 — 新增功能和优化
-description: 了解如何微调AEM Dispatcher缓存。 了解AEM Dispatcher中的最新功能以及优化缓存的一些方法。 本课程介绍在版本4.1.0和4.1.9之间添加的新功能。
+description: 了解如何优化AEM Dispatcher缓存。 了解AEM Dispatcher中的最新功能以及优化缓存的一些方法。 本课程介绍在版本4.1.0和4.1.9之间添加的新功能。
 uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
-exl-id: d8c79afe-5a39-4e1b-9413-fec80bd4ff9b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 36d0784e-ab04-4af4-8308-eb62a51e36ac
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 3%
@@ -14,13 +14,13 @@ ht-degree: 3%
 
 # Dispatcher缓存 — 新增功能和优化{#dispatcher-caching-new-features-and-optimizations}
 
-要获得最佳的AEM体验，请务必微调AEM Dispatcher缓存。 了解AEM Dispatcher中的最新功能以及优化缓存的一些方法。 本课程介绍在版本4.1.0和4.1.9之间添加的新功能。
+要最大限度地提高AEM体验，请务必调整AEM Dispatcher缓存。 了解AEM Dispatcher中的最新功能以及优化缓存的一些方法。 本课程介绍在版本4.1.0和4.1.9之间添加的新功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19378/?quality=9)
 
-*交付日期： 2015年1月28日*
+*2015年1月28日交付*
 
-**呈列方式：**
+**提交人：**
 
 * Dominique Pfister，Adobe高级计算机科学家
 * Andrew Khoury，AdobeCS工程师

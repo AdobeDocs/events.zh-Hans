@@ -1,11 +1,11 @@
 ---
 title: Skill Builder — 客户历程
-description: 录制的网络研讨会系列，通过从所有来源提取数据以创建个性化的跨渠道历程，帮助您开发实时客户档案。
-exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+description: 录制的网络研讨会系列，通过从所有来源获取数据以创建个性化的跨渠道历程，帮助您开发实时客户档案。
+exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '207'
+ht-degree: 9%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
       </a>
     </div>
     <p>
-    <em>了解如何使用编排B2B活动 [!DNL Marketo Engage] 和RT-CDP（B2B版本）以及解锁的顶级用例和优势有哪些。</em>
+    <em>了解如何使用编排B2B活动 [!DNL Marketo Engage] 和RT-CDP（B2B版本）以及解锁的主要用例和优势有哪些。</em>
     <p>
   </td>
   <td>
@@ -40,7 +40,7 @@ ht-degree: 0%
       </a>
     </div>
     <p>
-    <em>与我们的Campaign培训师一起参加此会议，了解如何在中开发数据模型中的数据架构 [!DNL Campaign Classic].</em>
+    <em>与我们的Campaign培训师一起加入此会议，了解如何在中开发数据模型中的数据架构 [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>
@@ -53,7 +53,7 @@ ht-degree: 0%
       </a>
     </div>
     <p>
-    <em>深入了解您的Adobe Campaign Standard实例，并探索有关定位、个性化和营销疲劳度的最佳实践，以便更好地使用ACS。</em>
+    <em>了解您的Adobe Campaign Standard实例，并了解有关定位、个性化和营销疲劳度的最佳实践，以便更好地使用ACS。</em>
     <p>
   </td>
 </tr>

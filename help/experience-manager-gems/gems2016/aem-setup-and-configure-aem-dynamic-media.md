@@ -1,11 +1,11 @@
 ---
 title: 设置和配置AEM Dynamic Media
-description: AEM Dynamic Media使客户能够经济高效地通过单个主控的图像或视频，向所有屏幕和客户接触点交付引人入胜的富媒体体验！  在本课程中，我们将为您提供在Dynamic Media上成功实施客户所需了解的所有信息，包括用例、技术架构和配置步骤的概述。
+description: AEM Dynamic Media使客户能够经济高效地通过单个主图像或视频，向所有屏幕和客户接触点交付引人入胜的富媒体体验！  在本课程中，我们将为您提供在Dynamic Media上成功实施客户所需了解的所有信息，包括用例、技术架构和配置步骤的概述。
 uuid: 7074c98e-f9d1-4c15-b9db-dae3efda0ea0
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
-exl-id: c0e407ef-4b74-4f18-812d-ff97732dae5d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 93ae20fb-d6fe-4275-9692-93c25edba0ef
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 8%
@@ -14,13 +14,13 @@ ht-degree: 8%
 
 # 设置和配置AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
 
-AEM Dynamic Media使客户能够经济高效地通过单个主控的图像或视频，向所有屏幕和客户接触点交付引人入胜的富媒体体验！  在本课程中，我们将为您提供在Dynamic Media上成功实施客户所需了解的所有信息，包括用例、技术架构和配置步骤的概述。
+AEM Dynamic Media使客户能够经济高效地通过单个主图像或视频，向所有屏幕和客户接触点交付引人入胜的富媒体体验！  在本课程中，我们将为您提供在Dynamic Media上成功实施客户所需了解的所有信息，包括用例、技术架构和配置步骤的概述。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*交付日期：2016年8月17日*
+*2016年8月17日交付*
 
-**呈列方式：**
+**提交人：**
 
 * Cynthia Tillo，Adobe首席产品经理
 * Bob van Manen，Adobe部工程经理

@@ -1,8 +1,8 @@
 ---
-title: '[!DNL Experience Makers - Learn from your peers]'
-description: 向Adobe专家和同行学习如何从您的Adobe解决方案中获取最大价值。 [!DNL Experience Makers - Learn from your peers] 是一个全球性的虚拟客户学习活动系列，专注于深入了解 [!DNL Adobe Experience Cloud] 解决方案。
-exl-id: e0e4870a-d3aa-4b12-a536-85761b0eae46
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+title: ’[!DNL Experience Makers - Learn from your peers]’
+description: 向Adobe专家和同行学习如何从您的Adobe解决方案中获得最大价值。 [!DNL Experience Makers - Learn from your peers] 是一个全球性的虚拟客户学习活动系列，专注于深入了解 [!DNL Adobe Experience Cloud] 解决方案。
+exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 <!-- <img alt="Experience Makers Learn from your peers" src="./assets/skill-exchange.png" /> -->
 
-向Adobe专家和同行学习如何充分利用您的Adobe解决方案。 通过为从业人员选择主题， _作者：_ 通过从业者，这些交互式会议将分享“可能情形的艺术”用例、最佳实践以及提示和技巧。
+向Adobe专家和同行学习如何从您的Adobe解决方案中获取最大价值。 通过为从业人员选择主题， _按_ 通过从业者，这些交互式会议将分享“可能的”用例、最佳实践以及提示和技巧。
 
 >[!TIP]
 >

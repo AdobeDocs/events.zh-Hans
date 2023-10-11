@@ -1,11 +1,11 @@
 ---
 title: AEM [!DNL Forms] 功能包1简介和技术示例
-description: AEM [!DNL Forms] 功能包1是LiveCycle部署的升级路径，它扩展了这些实施的范围，以包含AEM的所有功能 [!DNL Forms] 再加上更多。 此外，还向公众介绍了客户驱动的示例。
+description: AEM [!DNL Forms] 功能包1是LiveCycle部署的升级路径，它扩展了这些实施的范围，以包含AEM的所有功能 [!DNL Forms] 还有更多。 此外，还向公众介绍了客户驱动的示例。
 uuid: da167766-78b9-44ef-80d9-88f7d7897611
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
-exl-id: 6fc9cb45-f547-4ad0-9690-ff8266210366
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f651ed2b-a329-49d3-9595-64768cab9205
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 1%
@@ -14,13 +14,13 @@ ht-degree: 1%
 
 # AEM [!DNL Forms] 功能包1简介和技术示例{#aem-forms-feature-pack-introduction-and-technical-samples}
 
-AEM [!DNL Forms] 功能包1是LiveCycle部署的升级路径，它扩展了这些实施的范围，以包含AEM的所有功能 [!DNL Forms] 再加上更多。 此外，还向公众介绍了客户驱动的示例。
+AEM [!DNL Forms] 功能包1是LiveCycle部署的升级路径，它扩展了这些实施的范围，以包含AEM的所有功能 [!DNL Forms] 还有更多。 此外，还向公众介绍了客户驱动的示例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19380/?quality=9)
 
 *2015年2月4日交付*
 
-**呈列方式：**
+**提交人：**
 
 * Steve Monroe，企业解决方案部高级经理，Adobe
 * Girish Bedekar，LiveCycle解决方案宣传员，Adobe

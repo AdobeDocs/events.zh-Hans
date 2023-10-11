@@ -13,17 +13,17 @@ last-substantial-update: 2023-05-19T00:00:00Z
 jira: KT-13305
 thumbnail: 3419557.jpeg
 event-start-time: 2023-5-16 08:30-8
-exl-id: 63f9ae5b-f5ba-4b09-b2af-20824ad418d2
-source-git-commit: ab5fda39e65bdfc0941ef97cd512333a2694bb5e
+exl-id: 13aa3a2f-0a66-4bb2-92c5-93da0f2e62fb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-# 掌握内容和体验片段按需网络研讨会
+# 掌握内容和体验片段（按需）网络研讨会
 
-通过这个关于内容可重用性的网络研讨会，彻底改变您创建内容的方式并释放其全部潜力。 在此会话中，我们将深入了解页面创作内容和布局功能，了解如何组合和使用内容片段和体验片段作为构建块来实现您的战略内容目标。
+通过这个关于内容可重用性的网络研讨会，彻底改变您创建内容的方式并释放其全部潜力。 在此会话中，我们将通过学习如何组合和使用内容片段和体验片段作为构建块来实现您的战略内容目标，深入了解页面创作内容和布局功能。
 
 与Adobe Experience Manager Champion先生Greg Dimeris一起，讨论如何构建可随您的业务增长而扩展的内容战略。
 

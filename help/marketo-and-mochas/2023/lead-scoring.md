@@ -1,15 +1,15 @@
 ---
 title: Marketo和Mochas — 潜在客户得分
-description: Marketo和Mochas的首场会议邀请了营销自动化业务顾问Cynthia Chang和Kelvin Ieng参加。 本课程将深入探讨潜在客户评分的好处，以及如何设置、策略和审查您的潜在客户评分模型。 凯尔文在现场演示中介绍了如何在 [!DNL Marketo Engage] 最后提出了3项重要举措。 在演示和演示过程中，还伴随着Kelvin和Cynthia的现场问答。
+description: Marketo与莫哈斯的首场会议邀请了营销自动化业务顾问Cynthia Chang和Kelvin Ieng参加。 本课程将介绍商机评分的好处，以及如何设置、策略和审查商机评分模型。 凯尔文在现场演示中讲述了如何在 [!DNL Marketo Engage] 最后介绍了3个主要步骤。 演示和演示还附有与Kelvin和Cynthia一起进行的现场问答。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-01-06T00:00:00Z
 kt: 11655
 thumbnail: 3412722.jpeg
-exl-id: 39affe8c-cb03-4161-8a1d-6ce3e8c0aaad
+exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Marketo和Mochas — 潜在客户得分
 
-Marketo和Mochas的首场会议邀请了营销自动化业务顾问Cynthia Chang和Kelvin Ieng参加。 本课程将深入探讨潜在客户评分的好处，以及如何设置、策略和审查您的潜在客户评分模型。 凯尔文在现场演示中介绍了如何在 [!DNL Marketo Engage] 最后提出了3项重要举措。 在演示和演示过程中，还伴随着Kelvin和Cynthia的现场问答。
+Marketo与莫哈斯的首场会议邀请了营销自动化业务顾问Cynthia Chang和Kelvin Ieng参加。 本课程将介绍商机评分的好处，以及如何设置、策略和审查商机评分模型。 凯尔文在现场演示中讲述了如何在 [!DNL Marketo Engage] 最后介绍了3个主要步骤。 演示和演示还附有与Kelvin和Cynthia一起进行的现场问答。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412722/?quality=12&learn=on)

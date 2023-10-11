@@ -1,21 +1,21 @@
 ---
-title: Get inForm - Forms的终极提示和技巧
-description: Forms是组织需求挖掘历程的关键部分，但通常需要回答一些问题以确保优化这些问题。
+title: 入门 — Forms的最终提示和技巧
+description: Forms是组织需求挖掘历程的重要组成部分，但为了确保优化这些历程，通常需要回答一些问题。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9709
 thumbnail: 340312.jpeg
-exl-id: 41d558d2-e8ee-49aa-9605-84f82a8bdee6
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 24bc8c92-999b-4c75-9258-9c3dab31bb67
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Get inForm - Forms的终极提示和技巧
+# 入门 — Forms的最终提示和技巧
 
-Forms是组织需求挖掘历程的关键部分，但通常需要回答一些问题以确保优化这些问题。 在本会话中， [!DNL Marketo Engage] 拥护者Amanda和Julz将指导您了解应用于表单的最佳实践和技巧，以提高所收集数据的准确性并提高转化率。
+Forms是组织需求挖掘历程的重要组成部分，但为了确保优化这些历程，通常需要回答一些问题。 在本会话中， [!DNL Marketo Engage] 支持者Amanda和Julz将指导您了解应用于表单的最佳实践和技巧，以提高收集数据的准确性并提高转化率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

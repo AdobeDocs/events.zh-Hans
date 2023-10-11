@@ -1,12 +1,12 @@
 ---
 title: Adobe Developers Live 2021年10月
-description: 作为Adobe Developers Live活动的一部分提供的Adobe Experience Manager Sites的视频和教程集合。
+description: Adobe Experience Manager Sites的视频和教程集合，作为Adobe Developers Live活动的一部分提供。
 sub-product: sites, content-services
-exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 17%
+ht-degree: 19%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 17%
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
-2021年10月4日至5日，Adobe Developers Live汇集了背景各异但目标单一的Adobe开发人员和体验构建人员，共同创造超乎想象的端到端体验。 该为期两天的会议包括重要的开发人员更新、技术研讨会和社区交流机会。
+2021年10月4日至5日，Adobe Developers Live汇集了背景各异但目标单一的Adobe开发人员和体验构建人员，共同创造超乎想象的端到端体验。 该为期两天的会议包括重要的开发人员信息更新、技术研讨会和社区交流机会。
 
-跨Adobe Experience Cloud、Document Cloud和Creative CloudAdobe产品团队展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。
+跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe产品团队展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。
 
-与其他开发人员联系并加入Experience League社区中的会话对话。
+与其他开发人员联系并加入Experience League社区的会话对话。
 * [Adobe Developer App Builder完整会话列表](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
 * [AEM完整会话列表](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
-## 亮点
+## 高亮
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ ht-degree: 17%
       </div>
       <p>
         <br/>
-         借助适用于AEM 6.5和Adobe Experience Manager as a Cloud Service的GraphQL for Content Fragments，让我们探索如何使用Adobe Experience Manager作为Headless CMS。
+         借助适用于AEM 6.5和Adobe Experience Manager as a Cloud Service的GraphQL for Content Fragments，我们来探索如何将Adobe Experience Manager用作Headless CMS。
       </p>
      </td>   
      <td>
@@ -49,21 +49,21 @@ ht-degree: 17%
       </div>
       <p>
         <br/>
-         该会议将为您全面介绍Adobe Experience Platform可在您的生态系统中集成的各种方式，以及在规划集成工作时要考虑的事项。
+         本会议将让您全面了解Adobe Experience Platform可在您的生态系统中集成的各种方式，以及在规划集成工作时需要考虑的事项。
       </p>
    </td>
    </td>
      <td>
       <a href="pdf-services-api.md">
-      <img alt="使用Adobe Sign API在您的应用程序中生成文档并捕获电子签名" src="/help/adobe-developers-live/assets/ben.png"/>
+      <img alt="使用Adobe Sign API在应用程序中生成文档并捕获电子签名" src="/help/adobe-developers-live/assets/ben.png"/>
       </a>
       <div>
-         <a href="pdf-services-api.md"><strong>使用Adobe Sign API在您的应用程序中生成文档并捕获电子签名</strong></a>
-         <br/><em>首席开发商Evangelist</em>
+         <a href="pdf-services-api.md"><strong>使用Adobe Sign API在应用程序中生成文档并捕获电子签名</strong></a>
+         <br/><em>本·范德伯格，首席开发商，宣传专员</em>
       </div>
       <p>
         <br/>
-         Adobe生成API是一种功能强大的文档创建服务，由与您的数据合并的Microsoft Word模板驱动。 在与Adobe Sign API结合使用时，开发人员可以轻松地生成动态文档，以便通过“签名”工作流进行处理。
+         Adobe生成API是一项功能强大的文档创建服务，由与您的数据合并的Microsoft Word模板驱动。 与Adobe Sign API结合使用时，开发人员可以轻松地生成动态文档，以便通过Sign工作流进行处理。
       </p>
    </td> 
   </tr>

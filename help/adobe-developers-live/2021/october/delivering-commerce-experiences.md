@@ -1,6 +1,6 @@
 ---
 title: 大规模交付商业体验
-description: 了解如何使用Commerce Integration Framework设置和配置Adobe Experience Manager和Adobe Commerce，以便在负载下提供高性能体验。
+description: 了解如何使用Commerce integration framework设置和配置Adobe Experience Manager和Adobe Commerce，以在负载下提供高性能体验。
 solution: Commerce, Experience Manager
 feature: Developer Tools
 topic: Integrations
@@ -9,17 +9,17 @@ level: Experienced
 version: Cloud Service
 kt: 9141
 type: Event
-exl-id: d4fdab1a-7cae-4750-9b16-16c4470f43d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f1aec13d-db37-4d71-9650-9bb01a745b91
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 31%
+ht-degree: 35%
 
 ---
 
 # 大规模交付商业体验
 
-了解如何使用Commerce Integration Framework设置和配置Adobe Experience Manager和Adobe Commerce，以便在负载下提供高性能体验。
+了解如何使用Commerce integration framework设置和配置Adobe Experience Manager和Adobe Commerce，以在负载下提供高性能体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337582/?quality=12&learn=on&hidetitle=true)
 

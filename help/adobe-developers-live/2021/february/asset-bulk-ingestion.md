@@ -1,6 +1,6 @@
 ---
 title: 资产批量摄取
-description: 该会议将介绍Cloud Service中批量提取资产的新功能及其可扩展性和性能。 此会话作为Adobe Developers Live内容事件的一部分提供。
+description: 此会议将介绍Cloud Service中资产批量摄取的新功能及其可扩展性和性能。 此会话作为Adobe Developers Live内容活动的一部分提供。
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7168
 type: Event
 thumbnail: 331769.jpg
-exl-id: ab5e14f0-e71d-407a-b0c3-cd51bd50a9ed
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: c08944f0-1ce0-43cd-9f37-ae10126b6915
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # 资产批量摄取
 
-该会议将介绍Cloud Service中资产批量摄取的新功能及其可扩展性和性能。
+此会话将介绍Cloud Service中资产批量摄取的新功能及其可扩展性和性能。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 

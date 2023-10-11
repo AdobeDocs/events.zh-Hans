@@ -1,6 +1,6 @@
 ---
 title: PWA — 将任何站点转换为渐进式Web应用程序
-description: 无论您的网站是Web应用程序还是传统网站，只需单击一下即可使其安装在移动设备上并脱机可用。 此会话作为Adobe Developers Live内容事件的一部分提供。
+description: 无论您的网站是Web应用程序还是传统网站，都使其可在移动设备上安装，只需单击一下即可脱机使用。 此会话作为Adobe Developers Live内容活动的一部分提供。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7176
 type: Event
 thumbnail: 331742.jpg
-exl-id: 4f912544-210d-45f3-b1c5-1d5b857793b5
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e819c76d-84f4-4cd6-baed-a336a40267aa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # PWA — 将任何站点转换为渐进式Web应用程序
 
-无论您的网站是Web应用程序还是传统网站，只需单击一下即可使其安装在移动设备上并脱机可用。
+无论您的网站是Web应用程序还是传统网站，都使其可在移动设备上安装，只需单击一下即可脱机使用。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 

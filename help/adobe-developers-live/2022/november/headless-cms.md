@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - 11月22日 — Adobe Experience Manager作为Headless CMS — 位置/时间/原因
-description: Adobe Experience Manager as a Headless CMS — 位置/时间/原因？在此会话中，您将了解如何通过Adobe Experience Manager以多种方式实施Headless CMS。 此会话将涵盖以下内容 — 通过导出程序提供的内容服务/servlet通过资产API提供的内容片段（演示）通过Graphql提供的内容片段（演示）有关使用内容片段的一些实时用例及其方法SPA编辑器学习（关于何时选择的一些解决方案方法）（演示）
+description: Adobe Experience Manager as a Headless CMS — 位置/时间/原因？在此会话中，您将了解如何通过Adobe Experience Manager以多种方式实施Headless CMS。 此会话将涵盖以下内容 — 通过导出程序的内容服务/servlet通过资产API的内容片段（演示）通过Graphql的内容片段（演示）有关使用内容片段的一些实时用例及其方法SPA编辑器学习（关于何时选择的一些解决方案方法）（演示）
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,19 +11,19 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11475
 thumbnail: 3411299.jpeg
-exl-id: 04540d26-1719-4d98-9ef4-6a1988918db2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5280276d-ce7d-401d-bc7a-3e37698b678d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager as a Headless CMS — 位置/时间/原因
+# Adobe Experience Manager作为Headless CMS — 位置/时间/原因
 
-在此会话中，您将了解如何通过Adobe Experience Manager以多种方式实施Headless CMS。 该会议将涵盖以下内容：
+在此会话中，您将了解如何通过Adobe Experience Manager以多种方式实施Headless CMS。 该会议将包括以下内容：
 
-* 通过导出程序/servlet提供的内容服务
+* 通过导出器/servlet提供的内容服务
 * 通过资产API的内容片段（演示）
 * 通过Graphql的内容片段（演示）
 * 有关使用内容片段及其方法的一些实时用例

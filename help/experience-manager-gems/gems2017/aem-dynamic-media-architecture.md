@@ -4,8 +4,8 @@ description: 与AdobeDigital Marketing的首席产品经理Cynthia Tillo一起�
 uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
-exl-id: e2039012-97a0-4a56-ae6d-b946e8c94075
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 69d32951-430a-4d30-b59c-73b9aa151ac5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 2%
@@ -22,15 +22,15 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*交付日期：2017年8月30日*
+*2017年8月30日交付*
 
-**呈列方式：**
+**提交人：**
 
 * Cynthia Tillo，Adobe首席产品经理
 * Adobe工程学DirectorHerbert Wolfram
 * Bob van Manen，Adobe部工程经理
 * Peter Ciszak，Adobe计算机科学家
-* Kirk Jones，Adobe计算机科学家
+* Kirk Jones，计算机科学家，Adobe
 
 **演示者幻灯片**
 

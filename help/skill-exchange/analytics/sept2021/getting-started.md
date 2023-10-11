@@ -1,6 +1,6 @@
 ---
-title: 快速入门
-description: 在Analytics基础用户界面中，开始在Analysis Workspace中实施您的第一个项目，并开始使用表格、可视化图表和面板。
+title: 开始使用
+description: 在Analytics基础用户界面中，开始在Analysis Workspace中实施您的第一个项目，并开始使用表格、可视化和面板。
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Visualizations, Panels
@@ -9,15 +9,15 @@ role: User
 level: Beginner
 kt: 10455
 thumbnail: 343318.jpeg
-exl-id: a3b333d6-583e-4dff-b84a-08d4907e09ba
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 361794b0-ee83-4a2e-9fa8-eebee1c83b33
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 8%
 
 ---
 
-# 快速入门
+# 开始使用
 
 熟悉基本的Analytics用户界面，并在Analysis Workspace中开始您的第一个项目。 在此会话中，我们将开始使用表格、可视化图表和面板。
 
