@@ -4,14 +4,14 @@ description: 听取Workfront客户关于New Home如何为他们及其用户工�
 kt: KT-14069
 thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
-event-cta-url-reg: null
+event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: cdf440d1b1b0957986cfed4565e1af61dcd90693
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 0%
+source-wordcount: '209'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 听取Workfront客户关于New Home如何为他们及其用户工作的信息。 了解8月份推出的新主页功能以及我们的新管理员布局控件。 了解2024年Home的下一步发展。
 
-[![ExL LIVE 2023年9月22日](../assets/Oct26_exl_live_WebBanner.png)](https://www.youtube.com/watch?v=dvCuSQfMTZg)
+[![ExL LIVE 2023年9月22日](../assets/Oct26_exl_live_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
 经过全面改版的Workfront主页已成为生产力的强大源泉。 借助其可自定义的构件，您可以简化工作流并无缝地遍历项目、任务、问题、请求和提及，确保没有任何内容会被漏掉。 灵活地调整主页以满足您的特殊需求，允许您创建自己的集中式Workfront中心。
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 与往常一样，此实时会话允许您在聊天中提问并从专家那里获得答案。
 
-**单击上图以设置提醒！**
+**单击上图以注册直播流事件！**
