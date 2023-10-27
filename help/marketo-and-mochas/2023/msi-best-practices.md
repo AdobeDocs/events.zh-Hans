@@ -1,6 +1,7 @@
 ---
 title: MSI最佳实践和优化
 description: 您听说过Marketo Sales Insights或MSI吗？ 也许你拥有许可证，但不知道许可证是什么，也不知道如何利用许可证。 在本网络研讨会中，Adobe自己的营销自动化业务顾问Cynthia Chang和Marketo客户技术顾问James Leedom将讨论如何确保充分利用该工具以及实施、启动等活动的最佳实践。Cynthia和James深入探讨MSI的功能，包括有趣的时刻和最佳方案。 这些文档说明了它如何与Salesforce、许可证管理以及跨销售和营销团队优化运营效率的策略集成。 最后，我们向与会者进行了现场问答。
+solution: Marketo
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
 role: Admin, Leader, User
@@ -10,7 +11,7 @@ last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
