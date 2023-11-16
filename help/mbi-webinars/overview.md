@@ -2,7 +2,7 @@
 title: Commerce Intelligence网络研讨会
 description: 探索Commerce Intelligence录制的网络研讨会，其中涵盖最充分地使用Commerce Intelligence的多种主题和最佳实践。
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 19%
@@ -26,11 +26,11 @@ Commerce Intelligence网络研讨会系列是面向MBI客户的定期事件。 �
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
       <img alt="MBI 快速入门" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
         <strong>MBI 快速入门</strong>
       </a>
     </div>
