@@ -8,7 +8,7 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14386
 thumbnail: 3425603.jpeg
-source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
+source-git-commit: 613a25eb1dda2076ff87dc03f0680f1193490f4f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Real-time CDP数据准备工作
 
-从数据准备工作的角度了解组织准备工作背后的战略，以实现精简的Real-time CDP发布。
+从数据准备工作的角度了解组织准备工作背后的战略，以实现精简的实时CDP发布。
 
 * 了解实时CDP数据就绪性
 * 了解如何与组织的业务用例保持一致
