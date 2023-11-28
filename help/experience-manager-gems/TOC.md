@@ -2,8 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列技术深入探讨。
 breadcrumb-title: AEM GEMs事件
-feature-set: Experience Manager
-source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '648'
 ht-degree: 5%

@@ -2,9 +2,8 @@
 user-guide-title: Adobe [!DNL Campaign] 内部活动
 user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Adobe的提示和技巧及灵感 [!DNL Campaign] 客户：帮助制定跨渠道营销策略、提升团队营销从业者的技能，以及帮助组织推出更高级的跨渠道营销策略。
-feature-set: Campaign
 solution: Campaign
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 25%
