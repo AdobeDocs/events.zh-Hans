@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
+source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -76,6 +76,7 @@ ht-degree: 10%
          + [AEM Assets快速入门](aem/aug2023/getting-started-aem-assets.md)
          + [利用协作DAM](aem/aug2023/collaborative-dam.md)
          + [扩展AI就绪性](aem/aug2023/metadata.md)
+         + [焦点](aem/aug2023/spotlight.md)
    + 2022 年 8 月 {#aug2022}
       + 开发人员跟踪 {#developer-track}
          + [体验创客聚焦](aem/aug2022/spotlight.md)
@@ -116,6 +117,7 @@ ht-degree: 10%
       + [增长和持续效率](workfront/aug2023/growth-continued-efficiencies.md)
       + [在整个企业中使Workfront成熟](workfront/aug2023/workfront-across-enterprise.md)
       + [与Creative Cloud的本机集成](workfront/aug2023/native-integtrations.md)
+      + [开幕主题演讲](workfront/aug2023/opening-keynote.md)
       + [目标驱动自动化](workfront/aug2023/automations.md)
       + [资源管理燃尽](workfront/aug2023/resource-management-burnout.md)
       + [资源管理入门工具包](workfront/aug2023/resource-management-starter-kit.md)
