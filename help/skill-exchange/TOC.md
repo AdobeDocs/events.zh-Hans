@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '496'
+ht-degree: 11%
 
 ---
 
@@ -15,6 +15,16 @@ ht-degree: 0%
 
 + [概述](overview.md)
 + Analytics {#analytics}
+   + 2023年8月 {#aug2023}
+      + [关于区段](analytics/aug2023/spotlight-segments.md)
+      + [分析数据](analytics/aug2023/analyze-the-data.md)
+      + [培训临时工作区用户](analytics/aug2023/spotlight.md)
+      + [修复导航](analytics/aug2023/fix-navigation.md)
+      + [使用过的4个功能](analytics/aug2023/data-analysis.md)
+      + [开始使用](analytics/aug2023/getting-started.md)
+      + [改善客户体验](analytics/aug2023/anti-conversion.md)
+      + [主题演讲](analytics/aug2023/keynote.md)
+      + [融于一起](analytics/aug2023/putting-together.md)
    + 2023 年 5 月 {#may2023}
       + [Adobe Analytics提示和技巧](analytics/may2023/tips-and-tricks.md)
       + [迁移到EDDL/WebSDK](analytics/may2023/migrate.md)
@@ -22,14 +32,14 @@ ht-degree: 0%
       + [提高工作效率](analytics/may2023/productivity.md)
       + [了解指标](analytics/may2023/metrics.md)
       + [用户界面基础知识](analytics/may2023/user-interface.md)
-   + 2022 年 10 月 {#oct2022}
+   + 2022年10 {#oct2022}
       + [开始使用](analytics/oct2022/getting-started.md)
       + [分析数据](analytics/oct2022/analyzing-the-data.md)
       + [融于一起](analytics/oct2022/putting-it-all-together.md)
       + [Analytics ROI](analytics/oct2022/analytics-roi.md)
       + [Analytics学习体验创客聚焦](analytics/oct2022/spotlight.md)
       + [掌握Adobe Analytics工具带](analytics/oct2022/toolbelt.md)
-   + 2022 年 9 月 {#sept2022}
+   + 2022年9月 {#sept2022}
       + [开始使用](analytics/sept2022/getting-started.md)
       + [分析数据](analytics/sept2022/analyzing-the-data.md)
       + [融于一起](analytics/sept2022/putting-it-all-together.md)
@@ -45,14 +55,14 @@ ht-degree: 0%
       + [开始使用](analytics/may2022/getting-started.md)
       + [融于一起](analytics/may2022/putting-all-together.md)
       + [供您生活的10大数字分析理论](analytics/may2022/top-ten.md)
-   + 2021 年 10 月 {#oct2021}
+   + 2021年10 {#oct2021}
       + [Adobe Analytics摇滚之星](analytics/oct2021/analytics-rockstars.md)
       + [Adobe Analytics提示和技巧](analytics/oct2021/tips-and-tricks.md)
       + [Analysis Workspace提示和技巧](analytics/oct2021/analysis-workspace-tips-and-tricks.md)
       + [分析数据](analytics/oct2021/analyze-data.md)
       + [开始使用](analytics/oct2021/getting-started.md)
       + [融于一起](analytics/oct2021/putting-all-together.md)
-   + 2021 年 9 月 {#sept2021}
+   + 2021年9月 {#sept2021}
       + [Adobe Analytics摇滚之星](analytics/sept2021/analytics-rockstars.md)
       + [Adobe Analytics提示和技巧](analytics/sept2021/tips-and-tricks.md)
       + [分析数据](analytics/sept2021/analyze-data.md)
@@ -72,6 +82,7 @@ ht-degree: 0%
          + [AEM开发人员入门工具包](aem/aug2023/deploy-new-project.md)
          + [构建高效且可扩展的样式系统](aem/aug2023/scalable-style-system.md)
          + [迁移到AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+         + [个性化的营销电子邮件](aem/aug2023/personalized-marketing-emails.md)
       + Web跟踪 {#webtrack}
          + [AEM Assets快速入门](aem/aug2023/getting-started-aem-assets.md)
          + [利用协作DAM](aem/aug2023/collaborative-dam.md)
