@@ -1,18 +1,18 @@
 ---
 title: 数据收集功能亮点和路线图
-description: 数据收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，今年我们即将推出非常棒的产品。
+description: 数据收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，即将推出非常棒的产品。
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
 kt: 11645
 thumbnail: https://video.tv.adobe.com/v/3412963?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=Gj_FDCMgU8I
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230126.html
-event-start-time: 2023-1-26 09:00-8
+event-start-time: 2023-01-26 09:00-8
 event-guests: Rudi Shumpert,Mitch Rice,Doug Moore
 exl-id: f2552b21-3b1e-4538-bfe4-a37f4225c4d0
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 37%
+source-wordcount: '134'
+ht-degree: 17%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 37%
 
 **我们发布的内容和Adobe数据收集的功能**
 
-数据收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，今年我们即将推出非常棒的产品。
+数据收集在Adobe中非常重要！ 您需要能够信任您所使用的数据。去年，我们的产品发布经历了多事之秋，即将推出非常棒的产品。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412963/?quality=12&learn=on)
 
