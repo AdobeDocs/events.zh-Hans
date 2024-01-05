@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 47%
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
@@ -24,15 +24,15 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/Jan17_2024_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-12-14-23.md">
-        <strong>Adobe Real-Time CDP中5大新增功能的2024年倒计时</strong>
+      <a href="episodes/exl-live-episode-01-17-24.md">
+        <strong>将Adobe Analytics数据和分析导入Customer Journey Analytics</strong>
       </a>
-      <br/><em>与道格·摩尔、尼娜·卡鲁索和鲁迪·舒姆波特一起</em>
-      <br/><em>2023年12月14日</em>
+      <br/><em>与道格·摩尔、埃里克·马蒂索夫和布莱恩·斯克尔顿一起</em>
+      <br/><em>2024年1月17日上午10:00（太平洋标准时间）</em>
     </div>
   </td>
 </tr>
