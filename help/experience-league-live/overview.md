@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
+source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 47%
+source-wordcount: '176'
+ht-degree: 42%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    请尽快返回此页面，以获取2024年2月8日即将播出的节目的信息！
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
+      <img alt="Experience League直播2008年2月" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-08-24.md">
+        <strong>用例行动手册、自助模板，用于通过单击Real-Time CDP和Journey Optimizer来部署用例</strong>
+      </a>
+      <br/><em>与丹尼尔·赖特、若瑟·莫内特 — 希利和罗希特·巴苏里在一起</em>
+      <br/><em>2024年2月08日</em>
+    </div>
   </td>
 </tr>
 </table>
