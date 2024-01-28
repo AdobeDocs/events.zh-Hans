@@ -1,6 +1,6 @@
 ---
-title: Experience Manager Cloud Service 上的内容交付
-description: Adobe Experience Manager as a Cloud Service具有功能强大的预配置内容交付架构。 演示如何充分利用优化的内容交付配置. 此会话作为Adobe Developers Live内容活动的一部分提供。
+title: Experience Manager Cloud Service内容交付
+description: Adobe Experience Manager as a Cloud Service具有功能强大的预配置内容交付架构。 演示如何充分利用优化的内容交付配置。 此会话作为Adobe Developers Live内容活动的一部分提供。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -12,16 +12,17 @@ kt: 7270
 type: Event
 thumbnail: 332022.jpg
 exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1597
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 29%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
 # Experience Manager Cloud Service内容交付 — 设置您的项目以交付快速体验
 
-Adobe Experience Manager as a Cloud Service具有功能强大的预配置内容交付架构。 演示如何充分利用优化的内容交付配置.
+Adobe Experience Manager as a Cloud Service具有功能强大的预配置内容交付架构。 演示如何充分利用优化的内容交付配置。
 
 在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
 

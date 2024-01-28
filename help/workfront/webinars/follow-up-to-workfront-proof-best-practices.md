@@ -1,15 +1,15 @@
 ---
 title: 咨询专家 — 跟进Workfront Proof最佳实践
 description: 了解为何应使用自动化工作流模板、如何创建这些模板，以及如何调整验证设置以确保隐私。 该网络研讨会于2020年3月4日录制。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4083
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 2%
+source-wordcount: '1649'
+ht-degree: 1%
 
 ---
 

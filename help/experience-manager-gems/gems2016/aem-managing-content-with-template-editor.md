@@ -1,14 +1,14 @@
 ---
 title: 使用Adobe Experience Manager的模板编辑器管理您的内容
 description: Adobe Experience Manager 6.2中引入了新的模板编辑器，该编辑器为构建、结构和配置数字资产提供了强大的新方法。 从超级作者角度探索该功能，了解它如何允许撰写不同的页面模板，并准确控制允许作者在相应页面上执行哪些内容操作。 最后，深入了解其内在机制，了解其内在运作方式。
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 4%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 

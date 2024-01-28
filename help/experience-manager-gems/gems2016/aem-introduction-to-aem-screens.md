@@ -1,18 +1,18 @@
 ---
-title: AEM Screens 简介
+title: AEM Screens简介
 description: AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案。 在这个AEM Gems课程中，我们将介绍AEM Screens的主要功能以及如何设置带有幻灯片和交互式体验的简单项目。 然后，我们将概述如何开发AEM Screens优化组件以及如何设置渠道以供离线使用。 最后，我们将探讨AEM Screens REST API并说明如何集成自定义Cordova插件。
-uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3127
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 8%
+source-wordcount: '256'
+ht-degree: 2%
 
 ---
 
-# AEM Screens 简介{#introduction-to-aem-screens}
+# AEM Screens简介{#introduction-to-aem-screens}
 
 AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案。 在这个AEM Gems课程中，我们将介绍AEM Screens的主要功能以及如何设置带有幻灯片和交互式体验的简单项目。 然后，我们将概述如何开发AEM Screens优化组件以及如何设置渠道以供离线使用。 最后，我们将探讨AEM Screens REST API并说明如何集成自定义Cordova插件。
 

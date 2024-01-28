@@ -1,13 +1,13 @@
 ---
 title: Dispatcher缓存 — 新增功能和优化
 description: 了解如何优化AEM Dispatcher缓存。 了解AEM Dispatcher中的最新功能以及优化缓存的一些方法。 本课程介绍在版本4.1.0和4.1.9之间添加的新功能。
-uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
 exl-id: 36d0784e-ab04-4af4-8308-eb62a51e36ac
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2777
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '122'
 ht-degree: 3%
 
 ---

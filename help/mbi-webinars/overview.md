@@ -2,7 +2,8 @@
 title: Commerce Intelligence网络研讨会
 description: 探索Commerce Intelligence录制的网络研讨会，其中涵盖最充分地使用Commerce Intelligence的多种主题和最佳实践。
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 5be00538f31610434e2853d4c94fb0611726e709
+duration: 77
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 1%

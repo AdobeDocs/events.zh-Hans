@@ -2,10 +2,11 @@
 title: 客户数据管理意见
 description: 您作为客户数据管理技术和营销实践领导者和专家的目标。  本页面是您听取同行意见、获取灵感并了解市场技术发展的一站式服务。
 exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 117
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 19%
+source-wordcount: '306'
+ht-degree: 4%
 
 ---
 
@@ -101,10 +102,10 @@ ht-degree: 19%
    </td> 
    <td>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
-      <img alt="负责任的客户数据管理的 10 个注意事项" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
+      <img alt="负责任的客户数据管理的10个注意事项" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>负责任的客户数据管理的 10 个注意事项</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>负责任的客户数据管理的10个注意事项</strong></a>
          <br/>
       </div>
       <p>
@@ -151,7 +152,7 @@ ht-degree: 19%
     </td>
      <td>
       <a href="./industry/the-future-of-data-management-and-the-changing-environment.md">
-      <img alt="数据管理的未来和复杂多变的环境" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
+      <img alt="数据管理的未来和不断变化的环境" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
       </a>
       <div>
          <a href="./industry/the-future-of-data-management-and-the-changing-environment.md"><strong>数据管理的未来和复杂多变的环境</strong></a>
@@ -161,10 +162,10 @@ ht-degree: 19%
     </td>
    <td>
       <a href="./industry/brands-vs-consumers.md">
-      <img alt="一个故事，两种看法 - 品牌对消费者" src="./assets/brands-vs-consumers.png"/>
+      <img alt="一个故事，两种看法 — 品牌与消费者" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>一个故事，两种看法 - 品牌对消费者</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong>一个故事，两种看法 — 品牌与消费者</strong></a>
          <br/>
       </div>
     </td>

@@ -1,14 +1,14 @@
 ---
 title: AEM Web性能
 description: 快速提供复杂的Web体验具有挑战性。 在本次演讲中，Joel将揭示一些更常见的隐患。 其中包括理论、示例、最佳实践以及工具演示。
-uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3831
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 10%
+source-wordcount: '184'
+ht-degree: 2%
 
 ---
 
@@ -34,21 +34,21 @@ ht-degree: 10%
 >
 >AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 
-Apache:\
+Apache：\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
 
 Web标准：\
 [https://www.w3.org/TR/preload/](https://www.w3.org/TR/preload/)\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
-AEM:\
+AEM：\
 [https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 AEM组件：\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
 [https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
 
-第三方:\
+第三方：\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
 [https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 

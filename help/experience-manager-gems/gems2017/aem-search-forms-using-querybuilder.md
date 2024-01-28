@@ -1,14 +1,14 @@
 ---
 title: 使用AEM查询生成器轻松搜索表单
 description: 此会话说明了与JCR栈栈上的其他查询语言相比，查询生成器所遵循的原则。 它显示了如何使用它轻松构建可创作的搜索表单、如何构建高效的搜索、如何调试查询以及如何扩展它。
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 6%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 6%
 
 * [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，亚历山大·克里梅切克提供
 
-AEM 文档
+AEM文档
 
 >[!WARNING]
 >

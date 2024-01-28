@@ -1,13 +1,13 @@
 ---
 title: AEM 6用户界面自定义
 description: 了解如何扩展AEM 6.0用户界面。 通过新的资源合并器，可以通过叠加来修改每个管理控制台，以更改、删除或添加任何节点或属性。
-uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
 exl-id: c73a94ba-a21b-4dd4-90e1-334b91616a46
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3601
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '165'
 ht-degree: 1%
 
 ---

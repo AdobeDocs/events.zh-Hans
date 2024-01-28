@@ -1,13 +1,13 @@
 ---
 title: AEM富文本编辑器(RTE)深入分析
 description: 了解AEM中丰富配置和使用RTE的最佳实践。 我们将介绍在AEM中使用RTE时的各种用例、限制、隐患、配置工作流和常见故障排除步骤。 我们还将介绍其命令插件架构以及Html规则、内核和反序列化等核心概念。
-uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: d6ecba7f-e82b-4b26-9769-392449c9d070
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3186
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: AEM中的OAuth服务器功能 — 支持联盟并释放您的REST API！
 description: 大致了解OAuth 2框架和Granite OAuth服务器功能。 Adobe Experience Manager (AEM)实施为在OSGi环境中运行并基于REST原则。
-uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced
 exl-id: e0797cec-a27b-4790-9281-a8b1d6e9b10c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1804
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '190'
 ht-degree: 1%
 
 ---

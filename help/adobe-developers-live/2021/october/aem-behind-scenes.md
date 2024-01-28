@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9118
 type: Event
 exl-id: 9d0eb3bd-aad7-4d79-8280-3cfa125f04fd
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3621
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 7%
+source-wordcount: '187'
+ht-degree: 3%
 
 ---
 
@@ -27,6 +28,6 @@ ht-degree: 7%
 
 ## 其他资源
 
-- [Adobe Experience Manager 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience ManagerCloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

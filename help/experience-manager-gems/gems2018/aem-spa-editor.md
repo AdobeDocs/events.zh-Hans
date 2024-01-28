@@ -1,13 +1,13 @@
 ---
 title: AEM SPA编辑器
 description: 单页应用程序(SPA)可全面提高访客体验的互动性，因此越来越受欢迎，甚至在以内容为中心的访客体验中也得到了更广泛的应用。 欢迎参阅此简介，了解有关SPA编辑器的更多信息。
-uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
 exl-id: 99684051-9a66-4d33-8ed0-1362de6d2a04
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3565
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---

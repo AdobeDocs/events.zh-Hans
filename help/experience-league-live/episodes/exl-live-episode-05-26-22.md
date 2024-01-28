@@ -4,20 +4,20 @@ description: 了解Web SDK。 我们将向您展示Web SDK的所有基础知识�
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
-event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3863
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
-# 咨询专家：Web SDK 基础
+# 询问专家：Web SDK基础知识
 
-在有关Adobe Experience Cloud数据收集的三场直播会议中的第一场中，了解使用Web SDK进行Web数据收集的“未来趋势”。 我们将向您展示Web SDK的所有基础知识，包括它背后的推理、它的工作方式以及它支持的重要用例。 我们将有专家帮助我们全面了解它，因此我们将能够回答问题并展示最佳实践。
+在有关Adobe Experience Cloud数据收集的三场直播研讨会的第一场中，了解使用Web SDK进行Web数据收集的“未来趋势”。 我们将向您展示Web SDK的所有基础知识，包括它背后的推理、它的工作方式以及它支持的重要用例。 我们将会有专家来了解它，因此我们能够回答问题并展示最佳实践。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
@@ -25,15 +25,15 @@ ht-degree: 9%
 
 ## 此数据收集系列中的其他Experience League实时会话
 
-* [咨询专家 – Real-Time CDP 连接](exl-live-episode-06-23-22.md)
-* [咨询专家 — 数据流和数据准备](exl-live-episode-07-21-22.md)
+* [咨询专家 — Real-Time CDP Connections](exl-live-episode-06-23-22.md)
+* [询问专家 — 数据流和数据准备](exl-live-episode-07-21-22.md)
 
 ### 一些有用链接
 
 * [教程：使用Web SDK实施Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans){target="_blank"}
-* [Web SDK中自动收集的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [在Web SDK中自动收集的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [免费Web SDK配置](https://adobe.ly/websdkaccess){target="_blank"}
 * [有关Web SDK中第一方设备ID的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
 * [Adobe Experience Platform Debugger概述和下载](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [Mobile SDK文档](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
+* [移动SDK文档](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [混合应用程序收藏集信息](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

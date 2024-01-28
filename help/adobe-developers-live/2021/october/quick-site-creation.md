@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9183
 type: Event
 exl-id: 736baf52-d3e5-43f2-b240-d8c8aa6cdfe7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1877
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 6%
+source-wordcount: '205'
+ht-degree: 3%
 
 ---
 
@@ -27,6 +28,6 @@ Adobe Experience Manager将推出创新型方法来创建站点。 现在，我�
 
 ## 其他资源
 
-- [Adobe Experience Manager 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience ManagerCloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

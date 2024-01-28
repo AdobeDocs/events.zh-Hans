@@ -1,13 +1,13 @@
 ---
 title: SharePoint Connector — 设置和配置
 description: 获取有关如何使用CQ/AEM (5.6.0)设置和配置共享连接器的分步指南，以及几个示例的演示。 Adobe的SharePoint Connector通过标准JCR界面公开内容，使应用程序能够以标准化方式访问专有存储库中的内容，从而简化对内容的访问。
-uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
 exl-id: bf44898e-f455-456a-b168-912feb275aae
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3478
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '164'
 ht-degree: 1%
 
 ---

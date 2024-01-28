@@ -1,11 +1,11 @@
 ---
 title: 进入焦油坑 — TarMK深究
 description: 有没有想过TarMK的tar文件里面有什么？ 什么是区段？什么是记录？ 区段存储垃圾收集的工作方式以及原因（或原因）？ 本课程将回答这些问题及其他许多问题。
-uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
 exl-id: bcf64ff5-f8c1-4355-803e-df22cc784cc2
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4071
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%

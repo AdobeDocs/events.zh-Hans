@@ -1,13 +1,13 @@
 ---
 title: 如何充分利用DAM功能包
 description: 了解适用于AEM 5.6.1的DAM FP2。此功能包侧重于利用Creative Projects功能，为您提供独特的资产来源管理方式。 此会话涵盖了创意项目工作流程的分步工作，该工作流用于创建、编辑和上传拍摄列表以及针对拍摄列表上传资产。 此外，还包括审阅和批准上传的资产。您还将了解任务表面配置、自定义项目工作流模板和产品层次结构创建的功能。
-uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
 exl-id: 13067227-3006-407d-9450-c976cd6c8805
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2919
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---

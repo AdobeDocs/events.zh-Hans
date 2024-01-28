@@ -2,9 +2,10 @@
 title: APAC Commerce网络研讨会系列
 description: APAC商务网络研讨会系列每月为Adobe Commerce客户举办一系列研讨会，涵盖从最佳实践到产品路线图和行业趋势等众多主题。
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 66
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---

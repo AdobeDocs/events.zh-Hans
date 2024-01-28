@@ -1,14 +1,14 @@
 ---
 title: 构建AEM的运行状况检查
 description: 确定AEM实例是否正常运行并不是一项简单的任务。 此会话将深入分析操作功能板的“运行状况报表”部分。
-uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
 exl-id: 7ca119fa-1dae-4b4c-a772-71af29f5813f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2968
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 7%
+source-wordcount: '173'
+ht-degree: 2%
 
 ---
 

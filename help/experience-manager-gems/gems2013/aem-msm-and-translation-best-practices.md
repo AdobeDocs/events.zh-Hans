@@ -1,34 +1,34 @@
 ---
-title: MSM和翻譯 — 最佳實務
-description: 此網路研討會會檢視MSM與多語言網站翻譯的交集。 我們會說明翻譯帶來的複雜性、網站結構的建議，以及各種使用案例的翻譯聯結器和工具的簡短比較。
-uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
+title: msm和翻译 — 最佳实践
+description: 此网络研讨会探讨多语言网站的MSM和翻译的交集。 我们介绍了翻译引入的复杂性、站点结构的建议，并简要比较了各种用例的翻译连接器和工具。
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 29
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
-# MSM與翻譯：最佳作法 {#msm-and-translation-best-practices}
+# msm和翻译：最佳实践 {#msm-and-translation-best-practices}
 
-此網路研討會會檢視MSM與多語言網站翻譯的交集。 我們會說明翻譯帶來的複雜性、網站結構的建議，以及各種使用案例的翻譯聯結器和工具的簡短比較。
+此网络研讨会探讨多语言网站的MSM和翻译的交集。 我们介绍了翻译引入的复杂性、站点结构的建议，并简要比较了各种用例的翻译连接器和工具。
 
-**展示者：**
+**提交人：**
 
-Christine Duran，Sr翻譯技術小組經理，Adobe
+Christine Duran，Sr翻译技术组经理，Adobe
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
-已取代此次2013年GEM研討會的原始內容。 資訊已過期。
+二零一三年起之此届创业板会议之原内容已予取代。 信息已过期。
 
-請改為在Adobe Experience Manager檔案中閱讀更多有關最佳實務的資訊：
+请阅读Adobe Experience Manager文档中有关最佳实践的更多信息：
 
-* [多網站管理最佳實務](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [多站点管理最佳实践](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [翻译最佳实践](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [返回概觀](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [返回概述](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

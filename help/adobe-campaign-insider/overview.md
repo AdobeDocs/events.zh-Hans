@@ -2,10 +2,11 @@
 title: Adobe [!DNL Campaign] 内部人员系列
 description: Adobe的提示和技巧及灵感 [!DNL Campaign] 客户：帮助制定跨渠道营销策略、提升团队营销从业者的技能，以及帮助组织推出更高级的跨渠道营销策略。
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -35,7 +36,7 @@ Adobe的提示和技巧及灵感 [!DNL Campaign] 客户：帮助制定跨渠道�
       <img alt="Adobe [!DNL Campaign] 与营销生态系统集成" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>[!DNL Campaign]Adobe 与营销生态系统集成</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] 与营销生态系统集成</strong></a>
          <br/>
       </div>
    </td>

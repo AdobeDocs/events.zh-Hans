@@ -1,5 +1,5 @@
 ---
-title: HTTP? 事情的开端，进展如何
+title: HTTP？ 事情的开端，进展如何
 description: 采访HTTP协议的共同作者和REST的发明者Roy Fielding，了解HTTP从早期到现在在QUIC和HTTP/3方面的演变。 此会话作为Adobe Developers Live内容活动的一部分提供。
 feature: Developer Tools
 topic: Development
@@ -9,14 +9,15 @@ kt: 7172
 type: Event
 thumbnail: 331738.jpg
 exl-id: 1621c837-6c27-4411-9747-41d9aceb3c1e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 13
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 2%
+source-wordcount: '92'
+ht-degree: 0%
 
 ---
 
-# HTTP? 事情的开端，进展如何
+# HTTP？ 事情的开端，进展如何
 
 采访HTTP协议的共同作者和REST的发明者Roy Fielding，了解HTTP从早期到现在在QUIC和HTTP/3方面的演变。
 

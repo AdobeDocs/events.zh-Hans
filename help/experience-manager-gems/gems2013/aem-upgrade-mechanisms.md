@@ -1,14 +1,14 @@
 ---
 title: AEM 5.6升级机制
 description: 了解CQ/AEM中的升级机制，该机制允许仅通过将CQ/AEM jar文件替换为新文件来升级CQ本身以及自定义应用程序和内容。 我们将介绍一般升级方案，描述升级扩展点，说明我们如何测试升级机制，并评论与升级相关的一些技术挑战。
-uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
 exl-id: a440b824-bf46-4fb7-8683-1a38e4e32f14
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3272
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
+source-wordcount: '149'
+ht-degree: 2%
 
 ---
 

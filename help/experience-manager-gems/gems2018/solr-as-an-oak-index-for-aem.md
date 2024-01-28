@@ -1,14 +1,14 @@
 ---
 title: Solr作为AEM的Oak索引
 description: 默认情况下，Oak Lucene索引提供AEM全文搜索功能。 但是，AEM还可以通过Oak Solr索引将索引卸载并搜索到Solr服务器/群集。 在本次Gem课程中，我们将深入探讨一些现实生活场景，在这些场景中，使用Solr作为AEM的Oak索引在性能和索引/搜索功能方面是可行的。
-uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
 exl-id: 638aab84-a8eb-411d-89de-856558492831
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3474
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---

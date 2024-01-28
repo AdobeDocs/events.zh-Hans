@@ -1,6 +1,6 @@
 ---
 title: 通过决策管理在适当的时间提供适当的优惠
-description: Adobe Target和Adobe Real-time Customer Data Platform可以集成，以提供更加个性化的客户体验。 在这个直播活动中，了解集成这两个平台如何帮助企业实时收集数据，然后创建和测试有针对性的体验。 在实时演示中查看此强大功能的端到端过程。
+description: Adobe Target和Adobe Real-time Customer Data Platform可以集成，以提供更加个性化的客户体验。 在本直播活动中，了解集成这两个平台如何帮助企业实时收集数据，然后创建和测试有针对性的体验。 在实时演示中查看此强大功能的端到端过程。
 solution: Journey Optimizer
 kt: 11028
 feature: Offers
@@ -11,18 +11,19 @@ event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
-source-git-commit: 26cd8c02afc6f8cf506d82b363ccfd0482c3bafd
+duration: 3666
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # 通过决策管理在适当的时间提供适当的优惠
 
-**使用AI对优惠进行排名，并在内部和外部消息传递渠道中利用这些优惠。**
+**使用AI对优惠进行排名，并将其用于内部和外部消息传递渠道。**
 
-由于当今大多数客户历程是多表面和多接触点，因此通过正确的交互找到并提供合适的优惠至关重要。 除了折扣，优惠还可以包括忠诚度和维系率消息、升级、提醒、促销甚至学习机会。 相比以往，营销人员更倾向于将人工智能用于任务关键型实时决策管理用例。
+如今，大部分客户历程都是多表面和多接触点，因此，在正确的交互中查找并提供正确的优惠至关重要。 除了折扣，优惠还可以包括忠诚度和维系率消息、升级、提醒、促销活动，甚至学习机会。 相比以往，营销人员更倾向于将人工智能用于任务关键型实时决策管理用例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410560/?quality=12&learn=on)
 

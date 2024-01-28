@@ -1,12 +1,12 @@
 ---
 title: 咨询专家 — 文本模式报告简介
 description: 文本模式可以扩展您的报告功能，以创建更复杂的视图、筛选器、分组和提示。 该网络研讨会于2020年7月15日录制。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9919
 exl-id: 9199bf64-c019-4ffd-9e12-50d4f6ced4a1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3671
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

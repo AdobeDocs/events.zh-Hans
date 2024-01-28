@@ -1,5 +1,5 @@
 ---
-title: 一个故事，两种看法 - 品牌对消费者
+title: 一个故事，两种看法 — 品牌与消费者
 description: Adobe可揭示广告商和出版商对于无可挑剔的未来的理解和准备程度、对其用例的影响以及他们对整个生态系统的看法。
 solution: Real-Time Customer Data Platform
 feature: Identities
@@ -10,10 +10,11 @@ thumbnail: 332060.jpg
 kt: 7335
 type: Event
 exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2404
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 16%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

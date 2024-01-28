@@ -3,14 +3,15 @@ title: Adobe Developers Live 2021年2月
 description: 作为Adobe Developers Live Content活动的一部分提供的Adobe Experience Manager Sites的视频和教程集合。
 sub-product: sites, content-services
 exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 91
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 12%
+source-wordcount: '309'
+ht-degree: 5%
 
 ---
 
-# Adobe Developers Live |内容 {#overview}
+# Adobe Developers Live | 内容 {#overview}
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
@@ -78,7 +79,7 @@ ht-degree: 12%
 * [AEM Sites开发文档](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites管理文档](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [AEM Sites部署文档](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEM as a Cloud Service 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [AEMas a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
 * [AEM Assets 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [AEM Foundation 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)

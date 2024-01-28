@@ -1,14 +1,14 @@
 ---
 title: SPA编辑器SDK深入分析 — 第1部分 — React
 description: 深入了解如何使用AEM页面编辑器创作单页面应用程序的开发情况。
-uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: cdb5b891-8501-464a-bdd7-1b89dd17944c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3218
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 10%
+source-wordcount: '140'
+ht-degree: 2%
 
 ---
 
@@ -36,9 +36,9 @@ ht-degree: 10%
 
 ## 相关链接 {#related-links}
 
-[周末教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[周末教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=zh-Hans)
 
-[文档](https://helpx.adobe.com/cn/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[文档](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [示例 — We零售日记帐](https://github.com/adobe/aem-sample-we-retail-journal)
 

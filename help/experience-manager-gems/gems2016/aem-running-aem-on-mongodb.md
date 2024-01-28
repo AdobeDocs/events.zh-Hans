@@ -1,14 +1,14 @@
 ---
 title: 在MongoDB上运行AEM
 description: 此AEM Gem将详细介绍如何在生产设置中在MongoDB上运行AEM。 我们将介绍MongoDB用于部署的选项，重点介绍建议的部署，并解释这些建议的理由。
-uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3024
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 8%
+source-wordcount: '154'
+ht-degree: 2%
 
 ---
 

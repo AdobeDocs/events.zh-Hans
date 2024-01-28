@@ -1,14 +1,14 @@
 ---
 title: 在Adobe Experience Manager部署中利用SAML
 description: 与CS工程师Sham Hassan Chikkegowda和Adobe部高级开发人员Timothee Maret一起审查如何在您的Experience Manager部署中使用安全断言标记语言(SAML)。 SAML是一种基于XML的开放标准数据格式，用于在各方之间，特别是在身份提供者和服务提供者之间交换身份验证和授权数据。  SAML是OASIS安全服务技术委员会的产品。
-uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
 exl-id: 3631e05d-633f-42ef-a950-92f039081ced
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3224
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 2%
+source-wordcount: '207'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 ## 相关链接 {#related-links}
 
-* [SAML 2.0 身份验证处理程序](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
+* [SAML 2.0身份验证处理程序](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
 * [[SAMLProf] OASIS安全断言标记语言(SAML) V2.0的配置文件](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
 * [[SAMLBind] OASIS安全断言标记语言(SAML) V2.0的绑定](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
 * [[SAMLTech]安全声明标记语言(SAML) V2.0技术概述](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)

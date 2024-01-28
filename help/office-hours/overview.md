@@ -2,7 +2,8 @@
 title: Adobe办公时间
 description: “办公时间”是一种主动减少案例的方法，它为客户提供了特定于解决方案的网络研讨会。
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 53
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

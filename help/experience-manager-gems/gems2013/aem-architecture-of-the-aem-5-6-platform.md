@@ -1,13 +1,13 @@
 ---
 title: AEM 5.6平台的架构
 description: 了解AEM应用程序平台架构的演变。 自从第一次发布公报1以来，直到最近推出AEM 5.6为止，该应用程序经历了若干变化，成为当今通用和可扩展的应用程序平台。
-uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 75228968-d47a-4d4a-9f55-a8ba95b8d32c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2883
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 4%
 
 ---

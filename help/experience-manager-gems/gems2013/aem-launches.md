@@ -1,13 +1,13 @@
 ---
 title: AEM启动项 — 同时准备多个版本的网站(AEM 5.6)
 description: 了解如何使用AEM启动项在同一个站点的多个版本上并行工作，并在它们之间同步更改。 了解AEM Launches如何集成在AEM中，并了解其基本机制。
-uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
 exl-id: 5a80f708-3536-4009-a76d-38611d505a89
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2897
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 2%
 
 ---

@@ -1,6 +1,6 @@
 ---
-title: ”[!DNL Analytics] 无论在办公室还是外出”
-description: 由于需要投入大量时间和精力，因此您需要能够在任何环境中创建并访问业务洞察 — 无论您是在办公桌后还是在外出办公。
+title: ’[!DNL Analytics] 无论在办公室还是外出
+description: 由于需要投入大量时间和精力，因此您需要能够在任何环境中创建并访问业务洞察 — 无论您是在办公桌后还是在办公室外出办公。
 solution: Analytics
 kt: 11360
 thumbnail: https://video.tv.adobe.com/v/3410834?format=jpeg
@@ -9,9 +9,10 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-221118.html
 event-start-time: 2022-11-18 09:00-8
 event-guests: Eric Matisoff,Jennifer Werkmeister,Doug Moore
 exl-id: 0662d6d4-2445-4359-82bf-4ef5bab7c7a6
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+duration: 3753
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 **随时随地通过Adobe实现无摩擦见解[!DNL Analytics]**
 
-由于需要投入大量时间和精力，因此您需要能够在任何环境中创建并访问业务洞察 — 无论您是在办公桌后还是在外出办公。
+由于需要投入大量时间和精力，因此您需要能够在任何环境中创建并访问业务洞察 — 无论您是在办公桌后还是在办公室外出办公。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 

@@ -7,10 +7,11 @@ level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 529a09c2-8122-4d1c-a4a5-0fcfb3406b04
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3010
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 了解如何在个性化之外使用令牌，以使您的项目构建和操作在中更高效 [!DNL Marketo Engage].
 
-**关键要点**
+**主要要点**
 
 * 了解不同类型的令牌以及可在何处使用它们
 * 获取有关如何记录令牌策略的想法

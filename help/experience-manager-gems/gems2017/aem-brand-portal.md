@@ -1,11 +1,11 @@
 ---
 title: Brand Portal的主要版本和资产共享的新参考实施
 description: 媒体门户对于组织内部共享资产以及在许多情况下外部共享资产至关重要。 在本次研讨会中，我们将向您介绍Adobe Assets中的新Asset Share Commons。
-uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
 exl-id: 2ca69b0f-8e43-437b-9fbb-76376fb1c17d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3408
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%

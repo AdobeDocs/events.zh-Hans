@@ -2,7 +2,8 @@
 title: Adobe客户成功网络研讨会
 description: 以客户成功为导向的Adobe网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 42
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

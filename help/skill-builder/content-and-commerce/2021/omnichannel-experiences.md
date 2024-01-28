@@ -13,14 +13,15 @@ version: Cloud Service
 type: Event
 kt: 8935
 exl-id: 0901bbc1-38bf-4c57-9680-77c7d82d24d4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3994
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Sites 基础知识
+# Adobe Experience Manager Sites基础知识
 
 在这个由5部分组成的网络研讨会系列中，了解如何在Adobe Experience Manager中创建丰富且引人入胜的客户体验。 我们将从内容创作的构建块开始，向您介绍基本概念和操作。 这将包括站点管理功能以及在AEM中处理数字资源的基础知识。 在系列的后半部分，探索可帮助您节省时间和提高效率的功能，具体方法是重复使用内容并在各个渠道中提供内容。
 

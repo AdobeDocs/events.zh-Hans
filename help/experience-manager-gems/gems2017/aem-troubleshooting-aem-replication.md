@@ -1,15 +1,15 @@
 ---
 title: AEM复制疑难解答
 description: 复制是AEM中的一项核心功能，因为它允许将创作的内容发布到发布实例。 在本课程中，我们将分析如何对复制中最常见的问题进行故障排除并做出反应。
-uuid: 4e4a3dc8-eb1c-4c28-a7c1-1c8c2e084e7b
 content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
 exl-id: 0d8338e3-bf83-450b-a7e1-7091ea10f436
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3644
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---

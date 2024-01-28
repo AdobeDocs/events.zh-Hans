@@ -1,13 +1,13 @@
 ---
 title: AEM中的机器翻译
 description: 了解AEM和Microsoft Translator如何提供机器翻译，以使您能够通过搜索引擎优化来扩展内容的触及范围、增加内容上市时间、优化成本并提高用户的可发现性，从而更好地利用资源并提高投资回报率。
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3062
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 2%
 
 ---

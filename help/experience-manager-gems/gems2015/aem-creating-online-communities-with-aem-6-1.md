@@ -1,13 +1,13 @@
 ---
 title: 使用AEM 6.1创建在线社区
 description: 了解如何利用AEM强大的创作界面来构建生机勃勃的客户社区，并了解相关工具以使您的粉丝群在发布后保持参与。
-uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
 exl-id: 86ceb0d8-b8ce-4ab9-8b54-68ac3dfeea95
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3473
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---

@@ -1,14 +1,14 @@
 ---
 title: AEM 5.6.1中的作业处理和卸载简介。
 description: 获取高级作业处理功能的技术简介。 作业处理是复制和工作流处理等功能的底层基础结构。 了解发现模块以及改进的作业处理API和新功能。
-uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: bd10465b-6f45-4117-b8a0-1310422f5825
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3750
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 4%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 

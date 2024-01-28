@@ -9,10 +9,11 @@ last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
 exl-id: 2526c088-08da-4839-a1f4-27aa1f620340
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3440
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +21,7 @@ ht-degree: 1%
 
 为营销项目创建内容是一项长期的工作。 应用模板和令牌帮助您跨团队构建可扩展的流程，在中用更少资源实现更多目标 [!DNL Marketo Engage]. 听听获奖营销负责人Lauren McCormack和2倍的Adobe的意见 [!DNL Marketo Engage] Champion — 她分享了她多年的智慧 [!DNL Marketo Engage] 内容可缩放。
 
-了解:
+了解：
 
 * 使用令牌和模板更有效、更高效地构建程序
 * 充分利用现有内容库的提示

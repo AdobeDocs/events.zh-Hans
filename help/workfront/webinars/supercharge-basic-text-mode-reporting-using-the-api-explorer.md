@@ -1,15 +1,15 @@
 ---
 title: 咨询专家 — 使用API Explorer进行超额基本文本模式报告
 description: 了解API Explorer及其使用方法，以及如何利用基本文本模式增强报表。 该网络研讨会录制于2020年1月22日。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4068
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 2%
+source-wordcount: '1658'
+ht-degree: 1%
 
 ---
 
