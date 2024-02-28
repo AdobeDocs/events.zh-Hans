@@ -1,15 +1,15 @@
 ---
 title: 全新Adobe Campaign Web用户界面大步前进
-description: 在2月29日加入我们，了解如何使用新的Adobe Campaign Web用户界面计划、发布和衡量跨渠道策略，包括在测试版中的创作AI功能。
+description: 欢迎在2月29日加入我们，了解如何使用新的Adobe Campaign Web用户界面来规划、发布和衡量跨渠道战略。
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
+source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
