@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: “以下各项的录制收藏： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 
@@ -32,6 +32,9 @@ ht-degree: 5%
          + [可能的文件访问](analytics/june2022/mission-possible.md)
       + 三月 {#mar2022}
          + [用数据讲述有影响力的故事](analytics/mar2022/stories-with-data.md)
++ 商务 {#commerce}
+   + 二月 {#feb2024}
+      + [Agile SDLC中的通信、要求和测试](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 十一月 {#nov2023}
       + [使用AEM核心组件实现卓越开发人员体验](experience-manager/nov2023/core-components.md)
