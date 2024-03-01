@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 3266abc5c077d75424eeae5cb87d66cf0ee52357
+source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 2%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Campaign v8将具有全新的外观。 重新设计后的用户体验简�
 ## 其他资源
 
 * **[Campaign Web用户界面 — 主要功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hans){target="_blank"}**
-  *有关Adobe Campaign Web用户界面中当前可用内容的详细文档，请访问 [Campaign Web用户界面 — 主要功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hans){target="_blank"}.*
+  *有关Adobe Campaign Web用户界面中当前可用内容的详细文档。*
 
 * **[Adobe Campaign Web用户界面 — Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *有关Adobe Campaign Web用户界面特性和功能的方法视频和教程。*
