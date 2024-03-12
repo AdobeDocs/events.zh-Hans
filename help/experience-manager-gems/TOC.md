@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列技术深入探讨。
 breadcrumb-title: AEM GEMs事件
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 5%
+source-wordcount: '696'
+ht-degree: 2%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 5%
 # Experience ManagerGEMS事件 {#experience-manager-gems-recordings}
 
 + [概述](overview.md)
++ 2024 {#gems2024}
+   + [AEM创作和Edge Delivery Services快速入门](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [在Adobe Commerce的Edge Delivery Services上构建店面](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [适用于AEM的New Relic APMas a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM认证 — 技术](gems2023/aem-certification-technical.md)
@@ -20,8 +23,8 @@ ht-degree: 5%
    + [适用于内部部署和AMS环境的AEM最佳实践分析器](gems2023/aem-best-practices-analyzer.md)
 + 2022 年 {#gems2022}
    + [客户用例和正在使用的AEM Headless的实施](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [深入了解 – Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [整合 AEM 和 CIF 框架，打造丰富的沉浸式电子商务体验。](gems2022/aem-and-cif-framework-integration.md)
+   + [深入了解 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
+   + [集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验](gems2022/aem-and-cif-framework-integration.md)
    + [使用AEM Headless和App Builder更快地构建网站](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service：《2021年回顾与2022年展望》](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 年 {#gems2020}
@@ -68,7 +71,7 @@ ht-degree: 5%
    + [sling内容分发疑难解答](gems2017/aem-troubleshooting-sling.md)
 + 2016 年 {#gems2016}
    + [为企业配置DAM](gems2016/aem-configuring-dam-for-enterprise.md)
-   + [AEM Screens 简介](gems2016/aem-introduction-to-aem-screens.md)
+   + [AEM Screens简介](gems2016/aem-introduction-to-aem-screens.md)
    + [使用Adobe Experience Manager的模板编辑器管理您的内容](gems2016/aem-managing-content-with-template-editor.md)
    + [Oak Lucene索引](gems2016/aem-oak-lucene-indexes.md)
    + [在MongoDB上运行AEM](gems2016/aem-running-aem-on-mongodb.md)

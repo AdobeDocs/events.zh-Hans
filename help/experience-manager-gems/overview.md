@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -45,14 +45,15 @@ ht-degree: 0%
 </table>
 
 -->
-我们最新的AEM GEM网络研讨会，日期： **释放适用于AEMas a Cloud Service的New Relic APM的潜力。 最大限度地提高性能并加快问题解决** 已执行于 *2023年9月20日*.
-此 **录制** 可在此处找到： [适用于Adobe Experience Manager as a Cloud Service的New Relic APM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+我们最新的AEM GEM网络研讨会，日期： **使用Adobe Commerce在Edge Delivery Services上构建店面** 已执行于 *2024年3月6日*.
+此 **录制** 可在此处找到：
+[使用Adobe Commerce在Edge Delivery Services上构建店面](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > 注册以接收有关即将举办的AEM GEM网络研讨会的通知，网址为 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 
-## 2022年重新启动AEM GEM
+## 面向开发人员的AEM GEM — 围绕AEM的技术网络研讨会
 
 欢迎使用 **AEM GEM**  — 我们由Adobe专家提供的关于Adobe Experience Manager的一系列技术深入探讨。 本系列是对产品文档和所有其他有关Adobe Experience Manager技术渠道的补充，使开发人员能够联系并深入了解特定主题。
 
@@ -61,9 +62,7 @@ ht-degree: 0%
 * 最长持续60分钟
 * 末尾的问答和在线研讨会期间提供的聊天专家
 * 每次网络研讨会后可用的录像
-* 网络研讨会免费
-
-我们所有的AEM GEM网络研讨会都是免费的，并且以虚拟方式进行。
+* 所有AEM GEM网络研讨会均为免费且以虚拟方式进行，只需注册即可。
 
 注册位置 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以接收有关我们即将召开的网络研讨会的通知。
 
