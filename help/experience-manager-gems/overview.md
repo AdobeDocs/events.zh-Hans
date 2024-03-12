@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
+source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 -->
 我们最新的AEM GEM网络研讨会，日期： **使用Adobe Commerce在Edge Delivery Services上构建店面** 已执行于 *2024年3月6日*.
 此 **录制** 可在此处找到：
-[使用Adobe Commerce在Edge Delivery Services上构建店面](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[使用Adobe Commerce在Edge Delivery Services上构建店面](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
