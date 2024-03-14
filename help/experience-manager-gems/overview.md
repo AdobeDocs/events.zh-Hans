@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 </table>
 
 -->
-我们最新的AEM GEM网络研讨会，日期： **使用Adobe Commerce在Edge Delivery Services上构建店面** 已执行于 *2024年3月6日*.
+我们最新的AEM GEM网络研讨会，日期： **AEM创作和Edge Delivery Services快速入门** 已执行于 *2024年3月13日*.
 此 **录制** 可在此处找到：
-[使用Adobe Commerce在Edge Delivery Services上构建店面](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[AEM创作和Edge Delivery Services快速入门](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> 注册以接收有关即将举办的AEM GEM网络研讨会的通知，网址为 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+> 注册以接收有关即将举办的AEM GEM网络研讨会的通知 —  [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 
 ## 面向开发人员的AEM GEM — 围绕AEM的技术网络研讨会
 
