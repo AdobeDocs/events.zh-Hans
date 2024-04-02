@@ -3,9 +3,9 @@ title: APAC Commerce网络研讨会系列
 description: APAC商务网络研讨会系列每月为Adobe Commerce客户举办一系列研讨会，涵盖从最佳实践到产品路线图和行业趋势等众多主题。
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ APAC商务网络研讨会系列每月为Adobe Commerce客户举办一系列研�
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce创新焦点网络研讨会" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce创新焦点网络研讨会</strong>
+      </a>
+    </div>
+    <p>
+    <em>加入我们，获取有关如何采用最新功能和架构以便为客户提供最佳体验并发展业务的灵感！在此网络研讨会中。</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce站点范围分析工具" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ APAC商务网络研讨会系列每月为Adobe Commerce客户举办一系列研�
     <em>利用AI的强大功能，通过Adobe对AI的投资并将其集成到Commerce中来获得卓越的客户体验。</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="用于可扩展和敏捷电子商务的可组合商务策略" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>用于可扩展和敏捷电子商务的可组合商务策略</strong>
-      </a>
-    </div>
-    <p>
-    <em>请参加我们的网络研讨会，深入了解可组合架构的世界以及它如何彻底改变电子商务的格局。</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
