@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 44%
+source-wordcount: '181'
+ht-degree: 41%
 
 ---
 
@@ -25,11 +25,28 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 <table>
 <tr>
-  <td>
-    请稍后回来了解我们即将推出的2024年4月节目。<br/>
-    同时，我们将在 <a href="https://summit.adobe.com/na/">Adobe Summit</a> 2024年3月25至28日！
-
-</td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-18-24.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/WebBanner-April18-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Marketo Measure的新Discover功能板</strong>
+      </a>
+      <br/><em>伊恩·米歇尔斯、凯特·科尔伯特、詹姆斯·李敦姆</em>
+      <br/><em>2024年4月18日</em>
+    </div>
+  </td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Journey Optimizer中新增的基于代码的体验渠道</strong>
+      </a>
+      <br/><em>桑德拉·豪斯曼、罗伯特·卡兰久和布伦特·科斯塔克</em>
+      <br/><em>2024年4月24日</em>
+    </div>
+  </td>
 </tr>
 </table>
 
@@ -95,4 +112,4 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 >[!TIP]
 >
->如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
+>如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
