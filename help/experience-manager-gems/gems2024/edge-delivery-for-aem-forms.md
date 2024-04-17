@@ -10,17 +10,16 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
+source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # 网络研讨会日期： 2024年4月17日
 
-该网络研讨会将于2024年4月17日下午5点(CEST/太平洋夏令时/上午8点(PDT)/晚上8:30(IST)召开。
-请 [请在此处回复/注册](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/).
+此网络研讨会已完成 — 请观看下面的录像。
 
 ## AEM FormsEdge Delivery Services快速入门
 
@@ -30,6 +29,10 @@ ht-degree: 0%
 
 * Arun Taneja，AdobeDirector产品管理
 * Vijay Kumar Jalagari，Adobe高级工程经理
+
+## 网络研讨会录像
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428434/)
 
 ## 网络研讨会社区互动
 
