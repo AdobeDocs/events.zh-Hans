@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 我们最新的AEM GEM网络研讨会，日期： **AEM FormsEdge Delivery Services快速入门** 已执行于 *2024年4月17日*.
 此 **录制** 可在此处找到：
-[AEM FormsEdge Delivery Services快速入门](/gems2024/edge-delivery-for-aem-forms.md)
+[AEM FormsEdge Delivery Services快速入门](gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> 注册以接收有关即将举办的AEM GEM网络研讨会的通知 —  [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+> 注册以接收有关即将举办的AEM GEM网络研讨会和其他AEM相关活动的通知 —  [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 
 ## 面向开发人员的AEM GEM — 围绕AEM的技术网络研讨会
 
@@ -69,8 +69,6 @@ ht-degree: 0%
 * 末尾的问答和在线研讨会期间提供的聊天专家
 * 每次网络研讨会后可用的录像
 * 所有AEM GEM网络研讨会均为免费且以虚拟方式进行，只需注册即可。
-
-注册位置 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以接收有关我们即将召开的网络研讨会的通知。
 
 ## Experience League社区
 
