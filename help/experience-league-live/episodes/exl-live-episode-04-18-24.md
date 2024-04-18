@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 Marketo Measure已完全修订了Discover功能板。 这不仅仅是一些小小的增强功能和附加功能，而是一次彻底的改观。 董事会经过了重新设计，最重要的是，进行了简化。 这些新展示板更直观、更便于用户使用，能够快速轻松地为您获取所需数据！
 
-[![ExL LIVE 2024年1月17日](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[立即注册](https://engage.adobe.com/ExpLeagueLive-240418.html) 参加活动！**
+讨论的主题：
 
+* B2B营销世界中的归因哲学
+* 将您的报告思维转变为“收入”
+* 探索有关从战略上分段和增强数据的专业提示
+* 了解如何解决常见的错误
+* 哪些新的预建功能板可用，以及如何充分利用它们
+* 新提供的量度以及如何使用这些量度提升业务洞察
+* 如何构建和保存自定义报表
