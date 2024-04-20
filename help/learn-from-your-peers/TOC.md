@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: “以下各项的录制收藏： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
+source-git-commit: aa7d6f3d8f132e14c318f7df9bec97aa3805a57d
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 7%
+source-wordcount: '168'
+ht-degree: 8%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 7%
    + 五月 {#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + 四月 {#april2024}
+   + 2024 年 4 月 {#april2024}
       + [Marketo EngageREST API的实际应用](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + 2024年1月 {#jan2024}
       + [通过Marketo Engage掌握人员得分](marketo/jan2024/person-scoring-mastery.md)
