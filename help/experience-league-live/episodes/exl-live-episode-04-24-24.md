@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ZKa4OatgQjk
 event-start-time: 2024-04-18 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
+source-git-commit: 608891a7fd02936f4bfc23f9766bae09b19b4e78
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -25,3 +26,7 @@ ht-degree: 0%
 **详细信息**：Adobe Journey Optimizer中基于代码的体验渠道为品牌开发其个性化和实验项目解锁了巨大的机会和新用例。 此新渠道使团队能够使用HTML或基于JSON代码的操作来增强个性化控制，并能够更改本机应用程序的粒度方面。 基于代码的体验渠道为客户端、服务器端、混合和基于API的实施扩展了灵活性和性能。
 
 在本次Experience League直播中，我们将与产品专家Robert Calangiu和Brent Kostak一起讨论基于代码的Experience Channel的新功能和用例。 了解开发人员、产品经理和营销人员如何跨Web、移动设备、电视连接设备、网亭、ATM等设备创作和提供静态和动态内容！
+
+>[!BEGINSHADEBOX “有疑问吗？”]
+
+在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.
