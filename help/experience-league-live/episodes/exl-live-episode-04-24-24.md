@@ -8,9 +8,9 @@ event-start-time: 2024-04-18 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: bf9c0a2b00f6858950f20df5257af1859446ec7e
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 通过以开发人员为中心的操作，激活入站表面和粒度的个性化控制。
 
-[![ExL LIVE 2024年1月17日](assets/WebBanner-Apr24-2024.jpg)](https://www.youtube.com/watch?v=ZKa4OatgQjk)
-
-**单击上图，为活动设置YouTube提醒！**
+>[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
 **详细信息**：Adobe Journey Optimizer中基于代码的体验渠道为品牌开发其个性化和实验项目解锁了巨大的机会和新用例。 此新渠道使团队能够使用HTML或基于JSON代码的操作来增强个性化控制，并能够更改本机应用程序的粒度方面。 基于代码的体验渠道为客户端、服务器端、混合和基于API的实施扩展了灵活性和性能。
 
@@ -29,7 +27,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX “有疑问吗？”]
 
-在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.
+**在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
 
