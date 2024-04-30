@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 43%
+source-wordcount: '163'
+ht-degree: 46%
 
 ---
 
@@ -26,8 +26,16 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-    <strong>稍后返回此页面，以获取5月16日节目的详细信息。 剧透警告 — 我们将讨论Analytics从AppMeasurement迁移到Web SDK！</strong>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience League直播2024年5月16日" src="episodes/assets/WebBanner-May16-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-05-16-24.md">
+        <strong>这是将Analytics迁移到Web SDK的方式</strong>
+      </a>
+      <br/><em>道格·摩尔、米奇·赖斯和乔·库里</em>
+      <br/><em>2024年5月16日</em>
+    </div>
   </td>
 </tr>
 </table>
