@@ -4,10 +4,10 @@ description: 活动录制集合，重点介绍如何使用Adobe的企业产品
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 3a1643f897e6bb54dac5d896a30d9f0a25e9dacd
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '997'
-ht-degree: 10%
+source-wordcount: '1028'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,30 @@ ht-degree: 10%
 
 ## 事件序列
 
-<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Sign Webinars" tabIndex="0">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Adobe Campaign Insider系列" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign网络研讨会">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Acrobat Sign网络研讨会">Acrobat Sign网络研讨会</a>
+          </p>
+          <p class="is-size-6">
+         向Adobe专家学习如何在Acrobat Sign中掌握新的电子签名工作流。</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -41,7 +64,8 @@ ht-degree: 10%
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -144,7 +168,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce网络研讨会">APAC Adobe Commerce网络研讨会</a>
           </p>
           <p class="is-size-6">
-         APAC商务网络研讨会系列每月为Adobe Commerce客户举办一系列研讨会，涵盖从最佳实践到产品路线图和行业趋势等众多主题。</p>
+         亚太地区Commerce网络研讨会系列是面向Adobe Commerce客户的每月一次的研讨会，涵盖从最佳实践到产品路线图和行业趋势的广泛主题。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -177,18 +201,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="商务和咖啡" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="商务和咖啡">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce和咖啡" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce和咖啡">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="商务和咖啡">商务和咖啡</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce和咖啡">Commerce和咖啡</a>
           </p>
           <p class="is-size-6">
-         Commerce &amp; Coffee系列适用于所有技能级别的现有Adobe Commerce客户，具有Sr. Commerce Strategy Consultant和Corey Gelato的特点。 该系列侧重于商业战略和战术，并辅以反映事件主题的统计数据。</p>
+         Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Commerce客户。Commerce战略顾问科里·格拉托先生。 该系列重点介绍Commerce的策略和战术，并提供反映事件主题的统计数据。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -199,7 +223,7 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" title="客户数据管理意见" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hans" title="客户数据管理意见" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="客户数据管理意见">
         </a>
       </figure>
@@ -207,12 +231,12 @@ ht-degree: 10%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" title="客户数据管理意见">客户数据管理意见</a>
+              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hans" title="客户数据管理意见">客户数据管理意见</a>
           </p>
           <p class="is-size-6">
          您作为客户数据管理技术和营销实践领导者和专家的目标。 一站式服务，听取同行意见、获取灵感并了解市场技术方面的发展。</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hans" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
       </a>
     </div>
@@ -287,7 +311,7 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html" title="Experience Manager版本概述" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hans" title="Experience Manager版本概述" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png" alt="Experience Manager版本概述">
         </a>
       </figure>
@@ -295,12 +319,12 @@ ht-degree: 10%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html" title="Experience Manager版本概述">Experience Manager版本概述</a>
+              <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hans" title="Experience Manager版本概述">Experience Manager版本概述</a>
           </p>
           <p class="is-size-6">
          快速大致了解 Adobe Experience Manager as a Cloud Service 的最新功能。这些短视频时长约为 10 分钟，由 AEM 产品团队发布，其中介绍最新发行版的各项重大功能。</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hans" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
       </a>
     </div>
