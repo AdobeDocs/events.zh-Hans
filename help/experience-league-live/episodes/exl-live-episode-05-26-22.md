@@ -2,16 +2,16 @@
 title: 咨询专家 — Web SDK基础知识
 description: 了解Web SDK。 我们将向您展示Web SDK的所有基础知识，包括它背后的推理、它的工作方式以及它支持的重要用例。
 solution: Data Collection,Experience Platform
+feature: Data Collection
 kt: 10412
-thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,3 +37,4 @@ ht-degree: 0%
 * [Adobe Experience Platform Debugger概述和下载](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [移动SDK文档](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [混合应用程序收藏集信息](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+

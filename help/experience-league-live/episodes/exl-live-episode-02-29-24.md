@@ -2,13 +2,14 @@
 title: 全新Adobe Campaign Web用户界面大步前进
 description: 了解如何使用新的Adobe Campaign Web用户界面更高效地规划、启动和衡量跨渠道营销策略，包括电子邮件营销和社交媒体营销。
 jira: KT-14433
-thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
+solution: Campaign v8 Web User Interface
+feature: Configuration
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 1%
@@ -50,3 +51,4 @@ Adobe Campaign v8将具有全新的外观。 重新设计后的用户体验简�
 
 * **[Adobe Campaign Web用户界面 — Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *有关Adobe Campaign Web用户界面特性和功能的方法视频和教程。*
+

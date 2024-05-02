@@ -2,14 +2,15 @@
 title: 将Adobe Analytics数据和分析导入Customer Journey Analytics
 description: 了解新的自动化流程如何帮助您将分析和数据从Adobe Analytics移动到Adobe Customer Journey Analytics。
 jira: KT-14746
-thumbnail: https://video.tv.adobe.com/v/3426778?format=jpeg
+solution: Analytics,Customer Journey Analytics
+feature: Experience Cloud Integration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -42,3 +43,4 @@ ht-degree: 0%
 * 建议为CGA中不存在的元素创建一个全包项，然后在目标项目中编辑它们。
 * 以前，人们认为在迁移到CGA时必须重新创建计算量度和区段，但现在有一种方法可用来迁移它们。
 * 要确保在迁移中包含计算量度和区段，需要将这些量度和区段应用于Adobe Analytics中的表或可视化图表。
+

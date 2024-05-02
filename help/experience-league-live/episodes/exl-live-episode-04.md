@@ -4,13 +4,13 @@ description: 了解客户的历程至关重要。 有关用户与您的 Web 或�
 landing-page-description: 了解如何将分类功能与 Activity Map 结合使用，以便更好地了解用户行为并绘制哪些点击导致有价值的网站活动的图表。
 short-description: 了解如何将分类功能与 Activity Map 结合使用，以便更好地了解用户行为并绘制哪些点击导致有价值的网站活动的图表。
 solution: Analytics
+feature: Activity Map, Classifications
 kt: 9255
-thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
 duration: 3697
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 41%
@@ -26,3 +26,4 @@ ht-degree: 41%
 我们还将介绍一些提示，帮助您了解和利用归因报表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338108/?quality=12&learn=on)
+

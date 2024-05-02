@@ -2,14 +2,14 @@
 title: 在Real-Time CDP和Journey Optimizer中充分利用行为事件数据
 description: 了解如何使用计算属性创建事件数据的聚合，以改进分段、个性化和历程！
 kt: KT-14069
-thumbnail: https://video.tv.adobe.com/v/3425196?format=jpeg
+solution: Real-Time Customer Data Platform,Journey Optimizer
 event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231114.html
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
 exl-id: 2f33350a-6030-43e8-824b-bd69ca153485
 duration: 3269
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -27,3 +27,4 @@ ht-degree: 0%
 在此Experience League实时会话中，产品专家将向您展示Real-Time CDP和Journey Optimizer中的“计算属性”如何帮助您使用简单的UI将行为聚合创建为配置文件属性，用于增强分段和个性化。
 
 **在节目中继续讨论此主题 [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
+

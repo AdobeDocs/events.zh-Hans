@@ -3,14 +3,13 @@ title: Adobe Journey Optimizer的推送通知
 description: 推送通知可帮助您随时联系移动应用程序用户，尤其是当他们未主动使用应用程序时。Journey Optimizer支持推送而非…… （请用60到160个字符描述）
 solution: Journey Optimizer
 kt: 10407
-thumbnail: https://video.tv.adobe.com/v/342810?format=jpeg
 feature: Push
 role: Developer
 event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
 duration: 2963
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 25%
@@ -28,3 +27,4 @@ ht-degree: 25%
 [下载Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
 要继续关于此会话的对话，请访问 [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+

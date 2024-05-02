@@ -1,14 +1,14 @@
 ---
 title: 咨询专家 — Tags (Launch)中的有用扩展，帮助对Web SDK进行超额收费
 description: 您是否考虑将实施迁移到新的AdobeWeb SDK？  我们将在Adobe标记库中运行一些我们喜爱的扩展，这些扩展可帮助您将数据收集提升到新的水平。
-solution: Data Collection,Experience Platform
+solution: Data Collection, Experience Platform
+feature: Tags
 kt: 10528
-thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
 duration: 3833
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -104,3 +104,4 @@ ht-degree: 0%
 * [咨询专家 — Web SDK基础知识](exl-live-episode-05-26-22.md)
 * [询问专家 — RTCDP连接](exl-live-episode-06-23-22.md)
 * [询问专家 — 数据流和数据准备](exl-live-episode-07-21-22.md)
+

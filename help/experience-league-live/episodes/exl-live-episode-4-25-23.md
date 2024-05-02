@@ -2,15 +2,15 @@
 title: 只需单击几下，即可启动并运行数据收集和事件转发！
 description: 只需单击几下，Adobe的数据收集快速入门工作流就会在后端设置多个项目，从而为您节省时间并确保设置正确。
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
+feature: Data Collection
 kt: 13041
-thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
 event-start-time: 2023-04-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
 duration: 3694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 24%
@@ -28,3 +28,4 @@ ht-degree: 24%
 请观看上面的视频，观看此实时流事件的重播。
 
 有疑问吗？ 在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+
