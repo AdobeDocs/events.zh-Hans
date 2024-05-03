@@ -1,23 +1,25 @@
 ---
-user-guide-title: APAC商务活动
-breadcrumb-title: APAC商务活动
+user-guide-title: APAC Commerce活动
+breadcrumb-title: APAC Commerce活动
 user-guide-description: Adobe Commerce Events是一个视频库，专家和同行可以在其中分享他们关于如何使用Adobe Commerce的想法和想法。
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '97'
 ht-degree: 4%
 
 ---
 
 
-# APAC商务活动 {#apac-commerce-recordings}
+# APAC Commerce活动 {#apac-commerce-recordings}
 
 + [概述](overview.md)
 + 2024 {#2024}
    + [创新焦点网络研讨会](2024/innovation-spotlight.md)
+   + [远见卓识如何改变Commerce](2024/visionary-thinking.md)
+   + [有机的发展电子商务业务的7种方法](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [AI支持的个性化](2023/ai-personalisation.md)
-   + [Adobe的PaaS云商务](2023/adobes-paas-cloud-commerce.md)
+   + [Adobe的PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
    + [提升电子商务转化](2023/ecommerce-conversions.md)
    + [可组合商务策略](2023/composable-commerce.md)
    + [市场作为增长的动力](2023/marketplaces.md)
