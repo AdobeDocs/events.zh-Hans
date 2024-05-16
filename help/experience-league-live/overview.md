@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 46%
+source-wordcount: '169'
+ht-degree: 44%
 
 ---
 
@@ -26,16 +26,9 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League直播2024年5月16日" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md">
-        <strong>这是将Analytics迁移到Web SDK的方式</strong>
-      </a>
-      <br/><em>道格·摩尔、米奇·赖斯和乔·库里</em>
-      <br/><em>2024年5月16日</em>
-    </div>
+<td style="vertical-align: top;"><b>请尽快返回此页面，以详细了解我们的2024年6月节目：</b><br/>
+    *适用于Adobe Real-time Customer Data Platform的H1 2024版本<br/>
+    * Adobe Workfront统一审查和批准
   </td>
 </tr>
 </table>
