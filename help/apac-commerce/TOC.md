@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce活动
 breadcrumb-title: APAC Commerce活动
 user-guide-description: Adobe Commerce Events是一个视频库，专家和同行可以在其中分享他们关于如何使用Adobe Commerce的想法和想法。
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 4%
 
 + [概述](overview.md)
 + 2024 {#2024}
+   + [加速器日](2024/accelerator-day/overview.md)
+   + 加速器日{#accelerator-day}
+      + [隐藏：明天导航](./2024/accelerator-day/navigating-tomorrow.md)
+      + [隐藏：面板超出边框](./2024/accelerator-day/panel-beyond-borders.md)
+      + [隐藏：体验演变](./2024/accelerator-day/experience-evolution.md)
+      + [隐藏：面板点击明天](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [隐藏：新一代Commerce](./2024/accelerator-day/next-gen-commerce.md)
+      + [隐藏：在曲面下](./2024/accelerator-day/beneath-the-surface.md)
+      + [隐藏：闪电般的速度](./2024/accelerator-day/lightning-speed.md)
+      + [隐藏：可组合性](./2024/accelerator-day/composability.md)
+      + [隐藏：跨渠道交响乐](./2024/accelerator-day/cross-channel-symphony.md)
+      + [隐藏：Commerce的艺术](./2024/accelerator-day/the-art-of-commerce.md)
    + [创新焦点网络研讨会](2024/innovation-spotlight.md)
    + [远见卓识如何改变Commerce](2024/visionary-thinking.md)
    + [有机的发展电子商务业务的7种方法](2024/grow-ecommerce-business.md)
