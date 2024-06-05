@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列技术深入探讨。
 breadcrumb-title: AEM GEMs事件
-source-git-commit: cc1d6b52a335ca76968eb78e89efdf060dfd064d
+source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
 workflow-type: tm+mt
-source-wordcount: '705'
-ht-degree: 2%
+source-wordcount: '718'
+ht-degree: 1%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 2%
 
 + [概述](overview.md)
 + 2024 {#gems2024}
+   + [使用我们新的API和事件改进AEM Assets的开发人员体验](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [AEM FormsEdge Delivery Services快速入门](gems2024/edge-delivery-for-aem-forms.md)
    + [AEM创作和Edge Delivery Services快速入门](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [在Adobe Commerce的Edge Delivery Services上构建店面](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
@@ -100,7 +101,7 @@ ht-degree: 2%
    + [如何充分利用DAM功能包](gems2014/aem-dam-feature-pack.md)
    + [将托管内容交付到本机应用程序](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
    + [AEM 6.0开发人员模式](gems2014/aem-developer-mode.md)
-   + [适用于 Eclipse 的 AEM 开发人员工具](gems2014/aem-developer-tools-for-eclipse.md)
+   + [适用于Eclipse的AEM开发人员工具](gems2014/aem-developer-tools-for-eclipse.md)
    + [Dispatcher — 新增功能和最佳实践](gems2014/aem-dispatcher.md)
    + [高效构建可重用组件](gems2014/aem-efficiently-build-reusable-components.md)
    + [HTL简介](gems2014/aem-introduction-to-htl.md)
