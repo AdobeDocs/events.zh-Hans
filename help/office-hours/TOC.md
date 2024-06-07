@@ -2,10 +2,10 @@
 user-guide-title: Adobe办公时间
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: “办公时间”是一种主动减少案例的方法，它为客户提供了特定于解决方案的网络研讨会。
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 18%
 # Adobe办公时间 {#office-hours}
 
 + [Adobe办公时间](overview.md)
++ 2024 {#2024}
+   + AdobeMarketo {#adobe-marketo-office-hours-2024}
+      + [Champion办公时间 — 5月](2024/champion-office-hours.md)
 + 2023 {#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Launch最佳实践](2023/launch-best-practices.md)

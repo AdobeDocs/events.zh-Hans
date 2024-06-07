@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: 以客户成功为导向的Adobe网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '142'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,15 @@ ht-degree: 1%
 
 + [Adobe客户成功网络研讨会](overview.md)
 + 2024 {#2024}
+   + [Adobe Workfront — 精益团队](2024/workfront-lean-teams.md)
    + [数据流优先级](2024/data-stream-prioritization.md)
+   + [有效的变更管理](2024/effective-change-management.md)
    + [增强精益团队的能力](2024/empowering-lean-teams.md)
    + [Expedia从Adobe Analytics转移到Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [超个性化](2024/hyperpersonalization.md)
    + [战略领导力](2024/strategic-leadership.md)
+   + [将用例映射到解决方案功能](2024/use-case-mapping.md)
+   + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
 + 2023 {#2023}
    + [为大规模个性化奠定基础](2023/personalization-at-scale.md)
    + [变更管理](2023/change-management.md)
