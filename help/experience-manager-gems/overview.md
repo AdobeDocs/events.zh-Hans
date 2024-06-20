@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
+source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 0%
 
 ## 即将举行的AEM GEM活动
 
-2024年5月29日 —  **Edge Delivery Services和AEM Assets**
-即将开始注册……
+即将召开的网络研讨会将于2024年7月公布。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +50,9 @@ ht-degree: 0%
 
 ## 上一个AEM GEM事件
 
-我们最新的AEM GEM网络研讨会，日期： **AEM FormsEdge Delivery Services快速入门** 已执行于 *2024年4月17日*.
+我们最新的AEM GEM网络研讨会，日期： **使用我们新的API和事件改进AEM Assets的开发人员体验** 已执行于 *2024年6月19日*.
 此 **录制** 可在此处找到：
-[AEM FormsEdge Delivery Services快速入门](gems2024/edge-delivery-for-aem-forms.md)
+[使用我们新的API和事件改进AEM Assets的开发人员体验](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >

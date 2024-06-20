@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # 网络研讨会日期： 2024年6月19日
 
-该网络研讨会将于6月19日星期三下午5点（中部标准时间/太平洋夏令时间上午8点/印度标准时间晚上8点30分）播出。
-请透过我们的 [事件页面](https://adobe.ly/3wLRpdI).
+此网络研讨会于6月19日星期三至下午5点(中部标准时间/太平洋夏令时间/晚上8点30分（印度标准时间）召开。 请查看下面的录制。
 
 ## 使用我们新的API和事件改进AEM Assets的开发人员体验
 
@@ -34,10 +34,12 @@ AEM开发人员将有机会探索我们提供的最新资产开放API和云原�
 * Ian Reasor，Adobe高级计算机科学家
 * Ievgen Nedoviesov，Adobe软件工程经理
 
-## 网络研讨会社区互动
+## 网络研讨会录像
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* 有关Experience League上特定于会话的社区互动，请访问相应的 [上下文主题](https://adobe.ly/3UQXwFO).
+>* 有关Experience League网络研讨会中特定于会话的社区互动，请访问相应的 [上下文主题](https://adobe.ly/3UQXwFO).
 >
 >* 要接收我们即将召开的网络研讨会的通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
