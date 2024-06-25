@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE 活动
-description: 一组指向原有 Experience League LIVE 活动的链接
+title: Experience League现场活动
+description: 一组指向先前Experience League直播活动的链接
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 44%
+ht-degree: 3%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE 是 Experience League 团队制作的直播节目。利用这个机会，您可以与 Adobe 产品专家联系并学习可用于 Adobe Experience Cloud 应用程序的可操作性提示、技巧和策略。
+Experience League直播是Experience League团队制作的直播节目。  利用这个机会，您可以与Adobe产品专家联系，并学习可用于Adobe Experience Cloud应用程序的可操作性提示、技巧和策略。
 
 <div id="upcoming-events">
 
@@ -26,9 +26,16 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><b>请尽快返回此页面，以详细了解我们的2024年6月节目：</b><br/>
-    *适用于Adobe Real-time Customer Data Platform的H1 2024版本<br/>
-    * Adobe Workfront统一审查和批准
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League直播6月26日" src="episodes/assets/WebBanner-June26-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>最新Adobe Real-Time CDP版本如何推动您的业务发展</strong>
+      </a>
+      <br/><em>尼娜·卡鲁索、鲁迪·舒姆珀特和道格·摩尔</em>
+      <br/><em>2024年6月26日</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -94,4 +101,4 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。利�
 
 >[!TIP]
 >
->如需了解更多学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)和各个[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需了解更多学习方法，请查看我们的免费 [课程](https://experienceleague.adobe.com/#dashboard/learning) 以及个人 [教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans).

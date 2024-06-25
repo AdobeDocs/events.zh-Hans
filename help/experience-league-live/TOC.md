@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '420'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [概述](overview.md)
 + 集数 {#episodes}
+   + [Ep. 37：最新的Adobe Real-Time CDP版本如何推动您的业务发展](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36：这是将Analytics迁移到Web SDK的方式](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35：Journey Optimizer中新增了基于代码的体验渠道](episodes/exl-live-episode-04-24-24.md)
    + [Ep. 34：Marketo Measure的新discover功能板](episodes/exl-live-episode-04-18-24.md)
