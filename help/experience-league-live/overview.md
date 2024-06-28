@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 3%
 
 ---
@@ -26,16 +26,8 @@ Experience League直播是Experience League团队制作的直播节目。  利�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League直播6月26日" src="episodes/assets/WebBanner-June26-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>最新Adobe Real-Time CDP版本如何推动您的业务发展</strong>
-      </a>
-      <br/><em>尼娜·卡鲁索、鲁迪·舒姆珀特和道格·摩尔</em>
-      <br/><em>2024年6月26日</em>
-    </div>
+<td style="vertical-align: top;">
+      <b>请稍后回来学习即将推出的新节目！ 同时，单击下方或左侧导航中的链接以查看我们以前的剧集。</b>
   </td>
 </tr>
 </table>
