@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
+source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="数字体验" src="./assets/ADX_Gems.png"/>
 
-## 即将举行的AEM GEM活动
+## 即将召开的AEM GEM网络研讨会 — 在AEM Cloud Manager中集成专用GitHub存储库
 
-即将召开的网络研讨会将于2024年7月公布。
+该网络研讨会将于7月31日星期三至下午5点(中部标准时间/太平洋夏令时间/晚上8点30分（印度标准时间）召开。 请注意，此网络研讨会只需要注册 — 请在[此处](https://adobe.ly/3LmXfGk)注册。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,17 +50,17 @@ ht-degree: 0%
 
 ## 上一个AEM GEM事件
 
-我们最新的AEM GEM网络研讨会，日期： **使用我们新的API和事件改进AEM Assets的开发人员体验** 已执行于 *2024年6月19日*.
-此 **录制** 可在此处找到：
-[使用我们新的API和事件改进AEM Assets的开发人员体验](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+我们于&#x200B;**举行的最新AEM GEM网络研讨会我们于&#x200B;*2024年6月19日*通过新的API和活动改善AEM Assets的开发者体验**。
+可以在此处找到**录制**：
+[使用我们的新API和活动改进AEM Assets的开发者体验](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
-> 注册以接收有关即将举办的AEM GEM网络研讨会和其他AEM相关活动的通知 —  [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+> 注册以接收有关即将举办的AEM GEM网络研讨会和其他AEM相关活动的通知 — [Adobe的AEM用户组](https://aem-augs.adobe.com/)。
 
 ## 面向开发人员的AEM GEM — 围绕AEM的技术网络研讨会
 
-欢迎使用 **AEM GEM**  — 我们由Adobe专家提供的关于Adobe Experience Manager的一系列技术深入探讨。 本系列是对产品文档和所有其他有关Adobe Experience Manager技术渠道的补充，使开发人员能够联系并深入了解特定主题。
+欢迎使用&#x200B;**AEM GEM** — 我们由Adobe专家提供的关于Adobe Experience Manager的一系列技术深入探讨。 本系列是对产品文档和所有其他有关Adobe Experience Manager技术渠道的补充，使开发人员能够联系并深入了解特定主题。
 
 网络研讨会将定期举行，包括以下内容：
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ## Experience League社区
 
-我们的 [Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 在支持产品采用和客户成功方面扮演关键角色。
+我们的[Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)在支持产品采用和客户成功方面发挥着关键作用。
 
 * 连接：与同行和Adobe人员建立网络，以提供从实施到扩展产品使用的指导和最佳实践
 * 快速回答：广泛的真实用例回答池，可支持成功积极使用Adobe解决方案
