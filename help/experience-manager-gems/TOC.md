@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列技术深入探讨。
 breadcrumb-title: AEM GEMs事件
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+source-git-commit: 5ce016c300cbb576e55fb3b824a06b59091a7bd0
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '726'
 ht-degree: 1%
 
 ---
@@ -14,12 +14,13 @@ ht-degree: 1%
 
 + [概述](overview.md)
 + 2024 {#gems2024}
+   + [在AEM Cloud Manager中集成专用GitHub存储库](gems2024/private-github-for-aem-cloud-manager.md)
    + [使用我们新的API和事件改进AEM Assets的开发人员体验](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [AEM FormsEdge Delivery Services快速入门](gems2024/edge-delivery-for-aem-forms.md)
-   + [AEM创作和Edge Delivery Services快速入门](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [AEM创作和Edge Delivery Services入门](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [在Adobe Commerce的Edge Delivery Services上构建店面](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
-   + [适用于AEM的New Relic APMas a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
+   + [适用于AEM as a Cloud Service的New Relic APM](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM认证 — 技术](gems2023/aem-certification-technical.md)
    + [使用快速开发环境加速Experience Manageras a Cloud Service开发](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [适用于内部部署和AMS环境的AEM最佳实践分析器](gems2023/aem-best-practices-analyzer.md)
@@ -32,7 +33,7 @@ ht-degree: 1%
 + 2020 年 {#gems2020}
    + [AEM 6.5走向世界 — 翻译集成和最佳实践](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 年 {#gems2019}
-   + [Experience Manager6.5的新增功能 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
+   + [Experience Manager6.5 [!DNL Sites]的新增功能](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM富文本编辑器(RTE)深入分析](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [深入了解ContextHub中商店、模块和区段的实施详细信息](gems2019/contexthub-deep-dive.md)
    + [使用AEM 6.5创建Headless全渠道体验](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
@@ -45,7 +46,7 @@ ht-degree: 1%
    + [Adobe Developer (IO)事件 — Analytics触发器](gems2018/aem-analytics-triggers.md)
    + [AEM创作可扩展性实验](gems2018/aem-author-scalability1.md)
    + [AEM核心组件](gems2018/aem-core-components.md)
-   + [数字资产的爆炸式增长和 [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
+   + [数字资产爆炸式增长&amp; [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [AEM 6.4中的ContextHub简介](gems2018/aem-intro-to-contexthub.md)
    + [AEM中的机器学习：增强的智能标记、智能布局等](gems2018/aem-machine-learning.md)
    + [维护开放源代码，同时保持理智](gems2018/aem-maintaining-open-source.md)
@@ -94,8 +95,8 @@ ht-degree: 1%
    + [Oak的外部登录模块](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar — 提高产品质量的关键要素](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [AEM技术偷偷窥视](gems2015/aem-tech-sneak-peek.md)
-   + [提示和技巧 [!DNL AEM Sites] 触控UI](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
-   + [跟踪JavaScript项目的质量量度](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
+   + [ [!DNL AEM Sites] 触控UI的提示和技巧](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
+   + [跟踪JavaScript项目的质量指标](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
    + [通过DTM云服务在本地AEM实例上部署Adobe Analytics](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [如何充分利用DAM功能包](gems2014/aem-dam-feature-pack.md)
