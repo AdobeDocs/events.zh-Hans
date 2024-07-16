@@ -1,6 +1,6 @@
 ---
-title: Adobe Admin Console迁移
-description: 即将进行的Adobe Admin Console迁移的独家用户组负责人培训。 此会议将采用“培训师”风格的形式，以便您能够了解所学内容并就这一即将到来的更改对您的章节进行教育。
+title: 准备对Adobe身份进行Marketo Engage
+description: 即将开始的Adobe Admin Console迁移的独家培训。 此会议将采用“培训师”风格的形式，以便您能够了解所学内容并就这一即将到来的更改对您的章节进行教育。
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
+source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 
-# 多用户组领导人培训：Adobe Admin Console迁移
+# 准备对Adobe身份进行Marketo Engage
 
-即将进行的Adobe Admin Console迁移的独家用户组负责人培训。 此会议将采用“培训师”风格的形式，以便您能够了解所学内容并就这一即将到来的更改对您的章节进行教育。
+即将开始的Adobe Admin Console迁移的独家培训。 此会议将采用“培训师”风格的形式，以便您能够了解所学内容并就这一即将到来的更改对您的章节进行教育。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
