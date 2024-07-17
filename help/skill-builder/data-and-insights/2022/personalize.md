@@ -19,6 +19,6 @@ ht-degree: 0%
 
 参加此会议，了解使用自动定位和自动个性化来实现Adobe Target功能自动化和优化的核心概念。
 
-*马提亚斯·科利奇* 高级多解决方案培训师EMEA/Adobe
+*Matthias Kolitsch*&#x200B;高级多解决方案培训师EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

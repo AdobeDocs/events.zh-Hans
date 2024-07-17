@@ -8,7 +8,7 @@ duration: 3750
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*2013年7月24日交付*
+*交付日期：2013年7月24日*
 
-**提交人：**
+**演示者：**
 
 Carsten Ziegeler，Adobe高级开发人员
 
@@ -37,5 +37,5 @@ Marc Pfaff，Adobe首席开发人员
 ## 相关链接 {#related-links}
 
 * [Apache Sling事件和作业处理](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API及其实施](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [卸载作业](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [发现API及其实现](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [正在卸载作业](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

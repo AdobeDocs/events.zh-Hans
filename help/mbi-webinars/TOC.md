@@ -1,7 +1,7 @@
 ---
 user-guide-title: Commerce Intelligence事件
 breadcrumb-title: Commerce Intelligence事件
-user-guide-description: Commerce Intelligence Events是一个视频库，专家和同行可以在其中分享他们关于Adobe Commerce Intelligence的想法和想法。
+user-guide-description: Commerce Intelligence Events是一个视频库，专家和同行可以在其中分享他们对Adobe Commerce Intelligence的想法和想法。
 source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
 source-wordcount: '77'
@@ -20,9 +20,9 @@ ht-degree: 5%
    + [Commerce Intelligence快速入门](2023/getting-started.md)
    + [在Commerce Intelligence中管理数据集](2023/manage-data-sets.md)
 + 2021 年{#2021}
-   + [优化Commerce IntelligenceData Warehouse](2021-22/optimize-data-warehouse.md)
+   + [优化您的Commerce IntelligenceData Warehouse](2021-22/optimize-data-warehouse.md)
    + [Commerce Intelligence功能板深入研究](2021-22/dashboards-deep-dive.md)
-   + [Commerce智能为假期做好准备](2021-22/holiday-readiness.md)
+   + [Commerce Intelligence为假期做好准备](2021-22/holiday-readiness.md)
    + [Commerce Intelligence — 咨询专家](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}

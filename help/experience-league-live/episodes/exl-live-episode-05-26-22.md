@@ -11,7 +11,7 @@ duration: 3863
 source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**继续讨论** 在 [Experience League社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}！
+**在[Experience League社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}中继续讨论**！
 
 ## 此数据收集系列中的其他Experience League实时会话
 
@@ -35,6 +35,6 @@ ht-degree: 1%
 * [免费Web SDK配置](https://adobe.ly/websdkaccess){target="_blank"}
 * [有关Web SDK中第一方设备ID的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
 * [Adobe Experience Platform Debugger概述和下载](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [移动SDK文档](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [混合应用程序收藏集信息](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [Mobile SDK文档](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
+* [混合应用集合信息](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
 

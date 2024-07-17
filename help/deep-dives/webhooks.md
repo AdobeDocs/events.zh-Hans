@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
+source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # 使用Webhook传输数据
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 此活动全面概述了Marketo中的Webhook，并提供了有关如何有效使用它们的实际建议。 发言者们解释了如何使用Webhook以结构化方式发送和接收数据，建议使用GET和POST请求，并提及Webhook可以与JSON或XML格式一起使用。 它们重点介绍了Webhook的各种用例，包括CRM集成、事件管理、电子商务和云存储。 强调了错误处理的重要性，并提供了有关如何处理错误、自动恢复和设置警报的提示。 讨论基于API的身份验证、基本身份验证和OAuth 2.0身份验证等身份验证方法，并建议使用OAuth 2.0来提高安全性。实施详细信息包括在触发活动和批量活动中使用Webhook，以及诸如30秒超时限制和仔细处理大型数据集等限制。 总之，该网络研讨会提供了关于在Marketo中有效使用Webhook的宝贵见解。
 
-## 要点
+## 主要要点
 
 * Marketo中的Webhook提供了一种结构化方法来发送和接收数据，支持JSON或XML格式。
 * Webhook有各种用例，包括CRM集成、事件管理、电子商务和云存储。

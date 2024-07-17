@@ -1,6 +1,6 @@
 ---
-title: Experience League直播，第1集 — 我最喜欢的三个Adobe [!DNL Analytics] 实施提示
-description: 您在峰会的舞台上见过他。您曾在 Adobe Insider Tour 听到他分享专家建议。你甚至可能受益于在自己的Adobe上与他合作 [!DNL Analytics] 实现。 Eric Matisoff带着他最爱的三个Adobe [!DNL Analytics] 此独家Experience League实时讨论的实施提示。
+title: Experience League直播，第1集 — 我最喜欢的三个Adobe [!DNL Analytics] 实施技巧
+description: 您在峰会的舞台上见过他。您曾在 Adobe Insider Tour 听到他分享专家建议。您甚至可能受益于与他合作完成您自己的Adobe [!DNL Analytics] 实施。 现在，Eric Matisoff将在这个独家的Experience League实时讨论中介绍他最喜爱的三个Adobe [!DNL Analytics] 实施技巧。
 solution: Analytics
 feature: Implementation Basics
 kt: 8553
@@ -15,11 +15,11 @@ ht-degree: 23%
 
 ---
 
-# Experience League直播，第1集：我最喜欢的三个Adobe [!DNL Analytics] 实施提示
+# Experience League直播，第1集：我最喜欢的三个Adobe[!DNL Analytics]实施提示
 
-您在峰会的舞台上见过他。您曾在 Adobe Insider Tour 听到他分享专家建议。你甚至可能受益于在自己的Adobe上与他合作 [!DNL Analytics] 实现。 Eric Matisoff带着他最爱的三个Adobe [!DNL Analytics] 此独家Experience League实时讨论的实施提示。
+您在峰会的舞台上见过他。您曾在 Adobe Insider Tour 听到他分享专家建议。您甚至可能受益于与他合作完成您自己的Adobe[!DNL Analytics]实施。 现在，Eric Matisoff将在这个独家的Experience League实时讨论中介绍他最喜爱的三个Adobe[!DNL Analytics]实施技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-要讨论此会议，请访问 [Experience League社区中的讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+要讨论此会话，请访问Experience League社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}中的[讨论。
 

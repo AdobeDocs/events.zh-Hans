@@ -8,7 +8,7 @@ duration: 3062
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Experience Manager允许您使用Microsoft Translator将用户生成的和
 
 >[!VIDEO](https://video.tv.adobe.com/v/19383/?quality=9)
 
-*2014年12月3日交付*
+*交付日期：2014年12月3日*
 
-**提交人：**
+**演示者：**
 
 * Akshay Madan，Adobe多语言产品管理和解决方案部首席产品经理
 * Chris Wendt，Microsoft首席小组项目经理Microsoft翻译员

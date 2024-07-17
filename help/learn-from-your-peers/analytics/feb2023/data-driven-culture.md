@@ -1,6 +1,6 @@
 ---
-title: ’[!DNL Adobe Analytics] 构建数据驱动型文化
-description: 加入 [!DNL Adobe Analytics] Champion Gitai Ben-Ammi将讨论数据驱动型文化是什么样的，并分享使用策略 [!DNL Adobe Analytics] 建一个。
+title: “[!DNL Adobe Analytics]正在构建数据驱动的区域性”
+description: 加入 [!DNL Adobe Analytics] Champion Gitai Ben-Ammi，讨论数据驱动的文化是什么样的，并分享使用 [!DNL Adobe Analytics] 构建文化的策略。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 构建数据驱动型文化
 
-加入 [!DNL Adobe Analytics] Champion Gitai Ben-Ammi将讨论数据驱动型文化是什么样的，并分享使用策略 [!DNL Adobe Analytics] 建一个。
+与[!DNL Adobe Analytics]冠军Gitai Ben-Ammi一起讨论数据驱动文化是什么样的，并分享使用[!DNL Adobe Analytics]构建文化的策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

@@ -8,7 +8,7 @@ duration: 3580
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19571/?quality=9)
 
-*2013年10月2日交付*
+*交付日期：2013年10月2日*
 
-**提交人：**
+**演示者：**
 
 Adobe高级支持工程师Thierry Yge
 

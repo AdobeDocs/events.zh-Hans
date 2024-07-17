@@ -1,6 +1,6 @@
 ---
 title: 通过Marketo Engage跟踪、分析和优化营销活动
-description: Adobe Marketo Engage是面向营销人员的强大营销自动化平台，但营销人员往往难以量化营销工作的影响。 观看此按需网络研讨会，利用Marketo Engage中的报告和分析功能优化营销计划。 在此网络研讨会中，您将了解 — 关键报告和归因用例以及使用Marketo Engage的解决方案。 了解如何有效地使用UTM参数、潜在客户来源和程序（程序性能报告和程序成员自定义字段）。  如何分析营销策略的有效性，例如，在项目中使用个性化设置时的报告。   高级归因解决方案使用Marketo Measure的完整路径模型和自定义模型的可操作见解在收入表中获得一席之地。
+description: Adobe Marketo Engage是面向营销人员的强大营销自动化平台，但营销人员往往难以量化营销工作的影响。 观看此按需网络研讨会，利用Marketo Engage中的报告和分析功能优化营销计划。 在本网络研讨会中，您将了解 —    主要报表和归因用例以及使用Marketo Engage的解决方案。 了解如何有效地使用UTM参数、潜在客户来源和程序（程序性能报告和程序成员自定义字段）。  如何分析营销策略的有效性，例如，在项目中使用个性化设置时的报告。   高级归因解决方案使用Marketo Measure的完整路径模型和自定义模型的可操作见解在收入表中获得一席之地。
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event

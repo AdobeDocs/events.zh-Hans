@@ -1,6 +1,6 @@
 ---
 title: 2023年8月增长轨道 — 体验创客聚焦
-description: 均衡 — 教导临时工作区用户
+description: 提升 — 教导Workspace的临时用户
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 技能交流活动2023年8月 — Grow Track - Experience Makers焦点
 
-均衡 — 教导临时工作区用户
+提升 — 教导Workspace的临时用户
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

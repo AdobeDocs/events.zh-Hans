@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 开幕主题演讲
 
-开发人员生态系统一直是Magento成功的关键，如今Adobe Commerce和Magento Open Source也是如此。 今天是信息内容和深思熟虑的讨论之日，内容令人振奋，其中包括Adobe对平台的愿景、开放源代码的发展以及即将推出的开发人员体验、可扩展性、用户体验开发和站点维护最佳实践方面的改进。
+开发人员生态系统一直是Magento成功的关键，如今Adobe Commerce和Magento Open Source也是如此。 今天是信息内容和深思熟虑的讨论之日，内容令人兴奋，其中包括Adobe对平台的设想、开放Source的演变，以及即将推出的开发人员体验、可扩展性、用户体验开发和站点维护最佳实践改进。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340620/?quality=12&learn=on)

@@ -8,7 +8,7 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ AEM Dynamic Media使客户能够经济高效地通过单个主图像或视频，
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*2016年8月17日交付*
+*已于2016年8月17日交付*
 
-**提交人：**
+**演示者：**
 
 * Cynthia Tillo，Adobe首席产品经理
 * Bob van Manen，Adobe部工程经理
@@ -31,7 +31,7 @@ AEM Dynamic Media使客户能够经济高效地通过单个主图像或视频，
 
 ## 相关链接 {#related-links}
 
-[配置 Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
+[配置Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

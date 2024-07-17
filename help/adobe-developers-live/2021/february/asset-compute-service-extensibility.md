@@ -25,6 +25,6 @@ ht-degree: 0%
 
 了解如何使用Adobe Developer App Builder构建自定义Asset compute工作程序，以便在摄取到Adobe Experience Manager的过程中处理资源。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Champion办公时间 — Cloud Manager
-description: 加入我们，参加五月份的Adobe AEM Champion办公时间，作为Adobe Experience Manager Champion小组讨论最佳实践、分享技巧并参与围绕AEM Cloud Manager的实时问答。无论您是AEM的新用户、想问Cloud Manager如何简化您的工作流，还是想了解Cloud Manager的开箱即用型构建管道和稳定部署如何使组织能够自动构建、测试和将AEM应用程序部署到云，我们的AEM Champion都能为您提供答案！
+description: 加入我们，参加五月份的Adobe AEM Champion办公时间，作为Adobe Experience Manager Champion小组的成员讨论最佳实践、分享技巧并参加围绕AEM Cloud Manager的实时问答。无论您是初次使用AEM、想了解Cloud Manager如何简化您的工作流，还是想了解Cloud Manager的开箱即用型构建管道和稳定部署如何使组织能够自动构建、测试和将AEM应用程序部署到云，我们的AEM Champion都能为您提供答案！
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 # Adobe Experience Manager Champion办公时间 — Cloud Manager
 
-加入我们，参加5月份的Adobe AEM Champion办公时间，届时，Adobe Experience Manager Champion小组将讨论最佳实践、分享技巧并参加围绕AEM Cloud Manager的实时问答。
+参加我们的5月版Adobe AEM Champion办公时间，届时Adobe Experience Manager Champion小组将讨论最佳实践、分享技巧并参加围绕AEM Cloud Manager的现场问答。
 
-无论您是AEM的新用户、对Cloud Manager如何简化工作流存有疑问，还是想了解Cloud Manager的开箱即用型构建管道和稳定部署如何使组织能够自动构建、测试和将AEM应用程序部署到云，我们的AEM Champions都能为您提供答案！
+无论您是AEM的新手、对Cloud Manager如何简化您的工作流存有疑问，还是想了解Cloud Manager的开箱即用型构建管道和稳定部署如何使组织能够自动构建、测试和将AEM应用程序部署到云，我们的AEM Champions都能为您提供答案！
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420726/?learn=on)

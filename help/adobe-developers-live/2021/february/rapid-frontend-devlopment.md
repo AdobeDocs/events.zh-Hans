@@ -25,8 +25,8 @@ ht-degree: 0%
 
 使用站点模板只需单击几下即可创建新站点，并通过快速部署前端资产（如CSS和JS）使前端开发的乐趣回归。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)**&#x200B;查看会话幻灯片。

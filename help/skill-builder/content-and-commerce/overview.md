@@ -1,6 +1,6 @@
 ---
-title: Skill Builder — 内容和商务
-description: 录制的网络研讨会系列，用于构建您的知识库并最大化您对Adobe内容和商业解决方案的投资
+title: Skill Builder — 内容和Commerce
+description: 录制的网络研讨会系列，用于构建您的知识库并最大化您在Adobe内容和Commerce解决方案中的投资
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -28,7 +28,7 @@ ht-degree: 2%
       </a>
     </div>
     <p>
-    <em>了解使用最新Experience Manager内容片段增强功能进行Headless体验管理，以及用于Headless内容交付的新GraphQL API。</em>
+    <em>了解使用最新Experience Manager内容片段增强功能进行Headless体验管理，以及用于Headless内容投放的新GraphQL API。</em>
     <p>
   </td>
   <td>
@@ -54,7 +54,7 @@ ht-degree: 2%
       </a>
     </div>
     <p>
-    <em>在本课程中，您将了解将工作流用于资产管理的好处以及如何快速创建它们。</em>
+    <em>在本课程中，您将了解使用工作流进行资产管理的好处，以及如何快速创建工作流。</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。

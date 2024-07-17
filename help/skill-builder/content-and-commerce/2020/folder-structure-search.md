@@ -17,7 +17,7 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -32,16 +32,16 @@ ht-degree: 4%
 ## 资源
 
 * [AEM Assets用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [设置AEM Assets文件夹结构](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [正在设置您的AEM Assets文件夹结构](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
 * [设置AEM Assets文件夹权限](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
-* [使用收藏集整理和共享资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
+* [使用收藏集来组织和共享资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
 * [通过机器学习查找视觉上相似的资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [使用动态搜索Facet获取精确和准确的搜索结果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [使用动态搜索Facet获取精确准确的搜索结果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [高级全文搜索语法](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## 系列录制
 
-* [Asset Link](asset-link.md)
+* [资产链接](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [Dynamic Media](dynamic-media.md)
 * [元数据](metadata.md)

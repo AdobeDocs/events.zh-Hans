@@ -7,13 +7,13 @@ duration: 105
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 7%
 
 ---
 
 # Adobe Commerce产品更新
 
-加入Adobe Commerce产品更新网络研讨会，了解我们如何通过多项令人振奋的新功能来转变平台！ 我们将展示最新的Commerce创新以及它们如何帮助您增加销售、简化开发并提高性能。
+加入Adobe Commerce产品更新网络研讨会，了解我们如何通过多项令人振奋的新功能来转变平台！ 我们将展示最新的Commerce创新以及它们如何帮助您提高销量、简化开发并提高性能。
 
 ## 最新更新
 
@@ -25,19 +25,19 @@ ht-degree: 12%
       </a>
       <div>
         <a href="2023/nov2023.md">
-          <strong>2023年11</strong>
+          <strong>2023年11月</strong>
           <br/>
         </a>
           <!-- <em>Release date June 2023 </em> -->
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html">发行说明</a>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans">发行说明</a>
       <p>
     </td>
   </tr>  
 </table>
 
-## 以往的更新
+## 过去的更新
 
 <table style="max-width: 50%;">
   <tr>
@@ -53,7 +53,7 @@ ht-degree: 12%
           <!-- <em>Release date June 2023 </em> -->
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html">发行说明</a>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans">发行说明</a>
       <p>
     </td>
   </tr>  

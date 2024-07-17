@@ -22,9 +22,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*2015年2月11日交付*
+*已于2015年2月11日交付*
 
-**提交人：**
+**演示者：**
 
 * David Catalan，QE首席开发人员，Adobe
 

@@ -8,7 +8,7 @@ duration: 3652
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19139/?quality=9)
 
-*2017年2月22日提交*
+*于2017年2月22日提交*
 
-**Alexander Klimetschek，Adobe高级开发人员**
+**Alexander Klimetschek，高级开发人员，Adobe**
 
 **演示者幻灯片**
 
@@ -30,15 +30,15 @@ ht-degree: 2%
 
 演示
 
-* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，亚历山大·克里梅切克提供
+* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，由Alexander Klimetschek提供
 
 AEM文档
 
 >[!WARNING]
 >
->AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)访问文档的存档版本。
 >
->由于它与此会话相关，请参阅 *Querybuilder API* 在AEM文档中。
+>由于它与此会话相关，请参阅AEM文档中的&#x200B;*Querybuilder API*。
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

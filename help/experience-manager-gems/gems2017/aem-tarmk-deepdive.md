@@ -8,7 +8,7 @@ duration: 4071
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19138/?quality=9)
 
-*2017年2月15日提交*
+*于2017年2月15日提交*
 
-**Michael Duerig，Adobe高级开发人员**
+**Michael Duerig，高级开发人员，Adobe**
 
 **演示者幻灯片**
 

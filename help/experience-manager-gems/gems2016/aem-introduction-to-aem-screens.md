@@ -8,7 +8,7 @@ duration: 3127
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*2016年11月16日交付*
+*已于2016年11月16日交付*
 
-**提交人：**
+**演示者：**
 
 * Julien Ramboz，AdobeUI开发人员
 * Tobias Reiss，计算机科学家，软件开发，Adobe
@@ -38,6 +38,6 @@ AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案
 
 >[!WARNING]
 >
->AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)访问文档的存档版本。
 >
->由于它与此会话相关，请参阅 *部署Screens* 和 *Screens概念* 在AEM 6.2文档中。
+>由于此会话相关，请参阅AEM 6.2文档中的&#x200B;*部署Screens*&#x200B;和&#x200B;*Screens概念*。

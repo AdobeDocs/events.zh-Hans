@@ -13,7 +13,7 @@ duration: 3197
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence以前称为 [!DNL Magento Business Intelligence (MBI)]. 过去活动的录制反映了之前的名字。
+>Adobe Commerce Intelligence以前称为[!DNL Magento Business Intelligence (MBI)]。 过去活动的录制反映了之前的名字。
 
 在假日季节成功使用您的电子商务数据。 此网络研讨会重点介绍一些常见的季节性分析用例和使用关键MBI功能解决这些问题的方法，包括：
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 开发微服务、集成后端系统和自动化工作流从未如此容易。
 
-与主持人Mark Szulc和嘉宾Sarah Xu和Zoran Nikolovski一起讨论使用新AdobeApp Builder(以前称为项目Firefly)扩展和集成Adobe Experience Manager的真实示例。  从在几分钟内扩展现有功能到构建新功能，您将看到需要获得灵感并开始构建的内容。
+与主持人Mark Szulc和嘉宾Sarah Xu和Zoran Nikolovski一起讨论使用新AdobeApp Builder(以前称为项目Firefly)来扩展和集成Adobe Experience Manager的真实示例。  从在几分钟内扩展现有功能到构建新功能，您将看到需要获得灵感并开始构建的内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339319/?quality=12&learn=on)
 

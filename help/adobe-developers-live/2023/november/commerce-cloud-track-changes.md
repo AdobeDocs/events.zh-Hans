@@ -1,6 +1,6 @@
 ---
 title: 在Adobe Commerce Cloud中跟踪更改
-description: 通过创建脚本集成，在New Relic中跟踪Commerce项目部署事件。 轻松启用New Relic跟踪更改功能以监控云基础架构项目上的Commerce中的部署事件。 部署数据收集有助于分析部署更改对整体性能的影响，例如CPU、内存、事务响应时间等。
+description: 通过创建脚本集成，跟踪New Relic中的Commerce项目部署事件。 轻松启用New Relic跟踪更改功能以监控Commerce上云基础架构项目的部署事件。 部署数据收集有助于分析部署更改对整体性能的影响，例如CPU、内存、事务响应时间等。
 solution: Commerce
 feature-set: Commerce
 feature: Cloud, Deploy
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # 在Adobe Commerce Cloud中跟踪更改
 
-通过创建脚本集成，在New Relic中跟踪Commerce项目部署事件。 轻松启用New Relic跟踪更改功能以监控云基础架构项目上的Commerce中的部署事件。 部署数据收集有助于分析部署更改对整体性能的影响，例如CPU、内存、事务响应时间等。
+通过创建脚本集成，跟踪New Relic中的Commerce项目部署事件。 轻松启用New Relic跟踪更改功能以监控Commerce上云基础架构项目的部署事件。 部署数据收集有助于分析部署更改对整体性能的影响，例如CPU、内存、事务响应时间等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)

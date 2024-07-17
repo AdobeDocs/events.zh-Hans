@@ -37,7 +37,7 @@ ht-degree: 2%
    + [提升电子商务转化](2023/ecommerce-conversions.md)
    + [可组合商务策略](2023/composable-commerce.md)
    + [市场作为增长的动力](2023/marketplaces.md)
-   + [高峰季准备](2023/peak-season-prep.md)
+   + [高峰季节准备](2023/peak-season-prep.md)
 + 2022 年 {#2022}
    + [2022年假期准备情况](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)

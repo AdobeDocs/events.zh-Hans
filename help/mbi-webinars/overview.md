@@ -14,11 +14,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence以前称为 [!DNL Magento Business Intelligence (MBI)]. 过去活动的录制反映了之前的名字。
+>Adobe Commerce Intelligence以前称为[!DNL Magento Business Intelligence (MBI)]。 过去活动的录制反映了之前的名字。
 
-Commerce Intelligence网络研讨会系列是面向Commerce Intelligence客户的定期活动。 这些网络研讨会涵盖了充分利用Commerce Intelligence的一系列主题和最佳实践。
+Commerce Intelligence网络研讨会系列是面向Commerce Intelligence客户的定期活动。 这些网络研讨会涵盖了充分利用Commerce Intelligence的各种主题和最佳实践。
 
-来自所有地区的与会者均可以参加实时活动，以更好地了解产品并获得关于Commerce Intelligence功能问题的直接解答。
+来自所有地区的与会者均可以参加实时活动，以便更好地了解产品，并获得关于Commerce Intelligence功能的问题的直接解答。
 
 这些主题会偶尔重复出现，以适应客户可能提出的任何新问题。
 
@@ -36,7 +36,7 @@ Commerce Intelligence网络研讨会系列是面向Commerce Intelligence客户�
       </a>
     </div>
     <p>
-    <em>通过深入了解预配置的仪表板和可用的自定义选项，直接从产品团队了解Commerce Intelligence的核心功能。</em>
+    <em>通过深入了解预配置的功能板和可用的自定义选项，直接从产品团队了解Commerce Intelligence的核心功能。</em>
     <p>
   </td>
   <td>
@@ -62,7 +62,7 @@ Commerce Intelligence网络研讨会系列是面向Commerce Intelligence客户�
       </a>
     </div>
     <p>
-    <em>使用Data Warehouse管理器，您可以管理表和列同步设置、深入查看表的架构以及创建计算列以在报告中使用。</em>
+    <em>使用Data Warehouse管理器，您可以管理表和列同步设置，深入查看表的架构，并创建计算列以在报告中使用。</em>
     <p>
   </td>
 </tr>
@@ -70,7 +70,7 @@ Commerce Intelligence网络研讨会系列是面向Commerce Intelligence客户�
 
 >[!TIP]
 >
->**所有录制的网络研讨会都列在左侧导航区域中**.
+>**所有录制的网络研讨会都列在左侧导航区域中**。
 
 ## 有用的资源
 

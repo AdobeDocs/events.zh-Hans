@@ -17,7 +17,7 @@ duration: 2964
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 6%
+ht-degree: 3%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 6%
 
 ## 系列录制
 
-* [Asset Link](asset-link.md)
+* [资产链接](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [Dynamic Media](dynamic-media.md)
 * [文件夹结构和搜索](folder-structure-search.md)

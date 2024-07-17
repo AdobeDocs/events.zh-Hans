@@ -1,6 +1,6 @@
 ---
-title: 第三方开发人员市场Adobe交换概述
-description: 了解如何在开发人员控制台上创建服务到服务集成，在Admin Console上管理该集成，以及在AdobeExchange上发布公共应用程序列表。 创建与AdobeAPI的连接后，我们将逐步完成注册为AdobeExchange合作伙伴、创建公开列表、提交审批和发布这些内容的步骤。
+title: Adobe Exchange（第三方开发人员市场）概述
+description: 了解如何在Developer Console上创建服务到服务集成、在Admin Console上管理它并在Adobe Exchange上发布公共应用程序列表。 创建与AdobeAPI的连接后，我们将完成注册为Adobe Exchange合作伙伴、创建公开列表、提交审批和发布等步骤。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -12,15 +12,15 @@ duration: 1653
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
-# 第三方开发人员市场Adobe交换概述
+# Adobe Exchange（第三方开发人员市场）概述
 
-了解如何在开发人员控制台上创建服务到服务集成，在Admin Console上管理该集成，以及在AdobeExchange上发布公共应用程序列表。 创建与AdobeAPI的连接后，我们将逐步完成注册为AdobeExchange合作伙伴、创建公开列表、提交审批和发布这些内容的步骤。
+了解如何在Developer Console上创建服务到服务集成、在Admin Console上管理它并在Adobe Exchange上发布公共应用程序列表。 创建与AdobeAPI的连接后，我们将完成注册为Adobe Exchange合作伙伴、创建公开列表、提交审批和发布等步骤。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3ooiltm)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3ooiltm)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337841/?quality=12&learn=on&hidetitle=true)
 

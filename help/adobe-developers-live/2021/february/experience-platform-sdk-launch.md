@@ -24,8 +24,8 @@ ht-degree: 0%
 
 使用AEP Web &amp; Mobile SDK充分发挥AEP Launch服务器端的潜力，优化企业数据收集。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)**&#x200B;查看会话幻灯片。

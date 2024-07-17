@@ -37,7 +37,7 @@ ht-degree: 0%
 * 不支持OracleDB；但是，CSP上传或导入API可用作替代方法。
 * 对API用法的限制包括每月一次消费请求和约100条记录请求，相当于每月约100,000条记录。
 
-**Data Source集成**
+**数据Source集成**
 
 * Adobe Commerce Intelligence支持多种数据源，如Adobe Commerce、SAS、API、数据库等。
 * 允许将不同Adobe Commerce实例中的数据聚合到单个Commerce Intelligence实例中。

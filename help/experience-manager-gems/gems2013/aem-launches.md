@@ -8,7 +8,7 @@ duration: 2897
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Experience Manager提供了各种功能，可轻松地在网站和移动�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*2013年6月12日交付*
+*已于2013年6月12日交付*
 
-**提交人：**
+**演示者：**
 
 Gilles Knonbloch，Adobe首席开发人员
 

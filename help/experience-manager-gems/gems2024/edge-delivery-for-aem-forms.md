@@ -1,6 +1,6 @@
 ---
 title: AEM FormsEdge Delivery Services快速入门
-description: 了解如何使用Edge Delivery Services创建和发布AEM Forms，并将它们作为卓越体验通过Edge提供。 我们将介绍两种创作这些表单的方式 — 使用基于文档的创作和基于AEM的创作。 您将了解如何设置AEM FormsEdge Delivery Services项目，以自定义Forms块和组件以及使用服务器端扩展。 您还将了解如何利用AEM Formsas a Cloud Service在提交后对Forms进行后端处理。
+description: 了解如何使用Edge Delivery Services创建和发布AEM Forms，并将它们作为卓越体验通过Edge提供。 我们将介绍两种创作这些表单的方式 — 使用基于文档的创作和基于AEM的创作。 您将了解如何设置AEM FormsEdge Delivery Services项目，以自定义Forms块和组件以及使用服务器端扩展。 您还将了解如何利用AEM Forms as a Cloud Service在提交后对Forms进行后端处理。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## AEM FormsEdge Delivery Services快速入门
 
-了解如何使用Edge Delivery Services创建和发布AEM Forms，并将它们作为卓越体验通过Edge提供。 我们将介绍两种创作这些表单的方式：使用基于文档的创作和基于AEM的创作。 您将了解如何设置AEM FormsEdge Delivery Services项目，以自定义Forms块和组件以及使用服务器端扩展。 您还将了解如何利用AEM Formsas a Cloud Service在提交后对Forms进行后端处理。
+了解如何使用Edge Delivery Services创建和发布AEM Forms，并将它们作为卓越体验通过Edge提供。 我们将介绍两种创作这些表单的方式：使用基于文档的创作和基于AEM的创作。 您将了解如何设置AEM FormsEdge Delivery Services项目，以自定义Forms块和组件以及使用服务器端扩展。 您还将了解如何利用AEM Forms as a Cloud Service在提交后对Forms进行后端处理。
 
 ## 演示者
 
@@ -38,6 +38,6 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
->* 有关Experience League上特定于会话的社区互动，请访问相应的 [上下文主题](https://adobe.ly/4aCz0OE).
+>* 对于Experience League上特定于会话的社区交互，请访问相应的[上下文线程](https://adobe.ly/4aCz0OE)。
 >
->* 要接收我们即将召开的网络研讨会的通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+>* 若要接收我们即将召开的网络研讨会的通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。

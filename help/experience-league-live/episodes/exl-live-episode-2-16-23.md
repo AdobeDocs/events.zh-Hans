@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 加速您的Web体验！
 
-**了解快速和最快速之间的区别**
+**了解快速和最快之间的区别**
 
 网站加载时间和整体性能直接影响客户满意度和推动转化率。
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 观看上面的视频，观看此实时流活动。在该活动中，Adobe体验交付专家讨论了应考虑什么，以及您可以采取哪些步骤来提高性能。
 
-**有疑问吗？** 在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**对此有疑问？**&#x200B;在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836)上继续讨论此主题。
 

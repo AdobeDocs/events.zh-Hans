@@ -19,15 +19,15 @@ ht-degree: 0%
 在本课程中，了解如何：
 
 * 构成Adobe Experience Platform的组件 — 数据服务
-* 数据科学工作区极大地改进了丰富客户体验的设计和交付
+* 数据科学Workspace显着改进了丰富客户体验的设计和交付
 * 与Adobe Experience Platform集成和使用Experience Data Model的第一步
 * 面向第三方开发人员的当前和未来集成选项
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*2018年8月8日交付*
+*已于2018年8月8日交付*
 
-**提交人：**
+**演示者：**
 
 Klaasjan Tukker，Director产品管理，Adobe
 

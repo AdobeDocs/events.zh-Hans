@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage摇滚明星
-description: 三家“Rockstar”客户将各展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你眼花缭乱？ 实时观看并投票。
+description: 三位“Rockstar”客户将各自演示其最好的 [!DNL Marketo Engage] 提示或技巧。 谁能让你眼花缭乱？ 实时观看并投票。
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Rockstars
+# [!DNL Marketo Engage]颗摇滚星
 
-三家“Rockstar”客户将各展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你眼花缭乱？ 实时观看并投票。
+三位“Rockstar”客户将各自演示其最好的[!DNL Marketo Engage]提示或技巧。 谁能让你眼花缭乱？ 实时观看并投票。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: 商业和咖啡 — 人工智能和自动化
+title: Commerce和咖啡 — AI和自动化
 description: 本课程深入探讨Adobe Commerce的AI功能。 我们讨论了人工智能和自动化是什么，客户期待什么，以及企业为什么不能忽视它。 然后，Corey在Adobe Commerce平台内对Product Recommendations和Live Search进行了彻底的演示。 演示和演示还附有与Corey一起进行的实时问答。
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# 商业和咖啡 — 人工智能和自动化
+# Commerce和咖啡 — AI和自动化
 
 本课程深入探讨Adobe Commerce的AI功能。 我们讨论了人工智能和自动化是什么，客户期待什么，以及企业为什么不能忽视它。 然后，Corey在Adobe Commerce平台内对Product Recommendations和Live Search进行了彻底的演示。 演示和演示还附有与Corey一起进行的实时问答。
 

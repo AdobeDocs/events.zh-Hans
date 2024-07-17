@@ -27,8 +27,9 @@ ht-degree: 0%
 
 * 使用Web内容管理(WCM)核心组件加快网站开发和降低维护成本
 * 实时演示，展示如何将Teaser组件转换为具有多个设计变体的卡片样式组件
-* 优化样式系统的最佳实践*使用前端管道高效部署UI更改的分步演示
+* 优化您的样式系统的最佳实践
+*使用前端管道高效部署UI更改的分步演示
 
-您可以访问演示幻灯片 [此处](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
+您可以在[此处](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf)访问演示幻灯片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

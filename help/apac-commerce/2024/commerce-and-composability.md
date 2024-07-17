@@ -1,19 +1,19 @@
 ---
 title: 利用Commerce和可组合性实现多种业务模式
-description: 会议主要侧重于在Adobe Commerce中启用多种业务模型，重点介绍B2B商业增长趋势，强调简化集成以实现无缝升级的重要性，通过演示展示个性化B2B到B2C的交互，讨论Adobe Commerce的全渠道支持和API网格集成等功能，强调可组合商业服务的好处，介绍用于平台中可扩展自定义和订阅管理的App Builder。
+description: 会议主要侧重于在Adobe Commerce中启用多种业务模型，重点介绍B2B商业增长趋势，强调简化集成以实现无缝升级的重要性，通过演示展示个性化B2B到B2C的交互，讨论Adobe Commerce的全渠道支持和API网格集成等功能，强调可组合商业服务的好处，引入App Builder以在平台中进行可扩展的自定义和订阅管理。
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # 利用Commerce和可组合性实现多种业务模式
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 * 利用API网格进行编排
 * 使用Adobe事件进行自定义和平台扩展
 
-### App Builder的好处
+### App Builder的优势
 
 * 可伸缩的自定义项
 * 集成

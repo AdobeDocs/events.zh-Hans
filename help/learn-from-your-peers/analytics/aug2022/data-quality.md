@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 数据质量和采用情况 [!DNL Analytics]
+# [!DNL Analytics]中的数据质量和采用情况
 
-公司已将数据确定为未来业务成功的关键推动因素。 要实现这一点，需要高水平的数据质量和采用成熟的数据栈栈。 了解如何将数据质量融入各个方面 [!DNL Adobe Analytics] 并围绕它创造一种共同的文化。
+公司已将数据确定为未来业务成功的关键推动因素。 要实现这一点，需要高水平的数据质量和采用成熟的数据栈栈。 了解如何将数据质量构建到[!DNL Adobe Analytics]的每个方面并围绕它创建共享文化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

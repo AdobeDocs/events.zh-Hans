@@ -1,5 +1,5 @@
 ---
-title: 为大规模个性化奠定基础
+title: 大规模构建Personalization的基础
 description: 此网络研讨会重点了解大规模编排个性化所需的基础
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# 为大规模个性化奠定基础
+# 大规模构建Personalization的基础
 
 此网络研讨会重点了解大规模编排个性化所需的基础
 

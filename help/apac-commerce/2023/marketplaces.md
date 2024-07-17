@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # 勇于成长？ Mirakl Marketplaces作为增长动力
 
-在9月份的APAC Commerce系列网络研讨会中，我们很高兴地邀请嘉宾演讲人Cheryl Jones和Joael Pereira与我们一起前往Adobe的首要技术合作伙伴Mirakl。 在本次研讨会中，您将了解如何利用市场提高收入，同时提供卓越的客户体验以及适应日益苛刻的消费者市场的重要性。 通过演示，您可以轻松轻松地将市场集成到您的Adobe Commerce商店中，并有机会向我们的发言人实时提问。
+在9月份举行的APAC Commerce系列网络研讨会中，我们很高兴能邀请嘉宾演讲人Cheryl Jones和Joael Pereira与我们一起前往Adobe的首要技术合作伙伴Mirakl。 在本次研讨会中，您将了解如何利用市场提高收入，同时提供卓越的客户体验以及适应日益苛刻的消费者市场的重要性。 通过演示，您可以轻松轻松地将市场集成到您的Adobe Commerce商店中，并有机会向我们的发言人实时提问。
 
 加入我们以发现：
 

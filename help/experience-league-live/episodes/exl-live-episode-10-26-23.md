@@ -27,5 +27,5 @@ ht-degree: 0%
 
 在此Experience League实时课程中，产品专家Ben Robbins将引导您了解新的“主页”体验，包括新的管理员布局控制和将于2024年推出的令人兴奋的增强功能。 Workfront客户杰米·史密斯将分享关于新的家庭体验如何提高AT&amp;T工作效率的见解。
 
-**欲继续讨论，请访问 [Experience League社区帖子！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**若要继续讨论，请访问[Experience League社区Post！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
 

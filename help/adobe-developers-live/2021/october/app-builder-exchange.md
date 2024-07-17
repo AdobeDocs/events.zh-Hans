@@ -1,6 +1,6 @@
 ---
 title: App Builder Exchange
-description: 在我们逐步了解扩展Adobe Experience Manager的App Builder应用程序的应用程序架构时，了解有关App Builder的更多信息。
+description: 在我们逐步了解扩展App Builder的App Builder应用程序的应用程序架构时，了解有关Adobe Experience Manager的更多信息。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -14,15 +14,15 @@ duration: 2092
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 17%
+ht-degree: 16%
 
 ---
 
 # App Builder Exchange
 
-在我们逐步了解扩展Adobe Experience Manager的App Builder应用程序的应用程序架构时，了解有关App Builder的更多信息。
+在我们逐步了解扩展App Builder的App Builder应用程序的应用程序架构时，了解有关Adobe Experience Manager的更多信息。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3uragoI)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3uragoI)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 

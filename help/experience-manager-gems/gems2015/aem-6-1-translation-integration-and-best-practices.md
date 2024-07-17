@@ -8,7 +8,7 @@ duration: 3807
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ Cristine和Mathias将介绍AEM中增强的翻译集成功能以及管理多语�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*2015年9月30日交付*
+*已于2015年9月30日交付*
 
-**提交人：**
+**演示者：**
 
 * Christine Duran，Adobe翻译技术高级经理
 * Mathias Siegel，Adobe高级产品经理

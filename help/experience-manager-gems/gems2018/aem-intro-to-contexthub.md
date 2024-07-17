@@ -8,7 +8,7 @@ duration: 3307
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
-*2018年9月19日交付*
+*已于2018年9月19日交付*
 
-**提交人：**
+**演示者：**
 
 Artur Kudlacz，开发人员，Adobe
 

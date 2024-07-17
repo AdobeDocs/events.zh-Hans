@@ -1,6 +1,6 @@
 ---
 title: 您需要了解的关于Adobe Commerce 2.4.4升级的所有信息
-description: 作为2.4.4。Commerce Service Pack现已可用，可了解规划和交付升级所需的益处和所需了解的全部信息。
+description: 作为2.4.4。Commerce Service Pack已推出，您可以从中了解计划和交付升级所需的益处和所需了解的一切。
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # 您需要了解的关于Adobe Commerce 2.4.4升级的所有信息
 
-作为2.4.4。Commerce Service Pack现已可用，可了解规划和交付升级所需的益处和所需了解的全部信息。
+作为2.4.4。Commerce Service Pack已推出，您可以从中了解计划和交付升级所需的益处和所需了解的一切。
 
-*贝森·威廉斯 — 詹姆斯* Commerce解决方案顾问/Adobe
+*Bethan Williams-James* Commerce解决方案顾问/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343813/?quality=12&learn=on)

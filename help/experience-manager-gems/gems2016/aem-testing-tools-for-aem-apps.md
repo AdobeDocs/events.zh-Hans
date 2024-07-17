@@ -8,7 +8,7 @@ duration: 3351
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 37%
+ht-degree: 36%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 37%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 
-*2016年12月14日提交*
+*于2016年12月14日提交*
 
-**罗伯特·蒙泰亚努和卡斯滕·齐格勒**
+**Robert Munteanu和Carsten Ziegeler**
 
 **演示者幻灯片**
 

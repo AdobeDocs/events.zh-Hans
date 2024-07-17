@@ -14,7 +14,7 @@ duration: 1165
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 15%
+ht-degree: 14%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 15%
 
 针对开发人员在处理语言副本、活动副本以及笨重移动或复制操作时的一些最佳实践的详细概述。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/39DoIQT)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/39DoIQT)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

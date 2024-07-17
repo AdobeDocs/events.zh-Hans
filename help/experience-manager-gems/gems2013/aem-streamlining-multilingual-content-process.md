@@ -18,9 +18,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
 
-*2013年10月30日交付*
+*已于2013年10月30日交付*
 
-**提交人：**
+**演示者：**
 
 Keith Brazil，技术副总裁，Translations.com
 

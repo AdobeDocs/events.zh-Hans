@@ -18,7 +18,7 @@ ht-degree: 4%
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。
 
 ## 客户数据管理构建基块
 
@@ -67,7 +67,7 @@ ht-degree: 4%
       <img alt="利用客户配置文件构建更好的体验" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>利用客户配置文件构建更好的体验</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>使用客户配置文件构建更好的体验</strong></a>
       </div>
       <p>
         <br/>
@@ -94,7 +94,7 @@ ht-degree: 4%
       <img alt="Adobe Real-time Customer Data Platform和Health Shield" src="./assets/healthcare-shield.png"/>
       </a>
       <div>
-         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform和Health Shield</strong></a>
+         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform和Healthcare Shield</strong></a>
          <br/>
       </div>
       <p>
@@ -116,7 +116,7 @@ ht-degree: 4%
       <img alt="提升营销人员作为数据管理者的角色" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>提升营销人员作为数据管理者的角色</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>提升营销人员作为数据管理员的角色</strong></a>
          <br/>
       </div>
       <p>
@@ -142,10 +142,10 @@ ht-degree: 4%
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="第一方数据上下文中的数据协作" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="第一方数据上下文中的数据Collaboration" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>第一方数据上下文中的数据协作</strong></a>
+         第一方数据上下文中的<a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>数据Collaboration</strong></a>
       </div>
       <p>
       </p>
@@ -165,7 +165,7 @@ ht-degree: 4%
       <img alt="一个故事，两种看法 — 品牌与消费者" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>一个故事，两种看法 — 品牌与消费者</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong>两种见解的故事 — 品牌与消费者</strong></a>
          <br/>
       </div>
     </td>

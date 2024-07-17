@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # AEM GEM功能 — 客户用例和正在使用的AEM Headless的实施
 
-*此网络研讨会于&#x200B;**世界协调时10月12日，星期三下午3点**. 录制内容如下。*
+*此网络研讨会已于&#x200B;**10月12日星期三下午3点(UTC**)举行。 录制在以下位置可用。*
 
 这次特别的AEM GEM讲座有两个演讲者，他们以客户身份操作AEM。 该会议将分为两部分，如下所示：
 
@@ -54,5 +54,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 有关Experience League上特定于会话的社区交互，请访问此 [上下文主题](https://adobe.ly/3r6P4nr)
->* 要接收有关网络研讨会的自动通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+>* 对于Experience League上特定于会话的社区交互，请访问此[上下文线程](https://adobe.ly/3r6P4nr)
+>* 若要接收有关网络研讨会的自动通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。

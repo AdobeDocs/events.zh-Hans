@@ -28,7 +28,7 @@ ht-degree: 0%
       </a>
     </div>
     <p>
-    <em>澳大利亚Adobe和联邦银行(CBA)展示了商业、云和支付解决方案的创新。</em>
+    <em>Adobe和澳大利亚联邦银行(CBA)展示了商业、云和支付解决方案方面的创新。</em>
     <p>
   </td>
   <td>
@@ -41,7 +41,7 @@ ht-degree: 0%
       </a>
     </div>
     <p>
-    <em>加入我们，获取有关如何采用最新功能和架构以便为客户提供最佳体验并发展业务的灵感！在此网络研讨会中。</em>
+    <em>加入我们，获取有关如何采用最新功能和架构的灵感，以便为客户提供最佳体验并发展业务！在此网络研讨会中。</em>
     <p>
   </td> 
   <td>
@@ -50,11 +50,11 @@ ht-degree: 0%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>创造力 — 远见思维如何改变Commerce</strong>
+        <strong>创意Edge — 远见思维如何改变Commerce</strong>
       </a>
     </div>
     <p>
-    <em>探索创意与商业的集成。</em>
+    <em>探索创意和商业的集成。</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。

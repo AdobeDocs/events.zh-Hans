@@ -20,10 +20,10 @@ ht-degree: 10%
 
 # 一个故事，两种看法 — 品牌与消费者
 
-如今，营销人员被淹没在专门用于身份识别的混乱信息中。根据Adobe和公司最近的一项研究，只有37%的营销专业人士表示，他们为无饼干的未来做好了充分准备。 [!DNL Advanis]. 在此网络研讨会Adobe中，将说明广告商和发布商对无Cookie未来的了解和准备程度、对其用例的影响以及他们对整个生态系统的看法。
+如今，营销人员被淹没在专门用于身份识别的混乱信息中。根据Adobe和[!DNL Advanis]的最新研究，只有37%的营销专业人士表示他们为无饼干的未来做好了充分准备。 在此网络研讨会Adobe中，将说明广告商和发布商对无Cookie未来的了解和准备程度、对其用例的影响以及他们对整个生态系统的看法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
-为了补充本视频，您还可以 [下载白皮书](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
+若要补充此视频，您也可以[下载白皮书](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
 
-*一年后：更新了关于以下内容的洞察*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*
+*一年后：更新了*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*&#x200B;的分析

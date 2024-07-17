@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - 11月22日 — 如何使用App Builder和API网格构建内容和Commerce体验
-description: 在此会话中，您将了解构建Headless体验驱动型商业店面的端到端开发人员流程，从AppBuilder API Mesh开始，以聚合来自Adobe Experience Manager和Commerce的各种内容源。了解如何构建Headless体验，显示通过Adobe Experience Manager内容片段扩充的产品使用微前端将购物车集成到您的应用程序中
+description: 在此会话中，您将了解构建Headless体验驱动型商业店面的端到端开发人员流程，从AppBuilder API Mesh开始，以聚合Adobe Experience Manager和Commerce中的不同内容源。了解如何构建Headless体验，显示通过Adobe Experience Manager内容片段扩充的产品使用微前端将购物车集成到您的应用程序中
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ---
 
-# 如何使用App Builder和API网格构建内容和商务体验
+# 如何使用App Builder和API网格构建内容和Commerce体验
 
 在此会议中，您将了解构建无头体验驱动型商业店面的端到端开发人员流程，
 
-* 从AppBuilder API Mesh开始，聚合来自Adobe Experience Manager &amp; Commerce的不同内容源
+* 从AppBuilder API Mesh开始，聚合来自Adobe Experience Manager和Commerce的不同内容源
 * 了解如何构建Headless体验，其中显示扩充了Adobe Experience Manager内容片段的产品
 * 使用Micro Frontend将购物车集成到您的应用程序
 

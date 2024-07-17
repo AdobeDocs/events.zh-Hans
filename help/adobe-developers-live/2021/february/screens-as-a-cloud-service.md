@@ -25,8 +25,8 @@ ht-degree: 0%
 
 重新构想Adobe Experience Manager Screensas a Cloud Service：从与CMS紧密耦合到成为完全托管和可伸缩的云服务的历程。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)**&#x200B;查看会话幻灯片。

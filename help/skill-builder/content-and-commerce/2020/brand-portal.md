@@ -17,7 +17,7 @@ duration: 3095
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
@@ -33,11 +33,11 @@ Brand Portal允许轻松地与内部和外部团队共享资源。
 
 * [Brand Portal概述](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
 * [Brand Portal视频](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
-* [资产来源](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=zh-Hans)
+* [资源源](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
 ## 系列录制
 
-* [Asset Link](asset-link.md)
+* [资产链接](asset-link.md)
 * [Dynamic Media](dynamic-media.md)
 * [文件夹结构和搜索](folder-structure-search.md)
 * [元数据](metadata.md)

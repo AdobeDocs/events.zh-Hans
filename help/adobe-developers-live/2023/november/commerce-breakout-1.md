@@ -1,5 +1,5 @@
 ---
-title: Adobe Developers Live Commerce分组活动1 - 2023年11月
+title: Adobe Developers Live Commerce突破1 - 2023年11月
 description: 与Fahd Siddiqui一起参加2023年11月6日录制的Adobe Developers Live的这一启发性会议，探讨Adobe Commerce的创新目录和价格索引服务如何重塑B2B数字商务。 了解管理不断增长的产品分类所面临的挑战，以及Adobe Commerce为提供快速、高效的购物体验提供的解决方案。 对于希望提升自身在B2B商业技术动态领域的专业知识的开发人员而言，此课程至关重要。
 solution: Commerce
 feature-set: Commerce
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Commerce分组活动1 - 2023年11月
+# Adobe Developers Live Commerce突破1 - 2023年11月
 
 与Fahd Siddiqui一起参加2023年11月6日录制的Adobe Developers Live的这一启发性会议，探讨Adobe Commerce的创新目录和价格索引服务如何重塑B2B数字商务。 了解管理不断增长的产品分类所面临的挑战，以及Adobe Commerce为提供快速、高效的购物体验提供的解决方案。 对于希望提升自身在B2B商业技术动态领域的专业知识的开发人员而言，此课程至关重要。
 
-在中继续对话 [Experience League社区](https://adobe.ly/3rJfZcN).
+在[Experience League社区](https://adobe.ly/3rJfZcN)中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425623/?learn=on)

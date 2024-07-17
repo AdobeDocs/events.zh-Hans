@@ -8,7 +8,7 @@ duration: 3893
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26368/?quality=9)
 
-*2019年3月6日交付*
+*已于2019年3月6日交付*
 
-**提交人：**
+**演示者：**
 
 * Cedric Huesler，Director产品管理，Adobe
 * Gabriel Walt，Adobe产品经理

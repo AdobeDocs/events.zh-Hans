@@ -1,6 +1,6 @@
 ---
-title: ’[!DNL Adobe Analytics] 冠军技巧和窍门
-description: 加入五个 [!DNL Adobe Analytics] 来自世界各地的冠军们分享有助于他们掌握的技巧和窍门 [!DNL Adobe Analytics].
+title: '[!DNL Adobe Analytics]冠军提示和技巧'
+description: 加入全球五位 [!DNL Adobe Analytics] 冠军的行列，分享帮助他们掌握 [!DNL Adobe Analytics]的技巧和窍门。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] 冠军提示和技巧
+# [!DNL Adobe Analytics]冠军提示和技巧
 
-加入五个 [!DNL Adobe Analytics] 来自世界各地的冠军们分享有助于他们掌握的技巧和窍门 [!DNL Adobe Analytics].
+加入全球五位[!DNL Adobe Analytics]冠军的行列，分享帮助他们掌握[!DNL Adobe Analytics]的提示和技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

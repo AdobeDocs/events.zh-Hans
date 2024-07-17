@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
-source-git-commit: 21784d00fa8a5a6d700c92b2e824a8b3f36d03ee
+exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
+source-git-commit: 18df838cce497b57c9bee0229bd2e7fc2ffde999
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
 
 ---
-
 
 # 解锁强大的工作流自动化：Marketo EngageREST API的实际应用
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-加入对话 [营销国家社区网络研讨会主题](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
+在[营销国家社区网络研讨会会话](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}上加入对话。

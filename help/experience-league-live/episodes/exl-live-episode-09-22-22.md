@@ -24,5 +24,5 @@ ht-degree: 0%
 
 在这个原定于2022年9月22日进行的Experience League直播中，请观看主持人Sandra Hausmann和产品专家Bridgette Darling以及Frederic Mary，讨论此新功能涵盖的用例，并演示如何轻松地在Journey Optimizer中设置和执行营销活动。 了解您将如何使用营销活动和历程来提供引人入胜的个性化客户体验，以及如何在这两个画布的每一个中利用新的内联消息传递工作流。
 
-请继续在 [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52). 我们希望收到你的来信！
+在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52)中继续讨论此主题。 我们希望收到你的来信！
 

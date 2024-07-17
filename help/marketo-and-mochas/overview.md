@@ -12,8 +12,8 @@ ht-degree: 0%
 
 # Marketo和莫哈斯
 
-欢迎访问Marketo和Mochas录制。 结合使用这些资源和AdobeMarketo [文档](https://experienceleague.adobe.com/docs/marketo-engage.html) 和 [教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)，您将更好地了解如何使用AdobeMarketo来支持您的业务。
+欢迎访问Marketo和Mochas录制。 将这些资源与AdobeMarketo [文档](https://experienceleague.adobe.com/docs/marketo-engage.html)和[教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)结合使用，您将更好地了解如何使用AdobeMarketo支持您的业务。
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。

@@ -27,6 +27,6 @@ ht-degree: 0%
 * 文件夹元数据架构 — 通过文件夹元数据架构发现结构化内容管理的强大功能。
 * 元数据架构 — 通过掌握元数据架构设计来提高内容相关性和用户体验。 设置报表：通过设置综合报表，利用数据驱动的见解制定战略决策。
 
-您可以访问演示幻灯片 [此处](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
+您可以在[此处](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf)访问演示幻灯片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

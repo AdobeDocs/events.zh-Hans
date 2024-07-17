@@ -8,7 +8,7 @@ duration: 2780
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*2017年10月11日交付*
+*已于2017年10月11日交付*
 
-**提交人：**
+**演示者：**
 
 Amit Jain，高级Adobe科学家
 

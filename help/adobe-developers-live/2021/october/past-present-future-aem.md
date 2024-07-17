@@ -22,7 +22,7 @@ ht-degree: 3%
 
 在当今的数字世界中，开发人员需要学习、理解并跟上最新的编程语言和框架。 尽管这很重要，但我们也在探索一些方法，以超越单纯的内容管理。 我们将讨论当今市场的趋势，这对开发人员意味着什么，以及Adobe Experience Manager如何改变开发人员的工作方式。 与Adobe Experience Manager工程部副总裁Jean-Michel Pittet和AEM产品管理部的DirectorCedric Huesler一起讨论此内容及其他内容。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/2WrPvNj)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/2WrPvNj)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337528/?quality=12&learn=on&hidetitle=true)
 

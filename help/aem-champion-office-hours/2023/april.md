@@ -1,6 +1,6 @@
 ---
 title: AEM Champion办公时间 — 4月版
-description: 加入我们，参加4月版的Adobe AEM Champion办公时间，届时，Adobe Experience Manager Champion小组将讨论最佳实践、分享提示并参与围绕AEMas a Cloud Service的现场问答。 无论您是初次使用AEM、对过渡到Cloud Service存有疑问，还是只想了解过渡到AEMas a Cloud Service如何满足贵组织的需求，您一定可以从我们的Adobe Experience Manager Champions中获得一些有价值的见解。
+description: 加入我们，参加4月版的Adobe AEM Champion办公时间，届时，Adobe Experience Manager Champion小组将讨论最佳实践、分享提示并参与围绕AEM as a Cloud Service的现场问答。 无论您是初次使用AEM、对过渡到Cloud Service存有疑问，还是只想了解过渡到AEM as a Cloud Service如何满足贵组织的需求，您一定可以从我们的Adobe Experience Manager Champions那里获得一些有价值的见解。
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # AEM Champion办公时间 — 4月版
 
-加入我们，参加四月份的Adobe AEM Champion办公时间，我们将参加 [Adobe Experience Manager Champions |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]讨论最佳实践、分享提示并参加围绕AEMas a Cloud Service的实时问答。
+作为[Adobe Experience Manager Champion小组加入我们，参加4月份的Adobe AEM Champion办公时间 |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]讨论最佳实践、分享提示并参与围绕AEM as a Cloud Service的实时问答。
 
-无论您是初次使用AEM、对过渡到Cloud Service存有疑问，还是只想了解过渡到AEMas a Cloud Service如何满足贵组织的需求，您一定可以从我们的Adobe Experience Manager Champions中获得一些有价值的见解。
+无论您是初次使用AEM、对过渡到Cloud Service存有疑问，还是只想了解过渡到AEM as a Cloud Service如何满足贵组织的需求，您一定可以从我们的Adobe Experience Manager Champions那里获得一些有价值的见解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

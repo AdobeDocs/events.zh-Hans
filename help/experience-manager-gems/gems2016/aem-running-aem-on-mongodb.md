@@ -8,7 +8,7 @@ duration: 3024
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
-*2016年3月23日交付*
+*已于2016年3月23日交付*
 
-**提交人：**
+**演示者：**
 
 * Ian Boston，高级软件工程师，Adobe
 
@@ -32,9 +32,9 @@ ht-degree: 2%
 
 >[!WARNING]
 >
->AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)访问文档的存档版本。
 >
->由于它与此会话相关，请参阅 *Oak查询和索引：使用MongoDB的AEM* 在AEM 6.1文档中。
+>由于它与此会话相关，请参阅AEM 6.1文档中的&#x200B;*Oak查询和索引：带有MongoDB的AEM*。
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -24,5 +24,5 @@ ht-degree: 37%
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-要讨论此会议，请访问 [Experience League社区中的讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
+要讨论此会话，请访问Experience League社区](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}中的[讨论。
 

@@ -24,8 +24,8 @@ ht-degree: 0%
 
 本课程重点介绍Forms从内部部署到云的历程。 它还将涵盖通过演示启用数字注册用例。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)**&#x200B;查看会话幻灯片。

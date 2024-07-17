@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud库和Asset Browser API简介
-description: 了解如何通过Creative Cloud库API和Asset Browser SDK在Web应用程序中集成Creative Cloud库
+title: Creative Cloud Libraries和Asset Browser API简介
+description: 了解如何通过Creative Cloud Libraries API和Asset Browser SDK在Web应用程序中集成Creative Cloud Libraries
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -13,13 +13,13 @@ duration: 1485
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 17%
+ht-degree: 16%
 
 ---
 
-# Creative Cloud库和Asset Browser API简介
+# Creative Cloud Libraries和Asset Browser API简介
 
-了解如何通过Creative Cloud库API和Asset Browser SDK在Web应用程序中集成Creative Cloud库
+了解如何通过Creative Cloud Libraries API和Asset Browser SDK在Web应用程序中集成Creative Cloud Libraries
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 

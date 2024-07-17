@@ -1,6 +1,6 @@
 ---
-title: AEMas a Cloud Service部署失败分析
-description: AEMas a Cloud Service部署内部和疑难解答。
+title: AEM as a Cloud Service部署失败分析
+description: AEM as a Cloud Service部署内部和疑难解答。
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEMas a Cloud Service部署失败分析
+# AEM as a Cloud Service部署失败分析
 
-在此会话中，您将了解AEMas a Cloud Service部署内部和疑难解答。
+在此会话中，您将了解AEM as a Cloud Service部署内部和疑难解答。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

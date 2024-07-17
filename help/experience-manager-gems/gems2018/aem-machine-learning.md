@@ -9,7 +9,7 @@ duration: 3539
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*2018年4月18日交付*
+*已于2018年4月18日交付*
 
-**提交人：**
+**演示者：**
 
 Jonas Dahl，Adobe产品经理
 

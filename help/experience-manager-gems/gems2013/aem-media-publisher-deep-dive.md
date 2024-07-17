@@ -8,19 +8,19 @@ duration: 2385
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
 # AEM 5.6 Media Publisher深入探讨 {#aem-media-publisher-deep-dive}
 
-作为Adobe Experience Manager的一部分，CQ 5.6提供了一个新的Commerce框架，以便在第三方商务平台的基础上构建体验驱动型Commerce网站。 此会话从架构角度概述了该框架，并详细介绍了基于JCR存储库的参考实施。
+作为Adobe Experience Manager的一部分，CQ 5.6提供了一个新的Commerce框架，以便在第三方商务平台的基础上构建体验驱动的Commerce网站。 此会话从架构角度概述了该框架，并详细介绍了基于JCR存储库的参考实施。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*2013年4月17日交付*
+*已于2013年4月17日交付*
 
-**提交人：**
+**演示者：**
 
 约翰·费特
 
@@ -31,5 +31,5 @@ ht-degree: 3%
 ## 相关链接 {#related-links}
 
 * [文档](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS产品页面](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [DPSCLOUD SERVICE](https://helpx.adobe.com/cn/digital-publishing-suite/help/eol-statement-for-dpsc.html)
+* [DPS产品页](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPSCloud Service](https://helpx.adobe.com/cn/digital-publishing-suite/help/eol-statement-for-dpsc.html)

@@ -8,7 +8,7 @@ duration: 4076
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*2017年8月30日交付*
+*已于2017年8月30日交付*
 
-**提交人：**
+**演示者：**
 
 * Cynthia Tillo，Adobe首席产品经理
 * Adobe工程学DirectorHerbert Wolfram

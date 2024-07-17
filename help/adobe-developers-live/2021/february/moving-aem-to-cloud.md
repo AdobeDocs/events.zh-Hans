@@ -24,6 +24,6 @@ ht-degree: 0%
 
 一个由Ian Boston、Tomek Rekawek和Carlos Sanchez参加的小组讨论，介绍我们如何成功地将Adobe Experience Manager迁移到云端。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)

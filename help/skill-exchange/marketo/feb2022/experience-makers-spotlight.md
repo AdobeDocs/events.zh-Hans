@@ -1,6 +1,6 @@
 ---
 title: Marketo EngageExperience Makers焦点
-description: 加入我们，我们将重点介绍两位专家客户和 [!DNL Marketo Engage] 用户。 每个人都将分享他们的最佳体验 [!DNL Marketo Engage] 小费或诡计。
+description: 加入我们，我们将重点介绍两位专家客户和 [!DNL Marketo Engage] 用户。 每位专家都将分享其优秀的 [!DNL Marketo Engage] 提示或技巧。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] 体验创客聚焦
+# [!DNL Marketo Engage] Experience Makers焦点
 
-加入我们，我们将重点介绍两位专家客户和 [!DNL Marketo Engage] 用户。 每个人都将分享他们的最佳体验 [!DNL Marketo Engage] 小费或诡计。
+加入我们，我们将重点介绍两位专家客户和[!DNL Marketo Engage]用户。 每位专家都将分享其优秀的[!DNL Marketo Engage]提示或技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

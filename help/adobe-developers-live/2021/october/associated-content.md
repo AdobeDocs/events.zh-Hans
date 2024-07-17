@@ -1,6 +1,6 @@
 ---
 title: 使用关联内容丰富Commerce体验
-description: CIF加载项最近引入了产品体验管理，它扩展了资产、内容片段和体验片段的创作功能，以将Adobe Experience Manager内容与产品数据关联。 利用关联内容的强大功能，您可以扩充使用CIF核心组件构建的完整动态产品目录，以显示来自Adobe Commerce和Adobe Experience Manager的数据。 在本课程中，您将学习如何使用不同级别的营销驱动型体验来丰富店面项目。 我们还向您介绍了高级用例，其中我们说明了自定义组件如何利用关联内容。
+description: CIF加载项最近引入了产品体验管理，它扩展了Assets、内容片段和体验片段的创作功能，以将Adobe Experience Manager内容与产品数据关联。 利用关联内容的强大功能，您可以扩充使用CIF核心组件构建的完整动态产品目录，以显示来自Adobe Commerce和Adobe Experience Manager的数据。 在本课程中，您将学习如何使用不同级别的营销驱动型体验来丰富店面项目。 我们还向您介绍了高级用例，其中我们说明了自定义组件如何利用关联内容。
 solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 # 使用关联内容丰富Commerce体验
 
-CIF加载项最近引入了产品体验管理，它扩展了资产、内容片段和体验片段的创作功能，以将Adobe Experience Manager内容与产品数据关联。 利用关联内容的强大功能，您可以扩充使用CIF核心组件构建的完整动态产品目录，以显示来自Adobe Commerce和Adobe Experience Manager的数据。 在本课程中，您将学习如何使用不同级别的营销驱动型体验来丰富店面项目。 我们还向您介绍了高级用例，其中我们说明了自定义组件如何利用关联内容。
+CIF加载项最近引入了产品体验管理，它扩展了Assets、内容片段和体验片段的创作功能，以将Adobe Experience Manager内容与产品数据关联。 利用关联内容的强大功能，您可以扩充使用CIF核心组件构建的完整动态产品目录，以显示来自Adobe Commerce和Adobe Experience Manager的数据。 在本课程中，您将学习如何使用不同级别的营销驱动型体验来丰富店面项目。 我们还向您介绍了高级用例，其中我们说明了自定义组件如何利用关联内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337772/?quality=12&learn=on&hidetitle=true)
 

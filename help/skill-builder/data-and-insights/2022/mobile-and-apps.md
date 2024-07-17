@@ -19,6 +19,6 @@ ht-degree: 0%
 
 在此会话中，您将了解如何在移动设备上使用Analytics功能板的最佳实践，以及如何通过Target使应用程序个性化。
 
-*芦果蓝季* 解决方案顾问/Adobe
+*Ashika Ramjee*&#x200B;解决方案顾问/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce创新焦点网络研讨会
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 在本网络研讨会中，您将了解：
 
 * 通过PWA Studio提供快速、同类最佳的体验
-* 利用App Builder实现进程外扩展
-* Miter10、三菱汽车和亚太其他主要零售商采用的创新商务功能
+* 利用App Builder实现进程外可扩展性
+* Miter10、三菱汽车和亚太其他主要零售商采用的Commerce创新功能
 
-随着Commerce格局的发展和变化，确保最大限度地发挥Commerce平台的潜力以保持竞争力并为客户提供无与伦比的体验至关重要。 在此会议中，我们将探讨企业如何在Adobe Commerce中采用现代架构和最新功能以保持领先地位。
+随着Commerce格局的发展和变化，确保您最大限度地发挥Commerce平台的潜力以保持竞争力并为客户提供无与伦比的体验至关重要。 在此会议中，我们将探讨企业如何在Adobe Commerce中采用现代架构和最新功能以保持领先地位。
 
-## 要点
+## 主要要点
 
 * Adobe Commerce提供了一系列特性和功能，您可以对这些特性和功能进行自定义以满足特定的业务需求。
 * 使用PWI Studio可以快速高效地开发和部署创新解决方案。

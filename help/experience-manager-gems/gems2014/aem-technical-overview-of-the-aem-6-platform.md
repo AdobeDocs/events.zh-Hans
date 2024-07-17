@@ -8,7 +8,7 @@ duration: 4329
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 7%
+ht-degree: 5%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
-*2014年6月11日交付*
+*已于2014年6月11日交付*
 
-**提交人：**
+**演示者：**
 
 Peter Klassen，Adobe产品经理
 
@@ -32,4 +32,4 @@ Peter Klassen，Adobe产品经理
 
 * [AEM 6.0 发行说明](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [管理 AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [计划升级到AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [正在计划升级到AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

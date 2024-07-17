@@ -1,6 +1,6 @@
 ---
-title: 使用的B2B体验 [!DNL Marketo Engage] 和Adobe Experience Cloud
-description: 通过连接增强B2B体验 [!DNL Marketo Engage] Adobe应用程序以简化流程、优化受众管理和最大限度地实现个性化。
+title: 使用 [!DNL Marketo Engage] 和Adobe Experience Cloud的B2B体验
+description: 通过将 [!DNL Marketo Engage] 与Adobe应用程序连接来增强B2B体验，以简化流程、简化受众管理和最大限度地实现个性化。
 solution: Marketo, Experience Cloud
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 使用的B2B体验 [!DNL Marketo Engage] 和Adobe Experience Cloud
+# 使用[!DNL Marketo Engage]和Adobe Experience Cloud的B2B体验
 
-通过连接增强B2B体验 [!DNL Marketo Engage] Adobe应用程序以简化流程、优化受众管理和最大限度地实现个性化。 此会话将介绍以下产品之间的集成： [!DNL Marketo Engage] 和Adobe Experience Cloud应用程序，以及可以解决哪些棘手问题。
+通过将[!DNL Marketo Engage]与Adobe应用程序连接来增强B2B体验，从而简化流程、优化受众管理和最大限度地实现个性化。 该会议将介绍[!DNL Marketo Engage]与Adobe Experience Cloud应用程序之间的集成，以及可以解决哪些棘手问题。
 
-*米哈伊·普里萨卡里乌* CJM/Adobe解决方案顾问
+*Mihai Prisacariu*&#x200B;解决方案顾问，CJM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343826/?quality=12&learn=on)

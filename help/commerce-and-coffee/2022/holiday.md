@@ -1,5 +1,5 @@
 ---
-title: 商务和咖啡 — 2021年假期回顾
+title: Commerce和咖啡 — 2021年假日回顾大会
 description: 在本次研讨会中，我们将了解电子商务形势如何在2021年独特的假日季节取得成功。 利用这些学习经验，我们将讨论一些方法，以更好地影响您在2022年实施的Adobe Commerce战略。 科里随后演示了产品库存警报、BOPIS/路边取货、奖励和忠诚度等内容。 演示和演示还附有与Corey一起进行的实时问答。
 solution: Commerce
 topic: Commerce

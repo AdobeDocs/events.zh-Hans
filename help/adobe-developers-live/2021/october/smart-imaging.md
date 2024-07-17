@@ -21,7 +21,7 @@ ht-degree: 2%
 
 图像可能会占用您数字体验中总带宽的60%以上，对于媒体丰富、图像繁多的体验，这一比例可能高达85%。 要为您的用户带来最佳体验，优化提供的映像很重要。 了解Adobe Experience Manager Dynamic Media如何通过其行业领先的智能成像功能和其他动态成像功能集，提供更好的用户体验并提高转化率。 此课程将帮助技术人员了解关于使用Dynamic Media URL和修饰符的最佳实践，这类似一站式服务，他们无需通过反复尝试来实现图像优化。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3F58miP)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3F58miP)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337847/?quality=12&learn=on&hidetitle=true)
 

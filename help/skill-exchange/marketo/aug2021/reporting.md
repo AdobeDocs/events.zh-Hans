@@ -1,6 +1,6 @@
 ---
-title: 报告范围 [!DNL Marketo Engage]
-description: 该会议将回顾以下站点提供的所有报告工具： [!DNL Marketo Engage] 包括报表智能列表分析器MPI电子邮件分析
+title: 在 [!DNL Marketo Engage]内报告
+description: 此会话将审阅 [!DNL Marketo Engage] 中可用的所有报表工具，包括“报表智能列表分析器” MPI电子邮件分析
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -11,13 +11,13 @@ duration: 2355
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 报告范围 [!DNL Marketo Engage]
+# 在[!DNL Marketo Engage]内报告
 
-该会议将回顾以下站点提供的所有报告工具： [!DNL Marketo Engage] 包括：
+此会话将审阅[!DNL Marketo Engage]中可用的所有报告工具，包括：
 
 * 报告
 * 智能列表
@@ -30,7 +30,7 @@ ht-degree: 1%
 * 何时使用标准报表与智能列表
    * 订阅
 
-在本次研讨会结束时，您将了解内的高级报告功能， [!DNL Marketo Engage]，并深入了解报表和智能列表。
+在离开此会话时，您将了解[!DNL Marketo Engage]中的高级报告功能，并深入了解报告和智能列表。
 
 在本次研讨会结束时，实时问答将回答您的任何未决问题。
 

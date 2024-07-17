@@ -24,8 +24,8 @@ ht-degree: 0%
 
 调整您的代码库以使其对云友好并抵御未来在幕后处理的升级威胁，是最大限度地发挥Adobe Experience ManagerCloud Service优势的关键。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)**&#x200B;查看会话幻灯片。

@@ -12,7 +12,7 @@ duration: 1516
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 参与者还将预览即将推出的Forms Headless API，通过该应用程序，开发人员可以轻松构建包含表单的移动或React应用程序。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3zKLQrw)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3zKLQrw)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337724/?quality=12&learn=on&hidetitle=true)
 

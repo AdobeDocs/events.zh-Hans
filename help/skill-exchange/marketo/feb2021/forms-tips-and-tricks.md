@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 入门 — Forms的最终提示和技巧
 
-Forms是组织需求挖掘历程的重要组成部分，但为了确保优化这些历程，通常需要回答一些问题。 在本会话中， [!DNL Marketo Engage] 支持者Amanda和Julz将指导您了解应用于表单的最佳实践和技巧，以提高收集数据的准确性并提高转化率。
+Forms是组织需求挖掘历程的重要组成部分，但为了确保优化这些历程，通常需要回答一些问题。 在本次研讨会中，[!DNL Marketo Engage]支持者（Amanda和Julz）将引导您了解应用于表单的最佳实践和提示，以提高收集的数据的准确性并提高转化率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

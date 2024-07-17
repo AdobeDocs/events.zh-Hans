@@ -8,7 +8,7 @@ duration: 3474
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*2017年9月6日交付*
+*已于2017年9月6日交付*
 
-**提交人：**
+**演示者：**
 
 Carsten Ziegeler，Adobe首席科学家
 
@@ -35,5 +35,5 @@ David Bosschaert，Adobe高级软件工程师
 
 ## 相关链接 {#related-links}
 
-* [OSGi in Action (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
+* [正在运行的OSGi (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
 * [OSGi组件](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)

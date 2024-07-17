@@ -16,7 +16,7 @@ duration: 875
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 14%
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 14%
 
 通过回顾云中Adobe Experience Manager的幕后情况，分享关于其战略和创新的洞见，同时描述导致我们今天这一局面的重大变化。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331278/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)**&#x200B;查看会话幻灯片。

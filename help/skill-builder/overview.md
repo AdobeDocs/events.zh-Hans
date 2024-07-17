@@ -6,7 +6,7 @@ duration: 48
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -21,10 +21,10 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
   <td>
     <img alt="Content and Commerce" src="assets/commerce.png" />
     <div>
-      <strong>Content and Commerce</strong>
+      <strong>内容和Commerce</strong>
     </div>
     <p>
-    <em>创建和管理一系列引人入胜的网站、移动应用程序和表单。 此外，学习如何使用我们灵活的AI支持的商业解决方案，在单个平台上构建多渠道商业体验。</em>
+    <em>创建和管理一系列有趣的网站、移动应用程序和表单。 此外，学习使用我们灵活的AI支持的商务解决方案，在单个平台上构建多渠道商务体验。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
@@ -36,7 +36,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
       <strong>客户历程</strong>
     </div>
     <p>
-    <em>通过从所有来源提取数据以创建个性化的跨渠道历程来开发实时客户档案。</em>
+    <em>通过从所有来源获取数据来开发实时客户档案，以创建个性化的跨渠道历程。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
@@ -48,7 +48,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
       <strong>数据和见解</strong>
     </div>
     <p>
-    <em>使用您整个组织的在线和离线数据洞察，推动任何渠道的实时个性化。</em>
+    <em>使用整个组织的在线和离线数据分析，在任何渠道上推动实时个性化。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
@@ -59,4 +59,4 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。

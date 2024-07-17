@@ -1,5 +1,5 @@
 ---
-title: 使用日志转发监视App Builder应用程序
+title: 使用日志转发监控App Builder应用程序
 description: 在选择的受支持的日志管理解决方案中访问您的所有App Builder应用程序日志。 在本会话中，我们将独家预览即将推出的日志转发功能，以及如何提前试用这些功能。
 feature: Developer Tools
 topic: Development
@@ -12,15 +12,15 @@ duration: 1738
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
-# 使用日志转发监视App Builder应用程序
+# 使用日志转发监控App Builder应用程序
 
 在选择的受支持的日志管理解决方案中访问您的所有App Builder应用程序日志。 在本会话中，我们将独家预览即将推出的日志转发功能，以及如何提前试用这些功能。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3zXM3rp)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3zXM3rp)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337568/?quality=12&learn=on&hidetitle=true)
 

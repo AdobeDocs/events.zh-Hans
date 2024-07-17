@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager与SRE工会会员的幕后
-description: 我们的站点可靠性工程师协会成员Joerg Hoh、Peter Acsai和Tom Blackford组成的小组在幕后工作，以便AEMas a Cloud Service“保持列车准时”。 我们将了解成为高效SRE所需的技能和思想，他们关于使系统可靠且具有弹性的观点，以及他们用于防止中断的量度和警报类型。
+description: 网站可靠性工程师协会成员何超琼和彼得·阿克赛及汤姆·布莱克福德组成了一个小组在幕后为AEM as a Cloud Service“保证列车准时”工作。 我们将了解成为高效SRE所需的技能和思想，他们关于使系统可靠且具有弹性的观点，以及他们用于防止中断的量度和警报类型。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -20,9 +20,9 @@ ht-degree: 3%
 
 # Adobe Experience Manager与SRE工会会员的幕后
 
-我们的站点可靠性工程师协会成员Joerg Hoh、Peter Acsai和Tom Blackford组成的小组在幕后工作，以便AEMas a Cloud Service“保持列车准时”。 我们将了解成为高效SRE所需的技能和思想，他们关于使系统可靠且具有弹性的观点，以及他们用于防止中断的量度和警报类型。
+网站可靠性工程师协会成员何超琼和彼得·阿克赛及汤姆·布莱克福德组成了一个小组在幕后为AEM as a Cloud Service“保证列车准时”工作。 我们将了解成为高效SRE所需的技能和思想，他们关于使系统可靠且具有弹性的观点，以及他们用于防止中断的量度和警报类型。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/2WoCVOU)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/2WoCVOU)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337527/?quality=12&learn=on&hidetitle=true)
 

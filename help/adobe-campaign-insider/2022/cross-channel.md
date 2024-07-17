@@ -1,6 +1,6 @@
 ---
-title: 利用Adobe提升您的跨渠道营销 [!DNL Campaign Classic]
-description: 深入了解网络研讨会，重点关注Adobe的工作流、自动化、个性化和衡量 [!DNL Campaign Classic] 客户。
+title: 使用Adobe [!DNL Campaign Classic]提高您的跨渠道营销水平
+description: 深入探讨Adobe [!DNL Campaign Classic] 客户的工作流、自动化、个性化和衡量方法。
 version: Classic v7
 solution: Campaign
 kt: 10506
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 利用Adobe提升您的跨渠道营销 [!DNL Campaign Classic]
+# 使用Adobe[!DNL Campaign Classic]提高您的跨渠道营销水平
 
-深入了解网络研讨会，重点关注Adobe的工作流、自动化、个性化和衡量 [!DNL Campaign Classic] 客户。
+深入了解网络研讨会，重点关注Adobe[!DNL Campaign Classic]客户的工作流、自动化、个性化和测量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

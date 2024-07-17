@@ -25,8 +25,8 @@ ht-degree: 0%
 
 了解如何使用GraphQL扩展Commerce核心组件。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)**&#x200B;查看会话幻灯片。

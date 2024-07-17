@@ -8,7 +8,7 @@ duration: 3816
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,9 @@ AEM 6附带全新的存储库后端，旨在提高性能和可扩展性。 该�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
-*2014年6月18日交付*
+*已于2014年6月18日交付*
 
-**提交人：**
+**演示者：**
 
 Jukka Zitting，Adobe高级开发人员
 
@@ -36,4 +36,4 @@ Jukka Zitting，Adobe高级开发人员
 ## 相关链接 {#related-links}
 
 * [AEM升级文档](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [ApacheCon的演示文稿“Oak，Apache Jackrabbit 3的架构”](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [来自ApacheCon的演示文稿“Oak，Apache Jackrabbit 3的架构”](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

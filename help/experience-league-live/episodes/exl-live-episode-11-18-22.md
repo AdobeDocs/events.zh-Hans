@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # 在办公室或外出时执行分析
 
-**随时随地通过Adobe实现无摩擦见解[!DNL Analytics]**
+使用Adobe [!DNL Analytics]**随时随地进行**&#x200B;无摩擦分析
 
 由于需要投入大量时间和精力，因此您需要能够在任何环境中创建并访问业务洞察 — 无论您是在办公桌后还是在办公室外出办公。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-观看上面的视频，观看此直播活动，其中Adobe [!DNL Analytics] 专家提供了一些关于在Analysis Workspace和 [!DNL Analytics] 功能板应用程序。
+观看上面的视频，观看此实时流活动，其中Adobe[!DNL Analytics]专家提供了一些关于在Analysis Workspace和[!DNL Analytics]功能板应用程序中自定义和访问见解的绝佳提示。
 
-有疑问吗？ 在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+有疑问吗？ 在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037)上继续讨论此主题。
 

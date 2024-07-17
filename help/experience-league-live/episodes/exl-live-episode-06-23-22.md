@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**继续讨论** 在 [Experience League社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}！
+**在[Experience League社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}中继续讨论**！
 
 ## 此数据收集系列中的其他Experience League实时会话
 

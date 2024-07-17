@@ -8,7 +8,7 @@ duration: 3717
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ Experience Manager提供了一个敏捷的解决方案，可以跨Web、移动�
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
-*2018年3月14日交付*
+*已于2018年3月14日交付*
 
-**提交人：**
+**演示者：**
 
 Gabriel Walt，Adobe产品经理
 

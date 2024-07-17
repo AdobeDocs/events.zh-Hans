@@ -8,7 +8,7 @@ duration: 3267
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*2015年10月7日交付*
+*已于2015年10月7日交付*
 
-**提交人：**
+**演示者：**
 
 * Christanto Leonardo，Adobe高级开发人员
 * Christian Meyer，开发人员，Adobe

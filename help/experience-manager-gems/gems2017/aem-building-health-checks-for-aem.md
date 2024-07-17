@@ -8,7 +8,7 @@ duration: 2968
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*2017年7月12日交付*
+*交付日期：2017年7月12日*
 
 **Ana Vinatoru，软件工程师，Adobe**
 
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 >[!WARNING]
 >
->AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)访问文档的存档版本。
 
 ## 相关链接 {#related-links}
 

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 了解您的Adobe Campaign Standard实例，并了解有关定位、个性化和营销疲劳度的最佳实践，以便更好地使用ACS。 该会议将是交互式的：通过直接向我们的专家询问功能/需求，使该会议成为您自己的会议！
 
-*洛朗·瓦伦萨* 首席解决方案顾问/Adobe
+*Laurent Valenza*&#x200B;首席解决方案顾问/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

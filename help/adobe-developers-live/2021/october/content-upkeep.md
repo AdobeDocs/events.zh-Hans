@@ -12,7 +12,7 @@ duration: 1843
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 演示Adobe Experience Manager现代化工具套件中可用的功能。 了解开发团队可以如何使用它来整合、转换或升级内容，从而随着组件库的发展减轻作者的负担。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3zJuUBH)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3zJuUBH)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

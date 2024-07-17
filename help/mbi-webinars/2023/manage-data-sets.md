@@ -1,8 +1,8 @@
 ---
-title: 在Commerce Intelligence管理数据集
-description: 观看此网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
-landing-page-description: 观看此网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
-short-description: 观看此网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
+title: 在Commerce Intelligence中管理数据集
+description: 观看本网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
+landing-page-description: 观看本网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
+short-description: 观看本网络研讨会，了解Commerce IntelligenceData Warehouse管理器的一些强大功能。
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -13,15 +13,15 @@ duration: 3410
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
-# 在Commerce Intelligence管理数据集
+# 在Commerce Intelligence中管理数据集
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence以前称为 [!DNL Magento Business Intelligence (MBI)]. 过去活动的录制反映了之前的名字。
+>Adobe Commerce Intelligence以前称为[!DNL Magento Business Intelligence (MBI)]。 过去活动的录制反映了之前的名字。
 
 直接从 Adobe Commerce 产品团队了解 MBI 数据仓库管理器的一些强大功能。超越基本的报告构建，了解如何利用您的数据做更多事情。
 
@@ -34,4 +34,4 @@ ht-degree: 22%
 ## 有用的资源
 
 [Data Warehouse经理导览](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[连接数据](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[连接您的数据](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

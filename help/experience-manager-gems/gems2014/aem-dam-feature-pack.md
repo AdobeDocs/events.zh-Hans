@@ -24,9 +24,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*2014年3月5日交付*
+*已于2014年3月5日交付*
 
-**提交人：**
+**演示者：**
 
 Varun Nagpal，Adobe计算机科学家
 

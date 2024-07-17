@@ -8,7 +8,7 @@ duration: 3565
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,19 +18,19 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24720/?quality=9)
 
-*2018年10月10日交付*
+*已于2018年10月10日交付*
 
-**提交人：**
+**演示者：**
 
 Gabriel Walt，Adobe产品经理
 
-**幻灯片演示**
+**幻灯片演示文稿**
 
 [获取文件](assets/aem-spa-editor.pdf)
 
 ## 资源 {#resources}
 
-[文档：AEM SPA编辑器](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+[文档： AEM SPA编辑器](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -25,6 +25,6 @@ ht-degree: 0%
 
 无论您的网站是Web应用程序还是传统网站，都使其可在移动设备上安装，只需单击一下即可脱机使用。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

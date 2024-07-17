@@ -25,5 +25,5 @@ ht-degree: 7%
 ## 其他信息
 
 * [简化您的第一步数据管理](first-mile.md)
-* [提升营销人员作为数据管理者的角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [提升营销人员作为数据管理员的角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
 * [负责任的客户数据管理的 10 个注意事项](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

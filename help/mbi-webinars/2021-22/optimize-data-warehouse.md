@@ -13,7 +13,7 @@ duration: 3154
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence以前称为 [!DNL Magento Business Intelligence (MBI)]. 过去活动的录制反映了之前的名字。
+>Adobe Commerce Intelligence以前称为[!DNL Magento Business Intelligence (MBI)]。 过去活动的录制反映了之前的名字。
 
 使用Data Warehouse管理器，您可以管理表和列同步设置、深入查看表的架构以及创建计算列以在报告中使用。
 
@@ -43,5 +43,5 @@ ht-degree: 1%
 
 ## 有用的资源
 
-[优化数据库以进行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[分段和过滤的推荐数据Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[正在优化您的数据库以进行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[分段和筛选的建议数据Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

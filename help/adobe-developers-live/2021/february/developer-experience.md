@@ -22,8 +22,8 @@ ht-degree: 0%
 
 与Developer Experience for Experience Cloud的Director的Jonathan Roeder一起了解整个Adobe Experience Cloud的最新开发人员更新。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-单击 **[此处](/help/adobe-developers-live/assets/developer-experience.pdf)** 用于会话幻灯片。
+单击&#x200B;**[此处](/help/adobe-developers-live/assets/developer-experience.pdf)**&#x200B;查看会话幻灯片。

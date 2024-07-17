@@ -7,7 +7,7 @@ duration: 29
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 此网络研讨会探讨多语言网站的MSM和翻译的交集。 我们介绍了翻译引入的复杂性、站点结构的建议，并简要比较了各种用例的翻译连接器和工具。
 
-**提交人：**
+**演示者：**
 
 Christine Duran，Sr翻译技术组经理，Adobe
 

@@ -1,6 +1,6 @@
 ---
-title: 在Adobe中开发和自定义数据模型 [!DNL Campaign Classic]
-description: 了解如何在的数据模型中开发数据架构。 [!DNL Campaign Classic]
+title: 在Adobe [!DNL Campaign Classic]中开发和自定义数据模型
+description: 了解如何在 [!DNL Campaign Classic]内的数据模型中开发数据架构
 solution: Campaign Classic
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 在Adobe中开发和自定义数据模型 [!DNL Campaign Classic]
+# 在Adobe[!DNL Campaign Classic]中开发和自定义数据模型
 
-欢迎参加我们的会议 [!DNL Campaign] 培训师，了解如何在的数据模型中开发数据架构 [!DNL Campaign Classic].
+与我们的[!DNL Campaign]培训师一起加入此会议，了解如何在[!DNL Campaign Classic]内的数据模型中开发数据架构。
 
-*卡米利亚·塔齐* 培训顾问/Adobe
+*Kamilia Tazi*&#x200B;培训顾问/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343829/?quality=12&learn=on)

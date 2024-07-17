@@ -27,5 +27,5 @@ ht-degree: 24%
 
 请观看上面的视频，观看此实时流事件的重播。
 
-有疑问吗？ 在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+有疑问吗？ 在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476)上继续讨论此主题。
 

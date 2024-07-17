@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence — 咨询专家
-description: 观看这些录制的网络研讨会，与Commerce Intelligence产品团队进行深入探讨，包括通过智能数据实现业务转型。
-landing-page-description: 观看这些录制的网络研讨会，与Commerce Intelligence产品团队进行深入探讨，包括通过智能数据实现业务转型。
-short-description: 观看这些录制的网络研讨会，与Commerce Intelligence产品团队进行深入探讨，包括通过智能数据实现业务转型。
+description: 观看这些录制的网络研讨会，深入了解Commerce Intelligence产品团队，包括通过智能数据实现业务转型。
+landing-page-description: 观看这些录制的网络研讨会，深入了解Commerce Intelligence产品团队，包括通过智能数据实现业务转型。
+short-description: 观看这些录制的网络研讨会，深入了解Commerce Intelligence产品团队，包括通过智能数据实现业务转型。
 kt: 10404
 solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence以前称为 [!DNL Magento Business Intelligence (MBI)]. 过去活动的录制反映了之前的名字。
+>Adobe Commerce Intelligence以前称为[!DNL Magento Business Intelligence (MBI)]。 过去活动的录制反映了之前的名字。
 
 第1场会议：
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 录制的网络研讨会内容
 
-_咨询专家_ 由两个会话组成：
+_咨询专家_&#x200B;由两个会话组成：
 
 ### 会议1
 
@@ -51,7 +51,7 @@ _咨询专家_ 由两个会话组成：
 
 >[!TIP]
 >
->如果您是初次使用Commerce Intelligence，则 [快速入门视频系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供通过数据汇总、分析和可视化获得更佳业务洞察和结果的完整概述。
+>如果您是Commerce Intelligence的新用户，[入门视频系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html)将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 - [Commerce Intelligence简介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
 - [Commerce Intelligence支持](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -1,5 +1,5 @@
 ---
-title: 第一方数据上下文中的数据协作
+title: 第一方数据上下文中的数据Collaboration
 description: 此网络研讨会将有助于在未来无需第三方Cookie的情况下释放数据协作机会。
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -13,11 +13,11 @@ duration: 2560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
-# 第一方数据上下文中的数据协作
+# 第一方数据上下文中的数据Collaboration
 
 实现体验承诺，访问更少的数据。无论您是广告商、出版商还是代理商，此网络研讨会都有助于在未来无需第三方Cookie的情况下解锁数据协作机会。
 
@@ -33,6 +33,6 @@ ht-degree: 15%
 
 [区段匹配概述](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[面向数据购买者的 Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+面向数据购买者的[Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
 [基于人员的目标](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)

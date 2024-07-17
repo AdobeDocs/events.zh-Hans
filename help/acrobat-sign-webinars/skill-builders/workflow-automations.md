@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # 由Microsoft Power Automate提供支持的工作流自动化
 
@@ -29,5 +29,3 @@ ht-degree: 0%
 * 此外，&#x200B;Power Automate允许用户在Adobe Acrobat Sign中创建和使用自动工作流，而无需让IT人员参与。
 * 这些自动化工作流可以提高效率、生产力，并减少错误。
 * Power Automate还允许非管理员创建工作流，为用户通过创建连接不同应用程序和服务的流来自动化任务和流程提供了一个平台。 它提供了广泛的触发器和操作，可用于根据特定业务需求构建自定义工作流。
-
-

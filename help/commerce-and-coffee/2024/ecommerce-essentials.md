@@ -27,7 +27,7 @@ ht-degree: 0%
 
 与Cory Gelato一起的网络研讨会“掌握电子商务要点”中的3大要点：
 
-**Merchandising和Personalization**
+**促销和Personalization**
 
 * 将机器学习算法用于推销可以显着影响销售和客户满意度。
 * 根据个别客户体验提供个性化产品推荐，可提升参与度和转化率。

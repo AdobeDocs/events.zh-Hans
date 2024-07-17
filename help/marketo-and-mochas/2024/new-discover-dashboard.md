@@ -7,7 +7,8 @@ doc-type: Event
 duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428405/?learn=on)
 
-## 要点
+## 主要要点
 
 * Marketo Measure中的发现功能板是一组新的和改进的预建功能板，旨在增强可用性并为报表功能增加价值。
 * 旧功能板已在3月份弃用，现在所有Marketo Measure客户都可使用新功能板。

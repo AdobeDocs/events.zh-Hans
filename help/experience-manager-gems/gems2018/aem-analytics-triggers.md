@@ -9,7 +9,7 @@ duration: 2746
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
-*2018年6月27日交付*
+*已于2018年6月27日交付*
 
-**提交人：**
+**演示者：**
 
 Sarah Xu，Adobe开发人员宣传员
 
@@ -36,7 +36,7 @@ Sarah Xu，Adobe开发人员宣传员
 >[!MORELIKETHIS]
 >
 >* [Solr作为AEM的Oak索引](solr-as-an-oak-index-for-aem.md)
->* [使用AEM 6.4解锁更强大的资产分析](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [使用AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)解锁更强大的资产分析
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

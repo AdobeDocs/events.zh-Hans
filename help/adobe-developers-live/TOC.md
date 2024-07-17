@@ -5,7 +5,7 @@ user-guide-description: 录制的 Adobe Developer Live 内容活动集合
 source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
 source-wordcount: '777'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 6%
 
 + [概述](overview.md)
 + 2023 {#2023}
-   + 十一月 {#nov2023}
+   + 11月{#nov2023}
       + [开幕主题演讲](2023/november/keynote.md)
       + [开幕主题演讲(APAC)](2023/november/keynote-apac.md)
       + [使用App Builder自动化内容工作流](2023/november/content-workflows.md)
       + [后台组件开发和部署](2023/november/component-development.md)
       + [全渠道内容交付](2023/november/omnichannel.md)
-      + Edge Delivery Services {#nov-edgedeliveryservices}
+      + Edge Delivery Services{#nov-edgedeliveryservices}
          + [构建网站](2023/november/edge-breakout-1.md)
          + [网站性能](2023/november/edge-breakout-2.md)
          + [客户部署](2023/november/edge-breakout-3.md)
@@ -30,10 +30,10 @@ ht-degree: 6%
          + [Headless API](2023/november/headless-breakout-1.md)
          + [通用编辑器简介](2023/november/intro-universal-editor.md)
          + [Headless Forms简介](2023/november/headless-forms.md)
-         + [Universal Editor](2023/november/headless-breakout-2.md)
+         + [通用编辑器](2023/november/headless-breakout-2.md)
          + [外部数据源](2023/november/headless-breakout-3.md)
-      + 商务 {#nov-commerce}
-         + [Adobe应用程序生成器、AdobeIO、Webhooks和管理UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
+      + Commerce {#nov-commerce}
+         + [AdobeApp Builder、AdobeIO、Webhooks和管理UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API网格](2023/november/commerce-breakout-4.md)
          + [目录服务](2023/november/commerce-breakout-1.md)
          + [通过平台提供Commerce性能](2023/november/commerce-performance.md)
@@ -44,12 +44,12 @@ ht-degree: 6%
          + [搜索和目录服务](2023/november/commerce-search-and-catalog-service.md)
          + [优化Commerce网站性能的策略](2023/november/commerce-site-performance.md)
          + [在Adobe Commerce Cloud中跟踪更改](2023/november/commerce-cloud-track-changes.md)
-   + 五月 {#may2023}
+   + 五月{#may2023}
       + [开幕主题演讲](2023/may/keynote.md)
       + [API教程](2023/may/new-apis.md)
       + [深入了解适用于电子邮件和Forms的AEM核心组件](2023/may/core-components.md)
-      + [嵌入资产选取器](2023/may/asset-picker.md)
-      + [使用Microsoft 365/Google工作区进行编辑](2023/may/microsoft-365.md)
+      + [嵌入Assets选取器](2023/may/asset-picker.md)
+      + [使用Microsoft 365/Google Workspace编辑](2023/may/microsoft-365.md)
       + [更快的部署](2023/may/workflows.md)
       + [Fireside与AEM产品负责人聊天](2023/may/fireside.md)
       + [JavaScript块](2023/may/javascript-blocks.md)
@@ -57,7 +57,7 @@ ht-degree: 6%
       + [了解GraphQL API](2023/may/graphql.md)
       + [Universal Editor](2023/may/universal-editor.md)
 + 2022 年 {#2022}
-   + 2月 — 商务 {#feb2022}
+   + 2月 — Commerce {#feb2022}
       + [概述](2022/february/overview.md)
       + [开幕主题演讲](2022/february/opening-keynote.md)
       + [Adobe Commerce平台的运行状况和性能](2022/february/visibility-health-performance.md)
@@ -79,23 +79,23 @@ ht-degree: 6%
       + [摇滚明星的成绩和开发人员的下一步](2022/november/closing.md)
       + [加快Adobe Experience Manager网站运行速度的10大技巧](2022/november/top-ten-tips.md)
       + [用户界面可扩展性和新的内容片段UI](2022/november/extensibility.md)
-      + [使用App Builder和API网格](2022/november/api-mesh.md)
+      + [使用App Builder和API Mesh](2022/november/api-mesh.md)
 + 2021 年{#2021}
-   + 2月 — 内容 {#feb2021}
+   + 二月 — 内容{#feb2021}
       + [概述](2021/february/overview.md)
-      + [Adobe 客户端数据层](2021/february/adobe-client-data-layer.md)
+      + [Adobe客户端数据层](2021/february/adobe-client-data-layer.md)
       + [ADOBE EXPERIENCE PLATFORM SDK](2021/february/experience-platform-sdk-launch.md)
       + [使用Experience Manager Cloud Service进行API身份验证](2021/february/api-authentication.md)
       + [资产批量摄取](2021/february/asset-bulk-ingestion.md)
       + [asset compute服务可扩展性](2021/february/asset-compute-service-extensibility.md)
       + [通过GraphQL实现CIF的可扩展性](2021/february/cif-extensibility-graphql.md)
-      + [Content and Commerce与Experience Manager](2021/february/content-commerce.md)
+      + [内容和Commerce与Experience Manager](2021/february/content-commerce.md)
       + [使用Experience Manager Cloud Service进行内容交付](2021/february/content-delivery.md)
       + [自定义功能测试](2021/february/custom-functional-tests-cicd.md)
       + [开发人员体验](2021/february/developer-experience.md)
       + [使用AEM Forms Cloud进行开发](2021/february/developing-aem-forms-cloud.md)
       + [数字注册体验](2021/february/digital-enrollment-aem-forms-cloud.md)
-      + [环境变体](2021/february/environment-variables-aemcs.md)
+      + [环境变量](2021/february/environment-variables-aemcs.md)
       + [Experience Manager Cloud Service](2021/february/experience-manager-as-cloud-service.md)
       + [Experience Manager ScreensCloud Service](2021/february/screens-as-a-cloud-service.md)
       + [Experience Manager更新](2021/february/experience-manager-updates.md)
@@ -112,19 +112,19 @@ ht-degree: 6%
       + [快速前端开发](2021/february/rapid-frontend-devlopment.md)
       + [SPA编辑器2.0](2021/february/spa-editor-2-0.md)
       + [将任何站点转换为渐进式Web应用程序](2021/february/any-site-into-pwa.md)
-   + 十月 {#oct2021}
+   + 10月{#oct2021}
       + [概述](2021/october/overview.md)
       + [开幕主题演讲](2021/october/keynote.md)
       + [加速过渡到Experience ManagerCS](2021/october/accelerate-transistion.md)
-      + [Adobe [!DNL Analytics] 2021年您需要了解的API](2021/october/analytics-api.md)
-      + [Adobe 客户端数据层](2021/october/adobe-client-data-layer.md)
+      + [您需要在2021年了解的Adobe [!DNL Analytics] API](2021/october/analytics-api.md)
+      + [Adobe客户端数据层](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce与社区贡献模型](2021/october/community-contribution-model.md)
       + [Adobe Commerce实时搜索结果](2021/october/adobe-commerce-search.md)
-      + [Adobe交换 — 第三方开发人员市场](2021/october/app-builder-exchange.md)
-      + [Adobe I/O开源项目和贡献](2021/october/app-builder-adobeio.md)
+      + [Adobe Exchange — 第三方开发人员市场](2021/october/app-builder-exchange.md)
+      + [Adobe I/O打开Source项目和贡献](2021/october/app-builder-adobeio.md)
       + [Adobe I/O支持的Experience Manager Assets导出](2021/october/app-builder-asset-export.md)
       + [与Experience ManagerCS的高级联网](2021/october/advanced-networking.md)
-      + [基于App Builder构建的异常检测工具](2021/october/data-anomaly-detection.md)
+      + [基于App Builder的异常检测工具](2021/october/data-anomaly-detection.md)
       + [App Builder架构和技术深入探讨](2021/october/app-builder-architecture.md)
       + [使用PDF服务API自动创建和处理PDF](2021/october/automate-pdf-services-api.md)
       + [组件脚本开发的最佳实践](2021/october/component-script-development.md)
@@ -135,7 +135,7 @@ ht-degree: 6%
       + [使用XD进行协作PWA店面设计](2021/october/commerce-storefront-xd.md)
       + [Creative Cloud应用程序引擎API](2021/october/cc-app-api.md)
       + [数据收集](2021/october/data-collection.md)
-      + [交付Commerce体验](2021/october/delivering-commerce-experiences.md)
+      + [提供Commerce体验](2021/october/delivering-commerce-experiences.md)
       + [通过Experience Manager提供快速体验](2021/october/fast-experiences.md)
       + [高效的站点结构 — 改进的性能](2021/october/efficient-site-structure.md)
       + [使用关联内容丰富Commerce体验](2021/october/associated-content.md)
@@ -160,8 +160,8 @@ ht-degree: 6%
       + [如何将资源摄取和处理到Experience Manager Assets](2021/october/ingest-process-assets.md)
       + [将Experience ManagerCS与AdobeIO事件集成](2021/october/integrate-aem-io-events.md)
       + [App Builder简介](2021/october/introduction-app-builder.md)
-      + [Adobe Developer控制台简介](2021/october/app-builder-adc.md)
-      + [Creative Cloud库简介](2021/october/cc-libraries.md)
+      + [Adobe Developer Console简介](2021/october/app-builder-adc.md)
+      + [Creative Cloud Libraries简介](2021/october/cc-libraries.md)
       + [JSON和PDF提取API](2021/october/parsing-pdf.md)
       + [Launch服务器端](2021/october/launch-server-side.md)
       + [使用日志转发监视App Builder应用程序](2021/october/log-forwarding.md)
@@ -172,7 +172,7 @@ ht-degree: 6%
       + [面向初学者的PWA Studio最佳实践](2021/october/pwa-studio-best-practices.md)
       + [快速站点创建](2021/october/quick-site-creation.md)
       + [相关搜索和电子商务](2021/october/relevant-search-ecommerce.md)
-      + [屏幕Cloud Service](2021/october/aem-screens-cs.md)
+      + [ScreensCloud Service](2021/october/aem-screens-cs.md)
       + [在Headless实施中调整Adobe Commerce Cloud的大小](2021/october/commerce-headless.md)
       + [通过URL转换、调整和优化图像](2021/october/smart-imaging.md)
       + [Workfront和Experience Manager Assets](2021/october/workfront-aem-assets.md)

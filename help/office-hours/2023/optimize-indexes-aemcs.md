@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 使用AEM Cloud Service优化索引的基础
 
-此实时会话介绍了使用AEMas a Cloud Service(AEMaaCS)进行索引的过程。 我们将介绍 — 索引更改以及这些更改对不同项目有何影响，客户在AEMaaCS上编制索引时面临的挑战，以及优化这些索引的最佳实践
+此实时会话介绍如何使用AEM as a Cloud Service (AEMaaCS)编制索引。 我们将介绍 — 索引更改以及这些更改对不同项目有何影响，客户在AEMaaCS上编制索引时面临的挑战，以及优化这些索引的最佳实践
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422534/?learn=on)

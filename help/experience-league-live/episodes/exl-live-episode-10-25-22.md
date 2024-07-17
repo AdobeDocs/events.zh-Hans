@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 通过决策管理在适当的时间提供适当的优惠
 
-**使用AI对优惠进行排名，并将其用于内部和外部消息传递渠道。**
+**使用AI对优惠进行排名，并在内部和外部消息传递渠道中利用这些优惠。**
 
 如今，大部分客户历程都是多表面和多接触点，因此，在正确的交互中查找并提供正确的优惠至关重要。 除了折扣，优惠还可以包括忠诚度和维系率消息、升级、提醒、促销活动，甚至学习机会。 相比以往，营销人员更倾向于将人工智能用于任务关键型实时决策管理用例。
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 在此直播活动中，Adobe产品专家介绍了最新的智能优惠排名功能，并展示了如何在Adobe Journey Optimizer中为历程和营销活动添加优惠。  他们还展示了在电子邮件、短信和移动应用程序等本机Journey Optimizer渠道以及外部系统和集成应用程序(如Adobe Target)中可以如何放置选件。
 
-在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55)上继续讨论此主题。

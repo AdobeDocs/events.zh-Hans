@@ -23,5 +23,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-对此节目有任何疑问吗？ 在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
+对此节目有任何疑问吗？ 在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366)上继续讨论此主题。
 

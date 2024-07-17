@@ -12,7 +12,7 @@ duration: 1829
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 7%
+ht-degree: 6%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 探索使用App Builder可以提供的功能，并询问我们您希望了解的所有信息。 加入我们，详细了解App Builder如何让您构建云原生应用程序，以扩展Adobe Experience Manager和其他Adobe产品的开箱即用功能。 您将了解常见用例以及如何开始使用App Builder进行构建。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3AYeJlv)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3AYeJlv)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337767/?quality=12&learn=on&hidetitle=true)
 

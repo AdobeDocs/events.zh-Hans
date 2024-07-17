@@ -19,6 +19,6 @@ ht-degree: 0%
 
 在本主题会议上，您将了解跨B2B和B2C的客户历程管理的最新趋势。 我们还将与您分享关键历程应用程序以及更广泛的Adobe Experience Cloud和平台方面的最新创新。 一个不要错过！
 
-*提莫·科尔贝里* 高级经理和EMEA地区产品营销/Adobe主管
+*Timo Kohlberg*&#x200B;高级经理和EMEA地区产品营销/Adobe主管
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

@@ -28,7 +28,7 @@ ht-degree: 59%
 
 我们希望通过展示实际Adobe Experience Manager客户代码库上的工具执行情况，来帮助人们了解使用代码重构工具的最佳实践。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3ETr7FI)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3ETr7FI)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 

@@ -19,13 +19,13 @@ ht-degree: 0%
 * 如何使体验管理现代化，实现内容创作民主化，使全渠道交付变得轻而易举，并扩展个性化以提高每个体验的价值。
 * 如何构建可针对个性化进行扩展的内容供应链
 * 如何缩短新站点创建的上市时间并减少对技术资源的依赖
-* 的最新创新 [!DNL Experience Manager] 以云原生服务的形式提供，以及您如何适应不断变化的市场期望，同时保持领先地位
-* 如何使用Adobe更快地构建站点 [!DNL Experience Manager] 作为Headless CMS，使用GraphQL和内容片段
+* [!DNL Experience Manager]的最新创新是以云原生服务形式提供的，以及您如何在保持领先地位的同时适应不断变化的市场期望
+* 如何使用GraphQL和Adobe片段，以Headless CMS形式使用Content [!DNL Experience Manager]更快地构建站点
 * 加快Adobe Experience Manager Sites上市时间的开发人员最佳实践
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。
 
 <table>
   <tr>
@@ -35,7 +35,7 @@ ht-degree: 0%
       </a>
       <div>
          <a href="2022/welcome.md"><strong>欢迎致辞和AEM概述</strong></a>         
-         <br/><em>与埃利奥特·塞德加、哈雷什·库马尔和库尔特·本克特一起</em>
+         <br/><em>与Elliot Sedegah、Haresh Kumar和Kurt Benkert一起</em>
       </div>
       <p>
         <br/>
@@ -44,15 +44,15 @@ ht-degree: 0%
    </td>
    <td>
       <a href="2022/assets-for-all.md">
-      <img alt="全部资产" src="assets/assets-for-all.png" >
+      <img alt="适用于所有人的Assets" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>扩展Adobe [!DNL Experience Manager] 带Adobe的Headless [!DNL App Builder]</strong></a>         
-         <br/><em>和普妮玛·拉库尔·罗伊</em>
+         <a href="2022/assets-for-all.md"><strong>使用Adobe[!DNL App Builder]</strong></a>扩展Adobe[!DNL Experience Manager] Headless         
+         <br/><em>与Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          了解如何 [!DNL Assets Essentials] 是新的 [!DNL Digital Asset Management] 适用于部门和中型公司的系统。
+          了解[!DNL Assets Essentials]如何成为适用于部门和中型公司的新[!DNL Digital Asset Management]系统。
       </p>
    </td>
    <td>
@@ -61,7 +61,7 @@ ht-degree: 0%
       </a>
       <div>
          <a href="2022/supply-chain.md"><strong>构建可扩展的内容供应链</strong></a>         
-         <br/><em>和马克·安杰利诺维奇在一起</em>
+         <br/><em>与Marc Angelinovich</em>
       </div>
       <p>
         <br/>

@@ -8,7 +8,7 @@ duration: 3538
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23429/?quality=0)
 
-*2018年8月22日交付*
+*已于2018年8月22日交付*
 
-**提交人：**
+**演示者：**
 
 Thomas Mueller，高级软件工程师，Adobe
 

@@ -8,7 +8,7 @@ duration: 3482
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -16,14 +16,14 @@ ht-degree: 3%
 
 此会议介绍当前的AEM翻译功能以及管理多语言网站的最佳实践。 您了解如何构建全局网站并使用语言副本、活动副本和MSM。 该课程还涵盖如何使用高级功能实现更简单、更快、更易管理的内容翻译。
 
-**提交人：**
+**演示者：**
 
 * Ankur Sial，Adobe计算机科学家
 * Harpreet Neelu，Adobe项目经理
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*2020年1月22日交付*
+*已于2020年1月22日交付*
 
 **演示者幻灯片**
 

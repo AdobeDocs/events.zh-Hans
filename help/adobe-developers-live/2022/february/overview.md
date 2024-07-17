@@ -15,7 +15,7 @@ ht-degree: 7%
 
 <img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
-Adobe Developers Live： Commerce 2022汇聚背景各异但目标一致的开发人员和体验构建人员，共同创造超乎想象的端到端体验。 该为期一天的虚拟会议将提供重要的Commerce和开源开发人员更新、技术会议、社区社交机会等。
+Adobe Developers Live： Commerce 2022汇聚背景各异但目标一致的开发人员和体验构建人员，共同创造超乎想象的端到端体验。 该为期一天的虚拟会议将提供重要的Commerce和Open Source开发人员更新、技术研讨会、社区社交机会等。
 
 <!-- 
 ## Highlights
@@ -68,4 +68,4 @@ Adobe Developers Live： Commerce 2022汇聚背景各异但目标一致的开发
 
 >[!TIP]
 >
->**左侧导航中列出了所有会话**.
+>**左侧导航中列出了所有会话**。

@@ -1,5 +1,5 @@
 ---
-title: Asset Link
+title: 资产链接
 description: 您与Adobe Creative Cloud的本机连接。
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
@@ -17,7 +17,7 @@ duration: 3674
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -31,8 +31,8 @@ Asset Link是您与Adobe Creative Cloud的本机连接。
 
 ## 资源
 
-* [AdobeAsset Link视频](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-* [适用于Adobe XD的Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Adobe资源链接视频](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
+* 适用于Adobe XD的[Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
 * [为AdobeAsset Link配置AEM Assets 6.5和6.4](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
 * [为AdobeAsset Link配置AEM as a Cloud Service](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 

@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
 
-有疑问吗？ 在Adobe Experience League上继续讨论此主题 [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638))。
+有疑问吗？ 在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638)上继续讨论此主题。

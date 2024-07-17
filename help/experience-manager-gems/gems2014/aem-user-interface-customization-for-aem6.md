@@ -8,7 +8,7 @@ duration: 3601
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*2014年5月7日交付*
+*已于2014年5月7日交付*
 
-**提交人：**
+**演示者：**
 
 * Gilles Nonbloch，Adobe工程经理
 * Damien Antipa，高级UX工程师，Adobe
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## 相关链接 {#related-links}
 
-* [Touch UI概念](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [触屏UI概念](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
 * [结构](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
 * [自定义控制台（触屏优化UI）](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
 * [自定义页面创作（触屏优化UI）](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

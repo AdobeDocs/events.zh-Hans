@@ -26,6 +26,8 @@ ht-degree: 0%
 
 它们将共享Fusion和非Fusion自动化，包括：
 
-·如何自动关闭项目·子模板生成·合并的已批准资产审查
+·如何自动关闭项目
+·子模板生成
+·综合经批准资产审阅
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

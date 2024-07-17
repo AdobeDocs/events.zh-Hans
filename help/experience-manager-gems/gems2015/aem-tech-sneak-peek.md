@@ -8,7 +8,7 @@ duration: 3536
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*2015年1月21日交付*
+*已于2015年1月21日交付*
 
-**提交人：**
+**演示者：**
 
 * Gabriel Walt，Adobe产品经理
 

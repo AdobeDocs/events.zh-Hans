@@ -8,7 +8,7 @@ duration: 2754
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25503/?quality-9)
 
-*2018年11月21日交付*
+*已于11月21日18日交付*
 
 主持人：Adobe开发人员Artur Kudlacz
 
@@ -36,11 +36,11 @@ ht-degree: 2%
 
 ## 相关链接 {#related-links}
 
-[周末教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=zh-Hans)
+[周末教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [文档](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[示例 — We零售日记帐](https://github.com/adobe/aem-sample-we-retail-journal)
+[示例 — 我们零售日记帐](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -8,7 +8,7 @@ duration: 3186
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*2019年4月17日交付*
+*已于2019年4月17日交付*
 
-**提交人：**
+**演示者：**
 
 Hanish Bansal，计算机科学家，Adobe
 

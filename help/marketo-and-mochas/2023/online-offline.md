@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 在线渠道与离线渠道
 
-本期Marketo [衡量] 与Mochas共同推出了Adobe营销自动化业务顾问Kate Colbert和Elizabeth Lundberg，他们将带我们完成一个有关在线渠道与离线渠道的详细的90分钟讲座。 Kate和Liz深入了解Marketo Measure归因，更深入地了解渠道和子渠道的战略配置。 它们提供了对在线和离线渠道管理的指导性概述，以及它们如何工作的复杂性，以使您可最有效地使用它们。 该会议将展示产品内的演示并回顾归因专家使用的最佳实践，以便您能够将Marketo Measure实例提升到新的水平。 活动以现场问答结束，回答许多以前提交和实时的问题。
+Marketo [Measure]和Mochas的这一期包括Adobe的营销自动化业务顾问Kate Colbert和Elizabeth Lundberg，他们将带我们完成有关在线渠道与离线渠道的详细的90分钟讲座。 Kate和Liz深入了解Marketo Measure归因，更深入地了解渠道和子渠道的战略配置。 它们提供了对在线和离线渠道管理的指导性概述，以及它们如何工作的复杂性，以使您可最有效地使用它们。 该会议将展示产品内的演示并回顾归因专家使用的最佳实践，以便您能够将Marketo Measure实例提升到新的水平。 活动以现场问答结束，回答许多以前提交和实时的问题。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422363/?learn=on)

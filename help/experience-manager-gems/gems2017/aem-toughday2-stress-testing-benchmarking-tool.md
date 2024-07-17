@@ -8,7 +8,7 @@ duration: 3141
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
-*2017年6月21日交付*
+*已于2017年6月21日交付*
 
-**提交人：**
+**演示者：**
 
 * Catalin Luta，QE开发人员，Adobe
 * Andrei Stefan Tuicu，QE开发人员，Adobe

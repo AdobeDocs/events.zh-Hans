@@ -20,7 +20,7 @@ ht-degree: 0%
 
 *交付日期：2016年7月20日*
 
-**提交人：**
+**演示者：**
 
 * Sham Hassan Chikkegowda，CS工程师，Adobe
 * Timothee Maret，高级开发人员，Adobe
@@ -32,7 +32,7 @@ ht-degree: 0%
 ## 相关链接 {#related-links}
 
 * [SAML 2.0身份验证处理程序](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [[SAMLProf] OASIS安全断言标记语言(SAML) V2.0的配置文件](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [[SAMLBind] OASIS安全断言标记语言(SAML) V2.0的绑定](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
+* OASIS安全断言标记语言(SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)的[[SAMLProf]配置文件
+* OASIS安全断言标记语言(SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)的[[SAMLBind]绑定
 * [[SAMLTech]安全声明标记语言(SAML) V2.0技术概述](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
 * [SAML V2.0执行概述](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

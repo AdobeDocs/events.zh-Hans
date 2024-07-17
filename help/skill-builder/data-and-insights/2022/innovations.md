@@ -19,6 +19,6 @@ ht-degree: 0%
 
 在本主题演讲中，您将了解D&amp;I中的主要趋势。加入我们，探索如何通过充分实现您的Experience Cloud投资的最大化来充分利用您的数据，并深入了解新的创新。
 
-*Axel Schaefer* Analytics EMEA/Adobe产品营销总监
+*Axel Schaefer* Analytics EMEA/Adobe产品营销负责人
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

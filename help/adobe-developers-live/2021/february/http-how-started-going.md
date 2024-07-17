@@ -21,6 +21,6 @@ ht-degree: 0%
 
 采访HTTP协议的共同作者和REST的发明者Roy Fielding，了解HTTP从早期到现在在QUIC和HTTP/3方面的演变。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

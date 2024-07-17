@@ -9,7 +9,7 @@ duration: 2846
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,9 @@ AEM 6附带了适用于Dynamic Tag Management (DTM)的Cloud Service，这是Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*2014年10月1日交付*
+*已于2014年10月1日交付*
 
-**提交人：**
+**演示者：**
 
 Sandro Looser，解决方案设计师，Adobe
 
@@ -31,7 +31,7 @@ Sandro Looser，解决方案设计师，Adobe
 
 ## 相关链接 {#related-links}
 
-[与AdobeDynamic Tag Management集成](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[与Adobe动态Tag Management集成](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
 [DTM帮助](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 

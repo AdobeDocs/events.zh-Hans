@@ -8,7 +8,7 @@ duration: 2907
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*2013年11月20日交付*
+*交付日期：2013年11月20日*
 
-**提交人：**
+**演示者：**
 
 Ugo Cei，Adobe开发人员技术营销经理
 

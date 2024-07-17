@@ -1,6 +1,6 @@
 ---
 title: 分析数据
-description: 自由格式表是Analysis Workspace的灵活基础 — 掌握这些功能强大的表将在工作区历程中走得更远。区段是一种高度灵活的数据过滤和挖掘方式，可以在量度级别全局应用，也可以用作独立维度。 面板提供复杂分析的快捷方式 — 尤其是快速分析面板，是轻松回答您的业务面临问题的绝佳选择
+description: 自由格式表是Analysis Workspace的灵活基础 — 掌握这些功能强大的表将在Workspace历程中走得更远。区段是一种高度灵活的数据过滤和挖掘方法，可以在指标级别全局应用，也可以用作独立维度。 面板提供复杂分析的快捷方式 — 尤其是快速分析面板，是轻松回答您的业务面临问题的绝佳选择
 feature-set: Analytics
 feature: Freeform Tables, Metrics
 role: User
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 2023年8月技能交流活动 — 学习跟踪 — Adobe Analytics：分析数据
 
-自由格式表是Analysis Workspace的灵活基础 — 掌握这些功能强大的表将在您的工作区历程中起到重要作用
+自由格式表是Analysis Workspace的灵活基础 — 掌握这些功能强大的表将让您在Workspace历程中取得长足进步
 
 区段是一种高度灵活的数据过滤和挖掘方式，可在量度级别全局应用，或用作独立维度
 

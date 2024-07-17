@@ -19,11 +19,11 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
 
 跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe产品团队将展示最新的技术进步和开发人员工具，这些工具可推动跨行业设计、内容创建工作流、文档服务和客户体验管理。
 
-注册参加未来活动 **[此处](https://developerevents.adobe.com/)**.
+在&#x200B;**[此处](https://developerevents.adobe.com/)**&#x200B;注册未来活动。
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。
 
 <!--
 

@@ -22,7 +22,7 @@ ht-degree: 7%
 
 从他人最常见的错误中学习，以便您能够自行避免这些错误！ 在此会议中，我们将了解我们的电话技术支持工程师发现的一些常见问题，并讨论最佳做法以确保您在自己的Adobe Experience Manager as a Cloud Service实施中能够避免这些问题。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3kLQK3j)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3kLQK3j)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 

@@ -26,7 +26,7 @@ ht-degree: 0%
 ## 描述
 
 最佳实践分析器是一个工具，可提供有关AEM内部部署和AMS实例的分析和报告功能。 它通过指明未遵循建议的最佳实践的区域，生成您当前AEM实施的评估，同时还提供有关如何采取行动纠正潜在问题的指导。 这样做的动机很简单；发现并解决您的AEM环境中仅出现的1个误用情形可能会改善用户体验，减少技术债务，进而降低您的总拥有成本(TCO)。 所以，为什么不花时间看看有没有改善的机会。
-请注意，AEM最佳实践分析器不适用于AEMas a Cloud Service环境。
+请注意，AEM最佳实践分析器不适用于AEM as a Cloud Service环境。
 
 ### 演示者
 
@@ -42,5 +42,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 有关Experience League上特定于会话的社区交互，请访问此 [上下文主题](https://bit.ly/3Z6AyM1)
->* 要接收有关网络研讨会的自动通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+>* 对于Experience League上特定于会话的社区交互，请访问此[上下文线程](https://bit.ly/3Z6AyM1)
+>* 若要接收有关网络研讨会的自动通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。

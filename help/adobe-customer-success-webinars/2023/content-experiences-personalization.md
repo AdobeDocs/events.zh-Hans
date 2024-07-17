@@ -1,5 +1,5 @@
 ---
-title: 内容和体验 — 个性化的跳动心脏
+title: 内容与体验 — Personalization跳动的心
 description: 确定并克服构建内容和体验功能的常见挑战构建用例以在整个客户历程中推动内容
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# 内容和体验：个性化的跳动之心
+# 内容与体验：Personalization跳动的心
 
-*内容和体验：个性化的跳动之心*
+*内容与体验：Personalization跳动的心*
 
 * 确定并克服构建内容和体验能力方面的常见挑战
 * 构建用例以在整个客户历程中推动内容

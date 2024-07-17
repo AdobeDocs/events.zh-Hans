@@ -8,7 +8,7 @@ duration: 2315
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*2018年5月16日交付*
+*已于2018年5月16日交付*
 
-**提交人：**
+**演示者：**
 
 François Le Droff，Adobe云集成高级计算机科学家
 

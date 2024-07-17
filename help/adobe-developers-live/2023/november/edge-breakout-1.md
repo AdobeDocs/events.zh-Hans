@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers LiveEdge Delivery Services分组活动1 - 2023年11月
-description: 与Markus Haack一起参加这个在Adobe Developers Live现场录制的动手会议。 了解如何使用Adobe Experience Manager的Edge Delivery Services从头开始构建网站。 此课程涵盖方方面面，从设置GitHub存储库、文档库管理、发布您的第一个内容，到网站样式和自定义块创建。 本指南非常适合于刚开始接触Adobe Experience Manager的开发人员，它全面介绍了如何使用AEM优化工具进行高效的Web开发。
+description: 与Markus Haack一起参加这个在Adobe Developers Live现场录制的动手会议。 了解如何使用Adobe Experience Manager的Edge Delivery Services从头开始构建网站。 此课程涵盖方方面面，从设置GitHub存储库、文档库管理、发布您的第一个内容，到网站样式和自定义块创建。 本指南非常适合于刚开始接触Adobe Experience Manager的开发人员，它全面介绍了如何使用AEM的优化工具进行高效的Web开发。
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 # Adobe Developers LiveEdge Delivery Services分组活动1 - 2023年11月
 
-与Markus Haack一起参加这个在Adobe Developers Live现场录制的动手会议。 了解如何使用Adobe Experience Manager的Edge Delivery Services从头开始构建网站。 此课程涵盖方方面面，从设置GitHub存储库、文档库管理、发布您的第一个内容，到网站样式和自定义块创建。 本指南非常适合于刚开始接触Adobe Experience Manager的开发人员，它全面介绍了如何使用AEM优化工具进行高效的Web开发。
+与Markus Haack一起参加这个在Adobe Developers Live现场录制的动手会议。 了解如何使用Adobe Experience Manager的Edge Delivery Services从头开始构建网站。 此课程涵盖方方面面，从设置GitHub存储库、文档库管理、发布您的第一个内容，到网站样式和自定义块创建。 本指南非常适合于刚开始接触Adobe Experience Manager的开发人员，它全面介绍了如何使用AEM的优化工具进行高效的Web开发。
 
-在中继续对话 [Experience League社区](https://adobe.ly/3Q82EUF).
+在[Experience League社区](https://adobe.ly/3Q82EUF)中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)

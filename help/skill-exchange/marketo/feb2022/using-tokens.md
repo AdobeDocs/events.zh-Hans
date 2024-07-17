@@ -1,6 +1,6 @@
 ---
-title: 在中使用令牌的可扩展性和效率 [!DNL Marketo Engage]
-description: 了解如何在个性化之外使用令牌，以使您的项目构建和操作在中更高效 [!DNL Marketo Engage].
+title: 在 [!DNL Marketo Engage]中使用令牌的可扩展性和效率
+description: 了解如何在个性化之外使用令牌，以使您的项目构建和操作在 [!DNL Marketo Engage]中更加高效。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# 在中使用令牌的可扩展性和效率 [!DNL Marketo Engage]
+# 使用[!DNL Marketo Engage]中的令牌的可扩展性和效率
 
-了解如何在个性化之外使用令牌，以使您的项目构建和操作在中更高效 [!DNL Marketo Engage].
+了解如何在个性化之外使用令牌，以使您的项目构建和操作在[!DNL Marketo Engage]中更高效。
 
-**主要要点**
+**关键技巧**
 
 * 了解不同类型的令牌以及可在何处使用它们
 * 获取有关如何记录令牌策略的想法

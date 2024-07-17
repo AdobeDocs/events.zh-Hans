@@ -1,5 +1,5 @@
 ---
-title: Experience League实时资源
+title: EXPERIENCE LEAGUELIVE ASSETS
 description: 本页包含用于Experience LeagueLIVE的资源
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Experience League实时资源
+# EXPERIENCE LEAGUELIVE ASSETS
 
 本页包含用于Experience LeagueLIVE的资源
 

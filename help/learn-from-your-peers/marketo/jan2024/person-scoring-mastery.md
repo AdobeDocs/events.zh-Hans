@@ -9,13 +9,13 @@ duration: 2428
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+exl-id: 673a6d3a-1a8e-4a2e-b2df-528ace76d743
+source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
-
 
 # 通过Marketo Engage掌握人员得分：全球框架中的本地化细微差别
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## 网络研讨会中共享的资源
 
-* 营销国家社区网络研讨会主题 —  [讨论](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* 通过本地影响练习对人员/销售线索进行评分 —  [下载工作表](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
-* 商机评分规则的重要列表 —  [查看工作表](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Marketo Engage程序导入库 —  [文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
-* 在过程之前、期间和之后，引导得分掌握关于过程的所有信息 —  [按需网络研讨会](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
-* 冠军将领先。 [博客](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
+* 营销国家社区网络研讨会主题 — [讨论](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* 通过本地影响练习对人员/潜在客户进行评分 — [下载工作表](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* 潜在客户评分规则的大列表 — [查看工作表](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Marketo Engage程序导入库 — [文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* 在[按需网络研讨会](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}之前、期间和之后，引导评分了解有关该过程的所有信息
+* 冠军的领先得分占据 — [博客](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

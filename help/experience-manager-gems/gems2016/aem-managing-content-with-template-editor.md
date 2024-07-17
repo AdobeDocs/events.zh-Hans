@@ -8,7 +8,7 @@ duration: 2962
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Experience Manager 6.2中引入了新的模板编辑器，该编辑器为�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*2016年9月14日交付*
+*已于2016年9月14日交付*
 
-**提交人：**
+**演示者：**
 
 * Patrick Fauchere，Adobe软件工程师
 
@@ -36,6 +36,6 @@ Adobe Experience Manager 6.2中引入了新的模板编辑器，该编辑器为�
 
 >[!WARNING]
 >
->AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)访问文档的存档版本。
 >
->由于它与此会话相关，请参阅 *页面模板* 和 *创建页面模板* 在AEM 6.2文档中。
+>由于它与此会话相关，请参阅AEM 6.2文档中的&#x200B;*页面模板*&#x200B;和&#x200B;*创建页面模板*。

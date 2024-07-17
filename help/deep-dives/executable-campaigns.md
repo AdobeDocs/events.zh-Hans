@@ -1,6 +1,6 @@
 ---
 title: 可执行活动 — 了解可执行文件如何提高效率和影响
-description: 该课程专为Marketo管理员和营销活动运营专业人士量身定制，重点介绍如何了解和部署可执行营销活动，为营销活动和项目增值、提高效率和促进增长。
+description: 该会议专为 Marketo 管理员和活动运营专业人员量身定制，重点是了解和部署可执行的活动，以增加活动和计划的价值、提高效率并推动增长。
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,7 +12,7 @@ exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
 source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
-**审核者** 克里斯·威利斯
-**扬声器** Courtny Edwards-Jones和Jane Musatova
+**由**克里斯·威利斯主持
+**发言人** Courtny Edwards-Jones和Jane Musatova
 
 ## 概述
 

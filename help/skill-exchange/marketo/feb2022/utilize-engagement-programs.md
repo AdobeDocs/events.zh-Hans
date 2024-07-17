@@ -1,6 +1,6 @@
 ---
 title: Nurture 101 — 利用参与计划吸引客户
-description: 了解内参与计划的基础知识 [!DNL Marketo Engage] 包括示例用例以及提示和技巧。
+description: 了解 [!DNL Marketo Engage] 中参与计划的基础知识，包括示例用例以及提示和技巧。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Nurture 101 — 利用参与计划吸引客户
 
-了解内参与计划的基础知识 [!DNL Marketo Engage] 包括示例用例以及提示和技巧。
+了解[!DNL Marketo Engage]中参与计划的基础知识，包括示例用例以及提示和技巧。
 
-**主要要点**
+**关键技巧**
 
 * 更好地了解Marketo参与计划及其独特功能
 * 了解项目设置和最佳实践，以及它们如何应用于实际用例

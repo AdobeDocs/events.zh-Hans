@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
+exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -37,6 +38,6 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
->* 有关Experience League上特定会话的社区互动，请访问我们的 [上下文主题](https://adobe.ly/3uIj6D7).
+>* 有关Experience League上特定于会话的社区交互，请访问我们的[上下文会话](https://adobe.ly/3uIj6D7)。
 >
->* 要接收我们即将召开的网络研讨会的通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+>* 若要接收我们即将召开的网络研讨会的通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。

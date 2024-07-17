@@ -28,11 +28,11 @@ ht-degree: 9%
 
 >[!MORELIKETHIS]
 >
->* [“对应的Adobe Experience Manager用户组事件”页面](https://adobe.ly/3O0uXl5/)
+>* [对应的Adobe Experience Manager用户组事件页面](https://adobe.ly/3O0uXl5/)
 >* [对应的上下文线程](https://adobe.ly/3jorz5r)
->* 请在以下地址注册： [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以接收有关即将召开的网络研讨会的通知。
+>* 请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册以接收有关即将召开的网络研讨会的通知。
 
-**高级别议程：**
+**高级议程：**
 
 * CIF是什么以及为何使用CIF？
 

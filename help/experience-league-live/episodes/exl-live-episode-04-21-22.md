@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**记录于4月21日上午9点（太平洋标准时间）**
+**录制于4月21日，太平洋标准时间上午9点**
 
 ## 演示幻灯片
 

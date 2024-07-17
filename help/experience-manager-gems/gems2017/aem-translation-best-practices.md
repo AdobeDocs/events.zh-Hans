@@ -8,7 +8,7 @@ duration: 3560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*2017年10月25日交付*
+*已于2017年10月25日交付*
 
-**提交人：**
+**演示者：**
 
 Leandro Reis，Adobe核心服务全球化架构师\
-Mathias Siegel，高级产品经理， [!DNL AEM Sites]，Adobe
+Mathias Siegel，高级产品经理，[!DNL AEM Sites]，Adobe
 
 **演示者幻灯片**
 
@@ -33,6 +33,6 @@ Mathias Siegel，高级产品经理， [!DNL AEM Sites]，Adobe
 
 >[!WARNING]
 >
->AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  可以从此处访问文档的存档版本 [页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)访问文档的存档版本。
 >
->由于它与此会话相关，请参阅 *AEM Sites翻译文档*， *翻译最佳实践文档* 和 *管理多语言资源* 在AEM 6.3文档中。
+>由于它与此会话相关，请参阅AEM 6.3文档中的&#x200B;*AEM Sites翻译文档*、*翻译最佳实践文档*&#x200B;和&#x200B;*管理多语言Assets*。

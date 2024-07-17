@@ -1,6 +1,6 @@
 ---
 title: 利用Workfront Proof （2021年11月9日）
-description: 收听各种利用Workfront Proof增强您工作方式的方法。
+description: 倾听各种利用Workfront Proof来改进工作方式的方法。
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10002
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 利用Workfront Proof （2021年11月9日）
 
-收听各种利用Workfront Proof增强您工作方式的方法。
+倾听各种利用Workfront Proof来改进工作方式的方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341217/?quality=12&learn=on)

@@ -8,7 +8,7 @@ duration: 2739
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,9 @@ David向您介绍AEM 6.O中的开发人员模式。开发人员模式为：
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*2014年7月16日交付*
+*交付日期：2014年7月16日*
 
-**提交人：**
+**演示者：**
 
 David Catalan，QE开发人员，Adobe
 

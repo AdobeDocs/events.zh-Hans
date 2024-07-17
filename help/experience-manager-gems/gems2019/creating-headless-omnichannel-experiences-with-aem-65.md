@@ -22,9 +22,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*2019年4月16日交付*
+*已于2019年4月16日交付*
 
-**提交人：**
+**演示者：**
 
 * Amol Anand，首席顾问、技术架构师、Adobe
 

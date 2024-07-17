@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Marketo Engage] Rockstar区段
-description: 四家“Rockstar”客户将各展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你眼花缭乱？
+description: 四位“Rockstar”客户将各自演示其最好的 [!DNL Marketo Engage] 提示或技巧。 谁能让你眼花缭乱？
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Marketo Engage] Rockstar区段
+# Adobe[!DNL Marketo Engage] Rockstar区段
 
-四家“Rockstar”客户将各展示其最佳产品 [!DNL Marketo Engage] 小费或诡计。 谁能让你眼花缭乱？
+四位“Rockstar”客户将各自演示其最好的[!DNL Marketo Engage]提示或技巧。 谁能让你眼花缭乱？
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

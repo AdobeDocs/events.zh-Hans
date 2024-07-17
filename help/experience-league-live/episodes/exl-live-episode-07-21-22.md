@@ -28,5 +28,5 @@ ht-degree: 0%
 * [咨询专家 — Web SDK基础知识](exl-live-episode-05-26-22.md)
 * [询问专家 — RTCDP连接](exl-live-episode-06-23-22.md)
 
-有关这一主题的继续讨论，请访问Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+有关此主题的继续讨论，请访问Experience League[社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503)。
 

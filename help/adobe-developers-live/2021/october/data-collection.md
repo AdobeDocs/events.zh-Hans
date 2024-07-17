@@ -1,6 +1,6 @@
 ---
 title: 为数字体验收集数据 — 客户端性能和服务器端集成的强大功能
-description: Web和移动设备上的数字体验正在迅速变化，您的工具也应如此。 欢迎了解Adobe在边缘技术方面做了哪些工作来提升性能，并让开发人员和模式能够将代码部署到世界上最大的数据收集基础架构之一。
+description: Web和移动设备上的数字体验正在迅速变化，您的工具也应如此。 来了解Adobe在Edge技术中执行的操作，以提高性能并允许开发人员和模式将代码部署到世界上最大的数据收集基础架构之一。
 solution: Data Collection
 feature: Web SDK, Debugger, Tags, Event Forwarding
 topic: Development
@@ -13,13 +13,13 @@ duration: 1591
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 10%
+ht-degree: 9%
 
 ---
 
 # 为数字体验收集数据 — 客户端性能和服务器端集成的强大功能
 
-Web和移动设备上的数字体验正在迅速变化，您的工具也应如此。 欢迎了解Adobe在边缘技术方面做了哪些工作来提升性能，并让开发人员和模式能够将代码部署到世界上最大的数据收集基础架构之一。
+Web和移动设备上的数字体验正在迅速变化，您的工具也应如此。 来了解Adobe在Edge技术中执行的操作，以提高性能并允许开发人员和模式将代码部署到世界上最大的数据收集基础架构之一。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337584/?quality=12&learn=on&hidetitle=true)
 

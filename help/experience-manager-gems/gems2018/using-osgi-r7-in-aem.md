@@ -8,7 +8,7 @@ duration: 2785
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -28,9 +28,9 @@ OSGi R7版本体现了许多重要的新特性和功能，并为一些对Java开
 
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 
-*2018年10月17日交付*
+*已于10月17日18日交付*
 
-**提交人：**
+**演示者：**
 
 * Karl Pauls，计算机科学家，Adobe
 * Carsten Ziegeler，Adobe首席科学家
@@ -46,7 +46,7 @@ OSGi R7版本体现了许多重要的新特性和功能，并为一些对Java开
 
 [OSGi规范许可证，版本2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
-[OSGi简编第7版](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
+[OSGi Compendium版本7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

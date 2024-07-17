@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # 掌握Experience Manager认证的艺术：做好准备、做好准备、获得认证！
 
-此网络研讨会于 **6月28**，2023年。 请查看下面的录制。
+此网络研讨会已于2023年6月28日&#x200B;**举行。**&#x200B;请查看下面的录制。
 
 ## 会话描述
 
@@ -45,6 +45,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 有关Experience League上特定于会话的社区交互，请访问此 [上下文主题](https://adobe.ly/3p2CmbA)
+>* 对于Experience League上特定于会话的社区交互，请访问此[上下文线程](https://adobe.ly/3p2CmbA)
 >
->* 要收到有关我们即将召开的网络研讨会的通知，请注册至 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+>* 若要接收有关我们即将召开的网络研讨会的通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。

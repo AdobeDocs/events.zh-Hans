@@ -22,12 +22,12 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428791/?quality=12&learn=on)
 
-**详细信息**：在本会话中，了解将Adobe Analytics迁移到Web SDK的最新和最好的（新）方法。 这样，当您在使用Adobe Experience Platform的过程中，就可以使用速度更快的新库、大量新增功能和经得起未来考验的实施，同时还可以轻松将数据发送到Adobe Analytics(以及Target和AAM)。
+**详细信息**：在此会话中，了解将Adobe Analytics迁移到Web SDK的最新、最大（新）方法。 这样，当您在使用Adobe Experience Platform的过程中，就可以使用速度更快的新库、大量新增功能和经得起未来考验的实施，同时还可以轻松将数据发送到Adobe Analytics(以及Target和AAM)。
 
 我们在Edge上配置数据流，并在Tags属性中安装和配置Web SDK扩展。 我们将说明如何将不同的规则类型从Analytics扩展迁移到Web SDK。
 
-要向Adobe专家以及同行提出问题或与其交流，请访问 [Experience League社区讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+若要向Adobe专家以及同行提出问题或进行沟通，请访问[Experience League社区讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}。
 
-有关其他文档，请参阅 [使用Adobe Experience Platform Web SDK实施Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+有关其他文档，请参阅[使用Adobe Experience Platform Web SDK实施Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview)。
 
-参加即将到来的会议 **关于实施Web SDK的战略步骤的网络研讨会**，注册 [此处](https://engage.adobe.com/step_by_step_guide_implement.html).
+要参加即将举行的&#x200B;**网络研讨会，了解实施Web SDK**&#x200B;的战略步骤，请在此处[注册](https://engage.adobe.com/step_by_step_guide_implement.html)。

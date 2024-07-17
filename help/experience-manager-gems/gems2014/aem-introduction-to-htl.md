@@ -8,7 +8,7 @@ duration: 4010
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ HTL是一种新的模板引擎和语言实施。 HTL努力取代JSP作为Apache 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*2014年6月25日交付*
+*已于2014年6月25日交付*
 
-**提交人：**
+**演示者：**
 
 Gabriel Walt，Adobe产品经理
 

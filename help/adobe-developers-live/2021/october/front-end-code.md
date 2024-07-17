@@ -14,7 +14,7 @@ duration: 1805
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 11%
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 11%
 
 了解如何使用Cloud Manager中最近引入的新前端代码管道
 
-在中继续对话 **[Experience League社区](https://adobe.ly/2XVcBg8)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/2XVcBg8)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337886/?quality=12&learn=on&hidetitle=true)
 

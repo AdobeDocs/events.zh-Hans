@@ -20,7 +20,7 @@ ht-degree: 5%
 # Experience League 直播活动 {#experience-league-live-recordings}
 
 + [概述](overview.md)
-+ 集数 {#episodes}
++ 集数{#episodes}
    + [Ep. 37：最新的Adobe Real-Time CDP版本如何推动您的业务发展](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36：这是将Analytics迁移到Web SDK的方式](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35：Journey Optimizer中新增了基于代码的体验渠道](episodes/exl-live-episode-04-24-24.md)
@@ -38,7 +38,7 @@ ht-degree: 5%
    + [Ep. 23：只需单击几下，即可启动并运行数据收集和事件转发！](episodes/exl-live-episode-4-25-23.md)
    + [Ep. 22：加快Web体验速度](episodes/exl-live-episode-2-16-23.md)
    + [Ep. 21：数据收集功能亮点和路线图](episodes/exl-live-episode-1-26-23.md)
-   + [Ep. 20： [!DNL Analytics] 无论在办公室还是外出](episodes/exl-live-episode-11-18-22.md)
+   + [Ep. 20： [!DNL Analytics] 在办公室或外出](episodes/exl-live-episode-11-18-22.md)
    + [Ep. 19：通过决策管理在适当的时间提供合适的优惠](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18：在Adobe Journey Optimizer中执行营销活动](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17：实时提供更加个性化的客户体验](episodes/exl-live-episode-09-20-22.md)
@@ -57,5 +57,5 @@ ht-degree: 5%
    + [Ep. 4：谁点击了？ 他们什么时候点击的？](episodes/exl-live-episode-04.md)
    + [Ep. 3：专家提示让您的假日营销活动引人注目](episodes/exl-live-episode-03.md)
    + [Ep. 2：比以往更智能地确定下一个受众区段](episodes/exl-live-episode-02.md)
-   + [Ep. 1：我最喜欢的三个Adobe [!DNL Analytics] 实施提示](episodes/exl-live-episode-01.md)
-+ [Experience League实时资源](exl-live-assets.md)
+   + [Ep. 1：我最喜欢的三个Adobe [!DNL Analytics] 实现技巧](episodes/exl-live-episode-01.md)
++ [EXPERIENCE LEAGUELIVE ASSETS](exl-live-assets.md)

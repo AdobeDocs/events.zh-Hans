@@ -1,6 +1,6 @@
 ---
 title: Customer Journey AnalyticsIntegration Essentials
-description: 了解如何优化CJA以与其他Adobe解决方案配合使用，以增强贵组织执行数据驱动型个性化的能力。
+description: 了解如何优化CJA以与其他Adobe解决方案配合使用，从而提升贵组织执行数据驱动的Personalization的能力。
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics, Experience Platform Integration
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Customer Journey AnalyticsIntegration Essentials
 
-了解如何优化CJA以与其他Adobe解决方案配合使用，以增强贵组织执行数据驱动型个性化的能力。
+了解如何优化CJA以与其他Adobe解决方案配合使用，从而提升贵组织执行数据驱动的Personalization的能力。
 
 * 专题CJA集成功能概述
 * Customer Journey Analytics集成用例

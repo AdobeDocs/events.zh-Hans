@@ -1,6 +1,6 @@
 ---
 title: 迁移到AEM Cloud Service
-description: 了解简化迁移到AEM Cloud Service的技术和可用工具。 从内容传输工具到新版Cloud Acceleration Manager ，可与最佳实践分析器结合使用来评估您的环境。
+description: 了解简化迁移到AEM Cloud Service的技术和可用工具。 从内容传输工具到与Best Practice Analyzer配合使用的新Cloud Acceleration Manager，可评估您的环境。
 role: Admin, User
 level: Beginner
 feature-set: Experience Manager
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 迁移到AEM Cloud Service
 
-在此会话中，您将了解可用于更轻松地迁移到AEM Cloud Service的技术和工具。 从Content Transfer Tool到与Best Practice Analyzer一起使用来评估您环境的新Cloud Acceleration Manager，请不要错过此支持会议，以确保您为Cloud Service成功上线做好准备。
+在此会话中，您将了解可用于更轻松地迁移到AEM Cloud Service的技术和工具。 从内容传输工具到与Best Practice Analyzer配合使用以评估您的环境的新Cloud Acceleration Manager，请不要错过此支持课程，以确保您为成功上线Cloud Service做好准备。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422533/?learn=on)

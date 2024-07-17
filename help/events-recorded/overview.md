@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## 对于Experience League来说，学习就是一件大事。
 
-关注独家活动和网络研讨会，扩大您的学习范围。 请经常访问此空间，观看过去的活动(如Experience League直播、Skill Builders、开发人员直播，等等)的录像。 如果要注册参加即将举行的活动，请查看 [即将举行的活动](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League时。
+关注独家活动和网络研讨会，扩大您的学习范围。 请经常访问此空间，观看过去的活动(如Experience League直播、Skill Builders、开发人员直播，等等)的录像。 如果要注册即将举行的活动，请在Experience League上查看[即将举行的活动](https://%65xperienceleague.adobe.com/events/?lang=en)。
 
 ## 事件序列
 
@@ -253,7 +253,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="深度挖掘">深度挖掘</a>
+              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="深度挖掘">深入分析</a>
           </p>
           <p class="is-size-6">
          Deep Dive按需活动录制可帮助您更好地了解如何使用AdobeMarketo支持您的业务。</p>
@@ -297,7 +297,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGERGEMS">EXPERIENCE MANAGERGEMS</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGERGEMS">Experience ManagerGEMS</a>
           </p>
           <p class="is-size-6">
          由Adobe专家提供的技术Adobe Experience Manager深入探讨。 本系列是对产品文档和所有其他有关Adobe Experience Manager技术渠道的补充，使开发人员能够联系并深入了解特定主题。</p>
@@ -341,7 +341,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="向同行学习">向同行学习</a>
+              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="向同行学习">向同事学习</a>
           </p>
           <p class="is-size-6">
          向Adobe专家和同行学习如何从您的Adobe解决方案中获取最大价值。 这些交互式会议通过从业者为从业人员选择主题，分享“可能的艺术”用例、最佳实践以及提示和技巧。</p>
@@ -363,7 +363,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo和莫哈斯">Marketo和莫哈斯</a>
+              <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo和莫哈斯">Marketo和Mochas</a>
           </p>
           <p class="is-size-6">
          Marketo和Mochas将帮助您更好地了解如何使用AdobeMarketo支持您的业务。</p>
@@ -410,7 +410,7 @@ ht-degree: 3%
               <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         Adobe Commerce Intelligence （又称MBI）网络研讨会系列是面向Adobe Commerce Intelligence客户的定期活动。 这些网络研讨会涵盖了充分利用Adobe Commerce Intelligence的一系列主题和最佳实践。</p>
+         Adobe Commerce Intelligence （又称MBI）网络研讨会系列是面向Adobe Commerce Intelligence客户的定期活动。 这些网络研讨会涵盖了充分利用Adobe Commerce Intelligence的各种主题和最佳实践。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

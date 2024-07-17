@@ -18,6 +18,6 @@ ht-degree: 0%
 
 在本课程中，您将了解将工作流用于资产管理的好处以及如何快速创建它们。
 
-*克里斯·索福克勒斯* AEM/Adobe解决方案顾问
+*Chris Sofokleous*&#x200B;解决方案顾问，AEM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

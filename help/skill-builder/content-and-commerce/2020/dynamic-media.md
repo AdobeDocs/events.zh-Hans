@@ -17,7 +17,7 @@ duration: 3081
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -34,11 +34,11 @@ ht-degree: 4%
 *[Dynamic Media视频](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[富媒体策略快速入门指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[富媒体策略图像预设指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[图像即是所有内容博客系列](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[图像是所有博客系列](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## 系列录制
 
-* [Asset Link](asset-link.md)
+* [资产链接](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [文件夹结构和搜索](folder-structure-search.md)
 * [元数据](metadata.md)

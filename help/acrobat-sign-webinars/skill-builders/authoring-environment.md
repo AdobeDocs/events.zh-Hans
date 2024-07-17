@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # 有关创作环境的高级培训
 
@@ -28,4 +28,3 @@ ht-degree: 0%
 * 探索了其他选项，如文件附件字段、超链接字段和交易ID字段。
 * 可以为参与者分配表单字段，并且可以设置模板属性以进行自定义。
 * 还介绍了创建可重用文档模板、管理模板和导出已签署协议的过程。
-

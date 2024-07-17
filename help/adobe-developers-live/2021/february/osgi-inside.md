@@ -24,6 +24,6 @@ ht-degree: 0%
 
 一个由Carsten Ziegeler、Karl Pauls和David Bosschaert组成的面板，其中说明了我们为何使用OSGi、为何它在Cloud中具有相关性，以及Adobe Experience Manager开发人员需要了解什么。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

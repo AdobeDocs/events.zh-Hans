@@ -22,7 +22,7 @@ ht-degree: 3%
 
 Adobe Experience Manager as a Cloud Service旨在高效交付内容。 对于项目来说，拥有设计良好的缓存和失效策略是实现此效率的关键因素。 在本次研讨会中，我们将介绍一些我们看到项目陷入的陷阱，并提供有关如何提高缓存命中率和缓存覆盖率的提示，其中示例来自现实场景。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3CUkzoB)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3CUkzoB)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337846/?quality=12&learn=on&hidetitle=true)
 

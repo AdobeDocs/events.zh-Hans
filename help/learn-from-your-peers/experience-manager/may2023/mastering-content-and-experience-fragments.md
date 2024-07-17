@@ -34,6 +34,6 @@ ht-degree: 0%
 * 可编辑的模板提示和技巧
 * 将它们组合在一起，创建强大的内容构建基块
 
-您可以访问演示幻灯片 [此处](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+您可以在[此处](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf)访问演示幻灯片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

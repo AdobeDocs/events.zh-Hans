@@ -49,7 +49,7 @@ Workfront活动录音库，专家和同行可在该库中分享有关如何使�
       <img alt="营销中的敏捷" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>营销中的敏捷</strong></a>
+         <a href="user-groups/agile-in-marketing.md"><strong>Agile在营销中</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

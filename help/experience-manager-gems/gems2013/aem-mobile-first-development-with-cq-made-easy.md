@@ -18,9 +18,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*2013年9月18日交付*
+*已于2013年9月18日交付*
 
-**提交人：**
+**演示者：**
 
 Bruce Lefebvre，Adobe计算机科学家
 

@@ -22,4 +22,4 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 关于即将举行的届会的信息将于2022年11月初发布。
->* 请在以下地址注册： [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以自动获取有关即将召开的网络研讨会的通知。
+>* 请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册以自动获取有关即将召开的网络研讨会的通知。

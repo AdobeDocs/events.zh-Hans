@@ -19,7 +19,7 @@ ht-degree: 5%
 
 该为期两天的会议将提供重要的Adobe Experience Manager开发人员更新，例如Headless和GraphQL、Adobe Experience Manager as a Cloud Service、技术研讨会和社区社交机会。
 
-与其他开发人员联系并加入会话对话 **[Experience League社区](https://adobe.ly/36Yd3v6)**.
+在&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中与其他开发人员连接并加入会话对话。
 
 ## 高亮
 
@@ -30,8 +30,8 @@ ht-degree: 5%
       <img alt="Headless — 带有内容片段的GraphQL" src="/help/adobe-developers-live/assets/jabran.png"/>
       </a>
       <div>
-         <a href="headless-graphql-content-fragments.md"><strong>Headless — 带有内容片段的GraphQL</strong></a>         
-         <br/><em>高级软件工程师Jabran Asghar</em>
+         <a href="headless-graphql-content-fragments.md"><strong>Headless — 包含内容片段的GraphQL</strong></a>         
+         高级软件工程师<br/><em>与Jabran Asghar</em>
       </div>
       <p>
         <br/>
@@ -43,8 +43,8 @@ ht-degree: 5%
       <img alt="前端开发 — 您的未来工作流程，用于快速构建和部署网站的前端。" src="/help/adobe-developers-live/assets/gabriel.png"/>
       </a>
       <div>
-         <a href="rapid-frontend-devlopment.md"><strong>前端开发 — 您的未来工作流程，用于快速构建和部署网站的前端。</strong></a>
-         <br/><em>高级产品经理Gabriel Walt</em>
+         <a href="rapid-frontend-devlopment.md"><strong>前端开发 — 您未来用于快速构建和部署网站前端的工作流。</strong></a>
+         高级产品经理<br/><em>与Gabriel Walt</em>
       </div>
       <p>
         <br/>
@@ -58,7 +58,7 @@ ht-degree: 5%
       </a>
       <div>
          <a href="get-ready-aem-cloud.md"><strong>为Cloud Service做好准备 — 迁移最佳实践</strong></a>
-         <br/><em>高级软件工程师Andreea Moise</em>
+         <br/><em>与Andreea Moise，资深软件工程师</em>
       </div>
       <p>
         <br/>
@@ -70,7 +70,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->**左侧导航中列出了所有会话**.
+>**左侧导航中列出了所有会话**。
 
 ## 其他资源
 
@@ -79,7 +79,7 @@ ht-degree: 5%
 * [AEM Sites开发文档](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites管理文档](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [AEM Sites部署文档](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEMas a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=zh-Hans)
 * [AEM Assets 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [AEM Foundation 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)

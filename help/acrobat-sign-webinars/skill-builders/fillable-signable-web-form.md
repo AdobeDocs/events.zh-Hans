@@ -1,5 +1,5 @@
 ---
-title: 发布可填写的、可签名的Web表单
+title: Post可填写、可签名的Web表单
 description: 了解如何创建一个Web表单，让任何人都可以完成并签名 — 而无需启动交易，甚至无需知道签名者的电子邮件地址。
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# 发布可填写的、可签名的Web表单
+# Post可填写、可签名的Web表单
 
 了解如何创建一个Web表单，让任何人都可以完成并签名 — 而无需启动交易，甚至无需知道签名者的电子邮件地址。 您还将看到如何准备文档模板，该模板可用于个人签名交易以及发布到唯一URL以进行广泛共享。
 

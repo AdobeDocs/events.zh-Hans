@@ -1,5 +1,5 @@
 ---
-title: 创造力 — 远见思维如何改变Commerce
+title: 创意Edge — 富有远见的思维如何改变Commerce
 description: 此网络研讨会探讨了创意与商业的集成，展示了Adobe的工具和技术如何帮助管理资源、扩展内容创建和简化内容供应链。 它讨论了将创意与商业结合在一起的重要性，并涵盖了个性化体验、管理资源以及使用Adobe Workfront、Adobe Experience Manager和Adobe Stock等工具简化内容创建过程等主题。
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# 创意Edge：富有远见的思维如何改变Commerce
 
-# 创意边缘：有远见的思维如何改变Commerce
-
-创意边缘：远见思维如何改变电子商务进入了创新前沿，人工智能正在改变创意领域，提供前所未有的洞察和可能性。 与会者将了解AI如何简化品牌和风格指南的管理，确保不同平台和渠道的一致性。
+创意Edge：远见思维如何改变电子商务进入了创新前沿，人工智能正在改变创新领域，提供前所未有的洞察和可能性。 与会者将了解AI如何简化品牌和风格指南的管理，确保不同平台和渠道的一致性。
 
 通过无缝集成，了解如何将创意资产轻松地融入营销执行和商务，从而提高客户参与度和转化率。
 

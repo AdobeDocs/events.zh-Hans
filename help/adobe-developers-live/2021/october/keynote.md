@@ -12,7 +12,7 @@ duration: 2740
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 19%
+ht-degree: 17%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 19%
 
 了解Adobe Creative Cloud、Document Cloud和Experience Cloud中的最新技术进步和开发人员工具更新。
 
-在中继续对话 **[Experience League社区](https://adobe.ly/3F2g1ym)**.
+继续&#x200B;**[Experience League社区](https://adobe.ly/3F2g1ym)**&#x200B;中的对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337490/?quality=12&learn=on&hidetitle=true)
 

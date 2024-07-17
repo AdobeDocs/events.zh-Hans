@@ -1,6 +1,6 @@
 ---
-title: 商务和咖啡
-description: Adobe Commerce和Coffee系列重点关注商业策略和战术，并提供反映活动主题的统计数据。
+title: Commerce和咖啡
+description: Adobe Commerce和Coffee系列重点介绍Commerce的战略和战术，并提供反映活动主题的统计数据。
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# 商务和咖啡
+# Commerce和咖啡
 
-Commerce &amp; Coffee系列适用于所有技能级别的现有Adobe Commerce客户，具有Sr. Commerce Strategy Consultant和Corey Gelato的特点。 该系列侧重于商业战略和战术，并辅以反映事件主题的统计数据。 在演示之后，将有一个实时演示来展示如何在Commerce平台中实施所讨论的策略。 每场活动结束时，都为与会者提供现场提问并直接与Adobe专家互动的机会。 您将重新了解为什么以及如何保持竞争力并取得成功，同时最大限度地利用您的Adobe Commerce平台所提供的功能。
+Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Commerce客户。Commerce战略顾问科里·格拉托先生。 该系列重点介绍Commerce的策略和战术，并提供反映事件主题的统计数据。 在演示之后，将有一个实时演示来展示如何在Commerce平台中实施所讨论的策略。 每场活动结束时，都为与会者提供现场提问并直接与Adobe专家互动的机会。 您将重新了解为什么以及如何保持竞争力并取得成功，同时最大限度地利用您的Adobe Commerce平台所提供的功能。
 
 <!--
 ## What's New
@@ -64,4 +64,4 @@ Commerce &amp; Coffee系列适用于所有技能级别的现有Adobe Commerce客
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。

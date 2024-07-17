@@ -32,7 +32,7 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [对应的上下文线程](https://adobe.ly/3LkSWdm)
->* 请在以下地址注册： [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以接收有关即将召开的网络研讨会的通知。
+>* 请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册以接收有关即将召开的网络研讨会的通知。
 
 
 <!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->

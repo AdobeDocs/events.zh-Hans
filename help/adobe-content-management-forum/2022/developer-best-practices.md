@@ -1,6 +1,6 @@
 ---
 title: 加快上市时间的开发人员最佳实践
-description: Pauline Hyunh和Gabriel Walt，内容涉及AEM Sites模块化方法、快速站点创建、最佳实践……开发人员最佳实践、低代码工具、模板等。 （应为 60 至 160 个字符，但实为 177 个字符）
+description: Pauline Hyunh和Gabriel Walt，内容涉及AEM Sites模块化方法、快速站点创建、最佳实践……开发人员最佳实践、低代码工具、模板等。 （应为60至160个字符，但实为177个字符）
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
@@ -13,7 +13,7 @@ duration: 2446
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 14%
+ht-degree: 0%
 
 ---
 

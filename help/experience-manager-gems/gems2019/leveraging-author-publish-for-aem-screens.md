@@ -8,7 +8,7 @@ duration: 3012
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 2%
 
 在本次Gems课程中，我们将为AEM Screens进行完整的生产设置，并解释将内容发布到Screens/Digital Signage播放器上的所有必要步骤。 了解如何为AEM Screens利用创作 — 发布拓扑。 预览作者发布内容更新并将其分发到设备时必须执行的步骤。 此外，我们将更详细地了解此流程背后的体系结构。 此外，您还可以了解发布群集、复制和设备所需的配置。
 
-**提交人：**
+**演示者：**
 
 Iulia Grumaz，计算机科学家，软件开发，Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*2019年9月4日交付*
+*已于2019年9月4日交付*
 
 演示文稿
 

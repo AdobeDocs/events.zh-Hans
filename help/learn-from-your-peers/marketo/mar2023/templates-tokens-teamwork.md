@@ -1,6 +1,6 @@
 ---
 title: 模板、令牌和团队合作 — 使您的内容可扩展
-description: 了解如何在中使用令牌和模板 [!DNL Marketo Engage]. 探索有关充分利用现有内容库的提示。
+description: 了解如何在 [!DNL Marketo Engage]中使用令牌和模板。 探索有关充分利用现有内容库的提示。
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 模板、令牌和团队合作 — 制作您的Adobe [!DNL Marketo Engage] 内容可缩放
+# 模板、令牌和团队合作 — 使您的Adobe[!DNL Marketo Engage]内容可缩放
 
-为营销项目创建内容是一项长期的工作。 应用模板和令牌帮助您跨团队构建可扩展的流程，在中用更少资源实现更多目标 [!DNL Marketo Engage]. 听听获奖营销负责人Lauren McCormack和2倍的Adobe的意见 [!DNL Marketo Engage] Champion — 她分享了她多年的智慧 [!DNL Marketo Engage] 内容可缩放。
+为营销项目创建内容是一项长期的工作。 应用模板和令牌可帮助您跨团队构建可扩展流程，并在[!DNL Marketo Engage]中用更少的资源实现更多目标。 听一听获奖营销负责人Lauren McCormack和2倍的Adobe[!DNL Marketo Engage]冠军讲述她多年来如何分享她的智慧以使您的[!DNL Marketo Engage]内容可扩展。
 
 了解：
 

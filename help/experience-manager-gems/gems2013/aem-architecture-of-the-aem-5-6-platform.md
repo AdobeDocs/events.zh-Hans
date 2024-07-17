@@ -8,7 +8,7 @@ duration: 2883
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*2013年5月8日交付*
+*已于2013年5月8日交付*
 
-**提交人：**
+**演示者：**
 
 Felix Meschberger，Adobe首席科学家
 
@@ -28,7 +28,7 @@ Felix Meschberger，Adobe首席科学家
 
 [获取文件](assets/20130508-aem56-architecture.pdf)
 
-**会话问题与答案**
+**会话问题和答案**
 
 [获取文件](assets/questionsanswers-aem56-architecture.pdf)
 

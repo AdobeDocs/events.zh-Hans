@@ -8,7 +8,7 @@ duration: 3478
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,9 @@ Adobe的SharePoint Connector通过标准JCR界面公开内容，使应用程序�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*2014年1月29日交付*
+*已于2014年1月29日交付*
 
-**提交人：**
+**演示者：**
 
 Tarun Aggarwal，Adobe首席软件工程师
 

@@ -27,7 +27,7 @@ Experience League直播是Experience League团队制作的直播节目。  利�
 <tr>
 
 <td style="vertical-align: top;">
-      <b>请稍后回来学习即将推出的新节目！ 同时，单击下方或左侧导航中的链接以查看我们以前的剧集。</b>
+      <b>请尽快回来学习即将推出的新节目！ 同时，单击下方或左侧导航中的链接查看我们以前的剧集。</b>
   </td>
 </tr>
 </table>
@@ -58,7 +58,7 @@ Experience League直播是Experience League团队制作的直播节目。  利�
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
         <strong>从Headful到Headless的AEM</strong>
       </a>
-      <br/><em>与丹尼·戈登、阿莫尔·阿南德、萨钦·马里和肖恩·施泰默合作</em>
+      <br/><em>与Danny Gordon、Amol Anand、Sachin Mali和Sean Steimer</em>
       <br/><em>2022年4月21日</em>
     </div>
   </td>
@@ -69,7 +69,7 @@ Experience League直播是Experience League团队制作的直播节目。  利�
     </a>
     <div>
       <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics — 内部消息</strong></a>
-      <br/><em>与特雷弗·波尔森、罗希特·戈桑、亚历克斯·斯特劳恩一起</em>
+      <br/><em>与Trevor Paulsen， Rohit Gossain， Alex Strawn</em>
       <br/><em>2021年1月25日</em>
     </div>
   </td>
@@ -80,9 +80,9 @@ Experience League直播是Experience League团队制作的直播节目。  利�
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>询问专家：Web SDK基础知识</strong>
+        <strong>咨询专家：Web SDK的基础知识</strong>
       </a>
-      <br/><em>与鲁迪·舒姆伯特、杰夫·查辛和埃里克·马蒂索夫合作</em>
+      <br/><em>与Rudi Shumpert、Jeff Chasin和Eric Matisoff一起</em>
       <br/><em>2022年5月26日</em>
     </div>
   </td>
@@ -93,4 +93,4 @@ Experience League直播是Experience League团队制作的直播节目。  利�
 
 >[!TIP]
 >
->如需了解更多学习方法，请查看我们的免费 [课程](https://experienceleague.adobe.com/#dashboard/learning) 以及个人 [教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans).
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。

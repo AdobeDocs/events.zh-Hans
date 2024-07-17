@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*2017年9月27日交付*
+*已于2017年9月27日交付*
 
-**提交人：**
+**演示者：**
 
 Jan Exner，经理 管理顾问，Adobe
 

@@ -20,15 +20,15 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="携手共进 — Adobe [!DNL Marketo Engage] 和Real-Time CDP" src="assets/343824.jpeg" />
+      <img alt="携手共进 — Adobe[!DNL Marketo Engage]和Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>携手共进 — Adobe [!DNL Marketo Engage] 和Real-Time CDP</strong>
+        <strong>携手共进 — Adobe[!DNL Marketo Engage]和Real-Time CDP</strong>
       </a>
     </div>
     <p>
-    <em>了解如何使用编排B2B活动 [!DNL Marketo Engage] 和RT-CDP（B2B版本）以及解锁的主要用例和优势有哪些。</em>
+    <em>了解如何使用[!DNL Marketo Engage]和RT-CDP （B2B版本）来编排B2B营销活动，以及解锁的主要用例和优势有哪些。</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ ht-degree: 2%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>在Adobe中开发和自定义数据模型 [!DNL Campaign Classic]</strong>
+        <strong>在Adobe[!DNL Campaign Classic]</strong>中开发和自定义数据模型
       </a>
     </div>
     <p>
-    <em>与我们的Campaign培训师一起加入此会议，了解如何在中开发数据模型中的数据架构 [!DNL Campaign Classic].</em>
+    <em>与我们的Campaign培训师一起参加此会议，了解如何在[!DNL Campaign Classic]内的数据模型中开发数据架构。</em>
     <p>
   </td>  
   <td>
@@ -54,7 +54,7 @@ ht-degree: 2%
       </a>
     </div>
     <p>
-    <em>了解您的Adobe Campaign Standard实例，并了解有关定位、个性化和营销疲劳度的最佳实践，以便更好地使用ACS。</em>
+    <em>了解您的Adobe Campaign Standard实例，并探索有关定位、个性化和营销疲劳度的最佳实践，以便更好地使用ACS。</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。

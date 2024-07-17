@@ -18,7 +18,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
 
 >[!TIP]
 >
->**左侧导航中列出了所有录制的会话**.
+>**左侧导航中列出了所有录制的会话**。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -67,7 +67,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
       <img alt="令人惊叹的10个技巧Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>令人惊叹的10个技巧Workfront</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>让您的Workfront惊叹的10个提示</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

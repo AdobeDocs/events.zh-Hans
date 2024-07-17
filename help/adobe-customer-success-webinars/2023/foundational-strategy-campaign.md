@@ -1,6 +1,6 @@
 ---
 title: 连接各个点 — Campaign编排的基本策略
-description: Campaign Orchestration的基础活动编排在个性化中的作用@规模基础支柱和指导原则编排衡量最佳实践常见挑战和解决方案
+description: 营销活动编排的基础在Personalization中营销活动编排的作用@规模基础支柱和指导原则编排衡量最佳实践常见挑战和解决方案
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # 连接各个点 — Campaign编排的基本策略
 
-*Campaign编排的基础*
+*营销活动编排基础*
 
-* Campaign Orchestration在个性化规模中的作用
+* 在Personalization规模内营销活动编排的作用
 * 基本支柱和指导原则
 * 编排衡量最佳实践
 * 常见挑战和解决方案
