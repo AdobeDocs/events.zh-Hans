@@ -2,9 +2,9 @@
 user-guide-title: Adobe办公时间
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: “办公时间”是一种主动减少案例的方法，它为客户提供了特定于解决方案的网络研讨会。
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 3853bd9eb1464cf41b54d09ffb7c5b6a466a5dcd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 14%
 
 ---
@@ -36,3 +36,6 @@ ht-degree: 14%
       + [JavaScript库概述、调试提示和技巧](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [修复重复的联系人](2023/workfront-fix-duplicate-contacts.md)
+      + [验证审批报告](2023/workfront-proof-approval-reports.md)
+
+
