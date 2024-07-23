@@ -4,9 +4,9 @@ description: 活动录制集合，重点介绍如何使用Adobe的企业产品
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1050'
 ht-degree: 3%
 
 ---
@@ -373,24 +373,24 @@ ht-degree: 3%
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Office Hours" tabIndex="15">
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Cloud Tech Sessions" tabIndex="15">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="办公室会议" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png" alt="办公室会议">
+        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Experience Cloud技术讲座" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Experience Cloud技术讲座">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="办公室会议">办公时间</a>
+              <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Experience Cloud技术讲座">Experience Cloud技术讲座</a>
           </p>
           <p class="is-size-6">
-         “办公时间”是一种主动减少案例的方法，它为客户提供了特定于解决方案的网络研讨会。</p>
+            利用Adobe专家主导的技术讲座来解锁Adobe Experience Cloud，这些讲座可提供实时讲座和按需讲座，以实现无缝学习。</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
       </a>
     </div>
