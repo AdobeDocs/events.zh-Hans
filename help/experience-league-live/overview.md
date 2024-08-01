@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
+source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 3%
 
 ---
@@ -51,39 +51,39 @@ Experience League直播是Experience League团队制作的直播节目。  利�
 <table style="max-width: 1214px;">
 
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="assets/youtube-thumbnails/april-21-yt.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>从Headful到Headless的AEM</strong>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>最新Adobe Real-Time CDP版本如何推动您的业务发展</strong>
       </a>
-      <br/><em>与Danny Gordon、Amol Anand、Sachin Mali和Sean Steimer</em>
-      <br/><em>2022年4月21日</em>
+      <br/><em>与Nina Caruso、Rudi Shumpert和Doug Moore一起</em>
+      <br/><em>2024年6月26日</em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-08.md">
-      <img alt="Experience LeagueLIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
+    <a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience LeagueLIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics — 内部消息</strong></a>
-      <br/><em>与Trevor Paulsen， Rohit Gossain， Alex Strawn</em>
-      <br/><em>2021年1月25日</em>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong>这是将Analytics迁移到Web SDK的方式</strong></a>
+      <br/><em>与Mitch Rice、Joe Khoury和Doug Moore</em>
+      <br/><em>2024年5月16日</em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League直播5月26日" src="assets/May26_exl_live_banner_web_1920_WebBanner.png">
+      <img alt="Experience League直播5月26日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>咨询专家：Web SDK的基础知识</strong>
+      <a href="episodes/exl-live-episode-04-24-24.md">
+        <strong>在Journey Optimizer中新增基于代码的体验渠道</strong>
       </a>
-      <br/><em>与Rudi Shumpert、Jeff Chasin和Eric Matisoff一起</em>
-      <br/><em>2022年5月26日</em>
+      <br/><em>与Sandra Hausmann、Robert Calangiu和Brent Kostak</em>
+      <br/><em>2024年4月24日</em>
     </div>
   </td>
   </tr>
