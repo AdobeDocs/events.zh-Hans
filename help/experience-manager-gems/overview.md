@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="数字体验" src="./assets/ADX_Gems.png"/>
 
-## 即将召开的AEM GEM网络研讨会 — 在AEM Cloud Manager中集成专用GitHub存储库
+## 即将召开的AEM GEM网络研讨会 — 将AEM Assets与Edge Delivery Services集成
 
-该网络研讨会将于7月31日星期三至下午5点(中部标准时间/太平洋夏令时间/晚上8点30分（印度标准时间）召开。 请注意，此网络研讨会只需要注册 — 请在[此处](https://adobe.ly/3LmXfGk)注册。
+该网络研讨会将于8月21日星期三至下午5点（中部标准时间/太平洋夏令时间/晚上8点30分）召开。 请注意，此网络研讨会只需要注册 — 请在[此处](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/)注册。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 
 -->
 
-## 上一个AEM GEM事件
+## 以前的AEM GEM网络研讨会
 
-我们于&#x200B;**举行的最新AEM GEM网络研讨会我们于&#x200B;*2024年6月19日*通过新的API和活动改善AEM Assets的开发者体验**。
+我们于&#x200B;**在AEM Cloud Manager中集成专用GitHub存储库**&#x200B;上举行的最新AEM GEM网络研讨会已于&#x200B;*2024年7月31日*。
 可以在此处找到**录制**：
-[使用我们的新API和活动改进AEM Assets的开发者体验](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+[在AEM Cloud Managers中集成专用GitHub存储库](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >

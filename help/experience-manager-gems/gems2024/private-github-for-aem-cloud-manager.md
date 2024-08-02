@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # 网络研讨会日期： 2024年7月31日
 
-该网络研讨会将于7月31日星期三至下午5点(中部标准时间/太平洋夏令时间/晚上8点30分（印度标准时间）召开。 请注意，此网络研讨会只需要注册 — 请在[此处](https://adobe.ly/3LmXfGk)注册。
+此网络研讨会已完成 — 请查看以下录像。
 
 ## 在AEM Cloud Manager中集成专用GitHub存储库
 
@@ -34,12 +35,14 @@ ht-degree: 0%
 * Shankari Panchapakesan，Adobe部首席产品经理
 * Florin Stancu，软件开发工程师，Adobe
 
-## 网络研讨会注册
+## 网络研讨会录像
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## 网络研讨会社区互动
 
 >[!NOTE]
-> 
->* 此网络研讨会免费，只需注册。 请在[此处](https://adobe.ly/3LmXfGk)注册。
 >
->* 对于此网络研讨会上的网络研讨会/特定主题的社区互动(Experience League)，请访问相应的[上下文会话](https://adobe.ly/4f1jhMo)。
+>* 对于此网络研讨会上的网络研讨会/特定主题的社区互动(Experience League)，请访问相应的[上下文会话](tbd)。
 >
 >* 若要接收我们即将召开的网络研讨会的通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。
