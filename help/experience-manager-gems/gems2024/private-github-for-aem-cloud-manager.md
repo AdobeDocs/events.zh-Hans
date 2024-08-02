@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 对于此网络研讨会上的网络研讨会/特定主题的社区互动(Experience League)，请访问相应的[上下文会话](tbd)。
+>* 对于此网络研讨会上的网络研讨会/特定主题的社区互动(Experience League)，请访问相应的[上下文会话](https://adobe.ly/4f1jhMo)。
 >
 >* 若要接收我们即将召开的网络研讨会的通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。
