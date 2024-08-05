@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: “从 [!DNL Experience Makers Learn from your peers]开始的录制集合”
-source-git-commit: 8e156c10666116c4f761cc8ddc9dca3249b4e889
+source-git-commit: aa6147e16b48c10fa163e3a939d1edde30f7989c
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '296'
 ht-degree: 4%
 
 ---
@@ -45,6 +45,8 @@ ht-degree: 4%
    + 五月{#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + 2024年7月{#july2024}
+      + [营销人员地图 — 用于制定策略、构建和分析Marketo营销活动的综合指南](marketo/july2024/marketers-map-marketo-campaigns.md)
    + 2024 年 4 月 {#april2024}
       + [Marketo EngageREST API的实际应用](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + 2024年1月{#jan2024}
