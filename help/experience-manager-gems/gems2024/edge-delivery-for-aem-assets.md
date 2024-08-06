@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 该网络研讨会将于2024年8月21日下午5:00（中部标准时间）/太平洋夏季时间上午8:00（太平洋标准时间）/晚上8:30（印度标准时间）召开。
 该网络研讨会免费，只需注册。
-若要加入，请在[此处](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/)注册。
+若要加入，请在[此处](https://adobe.ly/3LTT3hg)注册。
 
 ## 将AEM Assets与Edge Delivery Services集成
 
@@ -34,5 +34,7 @@ ht-degree: 0%
 ## 网络研讨会社区互动
 
 >[!NOTE]
+>
+>* 对于Experience League上特定于会话的社区交互，请访问相应的[上下文线程](https://adobe.ly/4aCz0OE)。
 >
 >* 若要接收我们即将召开的网络研讨会的通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。
