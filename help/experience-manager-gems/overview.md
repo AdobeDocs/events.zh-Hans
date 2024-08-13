@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ ht-degree: 0%
 
 网络研讨会将定期举行，包括以下内容：
 
-* 最长持续60分钟
-* 末尾的问答和在线研讨会期间提供的聊天专家
+* 每个网络研讨会最长时长为60分钟
+* 最后，不超过15分钟的问答时间，在整个网络研讨会上都有聊天专家可用
 * 每次网络研讨会后可用的录像
 * 所有AEM GEM网络研讨会均为免费且以虚拟方式进行，只需注册即可。
 
