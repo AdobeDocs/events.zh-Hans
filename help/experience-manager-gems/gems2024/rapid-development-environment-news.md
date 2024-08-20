@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 75e71817dd313f37d258b0edc8b66dab95f70cbd
+source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 该网络研讨会将于2024年9月4日下午5点(CEST/太平洋夏令时间/晚上8点30分(IST))召开。
 该网络研讨会免费，只需注册。
-若要加入，请在[此处](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-whats-new-in-rapid-development-environments/)注册。
+若要加入，请在[此处](https://adobe.ly/4cwc5W4)注册。
 
 ## 快速开发环境中有哪些新增功能？
 
@@ -37,6 +37,6 @@ RDE允许开发人员快速部署和审查更改，从而最大限度地减少�
 
 >[!NOTE]
 >
->* 有关Experience League上特定会话的社区互动，请访问各自的上下文主题，该主题将于8月23日发布。
+>* 有关Experience League上特定于会话的社区交互，请访问相应的[上下文线程](https://adobe.ly/3M8MFTE) 。
 >
 >* 若要接收我们即将召开的网络研讨会的通知，请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册。
