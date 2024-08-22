@@ -9,18 +9,16 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
 # 网络研讨会日期： 2024年8月21日
 
-该网络研讨会将于2024年8月21日下午5:00（中部标准时间）/太平洋夏季时间上午8:00（太平洋标准时间）/晚上8:30（印度标准时间）召开。
-该网络研讨会免费，只需注册。
-若要加入，请在[此处](https://adobe.ly/3LTT3hg)注册。
+此网络研讨会已完成 — 请查看以下录像。
 
 ## 将AEM Assets与Edge Delivery Services集成
 
@@ -31,8 +29,10 @@ ht-degree: 0%
 * Satya Deep Maheshwari，Adobe首席科学家
 * Ashutosh Shroti，Adobe高级计算机科学家
 
-## 网络研讨会社区互动
+## 网络研讨会录像
 
+>[!VIDEO](https://video.tv.adobe.com/v/3433046/)
+>
 >[!NOTE]
 >
 >* 对于Experience League上特定于会话的社区交互，请访问相应的[上下文线程](https://adobe.ly/4aCz0OE)。
