@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 7%
+source-wordcount: '59'
+ht-degree: 6%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 7%
    + [领导培养成功](2024/lead-nurture-success.md)
    + [新的发现功能板](2024/new-discover-dashboard.md)
    + [归因功能板记录](2024/attribution-dashboard-recording.md)
+   + [活动和自定义模型](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [归因](2023/attribution.md)
    + [可交付性 — 第1部分](2023/deliverability-part-one.md)
