@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
+source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 8%
+source-wordcount: '526'
+ht-degree: 6%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 8%
       + [营销渠道，请负责任地使用](analytics/jun2021/marketing-channels.md)
       + [融于一起](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
-   + 2023 年 8 月 {#aug2023}
+   + 2023年8月{#aug2023}
       + 开发人员跟踪{#developer-track}
          + [AEM开发人员入门工具包](aem/aug2023/deploy-new-project.md)
          + [构建高效且可扩展的样式系统](aem/aug2023/scalable-style-system.md)
@@ -88,7 +88,7 @@ ht-degree: 8%
          + [利用协作DAM](aem/aug2023/collaborative-dam.md)
          + [扩展AI就绪性](aem/aug2023/metadata.md)
          + [焦点](aem/aug2023/spotlight.md)
-   + 2022 年 8 月 {#aug2022}
+   + 2022年8月{#aug2022}
       + 开发人员跟踪{#developer-track}
          + [体验创客聚焦](aem/aug2022/spotlight.md)
          + [AEM Champion会话多租户](aem/aug2022/multi-tenancy.md)
@@ -107,7 +107,7 @@ ht-degree: 8%
       + [大规模Personalization](marketo/feb2022/personalization-at-scale.md)
       + [使用令牌的可扩展性和效率](marketo/feb2022/using-tokens.md)
       + [利用参与计划吸引客户](marketo/feb2022/utilize-engagement-programs.md)
-   + 2021 年 8 月 {#aug2021}
+   + 2021年8月{#aug2021}
       + [在 [!DNL Marketo Engage]中创建程序](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage]颗摇滚星](marketo/aug2021/engage-rockstars.md)
       + [智能营销活动的强大功能](marketo/aug2021/smart-campaign.md)
@@ -122,7 +122,15 @@ ht-degree: 8%
       + [在 [!DNL Marketo Engage]内报告](marketo/feb2021/reporting-within-marketo.md)
       + [适用于您的Forms的终极提示和技巧](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
-   + 2023 年 8 月 {#aug2023}
+   + 2024年8月{#aug2024}
+      + [开幕主题演讲](workfront/aug2024/keynote.md)
+      + [自定义工作负载均衡器](workfront/aug2024/workload-balancer.md)
+      + [增强您的审批体验](workfront/aug2024/approval-experience.md)
+      + [营销内容供应链](workfront/aug2024/content-supply-chain.md)
+      + [流程增强和运营效率](workfront/aug2024/spotlight-process-operations.md)
+      + [维系和参与历程](workfront/aug2024/retention-engagement-journey.md)
+      + [将流程流转变为Workfront赢家](workfront/aug2024/spotlight-process-flows.md)
+   + 2023年8月{#aug2023}
       + [讨论区简介](workfront/aug2023/introduction-to-boards.md)
       + [体验创客聚焦](workfront/aug2023/spotlight.md)
       + [增长和持续效率](workfront/aug2023/growth-continued-efficiencies.md)
