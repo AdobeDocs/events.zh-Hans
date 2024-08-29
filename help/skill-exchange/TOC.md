@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '581'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,16 @@ ht-degree: 6%
 # 技能交流 {#the-skill-exchange-recordings}
 
 + [概述](overview.md)
++ Adobe Commerce {#commerce}
+   + 2024年8月{#aug2024}
+      + [提升Adobe Commerce性能](commerce/aug2024/commerce-performance.md)
+      + [最大限度地提高整个迁移工作流的SEO](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
+   + 2024年8月{#aug2024}
+      + [高级别归因概念](analytics/aug2024/attribution-concepts.md)
+      + [发掘有价值的见解](analytics/aug2024/uncover-valuable-insights.md)
+      + [使用计算量度](analytics/aug2024/calculated-metrics.md)
+      + [Analysis Workspace的可视化图表](analytics/aug2024/spotlight-visualizations.md)
    + 2023年8月{#aug2023}
       + [关于区段](analytics/aug2023/spotlight-segments.md)
       + [分析数据](analytics/aug2023/analyze-the-data.md)
@@ -77,6 +86,10 @@ ht-degree: 6%
       + [营销渠道，请负责任地使用](analytics/jun2021/marketing-channels.md)
       + [融于一起](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + 2024年8月{#aug2024}
+      + [带有通用编辑器的AEM Sites](aem/aug2024/universal-editor.md)
+      + [Headless和SPA Editor主方法](aem/aug2024/headless-spa-editor.md)
+      + [数字资产管理策略](aem/aug2024/spotlight-dam-strategies.md)
    + 2023年8月{#aug2023}
       + 开发人员跟踪{#developer-track}
          + [AEM开发人员入门工具包](aem/aug2023/deploy-new-project.md)
@@ -125,10 +138,13 @@ ht-degree: 6%
    + 2024年8月{#aug2024}
       + [开幕主题演讲](workfront/aug2024/keynote.md)
       + [自定义工作负载均衡器](workfront/aug2024/workload-balancer.md)
+      + [数据质量](workfront/aug2024/data-quality.md)
       + [增强您的审批体验](workfront/aug2024/approval-experience.md)
+      + [Workfront Fusion和展示板](workfront/aug2024/fusion-boards.md)
       + [营销内容供应链](workfront/aug2024/content-supply-chain.md)
       + [流程增强和运营效率](workfront/aug2024/spotlight-process-operations.md)
       + [维系和参与历程](workfront/aug2024/retention-engagement-journey.md)
+      + [定制Workfront主页](workfront/aug2024/tailoring-homepages.md)
       + [将流程流转变为Workfront赢家](workfront/aug2024/spotlight-process-flows.md)
    + 2023年8月{#aug2023}
       + [讨论区简介](workfront/aug2023/introduction-to-boards.md)
