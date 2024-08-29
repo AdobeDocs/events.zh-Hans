@@ -1,6 +1,6 @@
 ---
 title: 从混乱到清晰 — 提高数据质量
-description: 在本次研讨会中，您将了解以下方面的实用提示和策略：制定和执行数据清理计划示例报告可用来发现数据质量问题使所有角色的用户都能够清理和维护数据奖金！ 准备好数据以满足Canvas功能板不断增长的需求”
+description: 在此会话中，您将了解制定和执行数据清理计划的实用提示和策略示例报告可用于发现数据质量问题使所有角色的用户都能整理和维护数据奖金！ 准备好数据以满足Canvas功能板不断增长的需求”
 solution: Workfront
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: 9f58c7c83054cee5296a120f9d55dee84254f5f7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
