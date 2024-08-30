@@ -2,10 +2,10 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: 以客户成功为导向的Adobe网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
@@ -14,21 +14,24 @@ ht-degree: 1%
 
 + [Adobe客户成功网络研讨会](overview.md)
 + 2024 {#2024}
-   + [针对客户用例的AEP应用程序服务集成](2024/aep-apps-services-integrations.md)
-   + [AEP用例计划](2024/aep-use-case-planning.md)
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront — 精益团队](2024/workfront-lean-teams.md)
+   + [针对客户用例的AEP应用程序服务集成](2024/aep-apps-services-integrations.md)
+   + [AEP用例计划](2024/aep-use-case-planning.md)
+   + [AI赋权文案撰写](2024/ai-copywriting.md)
    + [数据流优先级](2024/data-stream-prioritization.md)
    + [有效的变更管理](2024/effective-change-management.md)
    + [增强精益团队的能力](2024/empowering-lean-teams.md)
    + [Expedia从Adobe Analytics转移到Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Workfront系统和群组管理员监护的基础知识](2024/workfront-admin-guardianship.md)
    + [Adobe Journey Optimizer Analysis快速入门](2024/getting-started-ajo-analysis.md)
+   + [Real-time Customer Data Platform快速入门](2024/getting-started-rtcdp.md)
    + [精益团队和Customer Journey Analytics](2024/lean-teams-cja.md)
    + [掌握Cookie和数据隐私](2024/mastering-cookies-data-privacy.md)
    + [定位Personalization](2024/target-personalization.md)
    + [超个性化](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile功能](2024/journey-optimizer-mobile-capabilities.md)
+   + [Real-time Customer Data Platform与Marketo集成](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform迁移准备工作](2024/rtcdp-migration-readiness.md)
    + [战略领导力](2024/strategic-leadership.md)
    + [将用例映射到解决方案功能](2024/use-case-mapping.md)
