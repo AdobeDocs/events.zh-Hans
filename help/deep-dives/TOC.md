@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '56'
 ht-degree: 5%
 
 ---
@@ -31,4 +31,5 @@ ht-degree: 5%
    + [利用PMCF字段实现可扩展性](pmcf-fields.md)
    + [通过一支小型团队最大程度地提高您的实例](small-team-instance.md)
    + [在活动日志中记录复杂流程](activity-log.md)
+   + [解锁全球营销](global-marketing.md)
    + [使用Webhook传输数据](webhooks.md)
