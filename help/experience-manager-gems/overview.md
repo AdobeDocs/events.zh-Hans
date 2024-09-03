@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## 即将召开的AEM GEM网络研讨会 — AEM的快速开发环境中有哪些新增功能？
 
 该网络研讨会将于9月4日星期三至下午5点(中部标准时间/太平洋夏令时间上午8点/晚上8:30（印度标准时间）召开。 请注意，此网络研讨会只需注册。
-如果有兴趣加入，请在[此处](https://adobe.ly/3LTT3hg)注册。
+如果有兴趣加入，请在[此处](https://adobe.ly/3yWr9OY)注册。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
