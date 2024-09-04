@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: 以客户成功为导向的Adobe网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
+source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 0%
    + [AEP用例计划](2024/aep-use-case-planning.md)
    + [AI赋权文案撰写](2024/ai-copywriting.md)
    + [数据流优先级](2024/data-stream-prioritization.md)
+   + [Edge Network和移动Personalization](2024/edge-network-mobile-personalization.md)
    + [有效的变更管理](2024/effective-change-management.md)
    + [增强精益团队的能力](2024/empowering-lean-teams.md)
    + [Expedia从Adobe Analytics转移到Customer Journey Analytics](2024/expedia-aa-to-cja.md)
