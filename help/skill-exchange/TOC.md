@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '663'
 ht-degree: 5%
 
 ---
@@ -102,6 +102,7 @@ ht-degree: 5%
       + [Dynamic Media Classic资产管理](aem/aug2024/dmc-asset-management.md)
       + [加强内容供应链](aem/aug2024/spotlight-content-supply-chain.md)
       + [Headless和SPA Editor主方法](aem/aug2024/headless-spa-editor.md)
+      + [元数据、内容结构和分类](aem/aug2024/dam-performance.md)
       + [Print Production](aem/aug2024/print-production.md)
    + 2023年8月{#aug2023}
       + 开发人员跟踪{#developer-track}
