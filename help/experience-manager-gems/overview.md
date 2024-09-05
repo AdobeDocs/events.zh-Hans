@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="数字体验" src="./assets/ADX_Gems.png"/>
 
-## 即将召开的AEM GEM网络研讨会 — 释放AEM Sites的强大功能：掌握内容管理API
+## 即将召开的AEM GEM网络研讨会 — AEM Sites：掌握内容管理API
 
 该网络研讨会将于10月9日星期三至下午5点（中部标准时间/太平洋夏令时间/晚上8点30分）召开。 请注意，此网络研讨会只需注册。
 如果有兴趣加入，请在[**此处**](https://adobe.ly/4g6TYck)注册。
