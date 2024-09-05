@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 <img alt="数字体验" src="./assets/ADX_Gems.png"/>
 
-## 即将召开的AEM GEM网络研讨会 — AEM的快速开发环境中有哪些新增功能？
+## 即将召开的AEM GEM网络研讨会 — 释放AEM Sites的强大功能：掌握内容管理API
 
-该网络研讨会将于9月4日星期三至下午5点(中部标准时间/太平洋夏令时间上午8点/晚上8:30（印度标准时间）召开。 请注意，此网络研讨会只需注册。
-如果有兴趣加入，请在[此处](https://adobe.ly/3yWr9OY)注册。
+该网络研讨会将于10月9日星期三至下午5点（中部标准时间/太平洋夏令时间/晚上8点30分）召开。 请注意，此网络研讨会只需注册。
+如果有兴趣加入，请在[**此处**](https://adobe.ly/4g6TYck)注册。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,12 @@ ht-degree: 0%
 
 ## 以前的AEM GEM网络研讨会
 
-我们于&#x200B;**将AEM Assets与Edge Delivery Services集成**&#x200B;举行的最新AEM GEM网络研讨会已于&#x200B;*2024年8月21日*举行。
-可以在此处找到**录制**：
-[将AEM Assets与Edge Delivery Services集成](gems2024/edge-delivery-for-aem-assets.md)
+我们在&#x200B;**上举办的最新AEM GEM网络研讨会AEM的快速开发环境新增了哪些功能？**&#x200B;已于&#x200B;*2024年9月4日执行*。
+**录制**&#x200B;将很快可用……
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
