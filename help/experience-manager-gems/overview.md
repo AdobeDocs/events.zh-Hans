@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
+source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -52,11 +52,8 @@ ht-degree: 0%
 ## 以前的AEM GEM网络研讨会
 
 我们在&#x200B;**上举办的最新AEM GEM网络研讨会AEM的快速开发环境新增了哪些功能？**&#x200B;已于&#x200B;*2024年9月4日执行*。
-**录制**&#x200B;将很快可用……
-
-<!--
-[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
--->
+可以在此处查看**录制**：
+[AEM的快速开发环境中有哪些新增功能？](gems2024/rapid-development-environment-news.md)
 
 >[!NOTE]
 >
