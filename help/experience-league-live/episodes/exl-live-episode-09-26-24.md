@@ -8,9 +8,10 @@ event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-09-26 08:30-7
 event-guests: Sandra Hausmann, Rachel Hanessian, Amarnath Vannararth, Arthur Lacroix
 duration: 25
-source-git-commit: 3481a7e4b34febb1d570e87d789ada6d1550be4b
+exl-id: 063a829a-219b-4d7a-b2f5-034630557dbe
+source-git-commit: 75b66226013b6f0600126a17fc0c15cb14cecbed
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -21,10 +22,8 @@ ht-degree: 0%
 
 [![ExL LIVE 2024年9月26日](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
 
-**[在YouTube上设置节目提醒](https://www.youtube.com/watch?v=J48CNmcV7wc){target="_blank"}**
+**[立即注册](https://engage.adobe.com/ExpLeagueLive-240926.html){target="_blank"}**
 
 **显示详细信息**：
 
-AI驱动的工具正在改变我们与客户接触和简化工作流程的方式。 参加我们的人工智能主题Experience League直播秀，以跟上创新的步伐，并了解Adobe的功能将如何加快您的工作效率。 
-
-
+AI驱动的工具正在改变我们与客户接触和简化工作流程的方式。 参加我们的人工智能主题Experience League直播秀，以跟上创新的步伐，并了解Adobe的功能将如何加快您的工作效率。
