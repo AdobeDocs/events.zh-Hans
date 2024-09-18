@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ ht-degree: 0%
 * 过渡策略：利用智能营销活动在参与计划中的流之间进行过渡，从而实现控制和自动化。&#x200B;AEM 根据生命周期阶段或内容耗尽等因素了解何时以及如何转换潜在客户对于有效培育潜在客户至关重要。
 
 * 项目成功量度：为参与项目定义明确的成功量度对于衡量效果至关重要。&#x200B;AEM 无论是电子邮件点击次数、网站访问次数还是其他操作，只要定义了成功标准，即可帮助准确评估参与计划的绩效和影响。&#x200B;AEM
+
+## 此演示文稿中引用的资源
+
+* [了解参与计划](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [了解参与度分数](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [将计划添加到参与计划流](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [程序导入库概述](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [营销国家社区讨论会话](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
