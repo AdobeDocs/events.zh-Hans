@@ -9,7 +9,7 @@ event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
+source-git-commit: facc08465a1a13b3b4ca1bfaa8f993bdbeff8c6b
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -20,7 +20,8 @@ ht-degree: 0%
 
 在此会话中，您将了解如何使用Edge Bridge扩展来弥合迁移差距。 我们将提供分步说明，介绍如何配置移动资产并将客户端实施更新为使用Edge Bridge。
 
-[!VIDEO](https://video.tv.adobe.com/v/3434575)
+>[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
+
 
 **若要继续讨论，请访问我们在Experience League社区中的[讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}。**
 
