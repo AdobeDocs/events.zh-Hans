@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
+source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '472'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概述](overview.md)
 + 集数{#episodes}
+   + [Ep. 41：在Experience Platform中使用联合受众组合来协调受众](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40：AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放人工智能助理的力量](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39：您是否准备好提升您的移动分析应用程序？](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38： Summer Spotlight — 必须具备三个条件，才能试用Adobe Journey Optimizer中的功能](episodes/exl-live-episode-08-28-24.md)

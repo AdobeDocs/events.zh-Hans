@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f375ee9f4477c514a0787eede047f80b25172c61
+source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '195'
 ht-degree: 3%
 
 ---
@@ -23,28 +23,21 @@ Experience League直播是Experience League团队制作的直播节目。  利�
 
 ## 即将举行的Experience League直播活动
 
-即将推出更多活动！
-
-<!-- 
-
 <table>
 <tr>
-  
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
-      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-09-26-2024.png">
+
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
+      <img alt="Experience LeagueLIVE 10月24日" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-09-18-24.md">
-        <strong>Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. </strong>
-      </a>
-      <br/><em>with Rachel Hannessian, Amarnath Vannararth, and Arthur Lacroix</em>
-      <br/><em>September 26, 2024 at 8:30 PT</em>
+      <strong>了解联合受众构成如何通过Real-Time CDP和Journey Optimizer提供全面的受众策划和激活方法。 </strong>
+      <br/><em>与Alyssa Espiritu、Abhijit Ghosh和Arthur Lacroix</em>
+      <br/><em>2024年10月24日8:30 PT</em>
+      <br/><br/><a href="https://youtube.com/live/ghN-XWdBLvg">在YouTube上将节目加入书签</a>
     </div>
   </td>
 </tr>
-</table> 
-
--->
+</table>
 
 </div>
 
