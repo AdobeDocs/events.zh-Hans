@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
+exl-id: 0ab0c446-ca60-434d-b4b1-bf31d49dbedb
+source-git-commit: 45924639f31734623b37ced70e1800d114e96c41
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -33,8 +34,8 @@ AEM Sites的使用方式也在快速发展，在传统用户交互中增加了AP
 ## 演示者
 
 * Mathias Siegel，Adobe首席产品经理
-* Director工程学教授Gilles Knobloch，Adobe
-* Andreea Miruna Moise，Adobe工程经理
+* Catalina Dumitru，软件开发工程师，Adobe
+* Lénárd Palkó，高级软件开发工程师，Adobe
 * Prashant Kumar Singh，Adobe计算机科学家
 
 ## 网络研讨会社区互动
