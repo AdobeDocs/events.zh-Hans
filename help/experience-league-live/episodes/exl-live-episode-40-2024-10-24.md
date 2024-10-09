@@ -7,9 +7,9 @@ feature: Audiences
 event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
-source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
+source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <img alt="Experience League直播2024年10月24日" src="../episodes/assets/ep41-web-banner.png">
 
-[在YouTube上将节目加入书签](https://youtube.com/live/ghN-XWdBLvg)
+[注册此事件](https://engage.adobe.com/ExpLeagueLive-241024.html)
 
 **显示详细信息**：
 获得对企业数据仓库的扩展访问权限，以组成受众，并增强品牌启动和即时的体验。
