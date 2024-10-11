@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列技术深入探讨。
 breadcrumb-title: AEM GEMs事件
-source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
+source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 + [概述](overview.md)
 + 2024 {#gems2024}
-   + [解锁AEM Sites的强大功能：掌握内容管理API](gems2024/aem-sites-and-apis.md)
+   + [解锁AEM Sites的强大功能 — 掌握内容管理API](gems2024/content-management-apis.md)
    + [AEM的快速开发环境中有哪些新增功能？](gems2024/rapid-development-environment-news.md)
    + [将AEM Assets与Edge Delivery Services集成](gems2024/edge-delivery-for-aem-assets.md)
    + [在AEM Cloud Manager中集成专用GitHub存储库](gems2024/private-github-for-aem-cloud-manager.md)

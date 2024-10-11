@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM讲座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="数字体验" src="./assets/ADX_Gems.png"/>
 
-## 即将召开的AEM GEM网络研讨会 — AEM Sites：掌握内容管理API
+## 即将召开的AEM GEM网络研讨会将很快公布
 
-该网络研讨会将于10月9日星期三至下午5点（中部标准时间/太平洋夏令时间/晚上8点30分）召开。 请注意，此网络研讨会只需注册。
-如果有兴趣加入，请在[**此处**](https://adobe.ly/4g6TYck)注册。
+请在[Adobe的AEM用户组](https://aem-augs.adobe.com/)注册以获取通知。
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ ht-degree: 0%
 
 ## 以前的AEM GEM网络研讨会
 
-我们在&#x200B;**上举办的最新AEM GEM网络研讨会AEM的快速开发环境新增了哪些功能？**&#x200B;已于&#x200B;*2024年9月4日执行*。
+我们最近于&#x200B;**在&#x200B;*2024年10月9日*举办了“解锁AEM Sites的强大功能 — 掌握内容管理API”**的AEM GEM网络研讨会。
 可以在此处查看**录制**：
-[AEM的快速开发环境中有哪些新增功能？](gems2024/rapid-development-environment-news.md)
+[解锁AEM Sites的强大功能 — 掌握内容管理API](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
