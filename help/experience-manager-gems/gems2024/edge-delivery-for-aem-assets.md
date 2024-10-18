@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
+exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
+source-git-commit: 0255ad98fecb5393cd60ed8d0809925c334472fa
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -32,7 +33,7 @@ ht-degree: 0%
 ## 网络研讨会录像
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433046/)
->
+
 >[!NOTE]
 >
 >* 对于Experience League上特定于会话的社区交互，请访问相应的[上下文线程](https://adobe.ly/3LSCVfX)。
