@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
+source-git-commit: 645f97a48747f22008ca12a6cb832dfb89bb67e2
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '197'
 ht-degree: 3%
 
 ---
@@ -26,14 +26,14 @@ Experience League直播是Experience League团队制作的直播节目。  利�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
-      <img alt="Experience LeagueLIVE 10月24日" src="episodes/assets/ep41-web-banner.png">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
+      <img alt="Experience LeagueLIVE 10月24日" src="episodes/assets/30Oct24-webbanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>了解联合受众构成如何通过Real-Time CDP和Journey Optimizer提供全面的受众策划和激活方法。 </strong></a>
-      <br/><em>与Alyssa Espiritu、Abhijit Ghosh和Arthur Lacroix</em>
-      <br/><em>2024年10月24日8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html">注册此事件</a>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>了解Adobe Journey Optimizer的全新多功能消息传递渠道“内容卡”，该渠道旨在增强用户参与度并提升移动和Web应用程序间的对话。 </strong></a>
+      <br/><em>与Don Huyhn和Pravin Kumar</em>
+      <br/><em>2024年10月30日8:30 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">注册此事件</a>
     </div>
   </td>
 </tr>
