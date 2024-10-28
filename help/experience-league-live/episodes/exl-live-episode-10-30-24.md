@@ -7,9 +7,9 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: 0082313c02cc36213a22ec3ce6f77175922aff68
+source-git-commit: 9b5b41db0e530cc11f0e534d80dbdc4e62f95030
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 0%
 
 在本次研讨会中，Don Huynh和Pravin Prakash Kumar介绍了Content Cards，它是Adobe Journey Optimizer的一个新型多功能消息传递渠道，旨在增强用户参与度并提升移动和Web应用程序间的对话。 与传统推送和应用程序内通知不同，内容卡可在您的应用程序或网站中无缝交付关键更新、促销和消息，从而确保用户体验不会造成干扰。
 
+
+![experience league直播](assets/30Oct24-webbanner.png)
 
 [注册此事件](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
 
