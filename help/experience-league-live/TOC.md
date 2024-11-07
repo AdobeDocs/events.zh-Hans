@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d45de3bc6cb4ad657cdb29566e2d206641e1532d
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '493'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概述](overview.md)
 + 集数{#episodes}
+   + [Ep. 43：在Real-Time CDP中为营销人员引入面向受众的AI助手](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42：揭示Adobe Journey Optimizer的内容卡](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41：在Experience Platform中使用联合受众组合来协调受众](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40：AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放人工智能助理的力量](episodes/exl-live-episode-09-26-24.md)

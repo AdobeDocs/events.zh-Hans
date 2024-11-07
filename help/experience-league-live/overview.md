@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '214'
+ht-degree: 2%
 
 ---
 
@@ -26,14 +26,14 @@ Experience League直播是Experience League团队制作的直播节目。  利�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience LeagueLIVE 10月24日" src="assets/WebBanner-Nov-6-2024.jpg">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
+      <img alt="Experience LeagueLIVE 10月24日" src="episodes/assets/WebBanner_nov13_2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-30-24.md"><strong>了解Adobe Journey Optimizer的全新多功能消息传递渠道“内容卡”，该渠道旨在增强用户参与度并提升移动和Web应用程序间的对话。 </strong></a>
-      <br/><em>与Don Huyhn和Pravin Kumar</em>
-      <br/><em>2024年11月6日8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">注册此事件</a>
+      <a href="episodes/exl-live-episode-11-13-24.md"><strong>参加我们激动人心的现场会议，Adobe产品和工程专家将让您兴奋地窥探我们最新的突破性创新 — AI Assistant for Audiences，即将在Adobe Real-Time CDP推出以强化受众见解和操作。 </strong></a>
+      <br/><em>与Shivakumar Vaithyanathan、Ali Nazer和Horia Galatanu</em>
+      <br/><em>2024年11月13日9:00 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">注册此事件</a>
     </div>
   </td>
 </tr>
