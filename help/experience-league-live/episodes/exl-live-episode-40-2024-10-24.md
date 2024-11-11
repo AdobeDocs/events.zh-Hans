@@ -8,7 +8,7 @@ event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
 exl-id: bfaacf49-a7a1-48a4-b3e4-52b9346b9f1b
-source-git-commit: 88f711a66ac62d97590d27adf5df1c7c5f6ebfef
+source-git-commit: bd9ad0e45591576dda38452e40abee08e4b490b2
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 了解联合受众构成如何通过Real-Time CDP和Journey Optimizer提供一种全面的受众管理和激活方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
 **若要继续讨论，请访问我们在Experience League社区中的[讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}。**
 
