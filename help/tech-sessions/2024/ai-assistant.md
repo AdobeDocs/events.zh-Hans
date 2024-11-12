@@ -7,13 +7,13 @@ doc-type: Event
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
+source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # 使用Adobe Experience Platform中的AI助手快速启动您的工作效率
 
@@ -28,10 +28,10 @@ ht-degree: 0%
 
 ## 网络研讨会议程
 
-AI和AI助手概述。
-示例提示和Rachel演示。
-关于信任和数据使用的讨论。
-正在访问AI助手。
+* AI和AI助手概述。
+* 示例提示和演示。
+* 关于信任和数据使用的讨论。
+* 正在访问AI助手。
 
 ## 要点
 
