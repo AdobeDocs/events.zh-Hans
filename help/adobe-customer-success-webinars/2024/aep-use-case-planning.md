@@ -1,6 +1,6 @@
 ---
 title: 从愿景到价值 — AEP用例规划
-description: 了解如何通过定义具有明确目标和成功因素的策略来提供有影响力的客户体验，这些目标和成功因素包括1)与业务成果和KPI保持一致，2)为实现可实现的价值提供路线图信息，以及3)有效利用Adobe解决方案功能。
+description: 了解如何通过定义具有明确目标和成功因素的策略来交付有影响力的客户体验，该策略与业务结果和KPI保持一致，为实现可实现的价值提供路线图信息，并有效利用Adobe解决方案功能。
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
-
 
 # 从愿景到价值：AEP用例规划
 

@@ -1,19 +1,19 @@
 ---
 title: 利用Adobe解决方案深入了解Edge Network和移动Personalization
-description: 了解Edge架构的工作方式以及如何使用AssuranceTechnical Guidance调试实施，了解如何设置和配置Mobile SDK如何使用Target和AJO提供个性化体验
+description: 了解如何使用Adobe解决方案增强移动策略、提高用户参与度并有效提供个性化体验。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # 借助Adobe解决方案深入了解Edge Network和移动Personalization
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 * 为定制功能实施特定的扩展，如同意、身份和Analytics。
 * 配置Campaign Classic和媒体消息传递的扩展。
-* 利用Assurance调试、验证和模拟数据收集过程。
+* 利用Assurance调试、验证和模拟数据收集流程。
 
 通过关注这些关键要点，企业可以使用Adobe解决方案增强其移动策略、提高用户参与度并有效提供个性化体验。

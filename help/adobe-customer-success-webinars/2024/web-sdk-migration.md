@@ -1,6 +1,6 @@
 ---
 title: Web SDK Migration Essentials
-description: 了解应用程序Measurement/AT.js与Web SDK之间的差异、如何迁移、迁移时间方面的注意事项、迁移的选项以及预期的数据差异。关键讨论点 — 什么是Web SDK？ 迁移步骤和考虑事项确定迁移时间常见错误和要避免的隐患
+description: 了解应用程序Measurement/AT.js与Web SDK之间的差异、如何迁移、迁移时间方面的注意事项、迁移的选项以及预期的数据差异。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
 exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

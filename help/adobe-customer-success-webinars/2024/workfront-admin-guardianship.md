@@ -1,6 +1,6 @@
 ---
 title: Workfront系统和群组管理员监护的基础知识
-description: 了解如何充分确定您的Workfront实例中系统管理员与组管理员的适当比例，以及为什么不必像最初认为的那样冒险或害怕向王国泄露一些密钥。 此记录将概述有关管理员人员配备、分配管理工作负载、维护企业实例中的数据完整性和可扩展性的最佳实践，同时还分享部分工作。
+description: 探索确定Workfront系统和组管理员之间的适当平衡、分配工作负载和维护数据完整性以高效安全地扩展企业的最佳实践。
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Workfront系统和群组管理员监护的基础知识
 

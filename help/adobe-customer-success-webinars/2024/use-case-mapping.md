@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP — 将用例映射到解决方案功能
-description: 本网络研讨会探讨了探索用例并安排其优先顺序、将它们对应到特定RTCDP功能以及确保与业务成果和价值相一致的关键方法。 关键讨论点 — 用例RT-CDP解决了特定于业务结果的用例并排定了这些用例的优先级​将RT-CDP功能与排定优先级的用例相协调
+description: 本网络研讨会探讨了探索使用案例并安排其优先顺序、将它们对应到特定的Real-time CDP功能以及确保与业务成果和价值相一致的关键方法。
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

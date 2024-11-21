@@ -1,6 +1,6 @@
 ---
 title: Expedia和领先品牌将企业从Adobe Analytics发展到Customer Journey Analytics
-description: 探索分析的下一个发展方向，邀请Adswerve首席负责人Jake Winter、Expedia数据产品管理高级经理Erika Ulmer、Adobe产品管理Director的Ben Gaines以及Adobe产品管理Director的Trevor Paulsen，他们将分享其与Adobe Customer Journey Analytics实现组织水平的第一手经验。 我们将讨论Analytics的最新趋势和最佳实践，以及利用Customer Journey Analytics带来的挑战和机遇。 无论您是希望提高组织分析能力的分析专业人员还是业务负责人，都不应错过此次网络研讨会。
+description: 与Adswerve、Expedia和Adobe的行业领袖一起分享关于利用Adobe Customer Journey Analytics转变组织分析的见解、趋势和最佳实践，该网络研讨会必须参加。
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 0%
 
 
 ## 关键要点
-
 
 * 深入了解数据，包括使用字段组对数据进行建模，以及了解身份和事件范围。
 * 过度向利益相关者传达Customer Journey Analytics(CJA)的宗旨和好处，并提供培训以增强个人制定数据驱动型决策的能力。
