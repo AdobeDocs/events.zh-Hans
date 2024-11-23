@@ -1,19 +1,19 @@
 ---
 title: Marketo Measure和Mochas活动和自定义模型
-description: 了解使用自定义归因模型和活动归因最大程度地提升Adobe Marketo Measure的策略。 与Adobe专家Kate Colbert和James Leedom一起演示如何调整归因权重、从CRM活动创建接触点以及调整销售和营销数据。 了解现实世界的示例并在实时问答会话中获得问题的答案。
+description: 与Adobe业务顾问Kate Colbert和客户技术顾问James Leedom一起，探索在Adobe Marketo Measure中利用自定义归因模型和活动归因的策略，演示实际示例，并通过实时问答会议进行结束。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4080
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15926
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 21a6d921-abe4-4787-b51f-f57faf669c1f
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure和Mochas：活动和自定义模型
 

@@ -1,8 +1,8 @@
 ---
 title: 利用PMCF字段实现可扩展性
-description: 本部分讨论如何在Marketo中使用项目成员自定义字段(PMCF)来实现可扩展性。 该会议涵盖了有关私营军保基金的定义、目的、规则和用例。 使用PMCF更改数据、参考信息和跟踪独特事件数据（如网络研讨会的UTM参数）的最佳实践。 总体而言，对于希望在Marketo中管理和扩展复杂营销方案的营销人员而言，PMCF是一个有价值的工具。
+description: 了解如何在Marketo中利用项目会员自定义字段(PMCF)实现可扩展性，包括数据管理、个性化通信和准确报表的最佳实践，如Adobe Marketo Engage Champion深入分析视频中所述。
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # 利用PMCF字段实现可扩展性
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 在项目级别允许使用上下文数据。
 * 限制为每个程序创建20个自定义字段。
 * 数据导入方法：列表导入、表单填充、流程步骤。
-* 与Salesforce营销活动成员同步以实现数据一致性。
+* 与Salesforce促销活动成员同步以实现数据一致性。
 * 在电子邮件、登陆页面和警报中使用以进行个性化通信。
 * 增强对特定于项目的数据的跟踪、分析和报告功能。
 

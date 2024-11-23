@@ -1,19 +1,19 @@
 ---
 title: Marketo和莫哈斯 — 成熟度第1部分 — 奠定基础
-description: 与Adobe的业务顾问Cynthia Chang和Carly Gaver一起分享有关Marketo成熟度曲线的宝贵见解，以指导贵组织扩展Marketo的使用。
+description: 与Adobe的业务顾问Cynthia Chang和Carly Gaver一起探索Marketo成熟度曲线，通过项目模板库的实时演示深入了解优化技术设置、实施最佳实践以及维护有效文档和平台治理。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15907
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+exl-id: fc39cc75-a8b9-4398-a059-7a5fe947e296
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Marketo与莫哈斯：成熟度第1部分 — 奠定基础
 

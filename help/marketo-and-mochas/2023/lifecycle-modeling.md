@@ -1,6 +1,6 @@
 ---
 title: 客户历程管理 — 生命周期建模
-description: 涵盖从一开始就正确设置生命周期、在购买历程中正确划分人员、在产品内演示生命周期建模器以及各种可用于帮助分析客户区段效力的报告和分析。
+description: 探索透明度如何在Cynthia Chang和James Leedom共享生命周期设置、历程分段策略并演示Marketo Engage的生命周期建模器、报告和分析工具时，构建营销可信度。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---

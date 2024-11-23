@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 5%
+source-wordcount: '64'
+ht-degree: 4%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 5%
 + Marketo {#deep-dives-marketo}中的深入探讨
    + [Admin Console迁移](admin-console.md)
    + [API](api.md)
+   + [使用Marketo API自动化和简化Campaign操作](campaign-operations.md)
    + [认证](certification.md)
    + [电子邮件培养](email-nurture.md)
    + [可执行活动](executable-campaigns.md)

@@ -1,6 +1,6 @@
 ---
 title: Marketo和Mochas — 成熟度第2部分 — 优化您的Marketo使用
-description: 在关于Marketo成熟度的三部分系列的第二部分，深入了解如何优化您的Marketo使用。 该会议将从数据管理的最佳实践开始，侧重于数据字典和系统智能列表等工具，以增强数据标准化和记录管理。 然后，我们将提供集成最佳实践概述，重点介绍本机CRM集成和第三方插件。 我们的业务顾问还将分享项目优化提示，以改进个性化并扩展您的目标受众。
+description: 与Adobe的业务顾问Cynthia Chang和Carly Gaver一起参加Marketo成熟度系列的第2部分，重点讨论数据管理、CRM集成和活动优化，以通过实时问答增强您的Marketo使用情况。
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Marketo和Mochas：成熟度第2部分 — 优化您的Marketo使用
 

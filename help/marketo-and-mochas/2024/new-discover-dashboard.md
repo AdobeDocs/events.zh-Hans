@@ -1,6 +1,6 @@
 ---
 title: 新的发现功能板
-description: 了解现在所有Marketo Measure实例都可以使用的9个新Discover功能板。 这些新发布的功能板通过重要指标（如收入、归因收入、ROI、参与度、潜在客户周转率、机会周转率和Web流量）提供动态视角和增强见解。
+description: 与Adobe的高级业务顾问Kate Colbert和技术顾问James Leedom一起探索Marketo Measure中的9个新Discover功能板，通过现场演示和问答会议提供对收入、ROI、参与度和潜在客户周转率等指标的动态见解。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,5 @@ ht-degree: 0%
 * 新功能板包括数据分段、接触点抑制以及用于分析和跟踪营销绩效的各种量度和可视化图表。
 * 这些讨论区涵盖一系列领域，包括收入概述、归因收入、ROI、潜在客户通行证、机会通行证、velocity、网络流量、参与度等。
 * 根据特定业务需求和数据准确性配置功能板对于获得准确且有意义的洞察至关重要。
-* Discover Dashboard更适合进行高级趋势分析和ROI，而Salesforce报告更精细，更侧重于特定的个人和记录。
+* Discover Dashboard更适合进行高级趋势分析和ROI，而Salesforce报告更精细并侧重于特定个人和记录。
 * Data Warehouse选项提供更高级的数据分析和可视化功能。

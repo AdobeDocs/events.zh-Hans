@@ -3,10 +3,10 @@ title: 深度挖掘
 description: Deep Dives是一个视频库，专家和同行可以在其中分享他们关于如何最好地使用AdobeMarketo的想法和想法。
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: e9206a4e6fe5e866affdc298cf7f32fe7cb29752
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '1211'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 0%
 
 ---
 
@@ -16,19 +16,19 @@ ht-degree: 3%
 
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks
-
+* activity-log.md
+* admin-console.md
+* api.md
+* campaign-operations.md
+* certification.md
+* email-nurture.md
+* executable-campaigns.md
+* global-marketing.md
+* inheriting-an-instance.md
+* lead-lifecycles.md
+* pmcf-fields.md
+* small-team-instance.md
+* webhooks.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -36,8 +36,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log" title="在活动日志中记录复杂流程">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1731454105672" alt="在活动日志中记录复杂流程"
+                    <a href="activity-log.md" title="在活动日志中记录复杂流程" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1732319262209" alt="在活动日志中记录复杂流程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,12 +45,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log" title="在活动日志中记录复杂流程">在活动日志中记录复杂进程</a>
+                        <a href="activity-log.md" target="_blank" rel="referrer" title="在活动日志中记录复杂流程">在活动日志中记录复杂进程</a>
                     </p>
-                    <p class="is-size-6">你是否曾经觉得，找出你的流程失败的原因，就像大海捞针？ 我们可以建立联系！ 忙碌的MOP专业人员希望以高效的方式对复杂的流程进行故障排除，我们随时为您提供支持！ 参加此深入探讨，了解Marketo Champs如何使用开箱即用思维为复杂的多路流程创建痕迹导航。 使用您创建的活动日志注释，了解记录的流程从何处开始、结束、失败和成功。 由Beth Massura和Jimmy Spencer主持，Corey Bayless主持。</p>
+                    <p class="is-size-6">与Beth Massura、Jimmy Spencer和主持人Cory Bayless一起参加这次深入探讨，以发现适用于Marketo中复杂多分支流程的创新故障排除技术，使用活动日志注释来跟踪流程的开始、结束、失败和成功位置。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="activity-log.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -59,8 +59,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console" title="准备对Adobe身份进行Marketo Engage">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1731454105304" alt="准备对Adobe身份进行Marketo Engage"
+                    <a href="admin-console.md" title="准备对Adobe身份进行Marketo Engage" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1732319262217" alt="准备对Adobe身份进行Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,12 +68,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console" title="准备对Adobe身份进行Marketo Engage">准备对Adobe标识进行Marketo Engage</a>
+                        <a href="admin-console.md" target="_blank" rel="referrer" title="准备对Adobe身份进行Marketo Engage">准备对Adobe标识进行Marketo Engage</a>
                     </p>
-                    <p class="is-size-6">即将开始的Adobe Admin Console迁移的独家培训。 此会议将采用“培训师”风格的形式，以便您能够了解所学内容并就这一即将到来的更改对您的章节进行教育。</p>
+                    <p class="is-size-6">参加此培训课程，为将Marketo Engage订阅迁移到Adobe身份做准备，侧重于用户迁移、关键操作以及管理员的基本资源，提供有关导航迁移控制台和了解每个里程碑的更改的指南。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="admin-console.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -82,8 +82,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api" title="API">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1731454105282" alt="API"
+                    <a href="api.md" title="API" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1732319262206" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -91,22 +91,22 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api" title="API">API</a>
+                        <a href="api.md" target="_blank" rel="referrer" title="API">API</a>
                     </p>
-                    <p class="is-size-6">了解如何利用AdobeMarketo的API、了解如何形成基线连接、利用山地移动扩展以及进行首次API调用。 了解Webhook与API，以便您知道哪个工具最适合应用于您的解决方案。 了解安全最佳实践，包括缩小权限集。 与云集成，利用存储，利用批量API的强大功能执行导入/导出任务。</p>
+                    <p class="is-size-6">加入我们，充分发挥AdobeMarketo API的潜力，从发出首次API调用到将批量API用于导入/导出任务，探索Webhook与API，并学习数据安全和云集成的最佳实践，以及实现营销策略革命的无限可能性。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Investing in Yourself - Adobe Marketo Engage Certification">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Champion Deep Dive - Automating & Streamlining Campaign Operations Using the Marketo API">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification" title="打造自我 — Adobe Marketo Engage认证">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?quality=12&format=jpeg&nocache=1731454105307" alt="打造自我 — Adobe Marketo Engage认证"
+                    <a href="campaign-operations.md" title="Adobe Marketo Engage Champion深入研究 — 使用Marketo API自动化和简化营销活动操作" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1732319262212" alt="Adobe Marketo Engage Champion深入研究 — 使用Marketo API自动化和简化营销活动操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,22 +114,22 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification" title="打造自我 — Adobe Marketo Engage认证">亲自投资 — Adobe Marketo Engage认证</a>
+                        <a href="campaign-operations.md" target="_blank" rel="referrer" title="Adobe Marketo Engage Champion深入研究 — 使用Marketo API自动化和简化营销活动操作">Adobe Marketo Engage Champion深入探讨 — 使用Marketo API自动化和简化营销活动操作</a>
                     </p>
-                    <p class="is-size-6">您对认证过程感兴趣吗？它如何帮助您发展营销职业生涯？ 或者你可能对学习、准备和参加考试的过程感兴趣？ 与Adobe Marketo Engage Champions一起讨论他们成为Marketo认证专家或架构师的历程！</p>
+                    <p class="is-size-6">在这个深入分析中，了解如何使用Marketo API简化营销操作，我们将演示如何自动执行重复任务，例如创建电子邮件新闻稿、跟踪计划、合并重复项、更新计划成本和克隆计划，从而使您能够专注于战略计划。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="campaign-operations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Champion Deep Dive Email Nurture">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Investing in Yourself - Adobe [!DNL Marketo Engage] Certification">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture" title="Adobe Marketo Engage Champion深入了解电子邮件培养">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1731454105297" alt="Adobe Marketo Engage Champion深入了解电子邮件培养"
+                    <a href="certification.md" title="投资您自己 — Adobe[!DNL Marketo Engage]认证" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1732319262212" alt="投资您自己 — Adobe[!DNL Marketo Engage]认证"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,12 +137,35 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture" title="Adobe Marketo Engage Champion深入了解电子邮件培养">Adobe Marketo Engage Champion深入分析电子邮件培养</a>
+                        <a href="certification.md" target="_blank" rel="referrer" title="投资您自己 — Adobe[!DNL Marketo Engage]认证">投资自己 — Adobe[!DNL Marketo Engage]认证</a>
                     </p>
-                    <p class="is-size-6">潜在客户培养、滴灌式营销、战略电子邮件内容可以有许多不同的名称。 电子邮件培育是一种行之有效的策略，在一个组织中有着无数的用途，然而对于许多营销人员和销售人员来说，这却是一个完全不解之谜，因此这种强大的策略经常得不到使用。 在本次研讨会中，您将学习要考虑的关键因素，这些因素将帮助您更有信心地制定自己的主导培养策略，通过一些成功培养的示例进行讨论，并帮助您了解如何在整个组织中应用这些策略来实现您独特的目标。</p>
+                    <p class="is-size-6">想了解认证如何提升您的营销职业生涯？ 加入Adobe Marketo Engage Champions，分享他们在学习、准备和参加考试以成为Marketo认证专家或架构师方面的经验和提示！</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="certification.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="email-nurture.md" title="Adobe[!DNL Marketo Engage] Champion深入分析电子邮件培养" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1732319262219" alt="Adobe[!DNL Marketo Engage] Champion深入分析电子邮件培养"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="email-nurture.md" target="_blank" rel="referrer" title="Adobe[!DNL Marketo Engage] Champion深入分析电子邮件培养">Adobe[!DNL Marketo Engage]冠军深入分析电子邮件培养</a>
+                    </p>
+                    <p class="is-size-6">在此课程中释放潜在客户培养和滴灌营销的潜力，您将了解制定有效策略的关键因素，探索成功的示例，并探索如何在您的组织中应用这些技术来实现独特的目标。</p>
+                </div>
+                <a href="email-nurture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -151,8 +174,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns" title="可执行活动 — 了解可执行文件如何提高效率和影响">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1731454105305" alt="可执行活动 — 了解可执行文件如何提高效率和影响"
+                    <a href="executable-campaigns.md" title="可执行活动 — 了解可执行文件如何提高效率和影响" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1732319262232" alt="可执行活动 — 了解可执行文件如何提高效率和影响"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -160,12 +183,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns" title="可执行活动 — 了解可执行文件如何提高效率和影响">可执行活动 — 了解可执行文件如何提高效率和影响</a>
+                        <a href="executable-campaigns.md" target="_blank" rel="referrer" title="可执行活动 — 了解可执行文件如何提高效率和影响">可执行活动 — 了解可执行文件如何提高效率和影响</a>
                     </p>
-                    <p class="is-size-6">该会议专为 Marketo 管理员和活动运营专业人员量身定制，重点是了解和部署可执行的活动，以增加活动和计划的价值、提高效率并推动增长。</p>
+                    <p class="is-size-6">与Chris Willis、Courtny Edwards-Jones和Jane Musatova一起参与此AdobeChampion深入探讨，了解Marketo中的可执行活动如何简化流程、确保数据准确性和自动化复杂的工作流程，并提供实际示例，侧重于最大程度地减少错误和积压。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="executable-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -174,8 +197,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing" title="借助Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1731454105296" alt="借助Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月"
+                    <a href="global-marketing.md" title="借助Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1732319262224" alt="借助Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -183,12 +206,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing" title="借助Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月">通过Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月</a>
+                        <a href="global-marketing.md" target="_blank" rel="referrer" title="借助Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月">通过Marketo Engage解锁全球营销 — Adobe冠军深入研究 — 2024年8月</a>
                     </p>
-                    <p class="is-size-6">您的企业已准备好利用Marketo Engage来支持多种语言、国家/地区、业务部门和/或产品，并且您希望在正确的道路上开始这一转型。 欢迎参加八月的深入探讨，全面了解启动、维护和报告全球营销举措的复杂性。 我们将介绍如何使用工作区和分区构建您的数据和实例，如何在全球范围内遵守各种法律要求，以及如何使用分段、代码片段、动态内容等支持您的营销活动。</p>
+                    <p class="is-size-6">参加8月的深入探讨，以通过Marketo Engage解锁全球营销，内容涵盖数据结构、法律合规性、包含区段的营销活动支持、代码片段、动态内容等，并深入了解如何为多个品牌和实例优化工作区和分区。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="global-marketing.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -197,8 +220,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance" title="继承实例">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1731454105304" alt="继承实例"
+                    <a href="inheriting-an-instance.md" title="继承实例" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1732319262229" alt="继承实例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -206,12 +229,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance" title="继承实例">继承实例</a>
+                        <a href="inheriting-an-instance.md" target="_blank" rel="referrer" title="继承实例">继承实例</a>
                     </p>
-                    <p class="is-size-6">你是否曾经在新职位上获得Marketo登录凭据，在登录时有过那种非常温暖和模糊的感觉，然后你的胃就下降了？ 我正在看什么…… 没有命名惯例？ 没有生命周期？ 或者，您可能已经登录，这就是Oz Wizard of Oz中色彩缤纷的部分，这里的一切都很迷人，您不希望搞砸这件事……幸运的是，我们有一些Marketo Champions为您在继承实例时提供一些提示！</p>
+                    <p class="is-size-6">继承一个Marketo实例可能会令人望而生畏，无论是混乱的混乱还是运转良好的机器。 加入我们的Marketo Champions，他们将分享重要技巧和最佳实践，帮助您导航和优化新实例，确保顺利过渡和有效管理。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="inheriting-an-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -220,8 +243,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles" title="商机生命周期">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1731454105292" alt="商机生命周期"
+                    <a href="lead-lifecycles.md" title="商机生命周期" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1732319262227" alt="商机生命周期"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,12 +252,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles" title="商机生命周期">潜在客户生命周期</a>
+                        <a href="lead-lifecycles.md" target="_blank" rel="referrer" title="商机生命周期">潜在客户生命周期</a>
                     </p>
-                    <p class="is-size-6">了解潜在客户生命周期模型如何使组织能够根据客户的购买就绪性吸引和培养潜在客户。 Marketo提供了强大的工具，但在继承、优化或设计新模型时很容易出现挑战。 直接从Champion获得有关战略潜在客户生命周期开发的建议，重点介绍要避免的常见陷阱！</p>
+                    <p class="is-size-6">在这场深入讨论中，了解如何通过战略潜在客户生命周期模型有效地吸引和培育潜在客户，该模型由Marketo Champion提供建议，用于避免在继承、优化或设计新模型时常见的隐患。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="lead-lifecycles.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -243,8 +266,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields" title="利用PMCF字段实现可扩展性">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1731454105305" alt="利用PMCF字段实现可扩展性"
+                    <a href="pmcf-fields.md" title="利用PMCF字段实现可扩展性" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1732319262235" alt="利用PMCF字段实现可扩展性"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -252,22 +275,22 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields" title="利用PMCF字段实现可扩展性">利用PMCF字段实现可扩展性</a>
+                        <a href="pmcf-fields.md" target="_blank" rel="referrer" title="利用PMCF字段实现可扩展性">利用PMCF字段实现可扩展性</a>
                     </p>
-                    <p class="is-size-6">本部分讨论如何在Marketo中使用项目成员自定义字段(PMCF)来实现可扩展性。 该会议涵盖了有关私营军保基金的定义、目的、规则和用例。 使用PMCF更改数据、参考信息和跟踪独特事件数据（如网络研讨会的UTM参数）的最佳实践。 总体而言，对于希望在Marketo中管理和扩展复杂营销方案的营销人员而言，PMCF是一个有价值的工具。</p>
+                    <p class="is-size-6">了解如何在Marketo中利用项目会员自定义字段(PMCF)实现可扩展性，包括数据管理、个性化通信和准确报表的最佳实践，如Adobe Marketo Engage Champion深入分析视频中所述。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="pmcf-fields.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn how a small team maximizes their Adobe Marketo Engage instance">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn how a small team maximizes their Adobe [!DNL Marketo Engage] instance">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance" title="了解小型团队如何最大限度地利用其Adobe Marketo Engage实例">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?quality=12&format=jpeg&nocache=1731454105292" alt="了解小型团队如何最大限度地利用其Adobe Marketo Engage实例"
+                    <a href="small-team-instance.md" title="了解小型团队如何最大限度地提高其Adobe[!DNL Marketo Engage]实例" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1732319262237" alt="了解小型团队如何最大限度地提高其Adobe[!DNL Marketo Engage]实例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -275,12 +298,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance" title="了解小型团队如何最大限度地利用其Adobe Marketo Engage实例">了解小型团队如何最大限度地利用其Adobe Marketo Engage实例</a>
+                        <a href="small-team-instance.md" target="_blank" rel="referrer" title="了解小型团队如何最大限度地提高其Adobe[!DNL Marketo Engage]实例">了解小型团队如何最大限度地提高其Adobe[!DNL Marketo Engage]实例</a>
                     </p>
-                    <p class="is-size-6">与一小团队或一个团队讨论如何支持Adobe Marketo Engage实例。</p>
+                    <p class="is-size-6">讨论如何在一个小组或一个小组中支持Adobe[!DNL Marketo Engage]的实例。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="small-team-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -289,8 +312,8 @@ ht-degree: 3%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks" title="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1731454105306" alt="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据"
+                    <a href="webhooks.md" title="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1732319262240" alt="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -298,12 +321,12 @@ ht-degree: 3%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks" title="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据">Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据</a>
+                        <a href="webhooks.md" target="_blank" rel="referrer" title="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据">Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据</a>
                     </p>
-                    <p class="is-size-6">有时候，您并不需要创建、测试和部署API的整个繁琐过程。 相反，您可以使用webhook自助执行向CRM或其他集成系统中的各种数据传输。 加入Darshil Shah和Josh Arrington学习如何使用此功能并快速提高效率！ 由约翰·格兰迪主持。</p>
+                    <p class="is-size-6">了解如何使用Marketo中的Webhook与Darshil Shah和Josh Arrington高效地传输数据，其中涵盖结构化数据处理、错误管理、身份验证方法以及John Grundy主持的CRM集成和电子商务等实际用例。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动录制</span>
+                <a href="webhooks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>

@@ -1,6 +1,6 @@
 ---
 title: Marketo和莫哈斯 — 为领导培养成功奠定基础
-description: 商业顾问Cynthia Chang和Carly Gaver将分享关于在Adobe Marketo Engage最大限度培养领导力的见解。 通过培育商机，营销人员可以跨渠道进行一致的沟通，以弥合初始互动和购买之间的差距。 我们还将探讨“参与计划”类型，该计划可按定义的日程表向指定受众分发内容。 Marketo Engage计划使营销人员能够制作始终如一的营销活动，通过个性化的内容和体验吸引潜在客户和客户。 Carly还将主持一次现场演示，指导您使用Marketo项目库中的最佳实践模板来设置参与项目。 与往常一样，我们也会在问答环节实时回答您的问题！
+description: 加入业务顾问Cynthia Chang和Carly Gaver以了解如何在Adobe Marketo Engage中最大限度地培养潜在客户，探索内容分发的参与计划，并观看有关使用最佳实践模板设置参与计划的实时演示以及实时问答。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

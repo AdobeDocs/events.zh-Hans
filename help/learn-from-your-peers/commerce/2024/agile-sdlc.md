@@ -1,6 +1,6 @@
 ---
 title: 在Agile SDLC中重点解决通信、要求和测试的方法
-description: 通过Agile软件开发生命周期(SDLC)实践深入到简化电子商务中。  学习需求分析和规划、管理错误和功能积压的策略、大规模计划的项目规划、适用于各个阶段的测试程序的提示、确保开发强大且可靠的电子商务网站，以及促进有效通信的提示。 强调透明度和责任制是成功执行项目的关键驱动因素。您可以在此处访问这些幻灯片。
+description: 使用Agile SDLC实践简化电子商务开发，包括需求分析、积压事项管理、项目规划、测试策略，以及促进透明、负责的通信以便成功执行。
 solution: Commerce
 feature-set: Commerce
 feature: Best Practices
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15011
 thumbnail: 3427501.jpeg
 exl-id: 2bb76c43-fda5-4ebb-832e-4ab54166076a
-source-git-commit: a0a222e6636182df97d49c5fce629bf25381394c
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

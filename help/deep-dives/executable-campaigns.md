@@ -1,6 +1,6 @@
 ---
 title: 可执行活动 — 了解可执行文件如何提高效率和影响
-description: 该会议专为 Marketo 管理员和活动运营专业人员量身定制，重点是了解和部署可执行的活动，以增加活动和计划的价值、提高效率并推动增长。
+description: 与Chris Willis、Courtny Edwards-Jones和Jane Musatova一起参与此AdobeChampion深入探讨，了解Marketo中的可执行活动如何简化流程、确保数据准确性和自动化复杂的工作流程，并提供实际示例，侧重于最大程度地减少错误和积压。
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,10 +9,10 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 6%
+source-wordcount: '479'
+ht-degree: 0%
 
 ---
 

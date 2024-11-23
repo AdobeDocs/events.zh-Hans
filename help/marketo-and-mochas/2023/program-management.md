@@ -1,6 +1,6 @@
 ---
 title: Marketo和Mochas — 项目管理最佳实践
-description: 程序是Marketo中最重要的元素之一。 无论您是设置文件夹、使用命名惯例、搜索成员、检查程序状态还是只对管理最佳实践感兴趣。  对计划库模板和创意资产的最新更新，以及共享计划管理最佳实践和演示。
+description: 探索Marketo程序的基本元素，包括文件夹设置、命名约定、成员搜索和程序状态检查，以及程序库模板、创意资源和最佳实践演示的最新更新。
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

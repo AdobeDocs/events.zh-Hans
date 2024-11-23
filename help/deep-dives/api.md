@@ -1,6 +1,6 @@
 ---
 title: API
-description: 了解如何利用AdobeMarketo的API、了解如何形成基线连接、利用山地移动扩展以及进行首次API调用。 了解Webhook与API，以便您知道哪个工具最适合应用于您的解决方案。 了解安全最佳实践，包括缩小权限集。 与云集成，利用存储，利用批量API的强大功能执行导入/导出任务。
+description: 加入我们，充分发挥AdobeMarketo API的潜力，从发出首次API调用到将批量API用于导入/导出任务，探索Webhook与API，并学习数据安全和云集成的最佳实践，以及实现营销策略革命的无限可能性。
 solution: Marketo Engage
 role: Admin, Architect, Developer, User
 level: Intermediate
@@ -10,9 +10,9 @@ jira: KT-13773
 thumbnail: 3422479.jpeg
 exl-id: 9620a016-8e4a-4cd9-9d63-2a731e0f226c
 duration: 3550
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 在线渠道与离线渠道
-description: 更详细地了解渠道和子渠道的战略配置，关于在线和离线渠道管理的说明性概述，它们的工作方式，该会议展示了产品内演示并回顾归因专家使用的最佳实践
+description: 与Adobe的市场营销自动化业务顾问Kate Colbert和Elizabeth Lundberg一起参加一个关于使用Marketo Measure归因优化线上和线下渠道的深入的90分钟会议，其中介绍战略配置、最佳实践和实时问答。
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
