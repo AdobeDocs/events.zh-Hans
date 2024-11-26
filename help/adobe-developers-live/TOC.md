@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live 活动
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: 录制的 Adobe Developer Live 内容活动集合
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '801'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 4%
 # Adobe Developers Live 活动 {#adobe-developers-live-recordings}
 
 + [概述](overview.md)
++ 2024 {#2024}
+   + 11月{#nov2024}
+      + [将AI和Personalization引入AEM EDS](2024/nov/ai-and-personalization.md)
+      + [AEM SitesExtension Manager](2024/nov/extension-manager.md)
+      + [使用Web组件HTML](2024/nov/html-and-web-components.md)
+      + [为Headless实施编排Commerce API](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
    + 11月{#nov2023}
       + [开幕主题演讲](2023/november/keynote.md)
