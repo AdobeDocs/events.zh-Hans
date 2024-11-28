@@ -1,6 +1,7 @@
 ---
 title: 为Headless实施编排Commerce API
 description: 了解Adobe的软件工程师Revanth Kumar如何使用API Mesh集成和管理多个数据源，以实现高性能Headless商务体验，并获得增强的安全性、性能和简化开发等优势。
+solution: Commerce
 feature: APIs, Headless
 topic: Commerce, Development, Headless
 role: Developer
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3304
 last-substantial-update: 2024-11-26T00:00:00Z
 jira: KT-16575
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d12d16c9-3696-48ac-9768-e87aad5191be
+source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # 为Headless实施编排Commerce API
 
