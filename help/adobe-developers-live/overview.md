@@ -4,10 +4,10 @@ description: Adobe Developers Live中的会话录制集合
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
-source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
+source-git-commit: a27c81e245b1dae18bb62135ed2c9e4a60bc0694
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 3%
+source-wordcount: '1259'
+ht-degree: 2%
 
 ---
 
@@ -33,6 +33,33 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
 
 * 2024/nov/keynote.md
 -->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Keynote - Adobe Experience Manager Update">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/keynote.md" title="主题演讲 — Adobe Experience Manager更新" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439437/?format=jpeg&nocache=1733162924376" alt="主题演讲 — Adobe Experience Manager更新"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/keynote.md" target="_blank" rel="referrer" title="主题演讲 — Adobe Experience Manager更新">主题演讲 — Adobe Experience Manager更新</a>
+                    </p>
+                    <p class="is-size-6">Adobe强调开发人员在其Experience Manager和Commerce业务中的关键作用，重点介绍混合事件格式，庆祝里程碑，并专注于创新、性能、社区参与以及Web性能、创作UI和高级搜索功能的未来发展。</p>
+                </div>
+                <a href="2024/nov/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ### Adobe Experience ManagerCloud Service
 
@@ -53,7 +80,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="将AI和Personalization引入到Adobe Experience ManagerEdge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1732728214510" alt="将AI和Personalization引入到Adobe Experience ManagerEdge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="将AI和Personalization引入到Adobe Experience ManagerEdge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,7 +103,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/apis-eventing.md" title="现代Adobe Experience Manager API和事件" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440203/?format=jpeg&nocache=1732728214493" alt="现代Adobe Experience Manager API和事件"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440203/?format=jpeg&nocache=1733162925370" alt="现代Adobe Experience Manager API和事件"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +126,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Adobe Experience Manager as a Cloud Service中的CDN和WAF配置" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1732728214505" alt="Adobe Experience Manager as a Cloud Service中的CDN和WAF配置"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Adobe Experience Manager as a Cloud Service中的CDN和WAF配置"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,12 +144,35 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Magic Buttons and How to Build Them">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/magic-buttons.md" title="魔术按钮及其构建方法" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440037/?format=jpeg&nocache=1733162925377" alt="魔术按钮及其构建方法"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/magic-buttons.md" target="_blank" rel="referrer" title="魔术按钮及其构建方法">魔术按钮以及如何生成它们</a>
+                    </p>
+                    <p class="is-size-6">利用Adobe的UI可扩展性增强工作流和用户体验，通过AdobeApp Builder实现自定义集成，使用“魔术按钮”简化复杂的任务，并支持与企业系统的无缝集成，同时将支持对更多Adobe服务的扩展。</p>
+                </div>
+                <a href="2024/nov/magic-buttons.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Manager Rapid Development Environments">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/rapid-development-environments.md" title="Adobe Experience Manager快速开发环境" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440397/?format=jpeg&nocache=1732728214500" alt="Adobe Experience Manager快速开发环境"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440397/?format=jpeg&nocache=1733162925364" alt="Adobe Experience Manager快速开发环境"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,7 +214,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/edge-delivery-services.md" title="Edge Delivery Services — 一年内，六个方面更好" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439436/?format=jpeg&nocache=1732728215691" alt="Edge Delivery Services — 一年内，六个方面更好"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439436/?format=jpeg&nocache=1733162926503" alt="Edge Delivery Services — 一年内，六个方面更好"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +237,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Adobe Experience Manager SitesExtension Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1732728215711" alt="Adobe Experience Manager SitesExtension Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Adobe Experience Manager SitesExtension Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,12 +255,35 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="How Adobe Experience Manager Sites Leverages GenAI">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/aem-sites-gen-ai.md" title="Adobe Experience Manager Sites如何利用GenAI" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439637/?format=jpeg&nocache=1733162926523" alt="Adobe Experience Manager Sites如何利用GenAI"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/aem-sites-gen-ai.md" target="_blank" rel="referrer" title="Adobe Experience Manager Sites如何利用GenAI">Adobe Experience Manager Sites如何利用GenAI</a>
+                    </p>
+                    <p class="is-size-6">借助Adobe Experience Manager (AEM) Sites，利用JNI提供基于意图的体验、智能内容发现、快速激活、自学优化和隐私优先测试，以及即将推出的动态实验和品牌评分功能，从而增强客户体验并推动业务成果。</p>
+                </div>
+                <a href="2024/nov/aem-sites-gen-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Roll Your Own HTML with Web Components">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/html-and-web-components.md" title="使用Web组件滚动您自己的HTML" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440406/?format=jpeg&nocache=1732728215715" alt="使用Web组件滚动您自己的HTML"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440406/?format=jpeg&nocache=1733162926520" alt="使用Web组件滚动您自己的HTML"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -233,7 +306,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/journey-to-edge-delivery-services.md" title="Edge Delivery Services的真实历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439421/?format=jpeg&nocache=1732728215707" alt="Edge Delivery Services的真实历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439421/?format=jpeg&nocache=1733162926508" alt="Edge Delivery Services的真实历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +329,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/tales-200-trenches.md" title="200条战壕的故事" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439424/?format=jpeg&nocache=1732728215698" alt="200条战壕的故事"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439424/?format=jpeg&nocache=1733162926498" alt="200条战壕的故事"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +352,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/universal-editor-eds.md" title="通用编辑器、Adobe Experience Manager创作和Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439423/?format=jpeg&nocache=1732728215703" alt="通用编辑器、Adobe Experience Manager创作和Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439423/?format=jpeg&nocache=1733162926527" alt="通用编辑器、Adobe Experience Manager创作和Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,7 +390,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Assets迁移蓝图" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1732728216966" alt="Assets迁移蓝图"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Assets迁移蓝图"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -340,7 +413,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="性能交付的最佳实践" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1732728216971" alt="性能交付的最佳实践"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="性能交付的最佳实践"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +436,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/dynamic-media-open-api.md" title="通过资产选择器使用带Open API的Dynamic Media进行可扩展Web优化交付和内容转换" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440336/?format=jpeg&nocache=1732728216958" alt="通过资产选择器使用带Open API的Dynamic Media进行可扩展Web优化交付和内容转换"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440336/?format=jpeg&nocache=1733162927536" alt="通过资产选择器使用带Open API的Dynamic Media进行可扩展Web优化交付和内容转换"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -392,6 +465,33 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
 
 * 2024/nov/forms-on-the-edge.md
 -->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms on the Edge!">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/forms-on-the-edge.md" title="Edge上的Forms！" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439704/?format=jpeg&nocache=1733162927779" alt="Edge上的Forms！"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        Edge上的<a href="2024/nov/forms-on-the-edge.md" target="_blank" rel="referrer" title="Edge上的Forms！">Forms！</a>
+                    </p>
+                    <p class="is-size-6">利用边缘自定义、与Adobe Experience Manager集成、基于文档的创作和AI协助，将表单转换为吸引人的体验，从而将访客转化为客户，同时通过自定义组件增强功能并通过实验进行优化。</p>
+                </div>
+                <a href="2024/nov/forms-on-the-edge.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ### Adobe Experience Manager Cloud Manager
 
@@ -403,26 +503,13 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-
-### Adobe Commerce
-
-<!-- CARDS
-
-{cta = Watch}
-
-* 2024/nov/back-office-integrations.md
-* 2024/nov/commerce-aem-assets-gen-ai.md
-* 2024/nov/commerce-storefront-eds.md
-* 2024/nov/commerce-api-headless.md
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accelerate Back-Office Integrations in Adobe Commerce with the Integration Starter Kit">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Streamlining DevOps with Cloud Manager">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/nov/back-office-integrations.md" title="使用Integration Starter Kit加速Adobe Commerce中的后台集成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440398/?format=jpeg&nocache=1732728218295" alt="使用Integration Starter Kit加速Adobe Commerce中的后台集成"
+                    <a href="2024/nov/dev-ops-cloud-manager.md" title="使用Cloud Manager简化DevOps" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439904/?format=jpeg&nocache=1733162928743" alt="使用Cloud Manager简化DevOps"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -430,57 +517,11 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/nov/back-office-integrations.md" target="_blank" rel="referrer" title="使用Integration Starter Kit加速Adobe Commerce中的后台集成">使用Integration Starter Kit加速Adobe Commerce中的后台集成</a>
+                        <a href="2024/nov/dev-ops-cloud-manager.md" target="_blank" rel="referrer" title="使用Cloud Manager简化DevOps">使用Cloud Manager简化DevOps</a>
                     </p>
-                    <p class="is-size-6">简化并增强了Adobe Commerce与入门工具包的集成，这些工具包可将开发时间减少多达50%，支持实时自定义，并提供全面的工具和框架，如实际讲座和实际应用程序中所示。</p>
+                    <p class="is-size-6">使用Adobe在AMP Cloud Manager中新增的“自带Git”功能优化部署工作流，允许直接集成外部Git存储库，支持用于早期代码质量检查的左移策略，并提高效率和适应性。</p>
                 </div>
-                <a href="2024/nov/back-office-integrations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Energizing Adobe Commerce with Adobe Experience Manager Assets and GenAI">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2024/nov/commerce-aem-assets-gen-ai.md" title="使用Adobe Experience Manager Assets和GenAI为Adobe Commerce注入活力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440400/?format=jpeg&nocache=1732728218286" alt="使用Adobe Experience Manager Assets和GenAI为Adobe Commerce注入活力"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/nov/commerce-aem-assets-gen-ai.md" target="_blank" rel="referrer" title="使用Adobe Experience Manager Assets和GenAI为Adobe Commerce注入活力">使用Adobe Experience Manager Assets和GenAI激活Adobe Commerce</a>
-                    </p>
-                    <p class="is-size-6">通过将Adobe Experience Manager Assets和GenAI与Adobe Express集成来增强Adobe Commerce商店，从而利用品牌上批准的图像引用、提高媒体内容质量并提升电子商务性能。</p>
-                </div>
-                <a href="2024/nov/commerce-aem-assets-gen-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Orchestrating Commerce APIs for Headless Implementations">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2024/nov/commerce-api-headless.md" title="为Headless实施编排Commerce API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440402/?format=jpeg&nocache=1732728218291" alt="为Headless实施编排Commerce API"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/nov/commerce-api-headless.md" target="_blank" rel="referrer" title="为Headless实施编排Commerce API">为Headless实施编排Commerce API</a>
-                    </p>
-                    <p class="is-size-6">了解Adobe的软件工程师Revanth Kumar如何使用API Mesh集成和管理多个数据源，以实现高性能Headless商务体验，并获得增强的安全性、性能和简化开发等优势。</p>
-                </div>
-                <a href="2024/nov/commerce-api-headless.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="2024/nov/dev-ops-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
