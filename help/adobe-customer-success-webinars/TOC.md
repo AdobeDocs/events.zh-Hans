@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: 以客户成功为导向的Adobe网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [Real-time Customer Data Platform快速入门](2024/getting-started-rtcdp.md)
    + [利用AI改善客户体验](2024/ai-customer-experience.md)
    + [精益团队和Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [掌握Adobe Admin Console](2024/adobe-admin-console.md)
    + [掌握Cookie和数据隐私](2024/mastering-cookies-data-privacy.md)
    + [定位Personalization](2024/target-personalization.md)
    + [超个性化](2024/hyperpersonalization.md)
@@ -39,6 +40,9 @@ ht-degree: 0%
    + [Real-time Customer Data Platform与Marketo集成](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform迁移准备工作](2024/rtcdp-migration-readiness.md)
    + [战略领导力](2024/strategic-leadership.md)
+   + [简化身份验证](2024/streamline-authentication.md)
+   + [将数据转化为操作](2024/turning-data-into-action.md)
+   + [解锁Edge服务的强大功能](2024/edge-delivery-services.md)
    + [将用例映射到解决方案功能](2024/use-case-mapping.md)
    + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
 
