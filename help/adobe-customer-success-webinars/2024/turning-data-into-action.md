@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # 衡量的战略力量：将数据转化为行动
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 * 让利益相关者定期参与提供他们的投入以确保熟悉正在捕获的数据。
 * 赋予利益攸关方自主提出报告和作出决定的信心，可以减少犹豫。
 
-**信任
+**信任**
 
 * 通过主动参与、透明度、数据治理和质量控制来建立信任。
 * 利益攸关方在战略规划中的协调和参与至关重要。
@@ -52,4 +52,3 @@ ht-degree: 0%
 * 为新用户和非分析人员角色策划资源。
 * 定期举行快速提示会议和知识共享会议。
 * 使用快讯和内部沟通分享见解和更新。
-
