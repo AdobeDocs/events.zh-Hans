@@ -2,9 +2,9 @@
 user-guide-title: Experience Cloud技术讲座
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud技术研讨会是一种主动应对案例偏差的方法，它为客户提供了特定于解决方案的网络研讨会。
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '123'
 ht-degree: 15%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 15%
 + [Experience Cloud技术讲座](overview.md)
 + 2024 {#2024}
    + 实时内容数据平台{#rtcdp-office-hours-2024}
+      + [AEP Web SDK疑难解答](2024/aep-web-sdk-troubleshooting.md)
       + [AI 助手](2024/ai-assistant.md)
       + [实时内容数据平台时间安排](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
