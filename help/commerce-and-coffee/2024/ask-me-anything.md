@@ -8,17 +8,18 @@ doc-type: Event
 duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # 询问我任何内容
 
 Corey和Agbi通过直播和注册回答问题，分享他们的最佳实践并演示Adobe Commerce中的功能，帮助客户在一年中的任意时间获得成功。
+
 >[!VIDEO](https://video.tv.adobe.com/v/3437034/?learn=on&enablevpops)
 
 ## 要点
