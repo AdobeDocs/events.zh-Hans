@@ -9,16 +9,17 @@ event-background-image: exl-event-espressos-and-experience-manager.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+source-git-commit: e867d45cea65c8561bc291df7368771731458522
 workflow-type: tm+mt
-source-wordcount: '17'
-ht-degree: 5%
+source-wordcount: '29'
+ht-degree: 0%
 
 ---
 
 
 # 浓缩咖啡和Experience Manager {#espressos-and-experience-manager-recordings}
 
-+ [概述](overview.md)
-+ 浓缩咖啡和Experience Manager{#espressos-and-experience-manager}
-
++ [浓缩咖啡和Experience Manager](overview.md)
++ 2025 {#2025}
+   + [借助AEM实现数字灵活性](2025/digital-agility.md)
+   + [为什么AEM在云中更强大](2025/aem-in-the-cloud.md)
