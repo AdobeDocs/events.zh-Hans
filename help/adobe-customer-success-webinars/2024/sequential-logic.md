@@ -1,23 +1,23 @@
 ---
-title: 掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑
-description: 在Customer Journey Analytics(CJA)中掌握顺序逻辑和分析，包括基础方面、实际示例和业务应用程序，如Andy Powers会话中所述。
+title: 掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 基础
+description: 掌握AA和CJA中的顺序分段和过滤器，并具有Andy Powers会话中涵盖的基本方面、实际示例和业务应用程序。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # 掌握AA和CJA中的顺序逻辑：基础
 
-基本了解Adobe Analytics和Customer Journey Analytics中的THEN以及相关的顺序逻辑运算符。 顺序逻辑在Adobe Analytics和Customer Journey Analytics中支持高价值分析，但它没有得到充分利用，并且经常被误解。 此网络研讨会将为如何在Analysis Workspace中评估这些运算符奠定基础。
+基本了解Adobe Analytics（顺序区段）和Customer Journey Analytics（顺序过滤器）中的THEN和相关顺序逻辑运算符。 顺序逻辑在Adobe Analytics和Customer Journey Analytics中支持高价值分析，但它没有得到充分利用，并且经常被误解。 此网络研讨会将为如何在Analysis Workspace中评估这些运算符奠定基础。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
