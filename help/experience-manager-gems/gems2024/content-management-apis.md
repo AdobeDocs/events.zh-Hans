@@ -11,19 +11,20 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
-
 # AEM GEM — 解锁AEM Sites的强大功能：掌握内容管理API
 
 AEM Sites的使用方式也在快速发展，在传统用户交互中增加了API优先模式。 无论您是希望简化操作还是提高自动化程度，保持领先于这些趋势都至关重要。 加入我们，参加一个深入的会议，我们从中探索AEM Sites中的相关前沿更新，以及它们如何增强您的内容管理策略。
 
 在此会话中，您将发现，
+
 * **高级OpenAPI标准**&#x200B;探索最新的OpenAPI实现，以便对AEM结构化内容进行无缝的CRUD操作。
 * **事件和Webhook**&#x200B;了解Adobe I/O的事件和Webhook功能如何根据AEM中的内容和状态更改自动执行流程。
 * **用于翻译自动化的新REST API**&#x200B;了解简化和简化AEM中内容翻译工作流的新REST API。

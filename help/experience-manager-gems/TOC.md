@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列技术深入探讨。
 breadcrumb-title: AEM GEMs事件
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 1%
 # Experience ManagerGEMS事件 {#experience-manager-gems-recordings}
 
 + [概述](overview.md)
++ 2025 {#gems2025}
+   + [Adobe托管的CDN快速入门](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [解锁AEM Sites的强大功能 — 掌握内容管理API](gems2024/content-management-apis.md)
    + [AEM的快速开发环境中有哪些新增功能？](gems2024/rapid-development-environment-news.md)
@@ -27,7 +29,7 @@ ht-degree: 1%
    + [AEM认证 — 技术](gems2023/aem-certification-technical.md)
    + [使用快速开发环境加速Experience Manageras a Cloud Service开发](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [适用于内部部署和AMS环境的AEM最佳实践分析器](gems2023/aem-best-practices-analyzer.md)
-+ 2022 年 {#gems2022}
++ 2022 {#gems2022}
    + [客户用例和正在使用的AEM Headless的实施](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [深入了解 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验](gems2022/aem-and-cif-framework-integration.md)
@@ -45,7 +47,7 @@ ht-degree: 1%
 + 2018 年 {#gems2018}
    + [深入了解Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform -Experience Cloud的核心](gems2018/aem-acp.md)
-   + [实时且轻量级：使用Adobe I/O事件构建事件驱动型与AEM的集成](gems2018/aem-adobe-io.md)
+   + [实时且轻量级：使用Adobe I/O Events构建事件驱动型与AEM的集成](gems2018/aem-adobe-io.md)
    + [Adobe Developer (IO)事件 — Analytics触发器](gems2018/aem-analytics-triggers.md)
    + [AEM创作可扩展性实验](gems2018/aem-author-scalability1.md)
    + [AEM核心组件](gems2018/aem-core-components.md)
@@ -56,8 +58,8 @@ ht-degree: 1%
    + [AEM查询和索引疑难解答（续）](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM SPA编辑器](gems2018/aem-spa-editor.md)
    + [Solr作为AEM的Oak索引](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [SPA编辑器SDK深入探讨 — 第1部分 — react](gems2018/spa-editor-sdk-deep-dive-react.md)
-   + [SPA编辑器SDK深入探讨 — 第2部分 — angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
+   + [SPA编辑器SDK深入分析 — 第1部分 — react](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [SPA编辑器SDK深入分析 — 第2部分 — angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [在AEM中使用OSGi R7](gems2018/using-osgi-r7-in-aem.md)
 + 2017 年 {#gems2017}
    + [资产共享的主要品牌门户发布和新参考实施](gems2017/aem-brand-portal.md)
