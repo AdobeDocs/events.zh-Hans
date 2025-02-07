@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '505'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概述](overview.md)
 + 集数{#episodes}
+   + [Ep. 44：在Adobe Experience Platform中使用AI助手释放运营洞察](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43：在Real-Time CDP中为营销人员引入面向受众的AI助手](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42：揭示Adobe Journey Optimizer的内容卡](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41：在Experience Platform中使用联合受众组合来协调受众](episodes/exl-live-episode-40-2024-10-24.md)
@@ -51,7 +52,7 @@ ht-degree: 4%
    + [Ep. 16：咨询专家 — Tags (Launch)中的有用扩展，帮助对Web SDK进行超额收费](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15：咨询专家 — 数据流和数据准备](episodes/exl-live-episode-07-21-22.md)
    + [Ep. 14：咨询专家 — RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
-   + [Ep. 13：咨询专家 — Web SDK基础知识](episodes/exl-live-episode-05-26-22.md)
+   + [Ep. 13：咨询专家 — Web SDK的基础知识](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12：Journey Optimizer的推送通知](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11：AAM和Real-time CDP — 如何处理所有这些受众？](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10：从Headful到Headless的AEM（以及其中的所有功能）](episodes/exl-live-episode-04-21-22.md)
