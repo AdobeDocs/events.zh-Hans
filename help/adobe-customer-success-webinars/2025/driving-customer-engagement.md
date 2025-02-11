@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
+source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # 推动客户在支付方领域的参与
 
@@ -26,9 +26,9 @@ ht-degree: 0%
 
 * **支付者领域的挑战和机遇**&#x200B;医疗保健行业在管理数字信息和表单的指数级增长方面面临着挑战，这会导致低效和高成本。 需要简化流程，降低成本，提高客户参与度。
 
-* **Aim Forms的功能** Aim表单使组织能够大规模创作表单、自动化工作流并提供全渠道体验，从而提高运营效率和提供卓越的用户体验。 这导致更高的转化率和注册率，减少表单放弃率，并提高团队生产率。
+* **AEM Forms** AEM表单的功能使组织能够大规模创作表单、自动化工作流并提供全渠道体验，从而提高运营效率和提供卓越的用户体验。 这导致更高的转化率和注册率，减少表单放弃率，并提高团队生产率。
 
-* **端到端解决方案** Aim表单提供了包括全渠道表单、自动化工作流和交互式客户通信的端到端解决方案。 该解决方案与Adobe Experience Cloud集成，提升了整体用户体验和运营效率。
+* **端到端解决方案** AEM Forms提供了包括全渠道表单、自动化工作流和交互式客户通信的端到端解决方案。 该解决方案与Adobe Experience Cloud集成，提升了整体用户体验和运营效率。
 
 * **创新和集成**&#x200B;最近的创新包括提高性能的交付服务、用于全渠道交付的Headless自适应表单，以及用于与OneDrive、Power Automate、Salesforce和Workfront等系统集成的新连接器。 早期访问功能包括Gen AI助手、Marketo连接器和对话表单。
 
