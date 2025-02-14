@@ -1,6 +1,6 @@
 ---
 title: AEM GEM — 解锁AEM Sites的强大功能 — 掌握内容管理API
-description: 关于Adobe Experience Manager (AEM) content API的网络研讨会引入了新的现代化API，以增强内容管理和交付。​AEM主要发言人（包括Matthias、Catalina、Leonard和Prashant）介绍了这些API的功能，如结构化内容管理、优化内容交付和自动化翻译流程。​AEM功能亮点包括新的UI架构功能、改进的引用处理、批量请求功能和更快的内容交付API​。我们鼓励与会者通过Adobe的开发人员文档来探索这些API，并加入率先采用者计划以获取早期访问和直接工程支持。
+description: AEM GEM会议探索了AEM Sites中的API优先模式，涵盖高级OpenAPI标准、事件和Webhook以及用于翻译自动化的新REST API，并吸收了Adobe专家的见解。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,9 +12,9 @@ duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
 exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,8 @@ AEM Sites的使用方式也在快速发展，在传统用户交互中增加了AP
 ## 演示者
 
 * Mathias Siegel，Adobe首席产品经理
-* Catalina Dumitru，软件开发工程师，Adobe
-* Lénárd Palkó，高级软件开发工程师，Adobe
+* Catalina Dumitru，Adobe软件开发工程师
+* Lénárd Palkó，Adobe高级软件开发工程师
 * Prashant Kumar Singh，Adobe计算机科学家
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435036/?learn=on)
@@ -42,7 +42,7 @@ AEM Sites的使用方式也在快速发展，在传统用户交互中增加了AP
 
 ## 主要要点
 
-* **现代化API简介**&#x200B;引入了AEM内容管理和交付的新API，以增强开发工作流和集成功能。
+* **现代化API简介**&#x200B;为AEM内容管理和交付引入了新的API，以增强开发工作流和集成功能。
 
 * **结构化内容管理**&#x200B;新的API支持结构化内容管理，包括诸如用户界面架构等功能，以便更好地呈现内容、改进参考处理和批量请求功能。
 
@@ -50,7 +50,7 @@ AEM Sites的使用方式也在快速发展，在传统用户交互中增加了AP
 
 * **自动翻译流程**&#x200B;用于翻译管理的AEM开放API可自动执行翻译工作流，与第三方服务集成，并支持批量操作。
 
-* **事件机制** API包含事件机制，该机制为对资源的操作生成事件，可以通过AdobeIO来使用这些事件来实现实时自动化和集成。
+* **事件机制** API包含事件机制，该机制为针对资源的操作生成事件，可以通过Adobe IO使用它来实现实时自动化和集成。
 
 * **鼓励迁移**&#x200B;鼓励用户从旧版API迁移到新的现代化API，因为到2025年以前将弃用旧版API。
 

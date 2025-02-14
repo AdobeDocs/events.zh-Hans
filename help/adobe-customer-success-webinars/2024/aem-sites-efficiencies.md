@@ -1,6 +1,6 @@
 ---
 title: AEM Sites效率 — 性能优化、配置和故障排除
-description: 本课程讲授Adobe Experience Manager (AEM) Sites的基本故障诊断技能，重点针对性能问题、复杂配置和用户权限的实际动手解决方案。
+description: 关于AMP站点效率的网络研讨会涵盖了性能优化、Dispatcher配置、权限管理最佳实践以及解决性能问题的策略。
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,9 +10,9 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---

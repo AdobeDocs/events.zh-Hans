@@ -1,6 +1,6 @@
 ---
-title: AEM FormsEdge Delivery Services快速入门
-description: 了解如何使用Edge Delivery Services创建和发布AEM Forms，并将它们作为卓越体验通过Edge提供。 我们将介绍两种创作这些表单的方式 — 使用基于文档的创作和基于AEM的创作。 您将了解如何设置AEM FormsEdge Delivery Services项目，以自定义Forms块和组件以及使用服务器端扩展。 您还将了解如何利用AEM Forms as a Cloud Service在提交后对Forms进行后端处理。
+title: Edge Delivery ServicesAEM Forms入门
+description: 了解如何使用Edge Delivery Services创建和发布AEM Forms，其中包括基于文档和AEM的创作、用于自定义的项目设置以及将AEM Forms as a Cloud Service用于后端处理。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 此网络研讨会已完成 — 请观看下面的录像。
 
-## AEM FormsEdge Delivery Services快速入门
+## Edge Delivery ServicesAEM Forms入门
 
-了解如何使用Edge Delivery Services创建和发布AEM Forms，并将它们作为卓越体验通过Edge提供。 我们将介绍两种创作这些表单的方式：使用基于文档的创作和基于AEM的创作。 您将了解如何设置AEM FormsEdge Delivery Services项目，以自定义Forms块和组件以及使用服务器端扩展。 您还将了解如何利用AEM Forms as a Cloud Service在提交后对Forms进行后端处理。
+了解如何使用Edge Delivery Services创建和发布AEM Forms，并将它们作为卓越体验通过Edge提供。 我们将介绍两种创作这些表单的方式：使用基于文档的创作和基于AEM的创作。 您将了解如何设置AEM Forms Edge Delivery Services项目以自定义Forms块和组件以及使用服务器端扩展。 您还将了解如何利用AEM Forms as a Cloud Service在提交后对Forms进行后端处理。
 
 ## 演示者
 
-* Arun Taneja，AdobeDirector产品管理
+* Arun Taneja，Adobe产品管理总监
 * Vijay Kumar Jalagari，Adobe高级工程经理
 
 ## 网络研讨会录像

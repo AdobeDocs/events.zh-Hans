@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Commerce在Edge Delivery Services上构建店面
-description: 此AEM GEM网络研讨会将教您如何在Edge Delivery Services上为Adobe Commerce构建高性能店面。 我们将引导您使用Commerce样板完成项目的设置过程，以及如何将其与新的Commerce SaaS服务连接以实现快速和Sensei UI增强的产品目录集成。 我们引入了“插入式组件”，这是一组可自定义的前端组件，可加快店面开发。 您将学习如何扩展和设置这些规则的最佳实践。 最后，我们将重点介绍新的Edge Delivery创作功能，以便通过创作内容丰富您的Commerce体验。
+description: AEM GEM网络研讨会将教您在Edge Delivery Services for Adobe Commerce上构建高性能店面，其中涵盖项目设置、Commerce SaaS集成、可自定义的前端组件和新的创作功能以增强Commerce体验。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
 exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
-source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
