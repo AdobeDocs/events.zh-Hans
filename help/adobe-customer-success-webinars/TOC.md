@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
-user-guide-description: 以客户成功为导向的Adobe网络研讨会，旨在让您能够优化对AdobeExperience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 
 + [Adobe客户成功网络研讨会](overview.md)
 + 2025 {#2025}
+   + [内容供应链基础知识](2025/content-supply-chain-basics.md)
+   + [制定有效测量的策略](2025/impactful-insights.md)
    + [提高客户参与度](2025/driving-customer-engagement.md)
    + [通过Personalization和数据增强忠诚度计划](2025/enhance-loyalty-programs.md)
    + [掌握顺序逻辑](2025/mastering-sequential-logic.md)
@@ -29,13 +31,13 @@ ht-degree: 0%
    + [AI赋权文案撰写](2024/ai-copywriting.md)
    + [从基本到中等分析功能](2024/basic-to-intermediate-analysis-capabilities.md)
    + [数据流优先级](2024/data-stream-prioritization.md)
-   + [Edge Network和移动Personalization](2024/edge-network-mobile-personalization.md)
+   + [Edge Network和Mobile Personalization](2024/edge-network-mobile-personalization.md)
    + [有效的变更管理](2024/effective-change-management.md)
    + [增强精益团队的能力](2024/empowering-lean-teams.md)
    + [Expedia从Adobe Analytics转移到Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Workfront系统和群组管理员监护的基础知识](2024/workfront-admin-guardianship.md)
    + [Adobe Journey Optimizer Analysis快速入门](2024/getting-started-ajo-analysis.md)
-   + [Real-time Customer Data Platform快速入门](2024/getting-started-rtcdp.md)
+   + [Real-Time Customer Data Platform快速入门](2024/getting-started-rtcdp.md)
    + [利用AI改善客户体验](2024/ai-customer-experience.md)
    + [超个性化](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile功能](2024/journey-optimizer-mobile-capabilities.md)
@@ -44,7 +46,7 @@ ht-degree: 0%
    + [掌握Cookie和数据隐私](2024/mastering-cookies-data-privacy.md)
    + [掌握顺序逻辑](2024/sequential-logic.md)
    + [内容供应链的组织就绪性](2024/organizational-readiness-content-supply-chain.md)
-   + [Real-time Customer Data Platform与Marketo集成](2024/aep-marketo-integration.md)
+   + [Real-Time Customer Data Platform与Marketo集成](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform迁移准备工作](2024/rtcdp-migration-readiness.md)
    + [战略领导力](2024/strategic-leadership.md)
    + [简化身份验证](2024/streamline-authentication.md)
@@ -59,7 +61,7 @@ ht-degree: 0%
    + [变更管理](2023/change-management.md)
    + [内容和体验 — Personalization](2023/content-experiences-personalization.md)
    + [Customer Journey Analytics迁移准备工作](2023/cja-migration-readiness.md)
-   + [Customer Journey AnalyticsIntegration Essentials](2023/cja-integration-essentials.md)
+   + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
    + [制定实时数据收集和激活策略](2023/data-collection-activation-strategy.md)
    + [有效测量策略](2023/measurement-strategy.md)
    + [Campaign编排的基本策略](2023/foundational-strategy-campaign.md)
