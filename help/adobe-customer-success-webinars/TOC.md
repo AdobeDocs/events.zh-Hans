@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 2cf84ad56c96ca9e1355aa50e60d3f15124fc5bc
+source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,19 @@ ht-degree: 0%
 + [Adobe客户成功网络研讨会](overview.md)
 + 2025 {#2025}
    + [Adobe数字见解](2025/adobe-digital-insights.md)
+   + [AEM与Workfront集成](2025/aem-workfront-integration.md)
    + [构建有效网页](2025/build-effective-web-pages.md)
    + [内容供应链基础知识](2025/content-supply-chain-basics.md)
    + [制定有效测量的策略](2025/impactful-insights.md)
+   + [培养敏捷营销组织](2025/agile-marketing-organization.md)
+   + [数据Distiller 101](2025/data-distiller-101.md)
    + [提高客户参与度](2025/driving-customer-engagement.md)
    + [通过Personalization和数据增强忠诚度计划](2025/enhance-loyalty-programs.md)
    + [增强Personalization](2025/enhancing-personalization.md)
+   + [GenAI试验](2025/gen-ai-experimentation.md)
    + [GenStudio for Performance Marketing操作模型](2025/genstudio-for-performance-marketing-operating-model.md)
    + [掌握顺序逻辑](2025/mastering-sequential-logic.md)
+   + [优化AEM性能](2025/optimize-aem-performance.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target的AI驱动型Personalization](2024/ai-personalization.md)
