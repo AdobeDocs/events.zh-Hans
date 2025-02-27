@@ -1,11 +1,11 @@
 ---
-user-guide-title: "[!DNL Experience Makers Learn from your peers]"
+user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: “从 [!DNL Experience Makers Learn from your peers]开始的录制集合”
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+user-guide-description: 从 [!DNL Experience Makers Learn from your peers]开始的录制集合
+source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: '313'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 3%
       + 二月{#feb2023}
          + [构建数据驱动型文化](analytics/feb2023/data-driven-culture.md)
          + [构建数据驱动型文化跟进问答](analytics/feb2023/data-driven-culture-q-and-a.md)
-   + 2022 年 {#2022}
+   + 2022 {#2022}
       + 11月{#nov2022}
          + [提示和技巧](analytics/nov2022/tips-and-tricks.md)
          + [Champion提示和技巧跟进问答](analytics/nov2022/tips-and-tricks-q-and-a.md)
@@ -37,11 +37,11 @@ ht-degree: 3%
       + [Agile SDLC中的通信、要求和测试](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 11月{#nov2023}
-      + [使用AEM核心组件实现卓越开发人员体验](experience-manager/nov2023/core-components.md)
+      + [利用AEM核心组件实现卓越开发人员体验](experience-manager/nov2023/core-components.md)
    + 九月{#sept2023}
       + [深入了解AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7月{#july2023}
-      + Cloud Service中的[有效安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 五月{#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
@@ -52,13 +52,13 @@ ht-degree: 3%
    + 2024年7月{#july2024}
       + [营销人员分布图：策划、构建和分析Marketo营销活动](marketo/july2024/marketers-map-marketo-campaigns.md)
    + 2024 年 4 月 {#april2024}
-      + [Marketo EngageREST API的实际应用](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+      + [Marketo Engage REST API的实际应用](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + 2024年1月{#jan2024}
-      + [通过Marketo Engage掌握人员得分](marketo/jan2024/person-scoring-mastery.md)
+      + [用Marketo Engage掌握人员得分](marketo/jan2024/person-scoring-mastery.md)
    + 2023年11月{#nov2023}
       + [Marketo Engage和Dynamic Chat](marketo/nov2023/dynamic-chat.md)
    + 2023年9月{#sept2023}
-      + [通过Marketo Engage提高电子邮件可投放性](marketo/sept2023/email-deliverability.md)
+      + [使用Marketo Engage提高电子邮件可投放性](marketo/sept2023/email-deliverability.md)
    + 2023年6月{#june2023}
       + [跟踪、分析和优化您的营销活动](marketo/june2023/marketing-campaigns.md)
    + 2023 年 5 月 {#may2023}
@@ -66,6 +66,9 @@ ht-degree: 3%
    + 2023年3月{#mar2023}
       + [如何使您的 [!DNL Adobe Marketo Engage] 内容可扩展](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2025 {#2025}
+      + 二月{#february2025}
+         + [阐明影响 — 如何衡量和共享Workfront价值](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024 {#2024}
       + 四月{#april2024}
          + [配置您的Workfront系统管理员实践](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
@@ -84,7 +87,7 @@ ht-degree: 3%
          + [通过界面设计改善用户体验](workfront/2023/03/improving-user-experience-with-interface-design.md)
       + 二月{#february}
          + [接管现有Workfront实例的提示](workfront/2023/02/tips-for-taking-over-an-existing-workfront-instance.md)
-   + 2022 年 {#2022}
+   + 2022 {#2022}
       + 十二月{#december}
          + [在Workfront中导航变更管理](workfront/2022/12/navigating-change-management.md)
       + 11月{#november}
@@ -107,4 +110,4 @@ ht-degree: 3%
          + [什么是Workfront治理？](workfront/2022/03/what-is-workfront-governance.md)
       + 二月{#february}
          + [了解用户管理](workfront/2022/02/understanding-user-management.md)
-+ [了解如何提交优秀的Adobe冠军申请](./adobe-champion-application.md)
++ [了解如何提交优秀的Adobe Champion应用程序](./adobe-champion-application.md)
