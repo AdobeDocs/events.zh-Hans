@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
+source-git-commit: 98c81f4400d80ca7991c9df94c3fa400600391c8
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '161'
 ht-degree: 3%
 
 ---
@@ -25,16 +25,8 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 <table>
 <tr>
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League直播2月27日" src="episodes/assets/WebBanner-Feb-27-2025.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-02-27-25.md">
-        <strong>在Adobe Experience Platform中使用AI助手解锁操作分析</strong>
-      </a>
-      <br/><em>与Daniel Wright、Namita Krishnan和Huong Vu一起</em>
-      <br/><em>2025年2月27日</em>
-    </div>
+<td>
+  即将返回此页面以查看更多即将播出的节目！
   </td>
 </tr>
 </table>
