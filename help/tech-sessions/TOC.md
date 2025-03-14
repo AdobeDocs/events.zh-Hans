@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud技术讲座
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud技术研讨会是一种主动应对案例偏差的方法，它为客户提供了特定于解决方案的网络研讨会。
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 15%
+source-wordcount: '140'
+ht-degree: 14%
 
 ---
 
@@ -13,6 +13,11 @@ ht-degree: 15%
 # Experience Cloud技术讲座 {#tech-sessions}
 
 + [Experience Cloud技术讲座](overview.md)
++ 2025 {#2025}
+   + [充分利用Marketo Measure](2025/getting-most-marketo-measure.md)
+   + Marketo迁移到Adobe Admin Console {#marketo-admin-console}
+      + [预迁移](2025/marketo-pre-migration.md)
+      + [迁移后](2025/marketo-post-migration.md)
 + 2024 {#2024}
    + 实时内容数据平台{#rtcdp-office-hours-2024}
       + [AEP Web SDK疑难解答](2024/aep-web-sdk-troubleshooting.md)
@@ -20,7 +25,7 @@ ht-degree: 15%
       + [实时内容数据平台时间安排](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [跟踪访客](2024/tracking-visitors.md)
-   + AdobeMarketo {#adobe-marketo-office-hours-2024}
+   + Adobe Marketo {#adobe-marketo-office-hours-2024}
       + [Champion技术研讨会 — 5月](2024/champion-office-hours.md)
 + 2023 {#2023}
    + Adobe Analytics {#adobe-analytics}
@@ -36,7 +41,7 @@ ht-degree: 15%
       + [AEM Forms Headless架构](2023/aem-forms-headless-architecture.md)
       + [迁移到AEM Cloud Service](2023/migration-aemcs.md)
       + [索引优化的基础](2023/optimize-indexes-aemcs.md)
-   + AdobeMarketo {#adobe-marketo-office-hours}
+   + Adobe Marketo {#adobe-marketo-office-hours}
       + [高级智能列表逻辑和常见缺陷](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
       + [JavaScript库概述、调试提示和技巧](2023/target-debugging-tips-and-tricks.md)
