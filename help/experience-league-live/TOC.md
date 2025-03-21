@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概述](overview.md)
 + 集数{#episodes}
+   + [Ep. 45：不等待……协作！ Real-Time CDP Collaboration简介](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44：在Adobe Experience Platform中使用AI助手释放运营洞察](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43：在Real-Time CDP中为营销人员引入面向受众的AI助手](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42：揭示Adobe Journey Optimizer的内容卡](episodes/exl-live-episode-10-30-24.md)
@@ -55,14 +56,14 @@ ht-degree: 4%
    + [Ep. 13：咨询专家 — Web SDK的基础知识](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12：Journey Optimizer的推送通知](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11：AAM和Real-time CDP — 如何处理所有这些受众？](episodes/exl-live-episode-04-28-22.md)
-   + [Ep. 10：从Headful到Headless的AEM（以及其中的所有功能）](episodes/exl-live-episode-04-21-22.md)
+   + [Ep. 10：从Headful到Headless（以及其中的所有功能），AEM](episodes/exl-live-episode-04-21-22.md)
    + [Ep. 9：在AEM中引入所有新的参考演示](episodes/exl-live-episode-02-03-22.md)
-   + [Ep. 8：Customer Journey Analytics：内幕消息](episodes/exl-live-episode-08.md)
-   + [Ep. 7：使用AdobeApp Builder扩展AEM](episodes/exl-live-episode-07.md)
+   + [Ep. 8：Customer Journey Analytics内幕](episodes/exl-live-episode-08.md)
+   + [Ep. 7：使用Adobe App Builder扩展AEM](episodes/exl-live-episode-07.md)
    + [Ep. 6：测量人员而不是设备](episodes/exl-live-episode-06.md)
    + [Ep. 5：通过快速创建网站，以前所未有的速度上线](episodes/exl-live-episode-05.md)
    + [Ep. 4：谁点击了？ 他们什么时候点击的？](episodes/exl-live-episode-04.md)
    + [Ep. 3：专家提示让您的假日营销活动引人注目](episodes/exl-live-episode-03.md)
    + [Ep. 2：比以往更智能地确定下一个受众区段](episodes/exl-live-episode-02.md)
-   + [Ep. 1：我最喜欢的三个Adobe [!DNL Analytics] 实现技巧](episodes/exl-live-episode-01.md)
-+ [EXPERIENCE LEAGUELIVE ASSETS](exl-live-assets.md)
+   + [Ep. 1：我最喜欢的三个Adobe [!DNL Analytics] 实施技巧](episodes/exl-live-episode-01.md)
++ [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
