@@ -2,7 +2,7 @@
 title: 释放时尚的力量 — 构建高效且可扩展的时尚系统
 description: 创建新样式系统，以根据多个租户/业务部门的品牌指南重新调整组件的用途。
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Sites
 feature: Style System
 role: Developer, User
@@ -13,7 +13,7 @@ jira: KT-14150
 thumbnail: 3424019.jpeg
 exl-id: 4b420f9e-bf6d-469c-9b43-0a25151f46c5
 duration: 1696
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

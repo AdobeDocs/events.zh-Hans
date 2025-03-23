@@ -2,7 +2,7 @@
 title: 将AEM Assets与Edge Delivery Services集成
 description: AEM GEM网络研讨会将演示如何将AEM Assets集成到基于AEM Edge Delivery Services构建的站点中、如何自定义集成、使用带Open API的AEM Dynamic Media交付资源以及探索实际用例和最佳实践。
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%

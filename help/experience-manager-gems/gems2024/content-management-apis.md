@@ -2,7 +2,7 @@
 title: AEM GEM — 解锁AEM Sites的强大功能 — 掌握内容管理API
 description: AEM GEM会议探索了AEM Sites中的API优先模式，涵盖高级OpenAPI标准、事件和Webhook以及用于翻译自动化的新REST API，并吸收了Adobe专家的见解。
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -12,7 +12,7 @@ duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
 exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%

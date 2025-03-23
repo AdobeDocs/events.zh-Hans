@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9214
 type: Event
 exl-id: c49d6c31-1b37-4c02-aa48-0dfd7362e628
 duration: 2093
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 14%
@@ -22,7 +22,7 @@ ht-degree: 14%
 
 在我们逐步了解扩展App Builder的App Builder应用程序的应用程序架构时，了解有关Adobe Experience Manager的更多信息。
 
-继续&#x200B;**[Experience League社区](https://adobe.ly/3uragoI)**&#x200B;中的对话。
+在&#x200B;**[Experience League社区](https://adobe.ly/3uragoI)**&#x200B;中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 

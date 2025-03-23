@@ -6,13 +6,13 @@ topic: Development
 role: Developer
 level: Intermediate, Experienced
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg
 exl-id: d1672427-b943-4b9f-84ed-ebf2c9c54933
 duration: 1788
-source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 好的，想要了解更多Adobe Developer App Builder开发人员信息吗？ 加入我们，观看App Builder的实际操作情况：代码、安全性、headfull和headless应用程序、CI/CD等。
 
-继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
+在&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 

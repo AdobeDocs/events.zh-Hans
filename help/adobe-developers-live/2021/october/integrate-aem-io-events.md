@@ -1,33 +1,33 @@
 ---
-title: 将AEM Cloud Service与AdobeIO事件集成
-description: 可通过多种方式将Adobe Experience ManagerCloud Service与Adobe I/O自定义事件集成。 了解可用的不同选项，以及它们如何最适合您的特定用例。
+title: 将AEM Cloud Service与Adobe IO事件集成
+description: 可通过多种方式将Adobe Experience Manager Cloud Service与Adobe I/O自定义事件集成。 了解可用的不同选项，以及它们如何最适合您的特定用例。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9119
 type: Event
 exl-id: 3adc1efc-c144-455c-b614-3c1ef06e1324
 duration: 1566
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 5%
 
 ---
 
-# 将AEM Cloud Service与AdobeIO事件集成
+# 将AEM Cloud Service与Adobe IO事件集成
 
-可通过多种方式将Adobe Experience ManagerCloud Service与Adobe I/O自定义事件集成。 了解可用的不同选项，以及它们如何最适合您的特定用例。
+可通过多种方式将Adobe Experience Manager Cloud Service与Adobe I/O自定义事件集成。 了解可用的不同选项，以及它们如何最适合您的特定用例。
 
-继续&#x200B;**[Experience League社区](https://adobe.ly/3ij0O1W)**&#x200B;中的对话。
+在&#x200B;**[Experience League社区](https://adobe.ly/3ij0O1W)**&#x200B;中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337529/?quality=12&learn=on&hidetitle=true)
 
 ## 其他资源
 
 - [Adobe Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience ManagerCloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

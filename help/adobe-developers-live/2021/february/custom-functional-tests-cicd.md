@@ -8,13 +8,13 @@ feature: CI-CD Pipeline
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7409
 type: Event
 thumbnail: 332309.jpg
 exl-id: 5896acc7-a5b8-42a1-a57b-88fdc8dd1da2
 duration: 1484
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 了解如何借助自定义功能测试在生产环境中自信地部署代码。 即使在繁忙的周五下午，质量也不应该很难。
 
-继续&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中的对话。
+在&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 

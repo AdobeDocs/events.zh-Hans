@@ -8,12 +8,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9190
 type: Event
 exl-id: 578bb96c-a1c0-4f2d-b30b-d9ed75563de4
 duration: 1363
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 59%
@@ -24,16 +24,16 @@ ht-degree: 59%
 
 详细了解如何利用 Adobe Experience Manager as a Cloud Service 代码重构工具，通过自动化功能使您现有的内容（包结构、索引、Adobe Experience Manager Asset 处理工作流、调度程序配置）与 Cloud Service 兼容，从而加快您向 Cloud Service 的过渡之旅。
 
-在此会话中，我们将展示如何使用aio-cli-plugin-Adobe Experience Manager-cloud-service-migration(我们的Adobe I/O基于可扩展命令行界面(CLI)的NodeJS插件，该插件为这些代码重构工具提供统一的体验，并将安装和设置的开销降至最低)，轻松地安装和使用代码重构工具。
+在此会话中，我们将展示如何使用aio-cli-plugin-Adobe Experience Manager-cloud-service-migration(我们的基于Adobe I/O可扩展命令行界面(CLI)的NodeJS插件，该插件为这些代码重构工具提供统一的体验，并将安装和设置的开销降至最低)，轻松地安装和使用代码重构工具。
 
 我们希望通过展示实际Adobe Experience Manager客户代码库上的工具执行情况，来帮助人们了解使用代码重构工具的最佳实践。
 
-继续&#x200B;**[Experience League社区](https://adobe.ly/3ETr7FI)**&#x200B;中的对话。
+在&#x200B;**[Experience League社区](https://adobe.ly/3ETr7FI)**&#x200B;中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 
 ## 其他资源
 
 - [Adobe Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience ManagerCloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -1,6 +1,6 @@
 ---
 title: 不要再浪费时间查找内容
-description: 成为技术熟练的作者，深入了解AEM Sites和Media Library管理UI，并提供各种提示和技巧以提高您的日常效率
+description: 成为熟练的作者，深入了解AEM的站点和媒体库管理UI，并提供各种提示和技巧以提高您的日常效率
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -9,12 +9,12 @@ feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8937
 exl-id: f92344ca-9c74-4205-968c-b12a58bae241
 duration: 3712
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-成为技术熟练的作者，深入了解AEM Sites和Media Library管理UI，并提供各种提示和技巧以提高您的日常效率。
+成为熟练的作者，深入了解AEM的站点和媒体库管理UI，并提供各种提示和技巧以提高您的日常效率。
 
 ## 系列录制
 

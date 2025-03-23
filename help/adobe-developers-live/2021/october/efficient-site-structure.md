@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9182
 type: Event
 exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
 duration: 1165
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 14%
@@ -22,7 +22,7 @@ ht-degree: 14%
 
 针对开发人员在处理语言副本、活动副本以及笨重移动或复制操作时的一些最佳实践的详细概述。
 
-继续&#x200B;**[Experience League社区](https://adobe.ly/39DoIQT)**&#x200B;中的对话。
+在&#x200B;**[Experience League社区](https://adobe.ly/39DoIQT)**&#x200B;中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 
