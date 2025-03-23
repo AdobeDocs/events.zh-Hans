@@ -1,13 +1,13 @@
 ---
 title: 来自专家的节省时间提示
 description: 利用 Adobe Campaign 专家介绍提示和技巧，开始新的一年！此Adobe Campaign内部会议将涵盖帮助您提高效率的主题……（请用60到160个字符描述）
-version: Classic v7
-solution: Campaign
+version: Campaign Classic v7
+solution: Campaign, Campaign Classic v7
 kt: 10504
 thumbnail: 343523.jpeg
 exl-id: 52cce634-d50b-43a6-b093-64d959860cc4
 duration: 2251
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 19904556b6f2a6e3a9e2919f5504732f2f9b598d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 25%
