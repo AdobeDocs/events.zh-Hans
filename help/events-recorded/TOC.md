@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe Experience League活动录制
 user-guide-breadcrumb: Event Recordings
-user-guide-description: 强制使用Adobe企业产品的事件记录集合
-source-git-commit: 766c04837f2ccf65813d93bed7d57522a4e17be3
+user-guide-description: 强制使用Adobe Enterprise产品的事件录制集合
+source-git-commit: 1082d67d49901e151115255b585799a5f57bda4a
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 10%
+source-wordcount: '444'
+ht-degree: 9%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 10%
    + [浓缩咖啡和Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
    + [Experience Cloud技术讲座](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + [Experience ManagerGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
+   + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Experience Manager版本概述](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hans)
    + [GenStudio for Performance Marketing活动](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [向同事学习](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -80,7 +80,7 @@ ht-degree: 10%
       + [浓缩咖啡和Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
       + [Experience Cloud技术讲座](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience League直播](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-      + [Experience ManagerGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
+      + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Experience Manager版本概述](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hans)
       + [向同事学习](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [技能培养](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
@@ -92,7 +92,7 @@ ht-degree: 10%
       + [Experience Cloud技术讲座](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + Adobe GenStudio for Performance Marketing {#agspm}
       + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
-   + AdobeMarketo {#am}
+   + Adobe Marketo {#am}
       + [深入分析](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [Experience Cloud技术讲座](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [向同事学习](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -102,7 +102,7 @@ ht-degree: 10%
       + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
       + [Experience League直播](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + AdobeReal-time CDP {#rtcdp}
+   + Adobe Real-time CDP {#rtcdp}
       + [客户数据管理意见](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hans)
       + [Experience Cloud技术讲座](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience League直播](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -118,3 +118,5 @@ ht-degree: 10%
       + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [使用Workfront唤醒](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
+   + 隐藏{#hidden}
+      + [Adobe Pass REST API v2](../single-events/adobe-pass-rest-api-v2.md)
