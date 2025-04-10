@@ -8,24 +8,28 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: c79fce8485ff5e4584df436688bf7d0aeac5061f
+source-git-commit: ca10c0d6d26fe2348776cb92eeb306fc0511737f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 1%
 
 ---
 
 # 不等待……进行协作！ Real-Time CDP Collaboration简介
 
-Real-Time CDP Collaboration现在可供美国客户使用，它面向品牌和出版商提供了专门构建的便于用户使用、以隐私为中心的数据协作。 它可以帮助您（我们的客户）发现、激活和衡量受众，以最大限度地提高广告收入，并加快付费营销的步伐。 想知道最精彩的部分吗？ 如果您是Real-Time CDP的客户，则已有权访问这项令人惊叹的新功能。 我们抓到你的注意力了吗？ 是否要了解更多信息？ 如果是……
+我们的专家最初于2025年4月10日播出，他们讨论了Real-Time CDP Collaboration如何为品牌和出版商提供用户友好且以隐私为中心的数据协作。 面向美国客户，您可以发现、激活和衡量受众以最大限度地提高广告收入，并按照付费营销的步伐推动付费媒体工作。
 
-加入此会话：
+在本次研讨会中，我们探讨了：
 
-* 了解我们最初构建此架构的原因，并了解我们认为此架构如何帮助您通过简单性和互操作性来解决消费者隐私问题和受众触及难题
-* 观看Real-Time CDP Collaboration的实际操作以及产品演示
-* 了解我们将解决哪些用例以及即将出现什么
-* 直接听取产品专家的意见！
+* 我们为什么要构建此产品，以及它如何通过简单性和互操作性帮助解决消费者隐私和受众触及挑战
+* Real-Time CDP Collaboration的实际操作以及产品演示
+* 现在支持的用例以及即将推出的功能
 
-[![ExL LIVE 2025年4月10日](assets/WebBanner_Apr10_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-250410.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
+<!-- 
+**Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
+-->
 
-[**立即注册！**](https://engage.adobe.com/ExpLeagueLive-250410.html)
+## 其他资源
+
+[Real-Time CDP Collaboration视频](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
