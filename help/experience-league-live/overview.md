@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2c493534364159569f7a9b304cfd79913dd7f6f5
+source-git-commit: 461e5475eda2446e1d5339a93efee6ba88e78171
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 3%
@@ -23,7 +23,10 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 ## 即将举行的Experience League LIVE活动
 
-<div>请稍后回来查看有关下一个计划节目的信息。</div>
+请稍后回来查看有关下一个计划节目的信息。
+
+</div>
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
