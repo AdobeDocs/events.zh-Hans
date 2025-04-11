@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2838fbbcafd0454e47c069365cfc912473fbaccf
+source-git-commit: 3599290ac96cb3791f555bb8ef75ee33a44a57e3
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '161'
 ht-degree: 3%
 
 ---
@@ -24,25 +24,8 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 ## 即将举行的Experience League LIVE活动
 
 <div>请稍后回来查看有关下一个计划节目的信息。</div>
-&lt;!— 
-<table>
 <tr>
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-10-25.md">
-      <img alt="Experience League LIVE 4月10日" src="episodes/assets/WebBanner_Apr10_2025.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-04-10-25.md">
-        <strong>不等待……协作！ Real-Time CDP Collaboration</strong>简介
-      </a>
-      <br/><em>与Nina Caruso、Clayton Smith和Doug Moore</em>
-      <br/><em>2025年4月10日</em>
-    </div>
-  </td>
- </tr>
-</table>
 
-</div>
---&gt;
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
