@@ -31,13 +31,13 @@ ht-degree: 2%
 
 ## 资源
 
-* [AEM Assets用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [正在设置您的AEM Assets文件夹结构](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [设置AEM Assets文件夹权限](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
-* [使用收藏集来组织和共享资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [通过机器学习查找视觉上相似的资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [使用动态搜索Facet获取精确准确的搜索结果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [高级全文搜索语法](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [AEM Assets用户指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=zh-Hans)
+* [正在设置您的AEM Assets文件夹结构](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=zh-Hans)
+* [设置AEM Assets文件夹权限](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=zh-Hans)
+* [使用收藏集来组织和共享资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=zh-Hans)
+* [通过机器学习查找视觉上相似的资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=zh-Hans)
+* [使用动态搜索Facet获取精确准确的搜索结果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=zh-Hans)
+* [高级全文搜索语法](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=zh-Hans#using)
 
 ## 系列录制
 

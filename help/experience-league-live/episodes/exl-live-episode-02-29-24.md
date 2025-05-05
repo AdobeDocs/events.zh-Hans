@@ -49,6 +49,6 @@ Adobe Campaign v8将具有全新的外观。 重新设计后的用户体验简�
 * **[Campaign Web用户界面 — 关键功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hans){target="_blank"}**
   *有关Adobe Campaign Web用户界面中当前可用内容的详细文档。*
 
-* **[Adobe Campaign Web用户界面 — Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* **[Adobe Campaign Web用户界面 — Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}**
   *有关Adobe Campaign Web用户界面特性和功能的操作方法视频和教程。*
 

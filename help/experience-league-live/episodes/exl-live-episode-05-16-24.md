@@ -28,6 +28,6 @@ ht-degree: 0%
 
 若要向Adobe专家以及同行提出问题或进行沟通，请访问[Experience League社区讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}。
 
-有关其他文档，请参阅[使用Adobe Experience Platform Web SDK实施Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview)。
+有关其他文档，请参阅[使用Adobe Experience Platform Web SDK实施Adobe Analytics](https://experienceleague.adobe.com/zh-hans/docs/analytics/implementation/aep-edge/web-sdk/overview)。
 
 要参加即将举行的&#x200B;**网络研讨会，了解实施Web SDK**&#x200B;的战略步骤，请在此处[注册](https://engage.adobe.com/step_by_step_guide_implement.html)。

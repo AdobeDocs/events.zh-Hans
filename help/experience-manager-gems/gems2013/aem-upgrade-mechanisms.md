@@ -33,5 +33,5 @@ Bertrand Delacretaz，Adobe高级开发人员
 [文档](https://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

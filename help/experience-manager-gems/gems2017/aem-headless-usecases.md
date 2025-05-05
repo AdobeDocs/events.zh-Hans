@@ -35,5 +35,5 @@ ht-degree: 0%
 
 [获取文件](assets/gems-fluid-experiencesoct1617.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -37,5 +37,5 @@ Gabriel Walt，Adobe产品经理
 [使用HTL进行开发](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

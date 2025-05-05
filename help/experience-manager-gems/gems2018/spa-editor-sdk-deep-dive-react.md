@@ -36,12 +36,12 @@ ht-degree: 0%
 
 ## 相关链接 {#related-links}
 
-[周末教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[周末教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=zh-Hans)
 
-[文档](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[文档](https://helpx.adobe.com/cn/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [示例 — 我们零售日记帐](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

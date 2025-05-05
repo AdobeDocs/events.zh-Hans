@@ -31,4 +31,4 @@ Christine Duran，Sr翻译技术组经理，Adobe
 
 * [多站点管理最佳实践](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [翻译最佳实践](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [返回概述](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [返回概述](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)

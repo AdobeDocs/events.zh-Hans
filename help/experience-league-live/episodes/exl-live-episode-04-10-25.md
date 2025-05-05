@@ -31,4 +31,4 @@ ht-degree: 1%
 
 ## 其他资源
 
-[Real-Time CDP Collaboration视频](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[Real-Time CDP Collaboration视频](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

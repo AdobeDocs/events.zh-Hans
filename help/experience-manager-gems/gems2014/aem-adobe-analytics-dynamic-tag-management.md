@@ -33,12 +33,12 @@ Sandro Looser，解决方案设计师，Adobe
 
 [与Adobe动态Tag Management集成](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[DTM帮助](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
+[DTM帮助](https://experienceleague.adobe.com/docs/data-collection.html?lang=zh-Hans)
 
 [请求访问DTM](https://dtm.adobe.com/request_access)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

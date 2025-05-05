@@ -31,12 +31,12 @@ ht-degree: 3%
 
 ## 资源
 
-*[使用元数据架构管理资源元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
-*[扩展元数据架构](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
+*[使用元数据架构管理资源元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=zh-Hans)
+*[扩展元数据架构](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=zh-Hans)
 *[使用层叠元数据优化元数据创作](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=zh-Hans)
-*[使用元数据配置文件自动将元数据应用到资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
-*[AEM元数据架构](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[管理资源元数据](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[使用元数据配置文件自动将元数据应用到资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=zh-Hans)
+*[AEM元数据架构](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=zh-Hans#administer)
+*[管理资源元数据](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=zh-Hans#RegisteringacustomnamespacewithinAEM)
 
 ## 系列录制
 

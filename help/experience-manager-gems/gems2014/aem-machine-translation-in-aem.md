@@ -37,5 +37,5 @@ Adobe Experience Manager允许您使用Microsoft Translator将用户生成的和
 
 [获取文件](assets/q-a-machine-translation-12-3-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -26,7 +26,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
     <p>
     <em>创建和管理一系列有趣的网站、移动应用程序和表单。 此外，学习使用我们灵活的AI支持的商务解决方案，在单个平台上构建多渠道商务体验。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html?lang=zh-Hans" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
     </a>
   </td>
@@ -38,7 +38,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
     <p>
     <em>通过从所有来源获取数据来开发实时客户档案，以创建个性化的跨渠道历程。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=zh-Hans" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
     </a>
   </td>
@@ -50,7 +50,7 @@ Skill Builder是一个网络研讨会系列，旨在构建您的知识库并最�
     <p>
     <em>使用整个组织的在线和离线数据分析，在任何渠道上推动实时个性化。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html?lang=zh-Hans" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览会话</span>
     </a>
   </td>  

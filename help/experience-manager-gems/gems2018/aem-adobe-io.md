@@ -29,5 +29,5 @@ François Le Droff，Adobe云集成高级计算机科学家
 [获取文件](assets/gem-2018-05-aem-events.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -33,12 +33,12 @@ Timothee Maret，高级开发人员，Adobe
 
 >[!WARNING]
 >
->AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)访问文档的存档版本。
+>AEM版本6.4及更早版本已结束其产品周期，不再按Adobe出售。  Adobe建议升级到最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hans)。  可以从此[页面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hans)访问文档的存档版本。
 >
 >由于它与此会话相关，请参阅AEM文档中的&#x200B;*用户同步*。
 
 * [Apache Sling内容分发](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [返回概述](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [返回概述](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >

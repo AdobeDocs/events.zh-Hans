@@ -33,5 +33,5 @@ ht-degree: 0%
 
 [获取文件](assets/aemgems-upgrades-2015-trekaewk.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

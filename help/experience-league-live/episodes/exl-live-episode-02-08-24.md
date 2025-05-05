@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 其他资源
 
-* **[用例行动手册概述](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[用例行动手册概述](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=zh-Hans){target="_blank"}**
   *用例行动手册可帮助您在开始使用Real-Time CDP或Adobe Journey Optimizer时克服问题，当时您可能不知道从什么开始，也不知道如何创建正确的资源，以实现您所需的用例。*
 
 * **[用例行动手册入门](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=zh-Hans){target="_blank"}**

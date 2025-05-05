@@ -25,7 +25,7 @@ ht-degree: 0%
 * 营销渠道简介：了解对各种营销渠道进行识别和分类的重要性，以了解它们对您的数字展示的影响。
 * 配置Adobe Analytics：获取有关设置促销活动跟踪代码、捕获相关数据和利用AdobeLaunch高效收集数据的实用知识。
 
-  要下载此会话中介绍的促销活动跟踪代码生成器工具，请在Experience League角度中访问[掌握Adobe Analytics营销渠道和归因](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution)。
+  要下载此会话中介绍的促销活动跟踪代码生成器工具，请在Experience League角度中访问[掌握Adobe Analytics营销渠道和归因](https://experienceleague.adobe.com/zh-hans/perspectives/mastering-adobe-analytics-marketing-channels-attribution)。
 
 * 分类和处理规则：了解如何使用分类规则生成器并配置营销渠道处理规则以实现精确的流量源分类。
 * 归因模型：探索Adobe Analytics中可用的各种归因模型，以及如何应用它们来衡量和优化营销工作的有效性。

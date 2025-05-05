@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 准备对Adobe身份进行Marketo Engage
 
-这是关于[Adobe Marketo Engage订阅与AdobeIdentity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)集成的迁移的培训。 该内容最适合Marketo Engage管理员。 本培训将使您具备必要的知识，帮助您跨职能做好组织准备，并就这一即将到来的更改对内部用户进行教育。
+这是关于[Adobe Marketo Engage订阅与AdobeIdentity Management System](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)集成的迁移的培训。 该内容最适合Marketo Engage管理员。 本培训将使您具备必要的知识，帮助您跨职能做好组织准备，并就这一即将到来的更改对内部用户进行教育。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)

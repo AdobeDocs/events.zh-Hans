@@ -26,6 +26,6 @@ Adobe Experience Manager是行业领先的内容管理解决方案。 此PWA扩�
 
 ## 其他资源
 
-- [Adobe Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience Manager Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hans)
+- [Adobe Experience Manager Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=zh-Hans)
+- [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=zh-Hans)

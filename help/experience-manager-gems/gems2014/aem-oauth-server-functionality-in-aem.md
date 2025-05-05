@@ -28,5 +28,5 @@ Antonio Sanso，Adobe软件工程师
 
 [获取文件](assets/oauth-server-functionality-in-aem-7-23-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/cn/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

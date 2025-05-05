@@ -21,8 +21,8 @@ ht-degree: 6%
    + [利用客户配置文件构建更好的体验](cdm/building-better-experiences-with-customer-profiles.md)
    + [营销团队如何改进数据管理策略](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + 受众和配置文件数据管理及隐私{#governance}
-   + [负责任的客户数据管理的 10 个注意事项](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [提升营销人员作为数据管理员的角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [负责任的客户数据管理的 10 个注意事项](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hans)
+   + [提升营销人员作为数据管理员的角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=zh-Hans)
    + [受众个人资料数据管理与隐私](governance/healthcare-shield.md)
 + 行业讨论{#industry}
    + [使用您的第一方数据构建卓越的体验](industry/build-superb-experiences-with-your-first-party-data.md)

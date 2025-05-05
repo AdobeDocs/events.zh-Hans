@@ -24,6 +24,6 @@ Adobe Analytics是市场上功能最广泛的分析工具之一。 它以用户�
 
 ## 其他资源
 
-- [Adobe Experience Platform文档](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform文档](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hans)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hans)
-- [Adobe Experience Platform 教程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+- [Adobe Experience Platform 教程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hans)

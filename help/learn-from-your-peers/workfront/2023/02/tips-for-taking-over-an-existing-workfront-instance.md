@@ -25,6 +25,6 @@ ht-degree: 0%
 * 每个管理员今天应该做什么来为其未来自己（和未来管理员）的成功做好准备
 * 带有问题、资源和链接的可下载核对清单，可指导您完成审核和记录实例的过程
 
-另请务必查看继承实例核对清单和Blueprint：https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+另请务必查看继承实例核对清单和Blueprint：https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)
