@@ -19,4 +19,4 @@ ht-degree: 0%
 
 我们召集了来自全球的5位[!DNL Adobe Analytics]冠军分享帮助他们掌握[!DNL Adobe Analytics]的技巧和窍门。 在活动期间，全球[!DNL Adobe Analytics]用户向90多个用户提问。 由于我们的[!DNL Adobe Analytics]专家在实时问答中无法回答所有这些问题，因此我们将该小组召集在一起，并主办了一个后续问答会议，支持人员回答您的问题并分享更多专家提示和技巧。
 
->[!VIDEO](https://video.tv.adobe.com/v/3414192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457007/?quality=12&learn=on&captions=chi_hans)

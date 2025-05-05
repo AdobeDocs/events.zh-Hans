@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在入站和出站渠道之间对齐内容可能很难组织。 Adobe Experience Manager允许您创建入站和出站内容，并在客户历程中利用该内容。 本课程介绍与Adobe Target、Adobe Campaign、Adobe Journey Optimizer等的集成模式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455023/?learn=on&captions=chi_hans)

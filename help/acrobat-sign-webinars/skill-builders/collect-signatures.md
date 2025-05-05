@@ -20,7 +20,7 @@ ht-degree: 0%
 
 了解Acrobat Sign中的批量发送功能如何节省您的时间。 如果您需要多个人在企业范围的策略更新、NDA或任何其他文档的唯一副本上签名，批量发送允许您准备文件一次，通过一次单击发送给多个签名者，并轻松跟踪响应。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454904/?learn=on&captions=chi_hans)
 
 ## 要点
 

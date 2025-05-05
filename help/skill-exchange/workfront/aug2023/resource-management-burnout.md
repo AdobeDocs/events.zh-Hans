@@ -30,4 +30,4 @@ ht-degree: 0%
 * 如何合并休息时间跟踪
 * Mayo Clinic如何使用Analytics和Resource Manager为团队提供透明度和规划新工作的示例
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457106/?learn=on&captions=chi_hans)

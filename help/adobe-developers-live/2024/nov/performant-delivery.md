@@ -22,7 +22,7 @@ ht-degree: 0%
 
 与Adobe的高级产品经理Riya Midha一起，探索设置Adobe Experience Manager Assets Dynamic Media的最佳实践。 了解如何优化资产交付、增强视频流、配置查看器以及衡量和改进性能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440427/?learn=on&enablevpops&captions=chi_hans)
 
 ## 社区讨论
 

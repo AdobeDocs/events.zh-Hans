@@ -20,4 +20,4 @@ ht-degree: 0%
 
 在当今的跨渠道和数字世界中，消费者能够随时随地以他们想要的方式参与。 而且营销人员必须做好准备，否则他们可能会面临客户体验不佳，甚至更糟糕的情况，即流失风险。 答案不仅在于一个支持跨渠道编排消息的营销平台，还在于拥有一个支持跨所有渠道规划、执行和衡量营销活动的营销组织。
 
->[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457060/?quality=12&learn=on&captions=chi_hans)

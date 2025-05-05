@@ -25,4 +25,4 @@ ht-degree: 0%
 * 了解如何与组织的业务用例保持一致
 * 实时CDP准备的关键资源和操作
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457073/?learn=on&captions=chi_hans)

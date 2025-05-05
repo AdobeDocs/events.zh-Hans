@@ -22,4 +22,4 @@ ht-degree: 0%
 
 提升 — 教导Workspace的临时用户
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456694/?learn=on&captions=chi_hans)

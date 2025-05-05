@@ -21,4 +21,4 @@ ht-degree: 0%
 
 所有关于区段的信息 — 如何对数据进行切片和切块，以获得见解
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456617/?learn=on&captions=chi_hans)

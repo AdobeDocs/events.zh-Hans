@@ -24,6 +24,6 @@ Commerce中的人工智能概述和演示，Adobe通过Adobe Express的最新创
 
 + 由Adobe高级解决方案顾问Eroka O&#39;Connor主持
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456494/?learn=on&captions=chi_hans)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

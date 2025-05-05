@@ -20,7 +20,7 @@ ht-degree: 0%
 
 对集成进行公证化 — 对文档进行公证的更快更简单的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454382/?learn=on&captions=chi_hans)
 
 ## 涵盖的关键主题
 

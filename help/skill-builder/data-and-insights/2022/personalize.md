@@ -21,4 +21,4 @@ ht-degree: 0%
 
 *Matthias Kolitsch*&#x200B;高级多解决方案培训师EMEA/Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457388/?quality=12&learn=on&captions=chi_hans)

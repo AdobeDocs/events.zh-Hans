@@ -19,7 +19,7 @@ ht-degree: 0%
 
 了解超个性化这一新时代。 我们将为个性化成熟度模型奠定基础，讨论常用拦截器，并提供入门的战术提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457355/?learn=on&captions=chi_hans)
 
 ## 主要讨论点
 

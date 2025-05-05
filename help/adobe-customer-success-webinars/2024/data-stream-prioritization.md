@@ -28,4 +28,4 @@ ht-degree: 0%
 - 了解数据流优先级的重要性和最佳实践
 - 实时优化营销活动
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456815/?learn=on&captions=chi_hans)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解Adobe Commerce的当前状态以及过去几年中发生的一些增强功能。 Adobe Commerce是一种现代化的企业解决方案，它适应多个行业和使用案例，本实时讨论涉及几个现有客户以及他们如何使用Adobe Commerce完成其商业体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425803/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455211/?learn=on&captions=chi_hans)

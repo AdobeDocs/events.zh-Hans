@@ -18,4 +18,4 @@ ht-degree: 0%
 
 听听Walgreens的Nicholas Twillie和Alma Martinez谈到Workfront的时间表。 然后看克里斯蒂安·巴恩斯给你看时间表的技术方面。
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457344/?quality=12&learn=on&captions=chi_hans)

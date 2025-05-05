@@ -31,4 +31,4 @@ IPG Health生产情报副总裁Dale Whitchurch将分享他和团队如何将多�
 将Workfront集成到更广泛的技术栈栈中并完善关键工作流的实用建议
 IPG如何为内容供应链奠定基础
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456672/?learn=on&captions=chi_hans)

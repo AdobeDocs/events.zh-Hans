@@ -24,4 +24,4 @@ ht-degree: 0%
 
 了解Search和Catalog的服务，以增强和优化店面体验。  此演示介绍了Commerce Services Connector以及如何使用GraphQL将其用于您的店面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454746/?learn=on&captions=chi_hans)

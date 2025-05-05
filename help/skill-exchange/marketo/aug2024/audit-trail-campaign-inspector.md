@@ -26,4 +26,4 @@ ht-degree: 0%
 * 使用审核记录的最佳实践，包括检查内容、检查频率及其重要原因，以及最新2024年6月版本带来的其他好处。
 * 如何使用活动检查器定期检查智能活动，包括要查找的内容（数量、批次与触发器、高延迟触发可能会减慢实例运行速度的活动等）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456961/?learn=on&captions=chi_hans)

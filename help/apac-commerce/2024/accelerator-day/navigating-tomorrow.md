@@ -24,6 +24,6 @@ ht-degree: 0%
 
 + 由Adobe Commerce产品经理Scott Rigby介绍JAPAC
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454569/?learn=on&captions=chi_hans)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

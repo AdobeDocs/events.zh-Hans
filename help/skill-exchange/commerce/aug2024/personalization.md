@@ -26,4 +26,4 @@ ht-degree: 0%
 * 在Adobe Commerce中利用分段和动态内容的最佳实践
 * 有效内容管理以增强客户参与度的策略
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456950/?learn=on&captions=chi_hans)

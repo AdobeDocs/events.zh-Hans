@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本课程将总结，介绍Adobe Analytics如何跟踪网站数据并利用可视化图表获得进一步的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456737/?learn=on&captions=chi_hans)

@@ -25,4 +25,4 @@ ht-degree: 0%
 * 高级体系结构概述
 * 有关数据收集和激活策略的注意事项
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456234/?learn=on&captions=chi_hans)

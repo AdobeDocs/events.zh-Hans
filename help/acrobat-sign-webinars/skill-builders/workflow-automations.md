@@ -20,7 +20,7 @@ ht-degree: 0%
 
 直接在Adobe Acrobat Sign中使用Microsoft的低代码/无代码解决方案Power Automate利用所有自动化功能。 了解非开发人员如何具有创建下一代工作流的能力和灵活性。 在此会话中，您将学习如何：设置工作流集成以开始使用预建模板快速启动工作流创建利用庞大的连接器生态系统将Acrobat Sign集成到您的打包和自定义应用程序提高工作效率并扩展Acrobat Sign的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454934/?learn=on&captions=chi_hans)
 
 ## 有关Power Automate的更多详细信息
 

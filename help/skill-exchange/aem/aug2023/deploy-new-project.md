@@ -23,4 +23,4 @@ ht-degree: 0%
 
 本技能交流重点介绍新AEM开发人员如何启动和部署新项目。 它将重点介绍AEM项目原型、Cloud Manager设置和开发工具等主题。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457284/?learn=on&captions=chi_hans)

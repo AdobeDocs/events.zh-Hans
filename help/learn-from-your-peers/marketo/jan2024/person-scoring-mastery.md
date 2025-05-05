@@ -29,7 +29,7 @@ ht-degree: 0%
 * 如何设置透明且可伸缩的人员评分模型
 * 在Marketo Engage中实施此操作的最佳方法，允许本地市场的灵活性，同时保持模型的逻辑性和一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457449/?learn=on&captions=chi_hans)
 
 ## 网络研讨会中共享的资源
 

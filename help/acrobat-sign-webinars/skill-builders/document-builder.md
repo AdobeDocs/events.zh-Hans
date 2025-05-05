@@ -20,7 +20,7 @@ ht-degree: 0%
 
 通过在Salesforce中自动执行日常任务（如准备数据驱动文档），在几秒钟内即可让您的销售团队掌握预先填充的提案、合同、发票等信息。 Document Builder允许您在发送供签名之前使用Salesforce数据动态生成文档，使曾经繁琐的流程更加简单和简化。 我们将逐步指导您完成此过程，这肯定会帮助您节省时间和精力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454923/?learn=on&captions=chi_hans)
 
 ## Document Builder适用于Acrobat Sign的用途是什么？
 

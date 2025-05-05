@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在本鼓舞人心的演示中，我们深入探讨了“携手共进”的故事，其中Adobe Commerce与我们全面的技术套件进行了无缝集成。 了解此协同效应如何促进效率、创新和全面客户体验，将您的业务提升到新的高度
 
->[!VIDEO](https://video.tv.adobe.com/v/3426311/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455988/?learn=on&captions=chi_hans)

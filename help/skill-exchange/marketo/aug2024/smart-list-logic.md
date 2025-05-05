@@ -26,4 +26,4 @@ ht-degree: 0%
 * 深入了解配置和自定义受众的四个逻辑级别
 * 对逻辑进行故障诊断并验证是否已正确定向目标受众的技巧
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457308/?learn=on&captions=chi_hans)

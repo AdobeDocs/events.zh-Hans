@@ -33,4 +33,4 @@ ht-degree: 0%
 
 MBI通过仪表板显示从平均订单价值到客户存留期值和保留率的所有信息，从而简化报表。 借助这些强大的洞察力，您可以采取相应行动，为您的在线业务创造递增价值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413901/?quality=12&learn=on&captions=chi_hans)

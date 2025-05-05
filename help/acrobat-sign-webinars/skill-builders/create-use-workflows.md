@@ -20,7 +20,7 @@ ht-degree: 0%
 
 调用所有Acrobat Sign管理员和最终用户/个人参与者。 该课程将介绍工作流的创建和使用。 作为Acrobat Sign组或帐户管理员，了解如何定义预设工作流以自动将待签名的文档路由到正确的参与方，然后授予对整个Acrobat Sign组的访问权限。 作为最终用户，了解如何使用这些工作流确保文档在第一次和每次都正确签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454912/?learn=on&captions=chi_hans)
 
 ## 涵盖的主题
 

@@ -37,7 +37,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/advanced-reporting" title="Acrobat Sign的高级报表功能">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1731453823479" alt="Acrobat Sign的高级报表功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454415/?format=jpeg&nocache=1731453823479&captions=chi_hans" alt="Acrobat Sign的高级报表功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -60,7 +60,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/advanced-sending-documents-signature" title="发送文档供签名高级提示">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1731453823460" alt="发送文档供签名高级提示"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454890/?format=jpeg&nocache=1731453823460&captions=chi_hans" alt="发送文档供签名高级提示"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/agreement-status" title="管理协议 — 实时了解协议状态">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428190/?format=jpeg&nocache=1731453823516" alt="管理协议 — 实时了解协议状态"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455011/?format=jpeg&nocache=1731453823516&captions=chi_hans" alt="管理协议 — 实时了解协议状态"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -106,7 +106,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/authoring-environment" title="有关创作环境的高级培训">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1731453823517" alt="有关创作环境的高级培训"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455917/?format=jpeg&nocache=1731453823517&captions=chi_hans" alt="有关创作环境的高级培训"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -129,7 +129,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/collect-signatures" title="只需单击一下即可收集多个签名">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1731453823488" alt="只需单击一下即可收集多个签名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454904/?format=jpeg&nocache=1731453823488&captions=chi_hans" alt="只需单击一下即可收集多个签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +152,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/create-use-workflows" title="创建和使用从头到尾的工作流">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428192/?format=jpeg&nocache=1731453823485" alt="创建和使用从头到尾的工作流"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454912/?format=jpeg&nocache=1731453823485&captions=chi_hans" alt="创建和使用从头到尾的工作流"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +175,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/document-builder" title="适用于Adobe Acrobat Sign的Document Builder">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1731453823516" alt="适用于Adobe Acrobat Sign的Document Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454923/?format=jpeg&nocache=1731453823516&captions=chi_hans" alt="适用于Adobe Acrobat Sign的Document Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +198,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/e-signature-microsoft" title="在Microsoft应用程序中使用电子签名">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428185/?format=jpeg&nocache=1731453823517" alt="在Microsoft应用程序中使用电子签名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455060/?format=jpeg&nocache=1731453823517&captions=chi_hans" alt="在Microsoft应用程序中使用电子签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,7 +221,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/e-signature-setup" title="准备您的协议以进行电子签名">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428184/?format=jpeg&nocache=1731453823483" alt="准备您的协议以进行电子签名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455959/?format=jpeg&nocache=1731453823483&captions=chi_hans" alt="准备您的协议以进行电子签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,7 +244,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/fillable-signable-web-form" title="发布可填写的、可签名的Web表单">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1731453823488" alt="发布可填写的、可签名的Web表单"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455460/?format=jpeg&nocache=1731453823488&captions=chi_hans" alt="发布可填写的、可签名的Web表单"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -267,7 +267,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/getting-started" title="Acrobat Sign 101 — 快速入门">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1731453823457" alt="Acrobat Sign 101 — 快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455475/?format=jpeg&nocache=1731453823457&captions=chi_hans" alt="Acrobat Sign 101 — 快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,7 +290,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/notarize" title="公证集成">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1731453823489" alt="公证集成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454382/?format=jpeg&nocache=1731453823489&captions=chi_hans" alt="公证集成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,7 +313,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/workflow-automations" title="由Microsoft Power Automate提供支持的工作流自动化">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1731453823611" alt="由Microsoft Power Automate提供支持的工作流自动化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454934/?format=jpeg&nocache=1731453823611&captions=chi_hans" alt="由Microsoft Power Automate提供支持的工作流自动化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

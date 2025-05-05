@@ -20,7 +20,7 @@ ht-degree: 0%
 
 了解如何创建一个Web表单，让任何人都可以完成并签名 — 而无需启动交易，甚至无需知道签名者的电子邮件地址。 您还将看到如何准备文档模板，该模板可用于个人签名交易以及发布到唯一URL以进行广泛共享。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455460/?learn=on&captions=chi_hans)
 
 ## 要点
 

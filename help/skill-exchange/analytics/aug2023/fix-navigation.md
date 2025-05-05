@@ -20,4 +20,4 @@ ht-degree: 0%
 
 导航是访客找到网站并进入转化漏斗的关键。 了解如何通过Adobe Analytics跟踪导航的效果以及如何改进导航效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457377/?learn=on&captions=chi_hans)

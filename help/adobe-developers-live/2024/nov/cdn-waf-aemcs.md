@@ -21,7 +21,7 @@ ht-degree: 0%
 
 通过可自定义的CDN规则、WAF保护和配置管道，充分发挥Adobe Managed CDN的潜力。 Adobe高级计算机科学家Marius Petria、Adobe软件开发工程师Quentin Vecchio和Adobe软件开发工程师Florian Froese分享了增强Adobe Experience Manager as a Cloud Service应用程序性能和安全性的策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440612/?learn=on&enablevpops&captions=chi_hans)
 
 ## 社区讨论
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 与Adobe的首席技术架构师Achim Koch一起了解如何将旧版DAM迁移到Adobe Experience Manager Assets。 深入了解利益相关者分析、资源规划、数据转换和最佳实践，例如使用CSV文件进行数据处理。 为您自己的Adobe Experience Manager迁移项目构建路线图。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440403/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440449/?learn=on&enablevpops&captions=chi_hans)
 
 ## 社区讨论
 

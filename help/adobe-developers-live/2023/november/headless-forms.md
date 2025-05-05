@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Headless自适应Forms是一种用于在Adobe Experience Manager平台中创建和管理Headless Web表单的解决方案。 此功能使组织能够创建、发布和管理可通过API访问和交互的交互式表单，而不是通过传统的图形用户界面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426336/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454978/?learn=on&captions=chi_hans)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 该网络研讨会将演示如何整合这些概念以提高效率、增强客户体验并支持组织内数据驱动的决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457018/?learn=on&captions=chi_hans)
 
 ## 主要要点
 

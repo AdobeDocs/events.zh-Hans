@@ -24,4 +24,4 @@ ht-degree: 0%
 
 出色的体验性能是体验成功的关键。 在本次研讨会中，我们将与您分享我们的10大提示最佳实践，以帮助您的开发人员更快地构建您的Adobe Experience Manager网站。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457185/?quality=12&learn=on&captions=chi_hans)

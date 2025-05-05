@@ -20,7 +20,7 @@ ht-degree: 0%
 
 通过将Adobe Acrobat Sign添加到现有工作流，扩展您使用Microsoft应用程序（如Word、Outlook和Sharepoint）的方式。 本课程将向您讲授如何开始简化常见Microsoft应用程序中的文档流程，这样您就不需要为了获取签名或检查状态而切换上下文。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455060/?learn=on&captions=chi_hans)
 
 ## Acrobat Sign集成支持哪些应用程序？
 

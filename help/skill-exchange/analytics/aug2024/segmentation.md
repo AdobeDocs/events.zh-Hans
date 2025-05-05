@@ -26,4 +26,4 @@ Adobe Analytics中的区段可能非常强大，但凭借这种力量，会带�
 * 排除逻辑的威力
 * 选择正确的配置以成功
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456939/?learn=on&captions=chi_hans)

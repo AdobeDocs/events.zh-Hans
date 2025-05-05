@@ -28,6 +28,6 @@ ht-degree: 0%
 + 卡罗莱纳·德·菲格雷多 — 克莉斯比·克雷梅
 + 侯赛因·穆斯塔法
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457243/?learn=on&captions=chi_hans)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

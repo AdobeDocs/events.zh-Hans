@@ -27,6 +27,6 @@ ht-degree: 0%
 
 在&#x200B;**[Experience League社区](https://adobe.ly/36Yd3v6)**&#x200B;中继续对话。
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454404/?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 单击&#x200B;**[此处](/help/adobe-developers-live/assets/content-commerce.pdf)**&#x200B;查看会话幻灯片。

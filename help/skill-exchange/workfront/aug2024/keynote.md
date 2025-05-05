@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Workfront：开幕主题演讲
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454492/?learn=on&captions=chi_hans)

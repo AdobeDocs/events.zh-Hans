@@ -20,7 +20,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=zh-Hans">
-      <img alt="使用Adobe Target实现个性化和自动化" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
+      <img alt="使用Adobe Target实现个性化和自动化" src="https://video.tv.adobe.com/v/3457388?format=jpeg&captions=chi_hans" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=zh-Hans">

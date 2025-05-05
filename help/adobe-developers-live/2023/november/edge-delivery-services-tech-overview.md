@@ -25,4 +25,4 @@ ht-degree: 5%
 
 或许，“最常谈论AEM世界中的变化”的人会看到加入AEM家族的新Edge Delivery Services的详细技术概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455936/?learn=on&captions=chi_hans)

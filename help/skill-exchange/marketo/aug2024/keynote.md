@@ -20,4 +20,4 @@ ht-degree: 0%
 
 拉杰·帕特尔主持的开幕式主题演讲
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453065/?learn=on&captions=chi_hans)

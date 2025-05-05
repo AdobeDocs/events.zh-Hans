@@ -24,4 +24,4 @@ ht-degree: 0%
 
 通用编辑器是新一代AEM上下文页面编辑器，它解决了AEM页面编辑器或SPA编辑器的当前限制。 它独立于框架、渲染引擎和数据源，因此提供了开发人员所寻求的所有自由，并使其真正具有普遍性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456479/?learn=on&captions=chi_hans)
