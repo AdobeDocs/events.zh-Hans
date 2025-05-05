@@ -20,7 +20,7 @@ ht-degree: 13%
 # 在布鲁后面 {#behind-the-brew-recordings}
 
 + [概述](overview.md)
-+ 在酿造{#behind-the-brew}之后
++ 在酿造之后{#behind-the-brew}
 + 2025 {#2025}
    + [Adobe Developer App Builder](2025/app-builder.md)
    + [Adobe Commerce Intelligence (fka MBI)](2025/commerce-intelligence.md)

@@ -17,7 +17,7 @@ ht-degree: 4%
    + 2023 {#2023}
       + 11月{#nov2023}
          + [影响深远的数据可视化图表](analytics/nov2023/impactful-data-visualizations.md)
-      + {#aug2023}年8月
+      + 年8月{#aug2023}
          + [在Adobe Analytics中释放处理规则的强大功能](analytics/aug2023/processing-rules.md)
       + 二月{#feb2023}
          + [构建数据驱动型文化](analytics/feb2023/data-driven-culture.md)
@@ -26,9 +26,9 @@ ht-degree: 4%
       + 11月{#nov2022}
          + [提示和技巧](analytics/nov2022/tips-and-tricks.md)
          + [Champion提示和技巧跟进问答](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + {#aug2022}年8月
+      + 年8月{#aug2022}
          + [数据质量和采用](analytics/aug2022/data-quality.md)
-      + {#jun2022}年6月
+      + 年6月{#jun2022}
          + [可能的文件访问](analytics/june2022/mission-possible.md)
       + 三月{#mar2022}
          + [用数据讲述有影响力的故事](analytics/mar2022/stories-with-data.md)
@@ -41,7 +41,7 @@ ht-degree: 4%
    + 九月{#sept2023}
       + [深入了解AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7月{#july2023}
-      + 在Cloud Service中[有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [在Cloud Service中有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 五月{#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
@@ -77,7 +77,7 @@ ht-degree: 4%
          + [使用Workfront进行培训和赋能](workfront/2023/11/using-workfront-for-training-and-enablement.md)
       + 7月{#july}
          + [与最终用户通信](workfront/2023/07/communicating-with-end-users.md)
-      + {#june}年6月
+      + 年6月{#june}
          + [建立Workfront卓越中心](workfront/2023/06/establishing-a-workfront-center-of-excellence.md)
       + 五月{#may}
          + [项目模板基础](workfront/2023/05/foundations-of-project-templates.md)
@@ -96,11 +96,11 @@ ht-degree: 4%
          + [工作流和流程设计](workfront/2022/10/workflow-and-process-design.md)
       + 九月{#september}
          + [资源管理快速入门](workfront/2022/09/getting-started-with-resource-management.md)
-      + {#august}年8月
+      + 年8月{#august}
          + [系统维护和清理](workfront/2022/08/system-maintenance-and-cleanup.md)
       + 7月{#july}
          + [关于请求队列](workfront/2022/07/all-about-request-queues.md)
-      + {#june}年6月
+      + 年6月{#june}
          + [业务报告的基础](workfront/2022/06/foundations-of-operational-reporting.md)
       + 五月{#may}
          + [利用组管理员](workfront/2022/05/leveraging-the-group-admin.md)
