@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
    + [GenStudio for Performance Marketing操作模型](2025/genstudio-for-performance-marketing-operating-model.md)
    + [掌握顺序逻辑](2025/mastering-sequential-logic.md)
    + [优化AEM性能](2025/optimize-aem-performance.md)
+   + [更智能的营销从这里开始 — 集成Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target的AI驱动型Personalization](2024/ai-personalization.md)
@@ -36,7 +37,7 @@ ht-degree: 0%
    + [AEM创作关键概念](2024/aem-authoring-concepts.md)
    + [AEM Sites效率](2024/aem-sites-efficiencies.md)
    + [针对客户用例的AEP应用程序服务集成](2024/aep-apps-services-integrations.md)
-   + [AEP用例计划](2024/aep-use-case-planning.md)
+   + [AEP用例规划](2024/aep-use-case-planning.md)
    + [AI赋权文案撰写](2024/ai-copywriting.md)
    + [从基本到中等分析功能](2024/basic-to-intermediate-analysis-capabilities.md)
    + [数据流优先级](2024/data-stream-prioritization.md)
