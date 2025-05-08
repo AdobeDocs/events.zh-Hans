@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 461e5475eda2446e1d5339a93efee6ba88e78171
+source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,21 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 ## 即将举行的Experience League LIVE活动
 
-请稍后回来查看有关下一个计划节目的信息。
+<table>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
+              <img alt="Experience League直播5月22日" src="episodes/assets/May-22-2025-WebBanner.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-05-22-25.md">
+                <strong>Content Analytics：使用AI分析优化性能</strong>
+              </a>
+              <br/><em>与Shay O'Reilly、Jennifer Werkmeister和Doug Moore一起</em>
+              <br/><em>2025年5月22日</em>
+            </div>
+        </td>
+    </tr>
+</table>
 
 </div>
 
@@ -87,5 +101,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 

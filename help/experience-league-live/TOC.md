@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
+source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '523'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 4%
 # Experience League 直播活动 {#experience-league-live-recordings}
 
 + [概述](overview.md)
-+ 集数{#episodes}
++ 集数 {#episodes}
+   + [Ep. 46：Content Analytics：利用AI见解优化性能](episodes/exl-live-episode-05-22-25.md)
    + [Ep. 45：不等待……协作！ Real-Time CDP Collaboration简介](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44：在Adobe Experience Platform中使用AI助手释放运营洞察](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43：在Real-Time CDP中为营销人员引入面向受众的AI助手](episodes/exl-live-episode-11-13-24.md)
