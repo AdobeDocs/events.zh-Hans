@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud技术讲座
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud技术研讨会是一种主动应对案例偏差的方法，它为客户提供了特定于解决方案的网络研讨会。
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 15%
+source-wordcount: '154'
+ht-degree: 14%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 15%
 + [Experience Cloud技术讲座](overview.md)
 + 2025 {#2025}
    + [Adobe Campaign Classic交付性能故障排除](2025/acc-delivery-performance.md)
+   + [AEM as a Cloud Service中的Dispatcher配置](2025/dispatcher-configurations.md)
    + [充分利用Marketo Measure](2025/getting-most-marketo-measure.md)
    + Marketo迁移到Adobe Admin Console {#marketo-admin-console}
       + [预迁移](2025/marketo-pre-migration.md)

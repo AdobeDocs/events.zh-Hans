@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,10 @@ ht-degree: 0%
 + [Adobe客户成功网络研讨会](overview.md)
 + 2025 {#2025}
    + [Adobe数字见解](2025/adobe-digital-insights.md)
+   + [带有GenAI的AEM](2025/aem-genai.md)
    + [AEM与Workfront集成](2025/aem-workfront-integration.md)
+   + [AI和Adobe Target](2025/ai-adobe-target.md)
+   + [为XDM架构建模的最佳实践和见解](2025/model-xdm-schemas.md)
    + [构建有效网页](2025/build-effective-web-pages.md)
    + [内容供应链基础知识](2025/content-supply-chain-basics.md)
    + [制定有效测量的策略](2025/impactful-insights.md)
@@ -26,8 +29,11 @@ ht-degree: 0%
    + [增强Personalization](2025/enhancing-personalization.md)
    + [GenAI试验](2025/gen-ai-experimentation.md)
    + [GenStudio for Performance Marketing操作模型](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [掌握顺序逻辑](2025/mastering-sequential-logic.md)
+   + [掌握顺序逻辑 — 可视化框架](2025/mastering-sequential-logic.md)
+   + [掌握顺序逻辑 — 开始停止](2025/sequential-logic-start-stop.md)
    + [优化AEM性能](2025/optimize-aem-performance.md)
+   + [赢得AEP项目的执行赞助](2025/exec-sponsorship-aep-projects.md)
+   + [Workfront Fusion基础知识和最佳实践](2025/adobe-workfront-fusion-best-practices.md)
    + [更智能的营销从这里开始 — 集成Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
