@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # 革新您的网络研讨会体验：发现交互式网络研讨会的影响
 
@@ -34,3 +34,10 @@ Adobe Marketo Engage Champion Maria Cruz利用全球直接和数字营销机构M
 * **自动化流程节省时间**&#x200B;过渡到交互式网络研讨会允许自动化流程，如销售线索传送、销售预警和跟进，从而减少手动工作并加快工作流程。
 
 * **构建可重复的行动手册**&#x200B;根据网络研讨会的见解和学习内容创建可重复的行动手册有助于自信地扩展工作范围并改进未来的网络研讨会策略。
+
+## 其他资源
+
+* 加入发布问答的Marketing Nation社区上的[讨论会话](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260)。
+* [在交互式网络研讨会中了解有关GenAI功能的更多信息](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [探索交互式网络研讨会基础知识](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [学习使用交互式网络研讨会Pod（投票、问答、CTA）](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

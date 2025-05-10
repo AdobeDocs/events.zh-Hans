@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [掌握顺序逻辑 — 可视化框架](2025/mastering-sequential-logic.md)
    + [掌握顺序逻辑 — 开始停止](2025/sequential-logic-start-stop.md)
    + [优化AEM性能](2025/optimize-aem-performance.md)
+   + [个性化数字通信](2025/personalize-digital-communications.md)
    + [赢得AEP项目的执行赞助](2025/exec-sponsorship-aep-projects.md)
    + [Workfront Fusion基础知识和最佳实践](2025/adobe-workfront-fusion-best-practices.md)
    + [更智能的营销从这里开始 — 集成Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
