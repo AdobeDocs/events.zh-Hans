@@ -9,9 +9,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
+source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
    * 面对面处理的成本是数字处理的42倍。
    * 亲自为客户上线比在线成本高55美元。
 
-* **AEM Forms功能** AEM Forms是一个端到端解决方案，可以提高运营效率和提供卓越的用户体验。 主要功能包括全渠道表单、自动工作流、个性化的客户通信以及与Adobe Experience Cloud和AEM Sights的集成。 这些功能可帮助组织将表单放弃率降低63%，自助服务率提高113%，表单完成速度提高58%。
+* **AEM Forms功能** AEM Forms是一个端到端解决方案，可以提高运营效率和提供卓越的用户体验。 主要功能包括全渠道表单、自动工作流、个性化的客户通信以及与Adobe Experience Cloud生态系统的集成。 这些功能可帮助组织将表单放弃率降低63%，自助服务率提高113%，表单完成速度提高58%。
 
 * **表单设计创新**&#x200B;引入基于云的设计器简化了表单创建，具有拖放功能、可重用内容的片段以及与数据模型的集成。 此现代化工具减少了对IT的依赖，支持更快的更新，解决了某些组织中8周表单更改周转时间的问题。
 
