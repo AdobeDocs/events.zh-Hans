@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
+source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 5%
+source-wordcount: '659'
+ht-degree: 9%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 5%
 
 + [概述](overview.md)
 + Adobe Commerce {#commerce}
-   + 2024年8月{#aug2024}
+   + 2024年8月 {#aug2024}
       + [开幕主题演讲](commerce/aug2024/keynote.md)
       + [提升Adobe Commerce性能](commerce/aug2024/commerce-performance.md)
       + [有效的可扩展性](commerce/aug2024/extensibility.md)
       + [最大限度地提高整个迁移工作流的SEO](commerce/aug2024/seo-migration-workflows.md)
       + [个性化客户体验](commerce/aug2024/personalization.md)
 + Analytics {#analytics}
-   + 2024年8月{#aug2024}
+   + 2024年8月 {#aug2024}
       + [开幕主题演讲](analytics/aug2024/keynote.md)
       + [警报和注释](analytics/aug2024/alerts-annotations.md)
       + [体验创客聚焦](analytics/aug2024/spotlight-reporting-analysis.md)
@@ -32,7 +32,7 @@ ht-degree: 5%
       + [发掘有价值的见解](analytics/aug2024/uncover-valuable-insights.md)
       + [使用计算量度](analytics/aug2024/calculated-metrics.md)
       + [Analysis Workspace的可视化图表](analytics/aug2024/spotlight-visualizations.md)
-   + 2023年8月{#aug2023}
+   + 2023年8月 {#aug2023}
       + [关于区段](analytics/aug2023/spotlight-segments.md)
       + [分析数据](analytics/aug2023/analyze-the-data.md)
       + [培训临时工作区用户](analytics/aug2023/spotlight-workspace-user.md)
@@ -49,14 +49,14 @@ ht-degree: 5%
       + [提高工作效率](analytics/may2023/productivity.md)
       + [了解量度](analytics/may2023/metrics.md)
       + [用户界面基础知识](analytics/may2023/user-interface.md)
-   + 2022年10月{#oct2022}
+   + 2022 年 10 月 {#oct2022}
       + [开始使用](analytics/oct2022/getting-started.md)
       + [分析数据](analytics/oct2022/analyzing-the-data.md)
       + [融于一起](analytics/oct2022/putting-it-all-together.md)
       + [Analytics ROI](analytics/oct2022/analytics-roi.md)
       + [Analytics学习体验创客聚焦](analytics/oct2022/spotlight.md)
       + [掌握Adobe Analytics工具带](analytics/oct2022/toolbelt.md)
-   + 2022年9月{#sept2022}
+   + 2022 年 9 月 {#sept2022}
       + [开始使用](analytics/sept2022/getting-started.md)
       + [分析数据](analytics/sept2022/analyzing-the-data.md)
       + [融于一起](analytics/sept2022/putting-it-all-together.md)
@@ -72,19 +72,19 @@ ht-degree: 5%
       + [开始使用](analytics/may2022/getting-started.md)
       + [融于一起](analytics/may2022/putting-all-together.md)
       + [供您生活的10大数字分析理论](analytics/may2022/top-ten.md)
-   + 2021年10月{#oct2021}
+   + 2021 年 10 月 {#oct2021}
       + [Adobe Analytics摇滚之星](analytics/oct2021/analytics-rockstars.md)
       + [Adobe Analytics提示和技巧](analytics/oct2021/tips-and-tricks.md)
       + [Analysis Workspace提示和技巧](analytics/oct2021/analysis-workspace-tips-and-tricks.md)
       + [分析数据](analytics/oct2021/analyze-data.md)
       + [开始使用](analytics/oct2021/getting-started.md)
       + [融于一起](analytics/oct2021/putting-all-together.md)
-   + 2021年9月{#sept2021}
+   + 2021 年 9 月 {#sept2021}
       + [Adobe Analytics摇滚之星](analytics/sept2021/analytics-rockstars.md)
       + [Adobe Analytics提示和技巧](analytics/sept2021/tips-and-tricks.md)
       + [分析数据](analytics/sept2021/analyze-data.md)
       + [开始使用](analytics/sept2021/getting-started.md)
-      + [在Test Builds &amp; Analysis中导航SPA挑战](analytics/sept2021/navigate-spa.md)
+      + [在测试构建和分析中导航SPA挑战](analytics/sept2021/navigate-spa.md)
       + [融于一起](analytics/sept2021/putting-all-together.md)
    + 2021 年 6 月 {#jun2021}
       + [Adobe Analytics提示和技巧](analytics/jun2021/tips-and-tricks.md)
@@ -94,39 +94,39 @@ ht-degree: 5%
       + [营销渠道，请负责任地使用](analytics/jun2021/marketing-channels.md)
       + [融于一起](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
-   + 2024年8月{#aug2024}
+   + 2024 年 8 月 {#aug2024}
       + [开幕主题演讲](aem/aug2024/keynote.md)
       + [带有通用编辑器的AEM Sites](aem/aug2024/universal-editor.md)
-      + [通过AEM自定义和治理提供有凝聚力的体验](aem/aug2024/customize-elements.md)
+      + [AEM自定义和治理提供有凝聚力的体验](aem/aug2024/customize-elements.md)
       + [数字资产管理策略](aem/aug2024/spotlight-dam-strategies.md)
       + [Dynamic Media Classic资产管理](aem/aug2024/dmc-asset-management.md)
       + [加强内容供应链](aem/aug2024/spotlight-content-supply-chain.md)
       + [Headless和SPA Editor主方法](aem/aug2024/headless-spa-editor.md)
       + [元数据、内容结构和分类](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
-   + 2023年8月{#aug2023}
-      + 开发人员跟踪{#developer-track}
+      + [打印生产](aem/aug2024/print-production.md)
+   + 2023 年 8 月 {#aug2023}
+      + 开发人员跟踪 {#developer-track}
          + [AEM开发人员入门工具包](aem/aug2023/deploy-new-project.md)
          + [构建高效且可扩展的样式系统](aem/aug2023/scalable-style-system.md)
          + [迁移到AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [个性化的营销电子邮件](aem/aug2023/personalized-marketing-emails.md)
-      + Web跟踪{#webtrack}
+      + Web跟踪 {#webtrack}
          + [AEM Assets快速入门](aem/aug2023/getting-started-aem-assets.md)
          + [利用协作DAM](aem/aug2023/collaborative-dam.md)
          + [扩展AI就绪性](aem/aug2023/metadata.md)
          + [焦点](aem/aug2023/spotlight.md)
-   + 2022年8月{#aug2022}
-      + 开发人员跟踪{#developer-track}
+   + 2022 年 8 月 {#aug2022}
+      + 开发人员跟踪 {#developer-track}
          + [体验创客聚焦](aem/aug2022/spotlight.md)
          + [AEM Champion会话多租户](aem/aug2022/multi-tenancy.md)
          + [AEM核心组件和样式系统](aem/aug2022/core-components.md)
          + [使用App Builder扩展AEM Headless](aem/aug2022/app-builder.md)
-      + 营销人员/Web制作人员{#marketer}
+      + 营销人员/Web制作人员 {#marketer}
          + [可重复使用的强大功能](aem/aug2022/reusability.md)
-         + [通过AEM中的内容个性化推动业务价值](aem/aug2022/personalization.md)
-         + [最大限度地实现AEM实施](aem/aug2022/implementation.md)
+         + [在AEM中通过内容个性化推动业务价值](aem/aug2022/personalization.md)
+         + [最大限度地实施AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
-   + 2024年8月{#aug2024}
+   + 2024 年 8 月 {#aug2024}
       + [开幕主题演讲](marketo/aug2024/keynote.md)
       + [参与计划的高级应用](marketo/aug2024/advanced-applications-engagment-programs.md)
       + [通过A/B测试提升性能](marketo/aug2024/a-b-testing.md)
@@ -144,7 +144,7 @@ ht-degree: 5%
       + [大规模Personalization](marketo/feb2022/personalization-at-scale.md)
       + [使用令牌的可扩展性和效率](marketo/feb2022/using-tokens.md)
       + [利用参与计划吸引客户](marketo/feb2022/utilize-engagement-programs.md)
-   + 2021年8月{#aug2021}
+   + 2021 年 8 月 {#aug2021}
       + [在 [!DNL Marketo Engage]中创建程序](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage]颗摇滚星](marketo/aug2021/engage-rockstars.md)
       + [智能营销活动的强大功能](marketo/aug2021/smart-campaign.md)
@@ -157,9 +157,9 @@ ht-degree: 5%
       + [在Adobe [!DNL Marketo Engage]中创建程序](marketo/feb2021/create-programs.md)
       + [智能营销活动的强大功能](marketo/feb2021/power-of-smart-campaign.md)
       + [在 [!DNL Marketo Engage]内报告](marketo/feb2021/reporting-within-marketo.md)
-      + [适用于您的Forms的终极提示和技巧](marketo/feb2021/forms-tips-and-tricks.md)
+      + [适用于Forms的Ultimate提示和技巧](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
-   + 2024年8月{#aug2024}
+   + 2024 年 8 月 {#aug2024}
       + [开幕主题演讲](workfront/aug2024/keynote.md)
       + [自定义工作负载均衡器](workfront/aug2024/workload-balancer.md)
       + [数据质量](workfront/aug2024/data-quality.md)
@@ -169,7 +169,7 @@ ht-degree: 5%
       + [流程增强和运营效率](workfront/aug2024/spotlight-process-operations.md)
       + [定制Workfront主页](workfront/aug2024/tailoring-homepages.md)
       + [将流程流转变为Workfront赢家](workfront/aug2024/spotlight-process-flows.md)
-   + 2023年8月{#aug2023}
+   + 2023 年 8 月 {#aug2023}
       + [讨论区简介](workfront/aug2023/introduction-to-boards.md)
       + [体验创客聚焦](workfront/aug2023/spotlight.md)
       + [增长和持续效率](workfront/aug2023/growth-continued-efficiencies.md)
@@ -186,9 +186,8 @@ ht-degree: 5%
       + [Adobe Workfront Proof的未来](workfront/apr2022/workfront-proof.md)
       + [增长跟踪Experience Makers焦点](workfront/apr2022/grow-track-spotlight.md)
       + [了解跟踪Experience Makers焦点](workfront/apr2022/learn-track-spotlight.md)
-      + [掌握项目日期和时间线](workfront/apr2022/projects-dates-timelines.md)
       + [了解Workfront中的对象](workfront/apr2022/understanding-objects.md)
-+ 数字点击{#digital-bites}
++ 数字点击 {#digital-bites}
    + [用同类最佳的运营模型实现运营效率](digital-bites/operational-model.md)
    + [价值映射和价值实现的路线图](digital-bites/roadmap.md)
    + [如何在客户历程中解锁业务价值](digital-bites/business-value.md)
