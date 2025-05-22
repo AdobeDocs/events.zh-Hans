@@ -9,9 +9,9 @@ event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 hidefromtoc: true
 hide: true
-source-git-commit: af43bd2cc5f63182f4189a28d278da3c8ee94a9b
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,6 @@ ht-degree: 0%
 
 不要错过这一机会，以前所未有的方式转变您的营销策略并吸引受众。
 
-[立即注册](https://engage.adobe.com/ExpLeagueLive-250618.html)，参与客户参与革命！
+**单击下面的图像以设置YouTube提醒！**
 
-![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
-
-做不到吗？ 无论如何都要注册，之后我们会将录音发送给您。 我们希望在那里见到你！
+[![ExL LIVE 2024年1月17日](assets/exl-live-web-banner-20250618.png)](https://www.youtube.com/live/awYa2dU6TDY)
