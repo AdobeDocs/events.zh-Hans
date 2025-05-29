@@ -36,4 +36,4 @@ ht-degree: 1%
 
 ## 其他资源
 
-[Content Analytics视频](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Content Analytics视频](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
