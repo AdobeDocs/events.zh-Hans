@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 2%
+source-wordcount: '193'
+ht-degree: 3%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League直播5月28日" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-05-22-25.md">
-                <strong>Content Analytics：使用AI分析优化性能</strong>
-              </a>
-              <br/><em>与Shay O'Reilly、Jennifer Werkmeister和Doug Moore一起</em>
-              <br/><em>2025年5月28日</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
               <img alt="Experience League直播6月5日" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
@@ -48,7 +37,7 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
             </div>
         </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
-              <img alt="Experience League直播6月18日" src="episodes/assets/exl-live-web-banner-20250618.png">
+              <img alt="Experience League直播6月18日" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-06-18-25.md">
@@ -124,5 +113,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 

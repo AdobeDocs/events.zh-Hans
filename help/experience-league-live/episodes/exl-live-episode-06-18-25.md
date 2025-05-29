@@ -8,16 +8,16 @@ event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
-source-git-commit: f65e18ca681f16f1158243cc3d0b39fe5c85c5a3
+source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # 主频上限和冲突优先级
 
-在本次研讨会中，Adobe专家Ariel Sultan、Aaron Forrest和Keara Fausett深入探讨了Adobe Journey Optimizer中的新增功能，帮助您精准管理和优先处理客户消息。 了解如何减少消息传送疲劳、解决冲突并提供引起共鸣的有影响力的体验。
+在本次研讨会中，Adobe专家Ariel Sultan和Aaron Forrest深入探讨Adobe Journey Optimizer中的新增功能，帮助您精准地管理客户消息并确定其优先级。 了解如何减少消息传送疲劳、解决冲突并提供引起共鸣的有影响力的体验。
 
 此会话非常适合于希望掌握Journey Optimizer功能以提高控制和效率的营销人员、运营团队和历程管理员。
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 [立即注册](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&amp;mv=email)！
 
-![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
+![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618_v2.jpg)
 
 做不到吗？ 无论如何都要注册，之后我们会将录音发送给您。 我们希望在那里见到你！
