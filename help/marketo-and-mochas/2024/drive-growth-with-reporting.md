@@ -1,7 +1,7 @@
 ---
 title: Marketo和Mochas — 通过报表推动增长（成熟度第3点）
-description: 与Adobe的业务顾问Cynthia Chang和Carly Gaver一起参加Marketo成熟度网络研讨会系列的第3部分，探索如何利用Marketo的报告工具通过实时问答推动业务增长、监控绩效并提供有影响力的量度。
-solution: Marketo
+description: 与Adobe的业务顾问Cynthia Chang和Carly Gaver一起参加Marketo成熟度网络研讨会系列的第3部分，通过实时问答，探索如何利用Marketo的报告工具推动业务增长、监控绩效并提供有效的量度。
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 ### 常见问题和解决方案
 
 * **营销活动积压**&#x200B;由多个进程栈叠、触发器营销活动过多以及智能列表效率低下导致。
-* **CRM同步问题**&#x200B;常见问题包括权限、字段验证、顶点CPU限制以及选取列表值的更改。
+* **CRM同步问题**&#x200B;常见问题包括权限、字段验证、Apex CPU限制以及选择列表值的更改。
 * **用户访问和管理**&#x200B;定期审核用户访问并确保遵守管理最佳实践。
 
 ### Advanced Reporting and Analytics

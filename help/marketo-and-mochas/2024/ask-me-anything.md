@@ -1,24 +1,24 @@
 ---
 title: 询问我任何内容
-description: 与Kate Kolbert和James Letham一起参加Adobe的最终年度交互式网络研讨会，其中涵盖网络研讨会优化、项目更新、未充分利用的Marketo功能、电子邮件营销最佳实践、数据库管理、用户权限、Marketo-Salesforce同步、Dynamic Chat参与和生命周期阶段。
-solution: Marketo
+description: 与Kate Kolbert和James Letham一起加入Adobe年度最后一次交互式网络研讨会，其中涵盖网络研讨会优化、项目更新、未充分利用的Marketo功能、电子邮件营销最佳实践、数据库管理、用户权限、Marketo-Salesforce同步、Dynamic Chat参与和生命周期阶段。
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-
 # 询问我任何内容
 
-该会议记录详细介绍了Adobe主持的最后一次交互式网络研讨会，主讲人为Kate Kolbert和James Letham。 该会议旨在进行互动，它回答了参与者提出的各种问题，如优化网络研讨会注册、建立和更新新年计划、利用未充分利用的Marketo功能以及电子邮件营销和数据库管理的最佳实践。 关键主题包括域预热的重要性、管理重复项、用户权限以及改进Marketo-Salesforce同步。 会议强调了主动数据管理和利用Marketo的功能加强营销工作的价值。
+该会议记录详细介绍了Adobe主办的最后一次交互式网络研讨会，主讲人为Kate Kolbert和James Letham。 该会议旨在进行互动，它回答了参与者提出的各种问题，如优化网络研讨会注册、建立和更新新年计划、利用未充分利用的Marketo功能以及电子邮件营销和数据库管理的最佳实践。 关键主题包括域预热的重要性、管理重复项、用户权限以及改进Marketo-Salesforce同步。 会议强调了主动数据管理和利用Marketo的功能加强营销工作的价值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438195/?learn=on&enablevpops)
 

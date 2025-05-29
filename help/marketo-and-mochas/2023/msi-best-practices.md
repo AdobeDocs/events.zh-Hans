@@ -1,7 +1,7 @@
 ---
 title: MSI最佳实践和优化
 description: 与Cynthia Chang和James Leedom一起挖掘Marketo Sales Insights (MSI)的潜力，他们挖掘关键功能、Salesforce集成、许可证管理以及提高销售和营销效率的策略。
-solution: Marketo
+solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
 role: Admin, Leader, User
@@ -12,7 +12,7 @@ jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
 duration: 3615
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

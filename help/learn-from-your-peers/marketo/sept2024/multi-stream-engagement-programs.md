@@ -1,20 +1,20 @@
 ---
 title: 通过多流参与计划掌握复杂的客户历程
 description: 探索如何在客户历程的每个步骤都通过多接触、多流参与计划系统地吸引和培养客户关系。 通过参与计划，您能够倾听客户的需求和行为，并向他们提供相关历程和必要内容。
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Experienced
 doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
+exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
-
 
 # 通过多流参与计划掌握复杂的客户历程
 
@@ -36,8 +36,8 @@ ht-degree: 0%
 
 ## 此演示文稿中引用的资源
 
-* [了解参与计划](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [了解参与度分数](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [将计划添加到参与计划流](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [程序导入库概述](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [了解参与计划](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [了解参与度分数](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [将计划添加到参与计划流](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [程序导入库概述](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [营销国家社区讨论会话](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

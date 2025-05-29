@@ -1,7 +1,7 @@
 ---
 title: Marketo迁移到Adobe Admin Console — （迁移后）
 description: 通过Adobe Admin Console集中管理Marketo用户。 管理角色（系统、产品、配置文件、支持管理员）和身份类型(Adobe、Enterprise、Federated ID)。 为单点登录设置SSL，处理用户管理，并每三年续订一次证书。 解决登录问题等常见问题，并使用目录信任实现统一体验。 将大型用户转化分成500的批次。 访问Adobe Experience League页面上的会话录制。
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3194
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17534
 exl-id: d9ccabf4-5eff-4e07-a7ff-6509bb6ff3c8
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
