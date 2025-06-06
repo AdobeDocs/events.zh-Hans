@@ -7,13 +7,15 @@ feature: Integrations, Email Design, Personalization
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
+last-substantial-update: 2025-06-06T00:00:00Z
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 3dd5c359900bf76fa45f0a774d778eed171e20d9
+source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
+
 
 # 大规模提供个性化内容的敏捷工作流
 
@@ -23,8 +25,4 @@ ht-degree: 0%
 
 不要错过这一机会，以前所未有的方式转变您的营销策略并吸引受众。
 
-[立即注册](https://engage.adobe.com/ExpLeagueLive-250605.html)，参与客户参与革命！
-
-![webbanner](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
-
-做不到吗？ 无论如何都要注册，之后我们会将录音发送给您。 我们希望在那里见到你！
+>[!VIDEO](https://video.tv.adobe.com/v/3463407/?quality=12&learn=on)
