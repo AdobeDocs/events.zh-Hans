@@ -3,16 +3,74 @@ title: Commerce和咖啡
 description: Adobe Commerce和Coffee系列重点介绍Commerce的战略和战术，并提供反映活动主题的统计数据。
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # Commerce和咖啡
 
-Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Commerce客户。Commerce战略顾问科里·格拉托先生。 该系列重点介绍Commerce的策略和战术，并提供反映事件主题的统计数据。 在演示之后，将有一个实时演示来展示如何在Commerce平台中实施所讨论的策略。 每场活动结束时，都为与会者提供现场提问并直接与Adobe专家互动的机会。 您将重新了解为什么以及如何保持竞争力并取得成功，同时最大限度地利用您的Adobe Commerce平台所提供的功能。
+Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Commerce客户。Commerce战略顾问科里·格拉托先生。 该系列重点介绍Commerce的策略和战术，并提供反映事件主题的统计数据。 在演示之后，将有一个实时演示来展示如何在Commerce平台中实施所讨论的策略。 在活动结束时，与会者均有机会现场提问并直接与Adobe专家互动。 您将重新了解为什么以及如何保持竞争力并取得成功，同时最大限度地利用您的Adobe Commerce平台所提供的功能。
+
+
+## 2025年活动
+
+<!-- CARDS
+* 2025/seo-growth.md
+* 2025/self-service-b2b.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - Driving Growth with SEO">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/seo-growth.md" title="Commerce与咖啡 — 通过SEO推动增长" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459039/?format=jpeg&nocache=1749738512514" alt="Commerce与咖啡 — 通过SEO推动增长"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/seo-growth.md" target="_blank" rel="referrer" title="Commerce与咖啡 — 通过SEO推动增长">Commerce和咖啡 — 使用SEO推动增长</a>
+                    </p>
+                    <p class="is-size-6">在此会议中，Corey Gelato和Agbi Bajrushi探讨了用于电子商务的SEO类型、关键原则和Adobe Commerce工具，如元字段、页面生成器和媒体最佳实践。</p>
+                </div>
+                <a href="2025/seo-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - The Rise of Self-Service in B2B">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/self-service-b2b.md" title="Commerce与咖啡 — B2B中自助服务的兴起" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451619/?format=jpeg&nocache=1749738512499" alt="Commerce与咖啡 — B2B中自助服务的兴起"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" title="Commerce与咖啡 — B2B中自助服务的兴起">Commerce和咖啡 — B2B中自助服务的兴起</a>
+                    </p>
+                    <p class="is-size-6">使用Adobe Commerce增强B2B体验！ 发现共享目录、公司管理、报价和自助服务工具等功能。 了解AI功能和B2B趋势。 实施自助服务的最佳实践并改善客户体验。 加入Adobe Summit ，获取更多见解和资源。</p>
+                </div>
+                <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## 2024年活动
 
@@ -30,7 +88,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="询问我任何内容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1732308154244" alt="询问我任何内容"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1749738513506" alt="询问我任何内容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +111,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" title="B2B电子商务的Commerce和咖啡策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1732308154235" alt="B2B电子商务的Commerce和咖啡策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1749738513489" alt="B2B电子商务的Commerce和咖啡策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,7 +134,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ecommerce-essentials.md" title="Commerce与咖啡 — 精通Ecommerce Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1732308154232" alt="Commerce与咖啡 — 精通Ecommerce Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1749738513520" alt="Commerce与咖啡 — 精通Ecommerce Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +157,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/peak-season-prep.md" title="Commerce和咖啡 — 旺季准备" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1732308154240" alt="Commerce和咖啡 — 旺季准备"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1749738513544" alt="Commerce和咖啡 — 旺季准备"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +180,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/personalize-ecommerce.md" title="Commerce和咖啡 — 利用AI打造个性化电子商务体验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1732308154247" alt="Commerce和咖啡 — 利用AI打造个性化电子商务体验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1749738513533" alt="Commerce和咖啡 — 利用AI打造个性化电子商务体验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -159,7 +217,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/ask-me-anything.md" title="询问我任何内容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1732308154583" alt="询问我任何内容"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1749738513895" alt="询问我任何内容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,7 +240,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/b2b.md" title="支持B2B成功" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1732308154575" alt="支持B2B成功"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1749738513923" alt="支持B2B成功"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,7 +263,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/loyalty-retention.md" title="培养客户忠诚度和维系客户的7种方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1732308154578" alt="培养客户忠诚度和维系客户的7种方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1749738513949" alt="培养客户忠诚度和维系客户的7种方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -215,7 +273,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" title="培养客户忠诚度和维系客户的7种方法">7种建立客户忠诚度和维系的方法</a>
                     </p>
-                    <p class="is-size-6">了解7种通过Corey Gelato提高客户忠诚度和维系率的策略，其中采用个性化、奖励计划和透明度等最佳实践，以及产品Recommendations、价格规则和促销活动等Adobe Commerce工具。</p>
+                    <p class="is-size-6">了解7种通过Corey Gelato提高客户忠诚度和维系率的策略，其中采用个性化、奖励计划和透明度等最佳实践，以及产品推荐、价格规则和促销活动等Adobe Commerce工具。</p>
                 </div>
                 <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -228,7 +286,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/organic-growth.md" title="Commerce和咖啡 — 有机增长" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1732308154567" alt="Commerce和咖啡 — 有机增长"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1749738513935" alt="Commerce和咖啡 — 有机增长"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,7 +309,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/peak-season-prep.md" title="高峰季准备" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1732308154571" alt="高峰季准备"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1749738513909" alt="高峰季准备"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,11 +336,11 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -291,11 +349,11 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -304,11 +362,11 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>

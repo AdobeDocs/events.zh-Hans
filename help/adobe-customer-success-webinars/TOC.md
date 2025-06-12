@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,13 @@ ht-degree: 0%
 
 + [Adobe客户成功网络研讨会](overview.md)
 + 2025 {#2025}
+   + [Workfront中的AI-Drive自动化](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+   + [AI — 基本功能拓展](2025/ai-beyond-basics.md)
+   + [利用AI分析优化数字体验](2025/accelerating-digital-experience-optimization.md)
+   + [在AEM Content Hub中掌握Digital Asset Manager](2025/mastering-dam-aem-content-hub.md)
+   + [数字趋势和为未来做好准备](2025/digital-trends-preparing-future.md)
+   + [Northstar体系结构](2025/northstar-architecture.md)
+   + [AEM Cloud的New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
    + [数字和GenAI应用现状](2025/state-of-digital-and-genai-adoption-webinar.md)
    + [2024年假期结果和2025年趋势](2025/adobe-digital-insights.md)
    + [带有GenAI的AEM](2025/aem-genai.md)

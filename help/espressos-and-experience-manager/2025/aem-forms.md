@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: AEM Forms通过提供运营效率和卓越的用户体验来增强性能管理。 主要优势包括提高了表单填写率、转化率、改进了用户体验以及减少了客户错误。 功能涵盖全渠道表单、自动工作流、交互式客户通信以及与Adobe Experience Cloud的集成，由AI支持以增强个性化。 业务影响包括在线注册转化率提高2.5倍，表单编辑速度提高85%，客户错误减少50%。 云原生性能确保表单最新、可扩展、安全且可用。 创新包括基于文档的创作、对话形式以及通用编辑器支持。 AI可帮助创建表单、自动化测试并提高效率。 联系Adobe以访问早期创新。 峰会专题会议包括思想领导力、顶级创新和案例研究。 访问资源、注册参加峰会并与解决方案客户经理联系以获得进一步帮助。
+title: 浓缩咖啡和Experience Manager - AEM Forms
+description: AEM Forms通过全渠道表单、AI支持的个性化和云原生可扩展性提高了性能 — 实现了2.5倍的转化，编辑速度提升了85%，错误减少了50%。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
