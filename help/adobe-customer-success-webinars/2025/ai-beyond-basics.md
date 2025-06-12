@@ -26,4 +26,4 @@ ht-degree: 0%
 * 检查关键用例、功能的应用以及成熟度进展的提示和技巧。
 * 讨论即将推出的功能和增强功能
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463368/?learn=on&enablevpops&captions=chi_hans)
