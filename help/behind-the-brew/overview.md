@@ -3,10 +3,10 @@ title: 在布鲁后面
 description: Brew是Commerce & Coffee的配套系列，专为希望掌握后端最佳实践、集成和高级功能以提升电子商务体验的技术密集型客户量身打造。
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 7%
+source-wordcount: '287'
+ht-degree: 5%
 
 ---
 
@@ -27,12 +27,35 @@ ht-degree: 7%
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Behind the Brew - A Full Breakdown on Proactive Monitoring Tools">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/proactive-monitoring-tools.md" title="Brew背后 — 主动监控工具的全面细分" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459035/?format=jpeg&nocache=1750103136004" alt="Brew背后 — 主动监控工具的全面细分"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/proactive-monitoring-tools.md" target="_blank" rel="referrer" title="Brew背后 — 主动监控工具的全面细分">在Brew之后 — 主动监控工具的完全细分</a>
+                    </p>
+                    <p class="is-size-6">加入我们，了解SWAT、Fastly和New Relic如何实现主动监控、高效问题诊断和持续系统运行状况跟踪以实现最佳性能。</p>
+                </div>
+                <a href="2025/proactive-monitoring-tools.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Developer App Builder">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder.md" title="Adobe Developer App Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1749738836125" alt="Adobe Developer App Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1750103135976" alt="Adobe Developer App Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +78,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-intelligence.md" title="Adobe Commerce Intelligence (fka MBI)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1749738836111" alt="Adobe Commerce Intelligence (fka MBI)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1750103136017" alt="Adobe Commerce Intelligence (fka MBI)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -78,7 +101,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/deep-dive-live-search.md" title="深入了解实时搜索" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1749738836153" alt="深入了解实时搜索"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1750103135990" alt="深入了解实时搜索"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -101,7 +124,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-storefront.md" title="优化您的Commerce店面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1749738836139" alt="优化您的Commerce店面"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1750103135956" alt="优化您的Commerce店面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
