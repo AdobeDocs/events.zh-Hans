@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 2dc76496062fdb4cf7b0c8bd09a1d1afd90fdb08
+source-git-commit: 594aa341ffe96b91b2b8535f8748b770f1baf349
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -47,4 +47,6 @@ ht-degree: 0%
 + 请求队列和摄取 {#request-queues-and-intake}
    + [请求队列和接收Forms](user-groups/request-queues-and-intake-forms.md)
 + 版本 {#releases}
+   + [25.4版本](webinars/25-4-release-webinar.md)
    + [24.1发行版](webinars/24-1-release-webinar.md)
+
