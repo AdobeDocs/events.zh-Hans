@@ -3,7 +3,7 @@ title: Adobe客户成功网络研讨会
 description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: 780ad36ca10f4c8692ebfed7fc3e0c31ac2d1115
+source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
 workflow-type: tm+mt
 source-wordcount: '3963'
 ht-degree: 0%
@@ -20,6 +20,9 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
 
 {cta = Watch}
 
+* 2025/workfront-and-jira.md
+* 2025/transforming-b2b-commerce.md
+* 2025/journey-optimizer-essentials.md
 * 2025/unlock-efficiency-ai-drive-automation-workfront.md
 * 2025/ai-beyond-basics.md
 * 2025/accelerating-digital-experience-optimization.md
@@ -81,7 +84,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI助手 — 基础知识以外" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463368/?format=jpeg&nocache=1749832505279&captions=chi_hans" alt="AI助手 — 基础知识以外"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1749832505279" alt="AI助手 — 基础知识以外"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -518,7 +521,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="AJO中的GenAI实验及其与Adobe Target的关系" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444469/?format=jpeg&nocache=1749832505582&captions=chi_hans" alt="AJO中的GenAI实验及其与Adobe Target的关系"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1749832505582" alt="AJO中的GenAI实验及其与Adobe Target的关系"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -865,7 +868,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Real-Time Customer Data Platform与Marketo集成的基础知识" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433678/?format=jpeg&nocache=1749832508605&captions=chi_hans" alt="Real-Time Customer Data Platform与Marketo集成的基础知识"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1749832508605" alt="Real-Time Customer Data Platform与Marketo集成的基础知识"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1026,7 +1029,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="数据流优先级" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456815/?format=jpeg&nocache=1749832508615&captions=chi_hans" alt="数据流优先级"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1749832508615" alt="数据流优先级"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1210,7 +1213,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization成熟度 — 实现超个性化的途径" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457355/?format=jpeg&nocache=1749832508737&captions=chi_hans" alt="Personalization成熟度 — 实现超个性化的途径"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1749832508737" alt="Personalization成熟度 — 实现超个性化的途径"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1256,7 +1259,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="最大限度地提高效率 — 精益团队和Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457018/?format=jpeg&nocache=1749832508759&captions=chi_hans" alt="最大限度地提高效率 — 精益团队和Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1749832508759" alt="最大限度地提高效率 — 精益团队和Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1371,7 +1374,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="战略领导力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456793/?format=jpeg&nocache=1749832508850&captions=chi_hans" alt="战略领导力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1749832508850" alt="战略领导力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

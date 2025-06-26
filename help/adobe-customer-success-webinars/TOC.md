@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,9 @@ ht-degree: 0%
 
 + [Adobe客户成功网络研讨会](overview.md)
 + 2025 {#2025}
+   + [Workfront和JIRA](2025/workfront-and-jira.md)
+   + [转换B2B和B2B2C Commerce](2025/transforming-b2b-commerce.md)
+   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
    + [Workfront中的AI-Drive自动化](2025/unlock-efficiency-ai-drive-automation-workfront.md)
    + [AI — 基本功能拓展](2025/ai-beyond-basics.md)
    + [利用AI分析优化数字体验](2025/accelerating-digital-experience-optimization.md)
