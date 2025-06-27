@@ -22,6 +22,6 @@ ht-degree: 0%
 * [幻灯片组PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/010925+-+25.1+First+Quarter+2025+Release+Webinar.pdf)
 * [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-first-quarter-2025-release/td-p/729761)
 
-有关发布功能的更多信息，请访问[2025年第一季度发布概述页面](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview#report-and-dashboard-enhancements)。
+有关发布功能的更多信息，请访问[2025年第一季度发布概述页面](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview#report-and-dashboard-enhancements)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464380/?learn=on&enablevpops)
