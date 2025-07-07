@@ -3,10 +3,10 @@ title: Experience Cloud技术讲座
 description: 通过由Adobe Experience Cloud专家主持的现场和按需技术研讨会，提升您的Adobe技能。 随时获取切实可行的提示和策略以实现无缝学习体验。
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 通过实时和按需技术讲座充分发挥Adobe Experience Cloud的潜力。 这些网络研讨会经过精心设计，超越了传统支持的范畴。 这些会议由经验丰富的Adobe专家主持，可提供宝贵的提示、技巧和策略，帮助您满怀信心地浏览技术解决方案，避免常见的隐患。 Adobe专家是技术支持工程师，他们解决主要问题并积极处理日常案例。 有了实时和按需选项，您可以根据需要灵活地随时访问信息，确保无缝的学习体验。
 
-## 2054年届会
+## 2025年届会
 
 <!-- CARDS
 {cta = Watch}
