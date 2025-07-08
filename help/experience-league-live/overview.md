@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
+source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 3%
 
 ---
@@ -32,8 +32,6 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
               <a href="episodes/exl-live-episode-07-31-25.md">
                 <strong>主频率上限和冲突优先级</strong>
               </a>
-              <br/><em>与Sandra Hausmann、Ariel Sultan、Aaron Forrest和Keara Fausett</em>
-              <br/><em>2025年6月18日</em>
             </div>
         </td>
     </tr>
@@ -102,5 +100,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
