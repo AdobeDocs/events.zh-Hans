@@ -9,16 +9,16 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics和CJA：基本到中等分析功能快速入门
+# Adobe Analytics和CJA：基本到中等分析功能的快速入门
 
-了解如何快速开始使用Adobe Analytics和Customer Journey Analytics (CJA)，以通过数据驱动型决策支持您的营销活动：了解如何设置您的组织以实现强大的分析功能，了解何时以最佳方式使用哪个分析解决方案，并将Analytics和CJA功能映射到分析成熟度级别，以构建关键营销报告。
+了解如何快速开始使用Adobe Analytics和Customer Journey Analytics (CJA)，以通过数据驱动型决策支持您的营销活动：了解如何为组织设置强大的分析功能，了解何时以最佳方式使用哪个分析解决方案，并将Analytics和CJA功能映射到分析成熟度级别，以构建关键营销报告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * **演讲者简介**
    * Adobe的高级客户成功经理Frederick介绍了该课程。
-   * Adobe首席客户成功经理Kirsten Schaffer博士是演示者。
+   * Adobe首席客户成功策略师Kerstin Schafer博士是演示者。
 
 * **会话内容**
    * 该课程涵盖如何设立一个组织，以提供强大的分析功能、治理方面，以及Analytics和Customer Journey Analytics的运行路径。
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 * **讨论的关键主题**
    * **外部和内部力量**&#x200B;影响数字分析，包括市场变化、隐私和治理、数据民主和数据复杂性。
-   * **构建强大的分析基础**&#x200B;测量策略、数据收集、洞察和分析、学习、数据管理。
+   * **构建强大的分析基础**&#x200B;测量策略、数据收集、insight和分析、学习、数据管理。
    * **设置Digital Analytics团队**&#x200B;角色和职责，创建混合团队并高效管理Analytics请求。
    * **Adobe的启用选项** Experience League、按需课程、基于培训师的课程、社区支持。
 
