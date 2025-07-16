@@ -1,19 +1,20 @@
 ---
 title: 了解用户管理网络研讨会
 description: 加入我们的按需网络研讨会，以掌握Workfront用户设置和组织。 向赛默飞世尔科学和Adobe Workfront专家学习有关许可证、访问级别、组、团队、对象层次结构、共享权限和有效用户管理的最佳实践。
+solution: Workfront
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3686
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15808
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f7e6991-5e18-4637-9ab4-d1deca267040
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # 了解用户管理
 

@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 ## 要点
 
 * **会话概述**
-   * 该课程名为“基本中间分析功能的快速入门”，由Kirsten Schaffer博士领导。
+   * 该课程标题为“基本中间分析功能的快速入门”，由Kerstin Schafer博士领导。
    * 正在录制会话，录制链接将发送给所有已注册的与会者。
 
 * **演讲者简介**

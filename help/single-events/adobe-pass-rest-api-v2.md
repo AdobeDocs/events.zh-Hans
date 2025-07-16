@@ -2,19 +2,20 @@
 title: Adobe Pass — 新的REST API v2
 description: 此会议重点介绍Adobe的新REST API v2以及指导用户完成其迁移过程。
 role: Developer
+solution: Pass
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 3230
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17685
 hidefromtoc: true
-source-git-commit: 1082d67d49901e151115255b585799a5f57bda4a
+exl-id: 745411bb-48d7-4410-a236-d02c2927ac1b
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Pass — 新的REST API v2
 
@@ -56,4 +57,3 @@ ht-degree: 0%
    * REST API v2需要重新身份验证，因为它与v1无法向后兼容。
    * 预授权用于UI目的，而媒体令牌需要授权。
    * 通过新的Adobe服务令牌支持SSO。
-

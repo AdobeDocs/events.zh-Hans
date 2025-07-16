@@ -2,13 +2,15 @@
 title: 阐明影响 — 如何衡量和共享Workfront价值
 description: 在这个按需网络研讨会中，Synchrony的James Hill和Ellen Saltmarsh以及EMMsphere的Daniel Clarke将分享他们的策略，阐明他们采用Workfront的“原因”，定义可衡量的结果，如时间和成本节约，传播成功故事以使利益相关者接受，以及使用逐步行动手册实现价值。
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
 duration: 3534
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17413
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

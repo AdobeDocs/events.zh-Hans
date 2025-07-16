@@ -3,18 +3,19 @@ title: 业务报告网络研讨会基础
 description: 向同行了解系统管理员应在Workfront中测量哪些指标。 在我们的按需网络研讨会上探索关键指标、报告需求和示例仪表板。
 feature: Reports and Dashboards
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3672
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15813
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 1%
 
 ---
-
 
 # 向同行学习网络研讨会： Operational Reporting基础
 

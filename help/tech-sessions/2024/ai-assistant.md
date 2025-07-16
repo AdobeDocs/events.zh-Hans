@@ -4,11 +4,12 @@ description: 与Rachel Hanessian和Ariel Sultan一起参加一个富有洞察力
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 # 使用Adobe Experience Platform中的AI助手快速启动您的工作效率
 
-富有见解的网络研讨会，在这里，您将学习如何使用AI Assistant设置、开始和探索用例，以提高Real-Time CDP、Journey Optimizer和Customer Journey Analytics的生产力。
+富有见解的网络研讨会，在这里，您将学习如何使用AI Assistant设置、开始和探索用例，以提高Real-Time CDP、Journey Optimizer和Customer Journey Analytics中的工作效率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435344/?learn=on)
 
