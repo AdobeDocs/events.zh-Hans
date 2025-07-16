@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 4c9f94ad75729c99d650b4fa5d280b6941b374c7
+source-git-commit: 90eb4a9d2cf445c58fde776092fb047f820fa207
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 
 + [Adobe客户成功网络研讨会](overview.md)
 + 2025 {#2025}
+   + [AEM的新兴技术](2025/personalized-experiences-aem.md)
+   + [从Adobe Analytics迁移到CJA](2025/analytics-to-cja-migration.md)
    + [掌握AEM Sites](2025/mastering-aem-sites.md)
    + [Workfront和JIRA](2025/workfront-and-jira.md)
    + [转换B2B和B2B2C Commerce](2025/transforming-b2b-commerce.md)
