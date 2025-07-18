@@ -22,7 +22,7 @@ ht-degree: 0%
 
 了解如何通过Headless编辑界面和通用编辑器(由Adobe的高级软件工程师Iryna Lagno提供)为作者扩展Adobe Experience Manager功能。 启用跨组织UI扩展，甚至可以将其发布以供其他人通过Extension Manager利用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440438/?learn=on&enablevpops&captions=chi_hans)
 
 ## 社区讨论
 

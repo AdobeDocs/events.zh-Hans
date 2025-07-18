@@ -20,7 +20,7 @@ ht-degree: 0%
 
 大家好！ 是我，你的“On-Demand Workfront CSM”，而我又看了另一部前3名视频！  这次让我们讨论[蓝图](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview)。 您可能已经听我说过Blueprint是您“Workfront工作”的快捷方式，但使用Blueprint快速跟踪企业需求的其他方法有哪些？
 
->[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3465322/?learn=on&enablevpops&captions=chi_hans)
 
 如果您希望先进行实验，然后再在生产中安装任何项目，请不要担心！  只需先在[Sandbox预览环境](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment)中与他们一起玩耍即可。
 
