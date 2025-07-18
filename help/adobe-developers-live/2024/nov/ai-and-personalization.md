@@ -1,6 +1,7 @@
 ---
-title: 将AI和Personalization引入到Adobe Experience ManagerEdge Delivery Services
-description: 了解如何将AI和个性化与Adobe Experience ManagerEdge Delivery Services集成，以及由Cognizant Netcentric首席解决方案架构师Andreas Haller演示的基础架构、语义搜索和高级用例集成。
+title: 将AI和Personalization引入到Adobe Experience Manager Edge Delivery Services
+description: 了解如何将人工智能和个性化与Adobe Experience Manager Edge Delivery Services集成，以及由Cognizant Netcentric首席解决方案架构师Andreas Haller演示的基础架构、语义搜索和高级用例。
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d560045b-4404-41f6-b53e-787877faab5b
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
+# 将AI和Personalization引入到Adobe Experience Manager Edge Delivery Services
 
-# 将AI和Personalization引入到Adobe Experience ManagerEdge Delivery Services
+探索将个性化和AI集成到Adobe Experience Manager Edge Delivery Services中的基础架构。 与Cognizant Netcentric首席解决方案架构师Andreas Haller一起演示语义搜索和高级用例，以增强您的项目。
 
-探索将个性化和AI集成到Adobe Experience ManagerEdge Delivery Services中的基础架构。 加入Cognizant Netcentric首席解决方案架构师Andreas Haller的行列，演示语义搜索和高级用例，以增强您的项目。
-
->[!VIDEO](https://video.tv.adobe.com/v/3440416/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## 社区讨论
 

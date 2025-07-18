@@ -2,18 +2,21 @@
 title: 用Personalization和自动化改造B2B和B2B2C Commerce
 description: 了解B2B Commerce如何使用AEM、Target和AEP扩展个性化，以优化B2B2C体验并推动数据驱动的、统一的内容和选件。
 role: Admin, Developer, Leader, User
+solution: Experience Manager, Target, Commerce
+feature: Edge Delivery Services
+topic: Personalization
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2661
 last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-18445
-source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
+exl-id: 7f0f594f-a989-4689-995f-1135078de8fc
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # 用个性化和自动化转变B2B和B2B2C Commerce
 

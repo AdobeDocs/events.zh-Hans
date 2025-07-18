@@ -2,7 +2,7 @@
 title: 通用编辑器、Adobe Experience Manager创作和Edge Delivery Services
 description: Universal Editor通过支持各种技术栈栈、提供上下文内实时预览、整合多个编辑器并允许通过JSON配置和App Builder扩展轻松自定义，简化了Headless内容管理。
 solution: Experience Manager, Experience Manager Sites
-feature: Authoring
+feature: Authoring, Edge Delivery Services
 topic: Content Management
 role: Developer
 level: Beginner, Intermediate
@@ -10,17 +10,17 @@ doc-type: Event
 duration: 1054
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16540
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: d8670e07-8681-4ef0-a038-8304aee84101
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
 
 ---
 
-
 # 通用编辑器、Adobe Experience Manager创作和Edge Delivery Services
 
-加入Adobe首席解决方案顾问Lamont Crook的行列，了解Universal Editor如何通过Adobe Experience Manager和Edge Delivery Services来转变内容创作。 了解如何组合内容块并提供工具以便作者更有效地管理内容。→继续对话，网址： https://adobe.ly/4hBDxp9
+加入Adobe首席解决方案顾问Lamont Crook的行列，了解Universal Editor如何通过Adobe Experience Manager和Edge Delivery Services转变内容创作。 了解如何组合内容块并提供工具以便作者更有效地管理内容。→继续对话，网址： https://adobe.ly/4hBDxp9
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439423/?learn=on&enablevpops)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
 * 可以使用App Builder创建具有App Builder的&#x200B;**可扩展性**&#x200B;扩展以将自定义功能添加到通用编辑器。&#x200B;AEM
 * **Dynamic Media Assets**&#x200B;添加Dynamic Media资产的过程包括编辑JSON文件并将更改部署到分支以进行测试。
 * **简化的自定义**&#x200B;与OG编辑器相比，自定义通用编辑器更简单，因为它不需要运行管道或进行广泛的设置。&#x200B;AEM
-

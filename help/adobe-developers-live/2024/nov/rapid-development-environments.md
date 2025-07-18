@@ -1,6 +1,7 @@
 ---
 title: Adobe Experience Manager快速开发环境
-description: 使用Adobe的新SDK促进云环境中的快速开发和部署，显着缩短部署时间，并支持快速更新、实时日志和高级配置选项，如DevOps Life 2024中所述。
+description: 如DevOps Life 2024中所述，使用Adobe的新SDK促进云环境中的快速开发和部署，显着缩短部署时间并支持快速更新、实时日志和高级配置选项。
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2427
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16570
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 330d8be1-14a0-488a-aae0-ee90e1f7621e
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Manager快速开发环境
 
@@ -32,10 +33,10 @@ ht-degree: 0%
 
 * **DevOps Life 2024简介**&#x200B;该会话由Adobe的Natalia和Remo主持，侧重于快速开发环境。
 * **问题陈述**&#x200B;本地开发环境在本地良好工作但在部署到云时失败的挑战。
-* **解决方案**&#x200B;在云中创建新SDK以促进快速开发和部署，将时间从30分钟减少到几秒或几分钟。
+* **解决方案**&#x200B;在云中创建新的SDK以促进快速开发和部署，将时间从30分钟减少到几秒或几分钟。
 * **部署流程**&#x200B;新环境允许通过新的API和CLI插件进行快速更新和验证，从而加快反馈和部署。
 * **基础架构差异**&#x200B;云环境使用单个创作和发布实例，没有高可用性，并且不使用MongoDB。
-* **安装和使用情况**&#x200B;开发人员可以通过云界面设置快速开发环境，使用npm和AdobeIO CLI进行安装和配置。
+* **设置和使用情况**&#x200B;开发人员可以通过云界面设置快速开发环境，使用npm和Adobe IO CLI进行安装和配置。
 * **基本命令**&#x200B;关键命令包括io amd —help、io登录、io状态、io安装、io历史记录、io删除和io重置。
 * **日志记录和调试**&#x200B;新环境支持实时日志和更改日志级别，无需重新部署，使用io am或d logs之类的命令。
 * **高级主题**&#x200B;支持前端包和配置管道，允许快速部署和迭代。
