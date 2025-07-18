@@ -33,9 +33,9 @@ ht-degree: 0%
 
 如承诺的那样，下面是我们讨论的资源，以及几个用于“请求队列”和“队列主题”的额外链接：
 
-* 有关如何[管理继承的实例](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的资源，包括网络研讨会的链接和有关[Blueprint教程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的详细信息
+* 有关如何[管理继承的实例](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的资源，包括网络研讨会的链接和有关[Blueprint教程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的详细信息
 
-* 了解请求队列文档： [创建队列主题](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* 了解请求队列文档： [创建队列主题](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * Lyndsy针对[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)的网络研讨会演示文稿：与最终用户通信（此页面还包括指向[最终用户Comms指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)的链接）
 

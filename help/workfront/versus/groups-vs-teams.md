@@ -24,16 +24,16 @@ ht-degree: 0%
 
 想要了解有关组和团队的更多信息？
 
-* [组与Teams功能比较](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
-* [组概述](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
-* [团队概述](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
+* [组与Teams功能比较](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
+* [组概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
+* [团队概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
 
 以下是有关共享对象、访问级别和权限的一些额外文章：
 
-* [查看对象的继承权限](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
-* [访问级别和权限如何协同工作](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
-* [在访问级别设置其他限制](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
+* [查看对象的继承权限](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
+* [访问级别和权限如何协同工作](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
+* [在访问级别设置其他限制](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-对新的想法和方法感兴趣吗？ 在[Experience League活动页面](https://experienceleague.adobe.com/en/events?filters=Workfront)上注册我们即将举办的研讨会。 我们希望很快见到你！
+对新的想法和方法感兴趣吗？ 在[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)上注册我们即将举办的研讨会。 我们希望很快见到你！
 
 
