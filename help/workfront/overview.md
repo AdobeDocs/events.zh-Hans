@@ -112,7 +112,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="对比！  — 组与团队" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1752859089086" alt="对比！  — 组与团队"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467363/?format=jpeg&nocache=1752859089086&captions=chi_hans" alt="对比！  — 组与团队"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
