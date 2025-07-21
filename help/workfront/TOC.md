@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Workfront事件 {#workfront-recordings}
 
-+ [Workfront用户组和网络研讨会](overview.md)
++ [Workfront按需研讨会](overview.md)
 
++ 发布网络研讨会 {#releases}
+   + [25.7版本](releases/25-7-release-webinar.md)
+   + [25.4版本](releases/25-4-release-webinar.md)
+   + [25.1发行版](releases/25-1-release-webinar.md)
+   + [24.1发行版](releases/24-1-release-webinar.md)
 + 前3项 {#top3}
    + [使用Blueprint的Creative方法](top3/blueprints.md)
 + 对比！ {#versus}
    + [组与团队](versus/groups-vs-teams.md)
 + 专家见解 {#expert-insights}
-+[请求队列与Lyndsy Denk](expert-insights/request-queues.md)
+   + [使用Lyndsy Denk请求队列](expert-insights/request-queues.md)
 + 车间倒带 {#workshop-rewind}
    + 工作流 {#workflow}
       + [Creative管理资源的方法](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + 请求队列和摄取 {#request-queues-and-intake}
       + [请求队列和接收Forms](user-groups/request-queues-and-intake-forms.md)
 
-+ 版本 {#releases}
-   + [25.7版本](releases/25-7-release-webinar.md)
-   + [25.4版本](releases/25-4-release-webinar.md)
-   + [25.1发行版](releases/25-1-release-webinar.md)
-   + [24.1发行版](releases/24-1-release-webinar.md)
+
 
