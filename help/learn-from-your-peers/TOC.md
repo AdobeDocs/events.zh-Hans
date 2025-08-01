@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 从 [!DNL Experience Makers Learn from your peers]开始的录制集合
-source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '334'
 ht-degree: 20%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 20%
    + 9 月 {#sept2023}
       + [深入了解AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
-      + [在Cloud Service中有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
@@ -114,4 +114,5 @@ ht-degree: 20%
          + [什么是Workfront治理？](workfront/2022/03/what-is-workfront-governance.md)
       + 2 月 {#february}
          + [了解用户管理](workfront/2022/02/understanding-user-management.md)
++ [浏览Experience Cloud中的Adobe用户组](./adobe-user-groups.md)
 + [了解如何申请并脱颖而出，成为冠军](./adobe-champion-application.md)
