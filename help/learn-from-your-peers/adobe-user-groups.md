@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3492
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18677
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
+source-git-commit: 64d09d3316d604d92d1186e3785e64ac1bbaa800
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # 浏览Experience Cloud中的Adobe用户组
 
@@ -26,11 +26,7 @@ ht-degree: 0%
 
 ## 会话概述
 
-本课程涵盖，
-
 * 了解什么是用户组以及它们如何支持协作、问题解决和技能培养。
 * 获取有关如何加入或组建用户组的实用指南，包括Adobe提供的可用资源、工具和支持。
 * 直接听取AEM、Analytics、Marketo Engage和Workfront中的活跃用户组领导讲述同行学习如何帮助他们实现专业发展和解决实际挑战。
 * 探索成为用户组领导或作为用户组成员参与等领导机会。
-
-
