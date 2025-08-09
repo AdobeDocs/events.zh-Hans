@@ -21,7 +21,7 @@ ht-degree: 2%
 
 # 使用Open API掌握Dynamic Media
 
-此网络研讨会专为熟悉传统Dynamic Media并想要了解和实施带有Open API的[Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate)的专业人士而设计。  我们将探讨带Open API的Dynamic Media Ultimate的高级功能，并将其与传统Dynamic Media进行比较。 我们的目标是全面了解这两种方法之间的差异，让熟悉Dynamic Media的参与者能够轻松适应Open API模型。
+此网络研讨会专为熟悉传统Dynamic Media并想要了解和实施带有Open API的[Dynamic Media Ultimate](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate)的专业人士而设计。  我们将探讨带Open API的Dynamic Media Ultimate的高级功能，并将其与传统Dynamic Media进行比较。 我们的目标是全面了解这两种方法之间的差异，让熟悉Dynamic Media的参与者能够轻松适应Open API模型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 

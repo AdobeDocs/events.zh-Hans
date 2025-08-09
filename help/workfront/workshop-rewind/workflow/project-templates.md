@@ -39,4 +39,4 @@ ht-degree: 0%
 
 我们在聊天中看到的最大主题之一是，在尝试简化项目模板的同时，还要跟踪工作量，确保团队提供完成项目所需的所有步骤。 
 
- 我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?filters=Workfront)以获取完整列表并注册。
+ 我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)以获取完整列表并注册。

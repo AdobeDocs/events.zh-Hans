@@ -36,4 +36,4 @@ ht-degree: 0%
 * 如果用户没有收到（电子邮件）通知，则您始终可以选择以用户的身份登录，以确认在其配置文件中启用了通知。 如果卡住了，请联系客户支持！  
 * 考虑关闭与状态更改相关的电子邮件 — 这些更改是否会导致噪音大于信息性操作？  
 
-我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?filters=Workfront)以获取完整列表并注册。
+我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)以获取完整列表并注册。

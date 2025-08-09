@@ -29,16 +29,16 @@ ht-degree: 0%
 
 ## 概要
 
-* 什么是[数据连接](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/data-lake-overview)？ 一种安全且可扩展的解决方案，通过将Workfront数据连接到Tableau、Power BI、Domo和Looker等可视化工具来提供业务洞察。
+* 什么是[数据连接](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/data-lake/data-lake-overview)？ 一种安全且可扩展的解决方案，通过将Workfront数据连接到Tableau、Power BI、Domo和Looker等可视化工具来提供业务洞察。
 * 它包含在Ultimate程序包中，不过它可以作为Prime和Select上的这些程序的一个附加组件($)。 请联系您的帐户团队以了解更多信息。
 * 虽然我们无法为您提供试用（至少当前可用）的机会，但您可以随时联系您的客户团队，以了解他们能否通过个性化演示为您提供帮助，帮助您树立领导地位。
-* **Experience League文档**&#x200B;提供了[术语映射表](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/data-dictionary)以帮助在Workfront接口名称、API引用和数据湖字段名称之间进行转换。
+* **Experience League文档**&#x200B;提供了[术语映射表](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/data-lake/data-dictionary)以帮助在Workfront接口名称、API引用和数据湖字段名称之间进行转换。
 * **当前功能** Data Connect当前支持超过110个Workfront对象（10月启动时增至70个），每4小时刷新一次数据。 它提供三种类型的视图：当前状态、每日历史记录快照以及用于历史分析的事务性事件数据。
 * **客户用例**&#x200B;客户正在使用Data Connect监视用户活动、确定流程瓶颈、状态时间跟踪、合规性检查、SLA跟踪、容量规划，以及将Workfront数据与现有数据仓库中的外部数据集联接起来。 
 
 如果您对Matt有任何后续问题或者希望共享您如何使用Data Connect，请回复此[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)！
 
 
-我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?filters=Workfront)以获取完整列表并注册。
+我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)以获取完整列表并注册。
 
 
