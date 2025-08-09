@@ -28,7 +28,7 @@ ht-degree: 1%
 * 内容实验和优化
 * 生成式 AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444469/?learn=on&enablevpops&captions=chi_hans)
 
 ## 主要要点
 

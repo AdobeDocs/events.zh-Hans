@@ -23,7 +23,7 @@ ht-degree: 0%
 
 欢迎参加新一期Expert Insights！  我是Cynthia Boon，即您的“按需”Workfront CSM，非常高兴地告诉大家，我们有一个而且唯一一个，即Madalyn Destafney，她分享了她丰富经验中的一些知识，以帮助客户使用Workfront实施和衡量服务级别协议(SLA)。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469988/?learn=on&enablevpops&captions=chi_hans)
 
 正如视频中所承诺的，我们将Madalyn的演示与她的步骤、计算表达式和报告示例相关联。 
 
