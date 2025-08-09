@@ -1,19 +1,20 @@
 ---
 title: Adobe Digital Insights — 数字化状态和GenAI采用网络研讨会
 description: 通过1T+网站访问发现Adobe的主要零售和旅游趋势，即GenAI、移动设备、KPI和消费者洞察，以帮助推动增长。
+solution: General
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3531
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18108
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+exl-id: 2158dece-ff41-42e7-b000-96172a707599
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Digital Insights：数字化现状和GenAI采用网络研讨会
 

@@ -1,19 +1,20 @@
 ---
 title: 数据Distiller 101
 description: Data Distiller 101网络研讨会重点介绍其在数据分段、扩充和AI/ML集成方面的功能，为数据架构师和营销实体提供可扩展的解决方案以增强数据驱动型决策。
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # 数据Distiller 101
 
@@ -39,7 +40,7 @@ Data Distiller旨在提供其主要用例和客户解决方案的概述。 它�
 
 * 为南美零售公司创建以品牌为中心的数据模型。
 * 使用电信公司的个性化数据扩充次优优惠电子邮件。
-* 优化奢侈品零售商的报告和归因建模数据。
+* 优化豪华retailer的报告和归因建模数据。
 * 自定义操作功能板的见解。
 * 利用AI和ML功能管道来训练和评分模型。
 

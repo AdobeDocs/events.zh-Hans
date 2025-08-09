@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
+source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -22,13 +22,24 @@ ht-degree: 1%
    + [24.1发行版](releases/24-1-release-webinar.md)
 + 前3项 {#top3}
    + [使用Blueprint的Creative方法](top3/blueprints.md)
+   + [办公时间的3大方法](top3/office-hours.md)
 + 对比！ {#versus}
    + [组与团队](versus/groups-vs-teams.md)
 + 专家见解 {#expert-insights}
+   + [非传统Workfront工作流](expert-insights/non-traditional-workfront-workflows.md)
    + [使用Lyndsy Denk请求队列](expert-insights/request-queues.md)
+   + [Workfront中的SLA报表](expert-insights/sla-reporting.md)
 + 车间倒带 {#workshop-rewind}
+   + 集成 {#integrations}
+      + [轻松导航多选字段的更改](workshop-rewind/integrations/mulit-select-fields.md)
+      + [解锁真实事件成本](workshop-rewind/integrations/event-costs.md)
+   + 规划 {#planning}
+      + [Workfront规划的团队级成功](workshop-rewind/planning/team-success-workfront-planning.md)
    + 工作流 {#workflow}
       + [Creative管理资源的方法](classics/creative-ways-of-managing-resources.md)
+      + [掌握电子邮件通知](workshop-rewind/workflow/email-notifications.md)
+      + [项目模板](workshop-rewind/workflow/project-templates.md)
+      + [充分发挥Workfront Data Connect的优势](workshop-rewind/workflow/data-connect.md)
 
 <!--  + Planning {#planning}
   + Integrations {#integrations}

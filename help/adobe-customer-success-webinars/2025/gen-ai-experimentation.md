@@ -1,6 +1,7 @@
 ---
 title: AJO中的GenAI实验及其与Adobe Target的关系
 description: 会议重点介绍了AI内容加速器在生成文本、图像和HTML 、通过Adobe Journey Optimizer进行内容实验、与Adobe Target集成以进行优化和个性化、组合工具的各种用例以及未来开发（包括增强的AI功能）方面的功能。
+solution: Journey Optimizer, Target
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2016
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17374
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
 
 ---
-
 
 # AJO中的GenAI实验及其与Adobe Target的关系
 
@@ -25,9 +26,9 @@ ht-degree: 1%
 
 * AI 助手内容加速器
 * 内容实验和优化
-* 创作AI
+* 生成式 AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444469/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
 
 ## 主要要点
 

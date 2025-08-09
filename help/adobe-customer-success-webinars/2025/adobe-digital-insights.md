@@ -1,19 +1,20 @@
 ---
 title: Adobe数字见解 — 揭开2024年假日业绩和2025年初趋势
 description: 加入Adobe的网络研讨会，深入了解2024年假日购物趋势和2025年初市场预测，探索高增长产品类别，并学习使用AI和高级技术打造个性化购物体验的最佳实践。
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Adobe数字见解：揭开2024年假日业绩和2025年初趋势
 

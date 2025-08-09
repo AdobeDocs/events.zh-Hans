@@ -4,17 +4,20 @@ description: Workfront专家关于使用Lyndsy Denk构建技术支持队列、�
 feature: Requests
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
+speaker-name-1: Lyndsy Dent
+speaker-title-1: Marketing Training and Enablement Manager
+speaker-company-1: IDEXX
 doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
-
 
 # 专家洞察 — 与Lyndsy Denk的请求队列
 
@@ -33,9 +36,9 @@ ht-degree: 0%
 
 如承诺的那样，下面是我们讨论的资源，以及几个用于“请求队列”和“队列主题”的额外链接：
 
-* 有关如何[管理继承的实例](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的资源，包括网络研讨会的链接和有关[Blueprint教程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的详细信息
+* 有关如何[管理继承的实例](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的资源，包括网络研讨会的链接和有关[Blueprint教程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的详细信息
 
-* 了解请求队列文档： [创建队列主题](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* 了解请求队列文档： [创建队列主题](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * Lyndsy针对[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)的网络研讨会演示文稿：与最终用户通信（此页面还包括指向[最终用户Comms指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)的链接）
 
@@ -43,7 +46,7 @@ ht-degree: 0%
 
 * 还有，别忘了查看[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798)“向我询问有关Workfront Proof的任何信息”页面，Lyndsy以及Monique Evans和Richard Carlson回答了您有关“校对”的问题！
 
-### 关于Lyndsy
+## 关于扬声器 
 
 Lyndsy是IDEXX的市场培训与支持经理。 除了Workfront之外，她还管理其DAM并领导营销部门的内部沟通。 她拥有技术写作、教学设计、高等教育以及指导高中竞争性演讲和辩论的背景。
 
@@ -54,5 +57,3 @@ Lyndsy是IDEXX的市场培训与支持经理。 除了Workfront之外，她还�
 ## 有什么要分享的吗？
 
 您是否在活动期间或专家分析视频中分享精彩故事？ 请通过[CSatScale@adobe.com](mailto:CSatScale@adobe.com)联系我们的团队。
-
-

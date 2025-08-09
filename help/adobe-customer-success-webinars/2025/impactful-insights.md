@@ -1,19 +1,20 @@
 ---
 title: 影响洞察 — 制定有效测量的策略
 description: 实施良好的衡量战略可提高运营效率、促进数据驱动型决策并改善客户体验，从而为组织提供竞争优势。
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # 影响洞察：制定有效测量的策略
 

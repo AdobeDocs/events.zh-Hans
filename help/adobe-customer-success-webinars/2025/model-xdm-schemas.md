@@ -1,6 +1,7 @@
 ---
 title: 为XDM架构建模的最佳实践和见解
 description: 在AEP中通过XDM架构、身份管理和最佳实践进行主数据建模，以实现可扩展、实时的个性化和分段。
+solution: Experience Platform
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
 
 ---
-
 
 # 为XDM架构建模的最佳实践和见解
 
