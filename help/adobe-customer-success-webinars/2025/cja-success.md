@@ -20,7 +20,7 @@ ht-degree: 0%
 
 在第四届会议上，我们深入探讨缺乏强有力的执行支持将如何拖延决策、预算分配和变革管理。 在本网络研讨会中，我们探究了执行领导人在倡导Adobe Customer Journey Analytics计划、协调跨职能团队以及推动可衡量的业务成果方面扮演的关键角色。 学习切实可行的策略，以吸引高级利益相关者参与，有效沟通价值，并构建数据驱动型决策文化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470864/?learn=on&enablevpops&captions=chi_hans)
 
 ## 制定业务案例
 
