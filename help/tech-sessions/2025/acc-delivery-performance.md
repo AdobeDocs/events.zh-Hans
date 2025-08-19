@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic交付性能 — 疑难解答
 description: 该会议介绍了使用Adobe Campaign提高电子邮件和短信投放性能的关键策略。 它解决了常见的难题，如投放延迟、吞吐量低和事务速度慢，提供了诸如批处理优化、 SQL日志记录和服务器性能监控等解决方案。 可投放性最佳实践包括正确的电子邮件身份验证(SPF、DKIM、DMARC)、黑名单监控和垃圾邮件检查。 为了提高性能，专家建议使用干净的工作流、限制规则和避免共享容器。 短信投放提示侧重于正确的外部帐户设置和日志分析。 该会议还重点讨论了跟踪验证、使用膨胀报表进行数据库维护，以及应用压力/疲劳规则以提高参与度。 会议录制将通过电子邮件共享，并发布在Adobe Experience网站上。
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # 技术讲座：Adobe Campaign Classic交付性能 — 疑难解答
 
