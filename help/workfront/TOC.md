@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
@@ -28,11 +28,13 @@ ht-degree: 2%
 + 专家见解 {#expert-insights}
    + [采用](expert-insights/adoption.md)
    + [收养调查](expert-insights/adoption-surveys.md)
+   + [敏捷](expert-insights/agile.md)
    + [内容供应链](expert-insights/content-supply-chain.md)
    + [融合](expert-insights/fusion.md)
    + [治理和卓越中心](expert-insights/centers-of-excellence.md)
    + [非传统Workfront工作流](expert-insights/non-traditional-workfront-workflows.md)
    + [报告实践](expert-insights/reporting-practices.md)
+   + [资源管理](expert-insights/resource-management.md)
    + [使用Lyndsy Denk请求队列](expert-insights/request-queues.md)
    + [Workfront中的SLA报表](expert-insights/sla-reporting.md)
    + [企业工作管理](expert-insights/enterprise-work-management.md)
@@ -42,6 +44,7 @@ ht-degree: 2%
       + [解锁真实事件成本](workshop-rewind/integrations/event-costs.md)
    + 规划 {#planning}
       + [Workfront规划的团队级成功](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Workfront Planning中的最新信息](workshop-rewind/planning/workfront-planning.md)
    + 工作流 {#workflow}
       + [Creative管理资源的方法](classics/creative-ways-of-managing-resources.md)
       + [掌握电子邮件通知](workshop-rewind/workflow/email-notifications.md)

@@ -7,25 +7,26 @@ speaker-company-1: Cognizant
 speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
+feature: Workfront Integrations and Apps
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: 75153967-b82d-4221-b44b-73aabb74402f
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
 # 专家见解 — 由Jaime Davidson进行的采用率调查
 
 这是您的随选Workfront CSM，现在我要看新视频！  这一次，我们有一个来自优秀客户的报告，来自Cognizant的Jaime Davidson！  在11月的Connect活动上，她衷心地投入时间和专业知识，分享了她在实施Workfront采用率调查方面的经验和资源。 *奖金！*&#x200B;我们自己的Workfront CSM，Danielle Johnston也分享她的见解和推荐！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469960/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## 资源
 
@@ -46,4 +47,3 @@ Jaime是一家技术娴熟的营销自动化和流程优化领导者，在营销
 ## 有什么要分享的吗？
 
 您是否在活动期间或专家分析视频中分享精彩故事？ 请通过[CSatScale@adobe.com](mailto:CSatScale@adobe.com)联系我们的团队。
-

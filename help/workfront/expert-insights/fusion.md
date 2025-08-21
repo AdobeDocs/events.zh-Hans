@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
+source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # 专家见解 — 与Ewan Hruska的融合
 
@@ -38,8 +38,8 @@ Ewan在视频中提到，他正在制作Fusion最佳实践指南，他非常乐�
 
 ## 资源
 
-* [可用Fusion模板列表](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=zh-Hans)
-* [Adobe Workfront Fusion视频概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=zh-Hans)
+* [可用Fusion模板列表](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [Adobe Workfront Fusion视频概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## 关于扬声器
 
