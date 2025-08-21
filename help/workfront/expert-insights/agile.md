@@ -34,9 +34,9 @@ Natalie在面试中分享了她最喜欢的Agile资源，因此我们承诺会�
 
 在寻找简单的入门方法吗？ 请查看以下文章和简短的视频演示：
 
-* [Adobe Workfront讨论区的早期功能加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [创建或编辑展示板 — 包含每个展示板模板的描述](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront展示板 — 简短视频演示](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Adobe Workfront讨论区的早期功能加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=zh-Hans)
+* [创建或编辑展示板 — 包含每个展示板模板的描述](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=zh-Hans)
+* [Adobe Workfront展示板 — 简短视频演示](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=zh-Hans)
 
 ## 关于扬声器
 

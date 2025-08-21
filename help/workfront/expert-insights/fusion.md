@@ -38,8 +38,8 @@ Ewan在视频中提到，他正在制作Fusion最佳实践指南，他非常乐�
 
 ## 资源
 
-* [可用Fusion模板列表](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
-* [Adobe Workfront Fusion视频概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
+* [可用Fusion模板列表](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=zh-Hans)
+* [Adobe Workfront Fusion视频概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=zh-Hans)
 
 ## 关于扬声器
 

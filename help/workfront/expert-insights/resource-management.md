@@ -35,13 +35,13 @@ ht-degree: 0%
 
 正在寻找资源规划者和工作负载均衡器之间的区别？ 下面是一些简短视频：
 
-* [什么是资源规划者？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [在工作负载均衡器中分配工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [什么是资源规划者？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=zh-Hans)
+* [在工作负载均衡器中分配工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=zh-Hans)
 
 由于资源规划者和工作负载均衡器是资源管理功能中的两个不同工具，因此了解这两个工具中的筛选条件至关重要。 在此处查找更多信息：
 
-* [在资源规划者中筛选信息](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [在工作负载均衡器中过滤信息](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [在资源规划者中筛选信息](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=zh-Hans)
+* [在工作负载均衡器中过滤信息](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=zh-Hans)
 
 ## 关于扬声器
 

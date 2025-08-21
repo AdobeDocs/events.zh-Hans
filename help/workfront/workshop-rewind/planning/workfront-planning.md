@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 获得成功：在Workfront规划中解锁最新内容
 
-本研讨会录制于2025年6月26日，主要介绍我们的Adobe Workfront产品团队，他们在其中分享Workfront计划的最新功能！ 有关Workfront后续计划的详细信息，请务必将Experience League上的[Adobe Workfront计划发布活动](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)页面加入书签。 
+本研讨会录制于2025年6月26日，主要介绍我们的Adobe Workfront产品团队，他们在其中分享Workfront计划的最新功能！ 有关Workfront后续计划的详细信息，请务必将Experience League上的[Adobe Workfront计划发布活动](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)页面加入书签。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469860/?learn=on&enablevpops)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 你才刚开始吗？  查看[指南 — 您的Workfront规划GPS！](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
-总是会添加新活动，因此请定期查看Experience League[上的](https://experienceleague.adobe.com/events/?filters=Workfront)活动页面，以免错过！
+总是会添加新活动，因此请定期查看Experience League[上的](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)活动页面，以免错过！
