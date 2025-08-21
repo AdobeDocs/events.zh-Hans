@@ -11,19 +11,19 @@ doc-type: Event
 duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: 0d870372-4605-4d42-b539-5de2943a2682
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # 专家见解：与Madalyn Destafney一起在Workfront中进行SLA报告
 
 欢迎参加新一期Expert Insights！  我是Cynthia Boon，即您的“按需”Workfront CSM，非常高兴地告诉大家，我们有一个而且唯一一个，即Madalyn Destafney，她分享了她丰富经验中的一些知识，以帮助客户使用Workfront实施和衡量服务级别协议(SLA)。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469988/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 正如视频中所承诺的，我们将Madalyn的演示与她的步骤、计算表达式和报告示例相关联。 
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 在演示期间，Madalyn分享了她的自定义表单和计算字段，因此，如果您刚刚开始使用这些功能，以下链接会将您引向正确的方向。 
 
-* 教程播放列表 — [创建和共享自定义Forms](https://experienceleague.adobe.com/zh-hans/playlists/workfront-create-and-manage-custom-forms)
+* 教程播放列表 — [创建和共享自定义Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* 文章 — [计算字段和表达式入门](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 文章 — [计算字段和表达式入门](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* 提示与技巧 — [每个人都应了解的计算字段 — 以及如何报告这些字段！](https://experienceleague.adobe.com/zh-hans/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* 提示与技巧 — [每个人都应了解的计算字段 — 以及如何报告这些字段！](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 有兴趣听听麦达林的更多提示吗？ 在Workfront社区中了解她的一系列提示和技巧！ 
 

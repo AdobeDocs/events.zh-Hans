@@ -3,10 +3,10 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 1%
+source-wordcount: '220'
+ht-degree: 2%
 
 ---
 
@@ -26,8 +26,13 @@ ht-degree: 1%
 + 对比！ {#versus}
    + [组与团队](versus/groups-vs-teams.md)
 + 专家见解 {#expert-insights}
+   + [采用](expert-insights/adoption.md)
+   + [收养调查](expert-insights/adoption-surveys.md)
    + [内容供应链](expert-insights/content-supply-chain.md)
+   + [融合](expert-insights/fusion.md)
+   + [治理和卓越中心](expert-insights/centers-of-excellence.md)
    + [非传统Workfront工作流](expert-insights/non-traditional-workfront-workflows.md)
+   + [报告实践](expert-insights/reporting-practices.md)
    + [使用Lyndsy Denk请求队列](expert-insights/request-queues.md)
    + [Workfront中的SLA报表](expert-insights/sla-reporting.md)
    + [企业工作管理](expert-insights/enterprise-work-management.md)

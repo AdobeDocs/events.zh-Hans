@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # 专家见解：由Kiersten Kollins提供的非传统Workfront工作流
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 启动Creative Brief审阅以满足其用户和项目的需求。 
 * *奖金！*&#x200B;她还分享了她最喜欢的Fusion用例之一！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469949/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## 资源
 
@@ -49,6 +49,4 @@ Kiersten在营销创意和运营团队中拥有超过十年的工作经验，曾
 
 ## 有什么要分享的吗？
 
-您是否在活动期间或专家分析视频中分享精彩故事？ 请在[CSatScale@adobe.com|mailto:CSatScale@adobe.com]联系我们的团队。
-
-
+您是否在活动期间或专家分析视频中分享精彩故事？ 请通过[CSatScale@adobe.com](mailto:CSatScale@adobe.com)联系我们的团队。

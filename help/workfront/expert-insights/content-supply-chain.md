@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # 专家洞察 — 与Core Kombol的内容供应链
 
@@ -53,4 +53,4 @@ Corre Kombol是一家以业绩为导向的首席客户成功经理，在提高�
 
 ## 有什么要分享的吗？
 
-您是否在活动期间或专家分析视频中分享精彩故事？ 请在[CSatScale@adobe.com|mailto:CSatScale@adobe.com]联系我们的团队。
+您是否在活动期间或专家分析视频中分享精彩故事？ 请通过[CSatScale@adobe.com](mailto:CSatScale@adobe.com)联系我们的团队。
