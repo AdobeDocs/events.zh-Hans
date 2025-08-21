@@ -44,7 +44,7 @@ ht-degree: 1%
 * [创建Workspace （Planning基础入门）](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [创建和管理记录类型](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [创建和管理表视图](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [文档： Adobe Workfront规划概述](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning发布活动](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [文档： Adobe Workfront规划概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning发布活动](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-我们即将推出更多有关Workfront计划的活动，请务必定期查看Experience League[上的](https://experienceleague.adobe.com/events/?filters=Workfront)活动页面，以免错过！
+我们即将推出更多有关Workfront计划的活动，请务必定期查看Experience League[上的](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)活动页面，以免错过！

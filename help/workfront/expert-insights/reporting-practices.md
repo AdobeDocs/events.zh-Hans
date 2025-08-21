@@ -42,14 +42,14 @@ ht-degree: 0%
 ## 资源
 
 * **博客** - [使用计算的自定义字段节省时间](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
-* **Article** - [计算的数据表达式]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=您可以使用生成新字段的数据表达式。&amp;text=有关创建的详细信息，请将数据添加到自定义表单。)
+* **Article** - [计算的数据表达式]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=zh-Hans#:~:text=您可以使用生成新字段的数据表达式。&amp;text=有关创建的详细信息，请将数据添加到自定义表单。)
 * **事件跟进** - [计算自定义字段研讨会](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
 * **社区** - [报告指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
 * **博客** - [使用Workfront Blueprint优化您的工作管理环境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *快速入门* — 在此博客中，您可以找到有关“系统维护功能板”和“使用情况功能板”报告包的更多信息。 
    * *额外小费！* — 订阅博客以在发布新Blueprint时发送通知。 
-* **文章** - [通配符筛选器变量](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
-* **文章** - [将基本条件格式添加到视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* **文章** - [通配符筛选器变量](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=zh-Hans)
+* **文章** - [将基本条件格式添加到视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=zh-Hans)
 
 ## 关于扬声器
 

@@ -33,11 +33,11 @@ ht-degree: 0%
 
 在演示期间，Madalyn分享了她的自定义表单和计算字段，因此，如果您刚刚开始使用这些功能，以下链接会将您引向正确的方向。 
 
-* 教程播放列表 — [创建和共享自定义Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* 教程播放列表 — [创建和共享自定义Forms](https://experienceleague.adobe.com/zh-hans/playlists/workfront-create-and-manage-custom-forms)
 
-* 文章 — [计算字段和表达式入门](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 文章 — [计算字段和表达式入门](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* 提示与技巧 — [每个人都应了解的计算字段 — 以及如何报告这些字段！](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* 提示与技巧 — [每个人都应了解的计算字段 — 以及如何报告这些字段！](https://experienceleague.adobe.com/zh-hans/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 有兴趣听听麦达林的更多提示吗？ 在Workfront社区中了解她的一系列提示和技巧！ 
 
