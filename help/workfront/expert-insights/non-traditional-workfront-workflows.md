@@ -33,7 +33,7 @@ ht-degree: 0%
 * 启动Creative Brief审阅以满足其用户和项目的需求。 
 * *奖金！*&#x200B;她还分享了她最喜欢的Fusion用例之一！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469949/?learn=on&enablevpops&captions=chi_hans)
 
 ## 资源
 

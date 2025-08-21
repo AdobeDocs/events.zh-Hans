@@ -25,7 +25,7 @@ ht-degree: 0%
 
 和我一起加入您的Workfront点播CSM，我与Leslie讨论为什么采用是如此重要的主题，以及一些我们最喜欢的策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469937/?learn=on&enablevpops&captions=chi_hans)
 
 ## 提示、建议等
 

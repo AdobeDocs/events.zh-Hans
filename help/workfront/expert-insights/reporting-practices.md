@@ -27,7 +27,7 @@ ht-degree: 0%
 
 与Nichole聊天，了解她如何成为我们的报告大师、她最喜欢的功能与技巧，以及我们如何“更像Nichole”，欢迎光临您的On-Demand Workfront CSM！ 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469975/?learn=on&enablevpops&captions=chi_hans)
 
 ## 提示
 
