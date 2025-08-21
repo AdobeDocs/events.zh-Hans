@@ -23,7 +23,7 @@ ht-degree: 0%
 
 正在寻找有关资源管理快速入门的建议？ 加入您的On-Demand Workfront CSM ，采访我们常驻的Adobe Workfront资源管理专家Corinna Jevons，并探索实施此Workfront功能的常见问题和最佳方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469913/?learn=on&enablevpops&captions=chi_hans)
 
 ## 资源
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 欢迎再次访问专家分析新访谈，这次访谈将提供关于在您的组织中开始使用Agile的最佳实践的建议。 加入您的On-Demand Workfront CSM，采访我们常驻的Adobe Workfront Agile专家Natalie Mitchell，并探索与您的团队实施Agile方法的常见问题和建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469891/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469926/?learn=on&enablevpops&captions=chi_hans)
 
 ## 资源
 
