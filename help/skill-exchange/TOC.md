@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
+source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '695'
 ht-degree: 9%
 
 ---
@@ -125,6 +125,13 @@ ht-degree: 9%
          + [可重复使用的强大功能](aem/aug2022/reusability.md)
          + [在AEM中通过内容个性化推动业务价值](aem/aug2022/personalization.md)
          + [最大限度地实施AEM](aem/aug2022/implementation.md)
++ Adobe Experience Platform {#aep}
+   + 2025 年 8 月 {#aug2025}
+      + [开幕主题演讲](aep-apps/2025/aug/opening-keynote.md)
+      + [平衡Personalization、隐私和数据安全](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [媒体投资和Adobe的Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [在Adobe Journey Optimizer中处理复杂历程的提示](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [电子邮件以外的历程](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + 2024 年 8 月 {#aug2024}
       + [开幕主题演讲](marketo/aug2024/keynote.md)
