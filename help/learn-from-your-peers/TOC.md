@@ -45,7 +45,7 @@ ht-degree: 20%
    + 9 月 {#sept2023}
       + [深入了解AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
-      + 在Cloud Service中[有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [在Cloud Service中有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
