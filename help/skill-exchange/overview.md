@@ -3,16 +3,16 @@ title: Experience Makers技能交流
 description: Experience Makers技能交流是一系列全球虚拟客户学习活动，重点是深入了解Adobe Experience Cloud解决方案。
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '1119'
 ht-degree: 0%
 
 ---
 
 # Experience Makers技能交流 {#overview}
 
-<img alt="Experience Makers技能交流" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=zh-Hans" />
+<img alt="Experience Makers技能交流" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers技能交流是一系列全球虚拟客户学习活动，重点是深入了解Adobe Experience Cloud解决方案。 此计划通过分享最佳实践和提示与技巧，提供向Adobe产品专家和专家同行学习的机会。
 
@@ -50,7 +50,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="技能交流主题演讲 — 使用AI、Adobe Experience Platform创造体验的未来" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756505537148" alt="技能交流主题演讲 — 使用AI、Adobe Experience Platform创造体验的未来"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756848631023" alt="技能交流主题演讲 — 使用AI、Adobe Experience Platform创造体验的未来"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,7 +73,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="浏览新标准 — 平衡Personalization、隐私和数据安全" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756505537193" alt="浏览新标准 — 平衡Personalization、隐私和数据安全"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756848631032" alt="浏览新标准 — 平衡Personalization、隐私和数据安全"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +96,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="使用Adobe的Real-Time CDP Collaboration充分利用您的媒体投资" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756505537172" alt="使用Adobe的Real-Time CDP Collaboration充分利用您的媒体投资"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756848630989" alt="使用Adobe的Real-Time CDP Collaboration充分利用您的媒体投资"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,7 +119,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="稳定客户混乱 — 在Adobe Journey Optimizer中处理复杂历程的提示" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756505537182" alt="稳定客户混乱 — 在Adobe Journey Optimizer中处理复杂历程的提示"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756848631003" alt="稳定客户混乱 — 在Adobe Journey Optimizer中处理复杂历程的提示"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +142,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="解决电子邮件以外的Adobe历程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756505537161" alt="解决电子邮件以外的Adobe历程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756848631014" alt="解决电子邮件以外的Adobe历程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -169,18 +169,90 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
 
 {cta  = Watch event}
 
+* marketo/2025/aug/opening-keynote.md
+* marketo/2025/aug/ai-lifecycle-engine.md
+* marketo/2025/aug/design-studio.md
 * marketo/2025/aug/data-categorization-with-ai.md
 * marketo/2025/aug/follow-ups-customer-lifecycle.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/opening-keynote.md" title="开幕主题演讲" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756848632015" alt="开幕主题演讲"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="开幕主题演讲">正在打开主题演讲</a>
+                    </p>
+                    <p class="is-size-6">了解AI代理如何将B2B营销转化为B2B 3.0。了解通过Marketo Engage提高效率、个性化和客户旅程的策略。</p>
+                </div>
+                <a href="marketo/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="从MQL到AIQL — 在Marketo Engage中构建AI驱动的生命周期引擎" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1756848631969" alt="从MQL到AIQL — 在Marketo Engage中构建AI驱动的生命周期引擎"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/ai-lifecycle-engine.md" target="_blank" rel="referrer" title="从MQL到AIQL — 在Marketo Engage中构建AI驱动的生命周期引擎">从MQL到AIQL — 在Marketo Engage中构建AI支持的生命周期引擎</a>
+                    </p>
+                    <p class="is-size-6">了解如何通过AI驱动的生命周期管理、自动化见解和面向销售的建议，在Marketo Engage中转变销售线索得分。</p>
+                </div>
+                <a href="marketo/2025/aug/ai-lifecycle-engine.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking the Full Power of Design Studio for Global Marketing Operations">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/design-studio.md" title="充分发挥Design Studio的全球营销运作功能" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756848632006" alt="充分发挥Design Studio的全球营销运作功能"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/design-studio.md" target="_blank" rel="referrer" title="充分发挥Design Studio的全球营销运作功能">为全局营销操作解锁Design Studio的全部功能</a>
+                    </p>
+                    <p class="is-size-6">了解如何使用Marketo Engage中的Design Studio进行扩展。 探索封装、模板、表单和策略以减少技术债务并提高效率。</p>
+                </div>
+                <a href="marketo/2025/aug/design-studio.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="使用优化的AI模型改进Marketo Engage中的数据分类" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756505537499" alt="使用优化的AI模型改进Marketo Engage中的数据分类"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756848631996" alt="使用优化的AI模型改进Marketo Engage中的数据分类"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,12 +270,12 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="未定义" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756505537513" alt="未定义"
+                    <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Experience Makers聚焦 — 简化客户生命周期中的后续工作" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756848631984" alt="Experience Makers聚焦 — 简化客户生命周期中的后续工作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -211,9 +283,9 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" title="未定义">未定义</a>
+                        <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" title="Experience Makers聚焦 — 简化客户生命周期中的后续工作">体验创客聚焦 — 简化客户生命周期中的后续活动</a>
                     </p>
-                    <p class="is-size-6">未定义</p>
+                    <p class="is-size-6">了解可执行与请求营销活动如何简化工作流、提高数据准确性并增加与实时多渠道策略的互动。</p>
                 </div>
                 <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
@@ -233,8 +305,11 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
 * workfront/2025/aug/keynote.md
 * workfront/2025/aug/advanced-text-mode.md
 * workfront/2025/aug/center-of-excellence.md
+* workfront/2025/aug/enable-users-new-features.md
 * workfront/2025/aug/fusion-user-account-creation.md
+* workfront/2025/aug/review-approval.md
 * workfront/2025/aug/workfront-ai-tools.md
+* workfront/2025/aug/workflows-workfront-aem.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -244,7 +319,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="开幕主题演讲" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756505537827" alt="开幕主题演讲"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756848632532" alt="开幕主题演讲"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -254,7 +329,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" title="开幕主题演讲">正在打开主题演讲</a>
                     </p>
-                    <p class="is-size-6">AI支持的Workfront — 营销系统的未来 — Adobe Workfront</p>
+                    <p class="is-size-6">了解Adobe Workfront如何通过AI驱动的营销活动创建、见解和无缝的Adobe集成，支持智能、可见且互联的工作流。</p>
                 </div>
                 <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
@@ -267,7 +342,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="使用高级文本模式提升Workfront报表" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756505537866" alt="使用高级文本模式提升Workfront报表"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756848632492" alt="使用高级文本模式提升Workfront报表"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,7 +365,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="为您的Workfront组织打造卓越中心做好准备" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756505537856" alt="为您的Workfront组织打造卓越中心做好准备"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756848632522" alt="为您的Workfront组织打造卓越中心做好准备"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -308,12 +383,35 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Enabling Users on New Features - Agitation is Life">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/enable-users-new-features.md" title="使用户能够使用新功能 — 搅动就是生命" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1756848632567" alt="使用户能够使用新功能 — 搅动就是生命"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/enable-users-new-features.md" target="_blank" rel="referrer" title="使用户能够使用新功能 — 搅动就是生命">启用用户的新功能 — 搅动是生命</a>
+                    </p>
+                    <p class="is-size-6">了解提高Workfront采用率的策略 — 吸引用户、使功能与业务目标保持一致，并使用Analytics改善转出。</p>
+                </div>
+                <a href="workfront/2025/aug/enable-users-new-features.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automate Workfront user account creation with Fusion">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="使用Fusion自动创建Workfront用户帐户" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756505537844" alt="使用Fusion自动创建Workfront用户帐户"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756848632510" alt="使用Fusion自动创建Workfront用户帐户"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -331,12 +429,35 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting Started with Review and Approvals">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/review-approval.md" title="开始审阅和批准" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756848632551" alt="开始审阅和批准"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/review-approval.md" target="_blank" rel="referrer" title="开始审阅和批准">开始审阅和批准</a>
+                    </p>
+                    <p class="is-size-6">了解Workfront的审查和批准如何加快资产批准速度、减少电子邮件循环，并确保与简化的协作保持法规遵从性。</p>
+                </div>
+                <a href="workfront/2025/aug/review-approval.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Efficiency with AI - Mastering Workfront's AI Tools">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="利用AI最大限度地提高效率 — 掌握Workfront的AI工具" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756505537875" alt="利用AI最大限度地提高效率 — 掌握Workfront的AI工具"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756848632541" alt="利用AI最大限度地提高效率 — 掌握Workfront的AI工具"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -349,6 +470,29 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
                     <p class="is-size-6">探索Adobe Workfront AI功能（如“赶上时代”、摘要和公式生成）如何帮助自动执行任务、优化工作流并提高工作效率。</p>
                 </div>
                 <a href="workfront/2025/aug/workfront-ai-tools.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Streamlining Creative Workflows with Workfront + Adobe Experience Manager">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/workflows-workfront-aem.md" title="使用Workfront + Adobe Experience Manager简化Creative工作流" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1756848632559" alt="使用Workfront + Adobe Experience Manager简化Creative工作流"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/workflows-workfront-aem.md" target="_blank" rel="referrer" title="使用Workfront + Adobe Experience Manager简化Creative工作流">使用Workfront + Adobe Experience Manager简化Creative工作流</a>
+                    </p>
+                    <p class="is-size-6">了解将Workfront与AEM Assets连接起来如何简化请求、自动化元数据、改进治理以及支持高效的内容供应链。</p>
+                </div>
+                <a href="workfront/2025/aug/workflows-workfront-aem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
                 </a>
             </div>

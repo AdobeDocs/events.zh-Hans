@@ -1,6 +1,7 @@
 ---
 title: 使用优化的AI模型改进Marketo Engage中的数据分类
 description: 了解如何在Marketo Engage中使用优化的AI模型来检测垃圾邮件、将职称与角色匹配以及使用Webhook对打开的文本字段进行分类。
+solution: Marketo Engage
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # 使用优化的AI模型改进Marketo Engage中的数据分类
 

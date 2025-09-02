@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '750'
 ht-degree: 9%
 
 ---
@@ -134,6 +134,9 @@ ht-degree: 9%
       + [电子邮件以外的历程](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + 2025 年 8 月 {#aug2025}
+      + [开幕主题演讲](marketo/2025/aug/opening-keynote.md)
+      + [AI驱动的生命周期引擎](marketo/2025/aug/ai-lifecycle-engine.md)
+      + [Design Studio全球营销运营](marketo/2025/aug/design-studio.md)
       + [改进数据分类](marketo/2025/aug/data-categorization-with-ai.md)
       + [简化跟进](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + 2024 年 8 月 {#aug2024}
@@ -174,7 +177,10 @@ ht-degree: 9%
       + [高级文本模式](workfront/2025/aug/advanced-text-mode.md)
       + [使用Fusion自动创建用户帐户](workfront/2025/aug/fusion-user-account-creation.md)
       + [卓越中心](workfront/2025/aug/center-of-excellence.md)
+      + [使用户能够使用新功能](workfront/2025/aug/enable-users-new-features.md)
+      + [开始审阅和批准](workfront/2025/aug/review-approval.md)
       + [掌握Workfront的AI工具](workfront/2025/aug/workfront-ai-tools.md)
+      + [使用Workfront + AEM简化Creative工作流](workfront/2025/aug/workflows-workfront-aem.md)
    + 2024 年 8 月 {#aug2024}
       + [开幕主题演讲](workfront/aug2024/keynote.md)
       + [自定义工作负载均衡器](workfront/aug2024/workload-balancer.md)
