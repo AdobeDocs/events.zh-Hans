@@ -21,7 +21,7 @@ ht-degree: 0%
 
 您尝试获得对资源的批准时，是否厌倦了电子邮件反馈循环？ Workfront的审查和批准功能对于缩短周期时间、实现利益相关者之间的协调一致，以及确保满足合规性标准而言，是一个非常宝贵的工具。 了解如何开始使用Workfront中新的审阅和批准功能。 我们还将介绍有关将现有校对流程转换为新的审阅和批准功能的建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471493/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471570/?learn=on&enablevpops&captions=chi_hans)
 
 ## 使用Workfront转变审阅和批准方式
 

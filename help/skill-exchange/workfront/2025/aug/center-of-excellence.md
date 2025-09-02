@@ -27,7 +27,7 @@ ht-degree: 0%
 * **人员配置注意事项**&#x200B;通过确定管理员实践的关键角色和职责，探索人员配置您的CoE的关键方面。 了解如何构建能够有效支持和推动欧洲委员会举措的团队。
 * **提示和技巧**&#x200B;获得管理和维护CoE的实用见解和最佳实践。 发现克服共同挑战、促进协作和确保持续改进的战略。 加入我们，为您自己提供在Workfront组织内打造蓬勃发展的卓越中心所需的知识和工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471594/?learn=on&enablevpops&captions=chi_hans)
 
 ## 启动COE的关键步骤
 
