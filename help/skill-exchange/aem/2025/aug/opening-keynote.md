@@ -29,7 +29,7 @@ ht-degree: 0%
 * 新的优化工具(如Sites Optimizer和Content Advisor )提供了更好的参与和转化率。
 * 如何安全有效地扩展一对一个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471406/?learn=on&enablevpops&captions=chi_hans)
 
 
 ## 开启内容体验的未来
