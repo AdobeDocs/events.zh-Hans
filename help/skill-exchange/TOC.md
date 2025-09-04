@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '837'
 ht-degree: 9%
 
 ---
@@ -31,8 +31,11 @@ ht-degree: 9%
       + [电子邮件以外的历程](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
    + 2025年8月 {#aug2025}
+      + [开幕主题演讲](analytics/2025/aug/opening-keynote.md)
       + [Adobe Analytics Workspace中的自定义](analytics/2025/aug/analysis-workspace-customizations.md)
       + [仪表板不提供见解](analytics/2025/aug/dashboards-insights.md)
+      + [使用Analysis Workspace讲述数据故事](analytics/2025/aug/data-storytelling.md)
+      + [数据到PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
       + [可扩展的Analytics工作流](analytics/2025/aug/scalable-workflows.md)
       + [分段和个性化](analytics/2025/aug/segmentation-personalization.md)
       + [您应使用的Workspace功能](analytics/2025/aug/workspace-features.md)
@@ -107,9 +110,18 @@ ht-degree: 9%
       + [开始使用](analytics/jun2021/getting-started.md)
       + [营销渠道，请负责任地使用](analytics/jun2021/marketing-channels.md)
       + [融于一起](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+   + 2025 年 8 月 {#aug2025}
+      + [开幕主题演讲](cja/2025/aug/opening-keynote.md)
+      + [Customer Journey Analytics历程画布](cja/2025/aug/journey-canvas.md)
+      + [Customer Journey Analytics数据模型](cja/2025/aug/cja-data-model.md)
+      + [现代学经典的AA食谱](cja/2025/aug/modern-takes-classic-aa.md)
+      + [揭开每个历程背后的故事](cja/2025/aug/story-behind-journey.md)
 + Experience Manager {#aem}
    + 2025 年 8 月 {#aug2025}
       + [开幕主题演讲](aem/2025/aug/opening-keynote.md)
+      + [资源工作流、权限和集成](aem/2025/aug/asset-workflows-permissions-integration.md)
+      + [为AEM Assets开发报告和ROI指标](aem/2025/aug/reports-roi-metrics.md)
       + [面向未来的内容框架](aem/2025/aug/content-framework.md)
       + [可扩展的资产管理](aem/2025/aug/scalable-asset-management.md)
    + 2024 年 8 月 {#aug2024}
@@ -143,9 +155,6 @@ ht-degree: 9%
          + [可重复使用的强大功能](aem/aug2022/reusability.md)
          + [在AEM中通过内容个性化推动业务价值](aem/aug2022/personalization.md)
          + [最大限度地实施AEM](aem/aug2022/implementation.md)
-+ Customer Journey Analytics {#cja}
-   + 2025 年 8 月 {#aug2025}
-      + [现代学经典的AA食谱](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + 2025 年 8 月 {#aug2025}
       + [开幕主题演讲](marketo/2025/aug/opening-keynote.md)
