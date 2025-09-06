@@ -23,7 +23,7 @@ ht-degree: 0%
 
 此网络研讨会提供了现代内容供应链的高级概述，说明了组织如何跨每个渠道和受众加速、简化和管理内容创建和交付。 查看者将了解Adobe GenStudio作为产品套件所具有的集成功能(包括AEM Sites、AEM Assets、Workfront和Creative Cloud)，可解锁实时协作、自动化工作流并启用可扩展的品牌创意执行。 此会议旨在就统一的内容供应链平台如何推动营销敏捷性、创造性影响和显着的业务增长对业务和IT领导进行培训。
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472989/?learn=on&enablevpops&captions=chi_hans)
 
 ## 用Adobe解锁无缝内容创建
 
