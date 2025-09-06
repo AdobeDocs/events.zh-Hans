@@ -74,7 +74,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="前3项 — Creative使用Blueprint的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1756499239717" alt="前3项 — Creative使用Blueprint的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465322/?format=jpeg&nocache=1756499239717&captions=chi_hans" alt="前3项 — Creative使用Blueprint的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="办公时间的3大方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1756499239703" alt="办公时间的3大方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470152/?format=jpeg&nocache=1756499239703&captions=chi_hans" alt="办公时间的3大方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="对比！  — 组与团队" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1756499240185" alt="对比！  — 组与团队"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467363/?format=jpeg&nocache=1756499240185&captions=chi_hans" alt="对比！  — 组与团队"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -263,7 +263,7 @@ Workfront Expert Insights系列是您解锁Workfront资深实践者实用策略�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="专家洞察 — 与Leslie Spier共同采用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1756499240950" alt="专家洞察 — 与Leslie Spier共同采用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469937/?format=jpeg&nocache=1756499240950&captions=chi_hans" alt="专家洞察 — 与Leslie Spier共同采用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -286,7 +286,7 @@ Workfront Expert Insights系列是您解锁Workfront资深实践者实用策略�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="专家见解 — 由Jaime Davidson进行的采用率调查" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1756499240919" alt="专家见解 — 由Jaime Davidson进行的采用率调查"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469960/?format=jpeg&nocache=1756499240919&captions=chi_hans" alt="专家见解 — 由Jaime Davidson进行的采用率调查"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -309,7 +309,7 @@ Workfront Expert Insights系列是您解锁Workfront资深实践者实用策略�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="专家见解 — 与Natalie Mitchell一起打造敏捷体验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1756499240935" alt="专家见解 — 与Natalie Mitchell一起打造敏捷体验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469926/?format=jpeg&nocache=1756499240935&captions=chi_hans" alt="专家见解 — 与Natalie Mitchell一起打造敏捷体验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

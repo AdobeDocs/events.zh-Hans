@@ -25,7 +25,7 @@ ht-degree: 0%
 无论您是缺少处理规则，还是试图找到适合下一次分析的完美面板（数据视图），此会话都将引导您逐步了解现代分析的“厨房”。
 渴望获得洞察力，离开时可享有CJA就绪技术的完整菜单
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471250/?learn=on&enablevpops&captions=chi_hans)
 
 ## 用CJA转换Analytics：主要要点
 

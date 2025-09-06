@@ -23,7 +23,7 @@ ht-degree: 0%
 研究方法和讲故事技巧：将数据调查结果转换为利益相关者的引人入胜的叙述。
 技术能力和情商：以同理心提供支持和解决方案，而不仅仅是技术技能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471202/?learn=on&enablevpops&captions=chi_hans)
 
 ## 解锁Analytics以获得人为影响
 

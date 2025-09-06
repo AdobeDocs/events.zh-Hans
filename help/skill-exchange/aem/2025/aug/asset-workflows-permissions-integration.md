@@ -26,7 +26,7 @@ ht-degree: 0%
 * 了解和应用DAM中的权限和访问控制
 * DAM的功能、最佳实践和与DAM的集成策略
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471462/?learn=on&enablevpops&captions=chi_hans)
 
 ## 解锁高效的数字资产管理
 

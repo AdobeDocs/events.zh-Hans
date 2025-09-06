@@ -24,7 +24,7 @@ ht-degree: 0%
 
 最后，我们将深入探讨在整个组织中扩展这些洞察信息的策略，方法是将历程画布调查结果关联到精细的仪表板，从而实现每个接触点的持续优化。 无论您是CJA的新手还是经验丰富的从业者，此课程都将为您提供一套清晰的方法，让您能够使用历程画布提升您的CX计划并获得切实的成果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471224/?learn=on&enablevpops&captions=chi_hans)
 
 ## 历程画布：从分析到激活
 

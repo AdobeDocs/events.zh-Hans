@@ -21,7 +21,7 @@ ht-degree: 0%
 
 加入Adobe冠军Ioana Maftei，IBM高级分析经理，分享如何构建可扩展、受管分析工作流程，使内容供应链可衡量。 了解如何在适当的时间向适当的人员提供适当的见解、实现跨团队协作，以及定制Analysis Workspace项目以适合不同的角色和需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471239/?learn=on&enablevpops&captions=chi_hans)
 
 ## 将角色映射到Analytics阶段
 
