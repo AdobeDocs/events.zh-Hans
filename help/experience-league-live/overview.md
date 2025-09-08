@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1617cde0fc7e455a4cf9dfb3d1082d9abe79620d
+source-git-commit: aac0d6689d2911380fa548f5fe31a5665f120084
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 3%
+source-wordcount: '157'
+ht-degree: 19%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE是Experience League团队制作的直播节目。  利用这个机会，您可以与Adobe产品专家联系，并学习可用于Adobe Experience Cloud应用程序的可操作性提示、技巧和策略。
+Experience League LIVE是Experience League团队制作的直播节目。  利用这个机会，您可以与 Adobe 产品专家联系，并学习适用于 Adobe Experience Cloud 应用程序的可操作的提示、技巧和策略。
 
 <div id="upcoming-events">
 
@@ -25,8 +25,8 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
-              <img alt="Experience League直播7月31日" src="episodes/assets/WebBanner-31July2025.png">
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
+              <img alt="Experience League直播2025年9月30日" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
             </a>
             </div>
         </td>
@@ -96,5 +96,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
