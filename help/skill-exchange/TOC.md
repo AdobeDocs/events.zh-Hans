@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers和技能交流的录音集
 event-series: The Skill Exchange
-source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '843'
 ht-degree: 9%
 
 ---
@@ -203,6 +203,7 @@ ht-degree: 9%
       + [使用户能够使用新功能](workfront/2025/aug/enable-users-new-features.md)
       + [开始审阅和批准](workfront/2025/aug/review-approval.md)
       + [掌握Workfront的AI工具](workfront/2025/aug/workfront-ai-tools.md)
+      + [有关用户管理和许可的Pro提示](workfront/2025/aug/user-management-licensing.md)
       + [使用Workfront + AEM简化Creative工作流](workfront/2025/aug/workflows-workfront-aem.md)
    + 2024 年 8 月 {#aug2024}
       + [开幕主题演讲](workfront/aug2024/keynote.md)
