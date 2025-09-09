@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Experience Makers：技能交流(Marketo Engage途径)活动邀请了Adobe高级产品经理Badsah Mukherji参加，他讨论了B2B营销向“B2B 3.0”的演变。 这个新阶段重点关注人工智能驱动的客户体验，强调个性化的参与并定位帐户中的购买群体。 Mukherjee强调AI代理在任务自动化、提高效率和使营销人员能够专注于战略角色方面的变革性作用。 强调人 — 人工智能合作的重要性，人工智能放大而不是取代创造力。 在这一领域取得成功的关键技能包括快速的工程设计、流畅的数据和代理配置。 Adobe正在将AI代理集成到Marketo Engage等工具中，以自动化客户生命周期编排，从而确保支持AI的营销人员将在B2B营销的未来中蓬勃发展。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471485/?learn=on&enablevpops&captions=chi_hans)
 
 ## 浏览B2B营销的未来
 
