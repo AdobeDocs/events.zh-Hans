@@ -412,7 +412,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager开幕主题演讲" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager开幕主题演讲"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471406/?format=jpeg&nocache=1757465010566&captions=chi_hans" alt="Adobe Experience Manager开幕主题演讲"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ Experience Makers技能交流是一系列全球虚拟客户学习活动，重点
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="最大限度地提高Workfront许可证 — 用户管理和许可的专业提示" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="最大限度地提高Workfront许可证 — 用户管理和许可的专业提示"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473968/?format=jpeg&nocache=1757465013296&captions=chi_hans" alt="最大限度地提高Workfront许可证 — 用户管理和许可的专业提示"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

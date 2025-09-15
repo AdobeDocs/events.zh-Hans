@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解Monique如何确保合适的用户拥有正确的访问权限 — 使用角色、组、团队和自定义表单来简化扩展并减少管理开销。 本课程将为您提供清理实例、改进管理和优化Workfront设置的实用方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473968/?learn=on&enablevpops&captions=chi_hans)
