@@ -1,6 +1,6 @@
 ---
 title: 在AEM中释放现代SPA的强大功能 — 无头和SPA编辑器主方法
-description: 了解单页应用程序的基础知识探索Headless AEM及其与前端框架的集成利用AEM SPA Editor实现简化的开发流程在AEMD中构建、部署和管理SPA的最佳实践抓住这个机会，向专家提供见解，并在AEM中使用现代SPA技术提升您的数字战略。”
+description: 了解单页应用程序的基础知识探索Headless AEM及其与前端框架的集成利用AEM SPA Editor实现简化的开发流程在AEMD中构建、部署和管理SPA的最佳实践抓住这个机会，向专家提供见解，并利用AEM中的现代SPA技术提升您的数字战略。
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
