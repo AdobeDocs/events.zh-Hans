@@ -2,10 +2,10 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 4%
+source-wordcount: '502'
+ht-degree: 3%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 4%
       + [AI — 基本功能拓展](2025/ai-beyond-basics.md)
       + [为XDM架构建模的最佳实践和见解](2025/model-xdm-schemas.md)
       + [数据Distiller 101](2025/data-distiller-101.md)
+      + [身份图形用例和疑难解答](2025/identity-graph.md)
       + [赢得AEP项目的执行赞助](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
       + [内容供应链与Adobe GenStudio](2025/csc-gen-studio.md)
