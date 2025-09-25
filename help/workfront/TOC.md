@@ -3,7 +3,7 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 2%
@@ -52,10 +52,6 @@ ht-degree: 2%
       + [项目模板](workshop-rewind/workflow/project-templates.md)
       + [充分发挥Workfront Data Connect的优势](workshop-rewind/workflow/data-connect.md)
 
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
-
 + 经典影片 {#classics}
    + 管理 {#administration}
       + [审核记录与合规性](user-groups/audit-trails-and-compliance.md)
@@ -92,3 +88,7 @@ ht-degree: 2%
 
 
 
+
+<!--  + Planning {#planning}
+  + Integrations {#integrations}
+-->
