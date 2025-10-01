@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: 向Adobe专家和同行学习如何从Adobe解决方案中获得最大价值。 [!DNL Experience Makers - Learn from your peers] 是虚拟客户学习活动的全球系列，重点是深入了解 [!DNL Adobe Experience Cloud] 解决方案。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -204,45 +204,6 @@ ht-degree: 0%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Experience Platform
-
-<!-- CARDS
-
-{cta  = Watch event}
-
-* platform/ai-agents.md
- 
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Agents in AEP - An Overview">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="platform/ai-agents.md" title="AEP中的AI代理 — 概述" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1759344548123" alt="AEP中的AI代理 — 概述"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        AEP中的<a href="platform/ai-agents.md" target="_blank" rel="referrer" title="AEP中的AI代理 — 概述">AI代理 — 概述</a>
-                    </p>
-                    <p class="is-size-6">了解Adobe Experience Platform中的AI代理如何提高效率、支持实际用例并提供应用价值。 探索愿景、路线图以及如何开始。</p>
-                </div>
-                <a href="platform/ai-agents.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看活动</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
 ## Marketo
 
 <!-- CARDS
@@ -378,7 +339,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="用Marketo Engage掌握得分的人员 — 全球框架中的本地化细微差别" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457449/?format=jpeg&nocache=1759344548614&captions=chi_hans" alt="用Marketo Engage掌握得分的人员 — 全球框架中的本地化细微差别"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1759344548614" alt="用Marketo Engage掌握得分的人员 — 全球框架中的本地化细微差别"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
