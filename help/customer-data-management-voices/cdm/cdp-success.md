@@ -26,4 +26,4 @@ ht-degree: 1%
 
 *[客户数据管理人员和流程最佳实践](people-and-process.md)
 *[使用您的第一方数据构建卓越的体验](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=zh-Hans)
-*[案例研究 — TSB银行为每个客户提供实时数据个性化。](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[案例研究 — TSB银行为每个客户提供实时数据个性化。](https://business.adobe.com/cn/customer-success-stories/tsb-case-study.html)

@@ -38,5 +38,5 @@ ht-degree: 0%
 * 通过本地影响练习对人员/潜在客户进行评分 — [下载工作表](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * 潜在客户评分规则的大列表 — [查看工作表](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Marketo Engage项目导入库 — [文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=zh-Hans){target="_blank"}
-* 在研讨会之前、期间和之后引导评分了解有关该过程的所有信息 — [按需网络研讨会](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* 在研讨会之前、期间和之后引导评分了解有关该过程的所有信息 — [按需网络研讨会](https://business.adobe.com/cn/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * 冠军的抢先得分 — [博客](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

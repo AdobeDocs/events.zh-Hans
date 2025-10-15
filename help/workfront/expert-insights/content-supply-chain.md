@@ -37,12 +37,12 @@ Core是一位真正的战略客户经理，他为我们在如何使用Adobe解�
 
 ### 峰会会议
 
-* [Adobe如何优化其内容供应链 — S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) ：探索Adobe在其自己的营销组织中部署其内容供应链的方法 
-* [使用Adobe实现内容生产革命 — S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) ：了解Adobe如何最大限度地利用您的内容供应链并加快您的创意工作流程 
+* [Adobe如何优化其内容供应链 — S316](https://business.adobe.com/cn/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) ：探索Adobe在其自己的营销组织中部署其内容供应链的方法 
+* [使用Adobe实现内容生产革命 — S305](https://business.adobe.com/cn/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) ：了解Adobe如何最大限度地利用您的内容供应链并加快您的创意工作流程 
 
 ### 产品演示
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) — 因为需要交互式[产品演示]来说明企业工作管理解决方案中可以存在的范围。  
+* [Workfront](https://business.adobe.com/cn/product-demos/workfront/interactive-tour.html) — 因为需要交互式[产品演示]来说明企业工作管理解决方案中可以存在的范围。  
 * [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) — 我喜欢这项功能有多全面，可以让我们的客户开始将他们的需求与目前存在于Adobe上的解决方案联系起来。
 
 ## 关于扬声器 
