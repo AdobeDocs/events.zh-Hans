@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 3e5578b6b4262a90def9b3f5a3bb950013c9f56e
+source-git-commit: 1a45f3ef18803495f5bc77b0eb0d626ff7e558fe
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 13%
+source-wordcount: '213'
+ht-degree: 14%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
-              <img alt="Experience League直播 — 2025年10月16日" src="assets/exl-live-episode-10-16-25-web-banner.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-10-16-25.md">
-                <strong>解锁Customer Journey Analytics B2B edition的强大功能</strong>
-              </a>
-              <br/><em>与Doug Moore、Kari Olson、Caitlin Baunach</em>
-              <br/><em>2025年10月16日</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
               <img alt="Experience League直播2025年10月22日" src="episodes/assets/WebBanner-v2-Oct22-2025.jpg">
             </a>
@@ -124,5 +113,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
