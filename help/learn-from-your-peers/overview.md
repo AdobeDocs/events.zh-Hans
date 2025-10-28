@@ -363,7 +363,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="用Marketo Engage掌握得分的人员 — 全球框架中的本地化细微差别" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1761686446302" alt="用Marketo Engage掌握得分的人员 — 全球框架中的本地化细微差别"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457449/?captions=chi_hans&format=jpeg&nocache=1761686446302" alt="用Marketo Engage掌握得分的人员 — 全球框架中的本地化细微差别"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
