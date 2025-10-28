@@ -2,9 +2,9 @@
 title: Marketo Engage基础
 description: 加入Marketo基础用户组，通过面向初学者且支持性强的讲座，在Adobe Marketo Engage中建立信心和核心技能。
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 1%
 
 * 2025/campaigns-with-marketo-personalization.md
 * 2025/nurture-recipe.md
+* 2025/professional-exam-preparation.md
 * 2025/programs-campaigns.md
 * 2025/scoring.md
 
@@ -34,7 +35,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="利用Marketo Personalization强化营销活动" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1758746095385" alt="利用Marketo Personalization强化营销活动"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1761688732004" alt="利用Marketo Personalization强化营销活动"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +58,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="创建您的培养方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1758746095385" alt="创建您的培养方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1761688731994" alt="创建您的培养方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,12 +76,35 @@ ht-degree: 1%
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Foundational Marketo User Group - Professional Exam Preparation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/professional-exam-preparation.md" title="基础Marketo用户组 — 专业考试准备" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1761688731972" alt="基础Marketo用户组 — 专业考试准备"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" title="基础Marketo用户组 — 专业考试准备">基础Marketo用户组 — 专业考试准备</a>
+                    </p>
+                    <p class="is-size-6">获取专家指导、学习提示和AI支持的学习支持，以便您放心地参加这个重点突出的准备课程，从而顺利完成Marketo Engage专业考试。</p>
+                </div>
+                <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Programs, Campaigns & Beyond">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="项目、营销策划及更多内容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1758746095396" alt="项目、营销策划及更多内容"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1761688732014" alt="项目、营销策划及更多内容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,7 +127,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="得分更精明，而不是更难" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1758746095373" alt="得分更精明，而不是更难"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1761688731985" alt="得分更精明，而不是更难"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
