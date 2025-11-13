@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 从 [!DNL Experience Makers Learn from your peers]开始的录制集合
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 20%
+source-wordcount: '371'
+ht-degree: 19%
 
 ---
 
@@ -33,7 +33,8 @@ ht-degree: 20%
       + 3 月 {#mar2022}
          + [用数据讲述有影响力的故事](analytics/mar2022/stories-with-data.md)
 + Commerce {#commerce}
-   + 2 月 {#feb2024}
+   + 2025 {#2025}
+      + [Adobe Commerce和App Builder Essentials — 从基础知识到影响](commerce/2025/commerce-and-app-builder.md)
       + [Agile SDLC中的通信、要求和测试](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 8 月 {#aug2025}
@@ -45,7 +46,7 @@ ht-degree: 20%
    + 9 月 {#sept2023}
       + [深入了解AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
-      + [在Cloud Service中有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [掌握内容和体验片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + 基因人工智能 {#genai}
