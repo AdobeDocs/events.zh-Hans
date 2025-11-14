@@ -8,9 +8,9 @@ doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,7 @@ ht-degree: 0%
 
 无论您是刚开始使用App Builder，还是希望了解可扩展性的战略价值，此网络研讨会旨在为您提供一个清晰易用的基础，帮助您通过Adobe Commerce发掘新的可能性！
 
+## 其他资源
+
+* 与Alex Lyzun一起进行[网络研讨会后办公时间](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/)
+* [Adobe Commerce用户组](https://commerce-augs.adobe.com/)
