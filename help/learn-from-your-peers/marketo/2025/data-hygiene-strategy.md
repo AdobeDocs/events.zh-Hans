@@ -34,6 +34,6 @@ ht-degree: 0%
 ## 其他资源
 
 * 加入发布问答的Marketing Nation社区上的[讨论](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425)。
-* 使用可执行营销活动的[Marketo Engage数据卫生](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [掌握Salesforce CRM与Marketo Engage同步的数据卫生](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* 使用可执行营销活动的[Marketo Engage数据卫生](https://business.adobe.com/cn/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [掌握Salesforce CRM与Marketo Engage同步的数据卫生](https://experienceleague.adobe.com/zh-hans/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [如何使用Marketo Engage REST API执行重复数据删除](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
