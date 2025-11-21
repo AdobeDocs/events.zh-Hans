@@ -20,7 +20,7 @@ ht-degree: 0%
 
 同样也是我，你们的“On-Demand Workfront CSM”辛西娅·布恩和我有一个主题，在活动期间经常出现。  如果您刚刚开始建立办公时间，或者只是想刷新办公时间，请查看下面的视频！ 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470152/?captions=chi_hans&learn=on&enablevpops)
 
 办公时间只是您总体Workfront通信计划的另一个重要部分。 正在寻找有关与用户沟通的更多想法？ 查看[最终用户通信指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)！
 

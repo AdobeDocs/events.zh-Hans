@@ -20,7 +20,7 @@ ht-degree: 0%
 
 嘿，Workfronters，这是您的“On-Demand Workfront CSM”！ 在这对决中！ 剧集，我分享了一些关于使用群组与团队的想法和建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467363/?captions=chi_hans&learn=on&enablevpops)
 
 想要了解有关组和团队的更多信息？
 
