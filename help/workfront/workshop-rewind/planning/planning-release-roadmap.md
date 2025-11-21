@@ -26,7 +26,7 @@ ht-degree: 1%
 ## 资源
 
 - [幻灯片组PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/111025+-+From+Vision+to+Value-Workfront+Planning+Release+%26+Roadmap.pdf)
-- [Adobe Workfront规划概述](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+- [Adobe Workfront规划概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [Workfront计划API概述](https://developer.adobe.com/wf-planning/api/v1/)
 - [Workfront工作流API资源管理器](https://developer.adobe.com/workfront/api-explorer/)
 - 您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!)每月添加新活动的评论中，因此请务必查看“Experience League活动”页面以查看最新的会话。
