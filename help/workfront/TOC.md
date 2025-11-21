@@ -3,10 +3,10 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
+source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 2%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -20,17 +20,32 @@ ht-degree: 2%
    + [25.4版本](releases/25-4-release-webinar.md)
    + [25.1发行版](releases/25-1-release-webinar.md)
    + [24.1发行版](releases/24-1-release-webinar.md)
++ 车间倒带 {#workshop-rewind}
+   + 融合 {#fusion}
+      + [自动化命名约定](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [轻松导航多选字段的更改](workshop-rewind/fusion/mulit-select-fields.md)
+      + [解锁真实事件成本](workshop-rewind/fusion/event-costs.md)
+   + 规划 {#planning}
+      + [Workfront Planning中的最新信息](workshop-rewind/planning/workfront-planning.md)
+      + [Workfront规划的团队级成功](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Workfront计划发行版和路线图](workshop-rewind/planning/planning-release-roadmap.md)
+   + 工作流 {#workflow}
+      + [Creative管理资源的方法](classics/creative-ways-of-managing-resources.md)
+      + [掌握电子邮件通知](workshop-rewind/workflow/email-notifications.md)
+      + [项目模板](workshop-rewind/workflow/project-templates.md)
+      + [自学成功](workshop-rewind/workflow/self-taught-to-success.md)
+      + [充分发挥Workfront Data Connect的优势](workshop-rewind/workflow/data-connect.md)
 + 快速获取 {#quicktakes}
    + 前3项 {#top3}
-      + [使用Blueprint的Creative方法](top3/blueprints.md)
-      + [办公时间的3大方法](top3/office-hours.md)
+      + [使用Blueprint的Creative方法](quick-takes/top3/blueprints.md)
+      + [办公时间的3大方法](quick-takes/top3/office-hours.md)
    + 对比！ {#versus}
-      + [组与团队](versus/groups-vs-teams.md)
+      + [组与团队](quick-takes/versus/groups-vs-teams.md)
 + 专家见解 {#expert-insights}
    + [采用](expert-insights/adoption.md)
    + [收养调查](expert-insights/adoption-surveys.md)
    + [敏捷](expert-insights/agile.md)
-   + [内容供应链](expert-insights/content-supply-chain.md)
+   + [内容Supply chain](expert-insights/content-supply-chain.md)
    + [融合](expert-insights/fusion.md)
    + [治理和卓越中心](expert-insights/centers-of-excellence.md)
    + [非传统Workfront工作流](expert-insights/non-traditional-workfront-workflows.md)
@@ -39,19 +54,6 @@ ht-degree: 2%
    + [使用Lyndsy Denk请求队列](expert-insights/request-queues.md)
    + [Workfront中的SLA报表](expert-insights/sla-reporting.md)
    + [企业工作管理](expert-insights/enterprise-work-management.md)
-+ 车间倒带 {#workshop-rewind}
-   + 集成 {#integrations}
-      + [轻松导航多选字段的更改](workshop-rewind/integrations/mulit-select-fields.md)
-      + [解锁真实事件成本](workshop-rewind/integrations/event-costs.md)
-   + 规划 {#planning}
-      + [Workfront规划的团队级成功](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [Workfront Planning中的最新信息](workshop-rewind/planning/workfront-planning.md)
-   + 工作流 {#workflow}
-      + [Creative管理资源的方法](classics/creative-ways-of-managing-resources.md)
-      + [掌握电子邮件通知](workshop-rewind/workflow/email-notifications.md)
-      + [项目模板](workshop-rewind/workflow/project-templates.md)
-      + [充分发挥Workfront Data Connect的优势](workshop-rewind/workflow/data-connect.md)
-
 + 经典影片 {#classics}
    + 管理 {#administration}
       + [审核记录与合规性](user-groups/audit-trails-and-compliance.md)
