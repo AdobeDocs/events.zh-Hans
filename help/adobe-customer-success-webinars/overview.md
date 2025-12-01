@@ -3,9 +3,9 @@ title: Adobe客户成功网络研讨会
 description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
+source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
 workflow-type: tm+mt
-source-wordcount: '5548'
+source-wordcount: '5739'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enriching-adobe-commerce.md" title="使用Adobe Experience Platform丰富Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1763766177500" alt="使用Adobe Experience Platform丰富Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1764630165914" alt="使用Adobe Experience Platform丰富Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/transforming-b2b-commerce.md" title="用Personalization和自动化改造B2B和B2B2C Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1763766177493" alt="用Personalization和自动化改造B2B和B2B2C Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1764630165912" alt="用Personalization和自动化改造B2B和B2B2C Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +100,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-adoption.md" title="Adobe Customer Journey Analytics采纳的更改管理策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1763766183144" alt="Adobe Customer Journey Analytics采纳的更改管理策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1764630166120" alt="Adobe Customer Journey Analytics采纳的更改管理策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -123,7 +123,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="为支持Adobe Customer Journey Analytics取得成功而建立管理层赞助" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470864/?captions=chi_hans&format=jpeg&nocache=1763766183135" alt="为支持Adobe Customer Journey Analytics取得成功而建立管理层赞助"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1764630166122" alt="为支持Adobe Customer Journey Analytics取得成功而建立管理层赞助"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -146,7 +146,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-data-insights-agent.md" title="与您的数据进行对话 — CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1763766183121" alt="与您的数据进行对话 — CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1764630166128" alt="与您的数据进行对话 — CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -169,7 +169,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-operating-model.md" title="为CJA成功设计运营模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1763766183118" alt="为CJA成功设计运营模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1764630166117" alt="为CJA成功设计运营模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -192,7 +192,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-vision.md" title="实现Adobe Customer Journey Analytics愿景所需的基础架构" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1763766183163" alt="实现Adobe Customer Journey Analytics愿景所需的基础架构"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1764630166130" alt="实现Adobe Customer Journey Analytics愿景所需的基础架构"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -215,7 +215,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/analytics-to-cja-migration.md" title="从Adobe Analytics迁移到Adobe Customer Journey Analytics的最佳实践" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1763766183125" alt="从Adobe Analytics迁移到Adobe Customer Journey Analytics的最佳实践"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1764630166114" alt="从Adobe Analytics迁移到Adobe Customer Journey Analytics的最佳实践"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +238,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/roadmap-to-value-cja.md" title="CJA的价值路线图" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1763766183172" alt="CJA的价值路线图"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1764630166135" alt="CJA的价值路线图"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -261,7 +261,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" title="更智能的营销从这里开始 — 集成Google和Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1763766183154" alt="更智能的营销从这里开始 — 集成Google和Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1764630166132" alt="更智能的营销从这里开始 — 集成Google和Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -312,7 +312,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/personalized-experiences-aem.md" title="页面之外 — 利用AEM的新兴技术提供快速、灵活和个性化的体验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1763766188009" alt="页面之外 — 利用AEM的新兴技术提供快速、灵活和个性化的体验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1764630166878" alt="页面之外 — 利用AEM的新兴技术提供快速、灵活和个性化的体验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -335,7 +335,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-lucene-search.md" title="AEM Lucene搜索的基本提示和最佳实践" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1763766188060" alt="AEM Lucene搜索的基本提示和最佳实践"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1764630166883" alt="AEM Lucene搜索的基本提示和最佳实践"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -358,7 +358,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-genai.md" title="使用GenAI的AEM — 大规模转变您的内容创建和交付" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1763766188085" alt="使用GenAI的AEM — 大规模转变您的内容创建和交付"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1764630166880" alt="使用GenAI的AEM — 大规模转变您的内容创建和交付"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -381,7 +381,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-workfront-integration.md" title="使用Native Connector集成AEM和Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1763766188012" alt="使用Native Connector集成AEM和Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1764630166875" alt="使用Native Connector集成AEM和Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -404,7 +404,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-effective-web-pages.md" title="在AEM Sites中构建有效网页" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1763766188028" alt="在AEM Sites中构建有效网页"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1764630166885" alt="在AEM Sites中构建有效网页"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -427,7 +427,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-assistant-in-aem.md" title="AEM 中的 AI 助手" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1763766188051" alt="AEM 中的 AI 助手"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1764630166887" alt="AEM 中的 AI 助手"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +450,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/driving-customer-engagement.md" title="推动客户在支付方领域的参与" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1763766188022" alt="推动客户在支付方领域的参与"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1764630166892" alt="推动客户在支付方领域的参与"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -473,7 +473,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/payer-enrollment-journey.md" title="使用AEM Forms实现付款人注册历程的现代化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470542/?format=jpeg&nocache=1763766188017" alt="使用AEM Forms实现付款人注册历程的现代化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470542/?format=jpeg&nocache=1764630166900" alt="使用AEM Forms实现付款人注册历程的现代化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +496,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="掌握AEM Sites — 模板、导航和SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464325/?captions=chi_hans&format=jpeg&nocache=1763766188014" alt="掌握AEM Sites — 模板、导航和SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1764630166889" alt="掌握AEM Sites — 模板、导航和SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +519,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-dam-aem-content-hub.md" title="掌握数字资源管理 — 使用Adobe ContentHub的最佳实践" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1763766188020" alt="掌握数字资源管理 — 使用Adobe ContentHub的最佳实践"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1764630166918" alt="掌握数字资源管理 — 使用Adobe ContentHub的最佳实践"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -542,7 +542,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/dynamic-media-open-ai.md" title="使用Open API掌握Dynamic Media" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1763766188042" alt="使用Open API掌握Dynamic Media"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1764630166909" alt="使用Open API掌握Dynamic Media"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -565,7 +565,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/new-relic-essentials-aem-cloud.md" title="AEM Cloud的New Relic Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1763766188031" alt="AEM Cloud的New Relic Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1764630166943" alt="AEM Cloud的New Relic Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -588,7 +588,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/optimize-aem-performance.md" title="优化AEM性能 — 缓存策略和技术" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1763766188025" alt="优化AEM性能 — 缓存策略和技术"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1764630166935" alt="优化AEM性能 — 缓存策略和技术"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -611,7 +611,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/personalize-digital-communications.md" title="使用AEM Forms在Financial Services中个性化数字通信" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1763766188077" alt="使用AEM Forms在Financial Services中个性化数字通信"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1764630166956" alt="使用AEM Forms在Financial Services中个性化数字通信"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -634,7 +634,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modern-aem-authoring.md" title="用于现代Adobe Experience Manager创作的通用编辑器概述" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1763766188069" alt="用于现代Adobe Experience Manager创作的通用编辑器概述"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1764630166927" alt="用于现代Adobe Experience Manager创作的通用编辑器概述"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -676,7 +676,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-agents.md" title="AEP中的AI代理 — 概述" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1763766193820" alt="AEP中的AI代理 — 概述"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1764630167702" alt="AEP中的AI代理 — 概述"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -699,7 +699,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI助手 — 基础知识以外" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463368/?captions=chi_hans&format=jpeg&nocache=1763766193803" alt="AI助手 — 基础知识以外"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1764630167699" alt="AI助手 — 基础知识以外"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -722,7 +722,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/model-xdm-schemas.md" title="为XDM架构建模的最佳实践和见解" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1763766193812" alt="为XDM架构建模的最佳实践和见解"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1764630167711" alt="为XDM架构建模的最佳实践和见解"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -745,7 +745,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/data-distiller-101.md" title="数据Distiller 101" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1763766193846" alt="数据Distiller 101"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1764630167709" alt="数据Distiller 101"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -768,7 +768,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/exec-sponsorship-aep-projects.md" title="赢得Adobe Experience Platform项目的执行赞助" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1763766193829" alt="赢得Adobe Experience Platform项目的执行赞助"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1764630167706" alt="赢得Adobe Experience Platform项目的执行赞助"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -791,7 +791,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/identity-graph.md" title="身份图形用例和疑难解答" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1763766193838" alt="身份图形用例和疑难解答"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1764630167704" alt="身份图形用例和疑难解答"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -828,7 +828,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="揭开内容供应链与Adobe GenStudio产品包的神秘面纱" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472989/?captions=chi_hans&format=jpeg&nocache=1763766198473" alt="揭开内容供应链与Adobe GenStudio产品包的神秘面纱"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1764630171448" alt="揭开内容供应链与Adobe GenStudio产品包的神秘面纱"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -851,7 +851,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/genstudio-for-performance-marketing-operating-model.md" title="GenStudio性能营销 — 运营模型和治理策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1763766198476" alt="GenStudio性能营销 — 运营模型和治理策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1764630171451" alt="GenStudio性能营销 — 运营模型和治理策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -892,7 +892,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-executive-sponsorship-ajo.md" title="为支持Adobe Journey Optimizer取得成功而建立管理层赞助" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1763766201481" alt="为支持Adobe Journey Optimizer取得成功而建立管理层赞助"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1764630171694" alt="为支持Adobe Journey Optimizer取得成功而建立管理层赞助"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -915,7 +915,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/change-management-strategies.md" title="Adobe Journey Optimizer采纳的更改管理策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1763766201500" alt="Adobe Journey Optimizer采纳的更改管理策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1764630171699" alt="Adobe Journey Optimizer采纳的更改管理策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -938,7 +938,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/design-an-operating-model-ajo.md" title="为AJO成功设计运营模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1763766201509" alt="为AJO成功设计运营模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1764630171701" alt="为AJO成功设计运营模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -961,7 +961,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/northstar-architecture-enable-adobe-journey-optimzier.md" title="利用NorthStar架构实现Adobe Journey Optimizer愿景" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1763766201478" alt="利用NorthStar架构实现Adobe Journey Optimizer愿景"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1764630171696" alt="利用NorthStar架构实现Adobe Journey Optimizer愿景"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -984,7 +984,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ajo-roadmap-to-value.md" title="Adobe Journey Optimizer价值实现系列 — 第1场会议的Adobe Journey Optimizer价值实现路线图" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1763766201483" alt="Adobe Journey Optimizer价值实现系列 — 第1场会议的Adobe Journey Optimizer价值实现路线图"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1764630171703" alt="Adobe Journey Optimizer价值实现系列 — 第1场会议的Adobe Journey Optimizer价值实现路线图"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1007,7 +1007,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/journey-optimizer-essentials.md" title="Journey Optimizer Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1763766201492" alt="Journey Optimizer Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1764630171705" alt="Journey Optimizer Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1050,7 +1050,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-supply-chain-basics.md" title="内容供应链基础知识 — 集成AEM、Analytics/CJA和Adobe Target（面向新用户）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1763766204225" alt="内容供应链基础知识 — 集成AEM、Analytics/CJA和Adobe Target（面向新用户）"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1764630171908" alt="内容供应链基础知识 — 集成AEM、Analytics/CJA和Adobe Target（面向新用户）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1073,7 +1073,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/accelerating-digital-experience-optimization.md" title="利用AI支持的分析加速数字体验优化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1763766204221" alt="利用AI支持的分析加速数字体验优化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1764630171910" alt="利用AI支持的分析加速数字体验优化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1096,7 +1096,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhance-loyalty-programs.md" title="利用Adobe解决方案的强大功能，通过Personalization和数据增强忠诚度计划" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1763766204236" alt="利用Adobe解决方案的强大功能，通过Personalization和数据增强忠诚度计划"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1764630171903" alt="利用Adobe解决方案的强大功能，通过Personalization和数据增强忠诚度计划"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1119,7 +1119,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhancing-personalization.md" title="增强Personalization - Adobe Target与CJA和AEM的Integration Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1763766204228" alt="增强Personalization - Adobe Target与CJA和AEM的Integration Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1764630171905" alt="增强Personalization - Adobe Target与CJA和AEM的Integration Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1142,7 +1142,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="AJO中的GenAI实验及其与Adobe Target的关系" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444469/?captions=chi_hans&format=jpeg&nocache=1763766204231" alt="AJO中的GenAI实验及其与Adobe Target的关系"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1764630171912" alt="AJO中的GenAI实验及其与Adobe Target的关系"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1165,7 +1165,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-sequential-logic.md" title="掌握AA和CJA中的顺序逻辑 — 一个可视化框架" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1763766204234" alt="掌握AA和CJA中的顺序逻辑 — 一个可视化框架"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1764630171914" alt="掌握AA和CJA中的顺序逻辑 — 一个可视化框架"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1188,7 +1188,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/sequential-logic-start-stop.md" title="掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 开始和停止" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1763766204240" alt="掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 开始和停止"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1764630171917" alt="掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 开始和停止"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1225,7 +1225,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-adobe-target.md" title="释放AI的强大功能 — Adobe Target的高级试验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1763766204531" alt="释放AI的强大功能 — Adobe Target的高级试验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1764630172666" alt="释放AI的强大功能 — Adobe Target的高级试验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1256,6 +1256,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
 * 2025/adobe-digital-insights.md
 * 2025/impactful-insights.md
 * 2025/agile-marketing-organization.md
+* 2025/practical-business-use-cases.md
 * 2025/digital-trends-preparing-future.md
 * 2025/northstar-architecture.md
 * 2025/ai-driven-growth.md
@@ -1268,7 +1269,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-digital-insights.md" title="Adobe数字见解 — 揭开2024年假日业绩和2025年初趋势" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1763766204743" alt="Adobe数字见解 — 揭开2024年假日业绩和2025年初趋势"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1764630172856" alt="Adobe数字见解 — 揭开2024年假日业绩和2025年初趋势"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1291,7 +1292,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/impactful-insights.md" title="影响洞察 — 制定有效测量的策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1763766204748" alt="影响洞察 — 制定有效测量的策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1764630172859" alt="影响洞察 — 制定有效测量的策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1314,7 +1315,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/agile-marketing-organization.md" title="培养敏捷营销组织" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1763766204736" alt="培养敏捷营销组织"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1764630172853" alt="培养敏捷营销组织"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1332,12 +1333,35 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Develop Practical B2B Use Cases">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/practical-business-use-cases.md" title="开发实用的B2B用例" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1764630172862" alt="开发实用的B2B用例"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/practical-business-use-cases.md" target="_blank" rel="referrer" title="开发实用的B2B用例">开发实用的B2B用例</a>
+                    </p>
+                    <p class="is-size-6">了解如何使用Adobe解决方案开发实用的B2B用例。</p>
+                </div>
+                <a href="2025/practical-business-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Digital Trends and Preparing for the Future">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/digital-trends-preparing-future.md" title="数字趋势和为未来做好准备" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1763766204738" alt="数字趋势和为未来做好准备"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1764630172860" alt="数字趋势和为未来做好准备"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1360,7 +1384,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/northstar-architecture.md" title="EA Northstar体系结构规划" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1763766204741" alt="EA Northstar体系结构规划"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1764630172865" alt="EA Northstar体系结构规划"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1383,7 +1407,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-driven-growth.md" title="零售业领导者 — 人工智能驱动的增长和最佳业绩手册" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471272/?format=jpeg&nocache=1763766204750" alt="零售业领导者 — 人工智能驱动的增长和最佳业绩手册"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471272/?format=jpeg&nocache=1764630172868" alt="零售业领导者 — 人工智能驱动的增长和最佳业绩手册"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1406,7 +1430,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/state-of-digital-and-genai-adoption-webinar.md" title="Adobe Digital Insights — 数字化状态和GenAI采用网络研讨会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458483/?format=jpeg&nocache=1763766204745" alt="Adobe Digital Insights — 数字化状态和GenAI采用网络研讨会"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458483/?format=jpeg&nocache=1764630172870" alt="Adobe Digital Insights — 数字化状态和GenAI采用网络研讨会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1446,7 +1470,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" title="解锁效率 — Adobe Workfront中人工智能驱动的自动化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1763766205302" alt="解锁效率 — Adobe Workfront中人工智能驱动的自动化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1764630173291" alt="解锁效率 — Adobe Workfront中人工智能驱动的自动化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1469,7 +1493,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-workfront-fusion-best-practices.md" title="Adobe Workfront Fusion基础知识和最佳实践" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1763766205306" alt="Adobe Workfront Fusion基础知识和最佳实践"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1764630173289" alt="Adobe Workfront Fusion基础知识和最佳实践"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1492,7 +1516,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/workfront-and-jira.md" title="Workfront和JIRA — 连接您的营销工作管理和开发执行系统" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1763766205304" alt="Workfront和JIRA — 连接您的营销工作管理和开发执行系统"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1764630173286" alt="Workfront和JIRA — 连接您的营销工作管理和开发执行系统"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1564,7 +1588,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/adobe-admin-console.md" title="掌握Adobe Admin Console" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1763766205752" alt="掌握Adobe Admin Console"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1764630173732" alt="掌握Adobe Admin Console"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1587,7 +1611,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-authoring-concepts.md" title="AEM基础知识AEM创作简介，关键概念和功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1763766205762" alt="AEM基础知识AEM创作简介，关键概念和功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1764630173730" alt="AEM基础知识AEM创作简介，关键概念和功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1610,7 +1634,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-sites-efficiencies.md" title="AEM Sites效率 — 性能优化、配置和故障排除" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1763766205749" alt="AEM Sites效率 — 性能优化、配置和故障排除"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1764630173734" alt="AEM Sites效率 — 性能优化、配置和故障排除"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1633,7 +1657,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-apps-services-integrations.md" title="了解针对客户用例的AEP应用程序服务集成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1763766205759" alt="了解针对客户用例的AEP应用程序服务集成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1764630173750" alt="了解针对客户用例的AEP应用程序服务集成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1656,7 +1680,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Real-Time Customer Data Platform与Marketo集成的基础知识" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433678/?captions=chi_hans&format=jpeg&nocache=1763766205746" alt="Real-Time Customer Data Platform与Marketo集成的基础知识"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1764630173736" alt="Real-Time Customer Data Platform与Marketo集成的基础知识"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1679,7 +1703,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-use-case-planning.md" title="从愿景到价值 — AEP用例规划" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1763766205754" alt="从愿景到价值 — AEP用例规划"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1764630173740" alt="从愿景到价值 — AEP用例规划"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1702,7 +1726,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-copywriting.md" title="借助人工智能支持的文字撰写实现内容加速" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1763766205757" alt="借助人工智能支持的文字撰写实现内容加速"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1764630173737" alt="借助人工智能支持的文字撰写实现内容加速"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1725,7 +1749,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-customer-experience.md" title="RTCDP Insights — 利用AI改善客户体验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1763766205764" alt="RTCDP Insights — 利用AI改善客户体验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1764630173746" alt="RTCDP Insights — 利用AI改善客户体验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1748,7 +1772,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-personalization.md" title="使用Adobe Target的AI驱动的Personalization最大化用户体验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1763766205819" alt="使用Adobe Target的AI驱动的Personalization最大化用户体验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1764630173759" alt="使用Adobe Target的AI驱动的Personalization最大化用户体验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1771,7 +1795,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ajo-essentials.md" title="Adobe Journey Optimizer Essentials — 创建营销活动、客户历程和登陆页面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1763766205772" alt="Adobe Journey Optimizer Essentials — 创建营销活动、客户历程和登陆页面"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1764630173749" alt="Adobe Journey Optimizer Essentials — 创建营销活动、客户历程和登陆页面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1794,7 +1818,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/basic-to-intermediate-analysis-capabilities.md" title="Adobe Analytics和CJA基础到中间分析功能快速入门" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1763766205790" alt="Adobe Analytics和CJA基础到中间分析功能快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1764630173777" alt="Adobe Analytics和CJA基础到中间分析功能快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1817,7 +1841,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="数据流优先级" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456815/?captions=chi_hans&format=jpeg&nocache=1763766205798" alt="数据流优先级"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1764630173768" alt="数据流优先级"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1840,7 +1864,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-delivery-services.md" title="优化内容交付 — 释放Edge服务的强大功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1763766205781" alt="优化内容交付 — 释放Edge服务的强大功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1764630173786" alt="优化内容交付 — 释放Edge服务的强大功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1863,7 +1887,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-network-mobile-personalization.md" title="透过Adobe解决方案深入了解Edge Network和移动Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1763766205807" alt="透过Adobe解决方案深入了解Edge Network和移动Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1764630173794" alt="透过Adobe解决方案深入了解Edge Network和移动Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1886,7 +1910,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/effective-change-management.md" title="指导变更 — 关于有效变更管理的高级领导力网络研讨会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1763766205836" alt="指导变更 — 关于有效变更管理的高级领导力网络研讨会"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1764630173820" alt="指导变更 — 关于有效变更管理的高级领导力网络研讨会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1909,7 +1933,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/empowering-lean-teams.md" title="增强精益团队的能力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1763766205877" alt="增强精益团队的能力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1764630173803" alt="增强精益团队的能力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1932,7 +1956,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/expedia-aa-to-cja.md" title="Expedia和领先品牌将他们的企业从Adobe Analytics发展到Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1763766205828" alt="Expedia和领先品牌将他们的企业从Adobe Analytics发展到Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1764630173812" alt="Expedia和领先品牌将他们的企业从Adobe Analytics发展到Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1955,7 +1979,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-ajo-analysis.md" title="Customer Journey Analytics中的Adobe Journey Optimizer Analysis快速入门" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1763766205852" alt="Customer Journey Analytics中的Adobe Journey Optimizer Analysis快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1764630173829" alt="Customer Journey Analytics中的Adobe Journey Optimizer Analysis快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1978,7 +2002,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-rtcdp.md" title="Real-Time Customer Data Platform — 快速入门" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1763766205844" alt="Real-Time Customer Data Platform — 快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1764630173845" alt="Real-Time Customer Data Platform — 快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2001,7 +2025,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization成熟度 — 实现超个性化的途径" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457355/?captions=chi_hans&format=jpeg&nocache=1763766205860" alt="Personalization成熟度 — 实现超个性化的途径"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1764630173837" alt="Personalization成熟度 — 实现超个性化的途径"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2024,7 +2048,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/journey-optimizer-mobile-capabilities.md" title="Journey Optimizer Mobile功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1763766205885" alt="Journey Optimizer Mobile功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1764630173861" alt="Journey Optimizer Mobile功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2047,7 +2071,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="最大限度地提高效率 — 精益团队和Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457018/?captions=chi_hans&format=jpeg&nocache=1763766205868" alt="最大限度地提高效率 — 精益团队和Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1764630173853" alt="最大限度地提高效率 — 精益团队和Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2070,7 +2094,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/mastering-cookies-data-privacy.md" title="隐私优先Analytics — 在Adobe Analytics和Customer Journey Analytics中掌握Cookie和数据隐私" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1763766205893" alt="隐私优先Analytics — 在Adobe Analytics和Customer Journey Analytics中掌握Cookie和数据隐私"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1764630173869" alt="隐私优先Analytics — 在Adobe Analytics和Customer Journey Analytics中掌握Cookie和数据隐私"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2093,7 +2117,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/organizational-readiness-content-supply-chain.md" title="解锁Adobe GenStudio组织准备工作的强大功能以应对内容供应链挑战" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1763766205917" alt="解锁Adobe GenStudio组织准备工作的强大功能以应对内容供应链挑战"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1764630173878" alt="解锁Adobe GenStudio组织准备工作的强大功能以应对内容供应链挑战"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2116,7 +2140,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-migration-readiness.md" title="Real-time Customer Data Platform迁移准备工作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1763766205901" alt="Real-time Customer Data Platform迁移准备工作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1764630173890" alt="Real-time Customer Data Platform迁移准备工作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2139,7 +2163,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/sequential-logic.md" title="掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 基础" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1763766205944" alt="掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 基础"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1764630173898" alt="掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 基础"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2162,7 +2186,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="战略领导力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456793/?captions=chi_hans&format=jpeg&nocache=1763766205908" alt="战略领导力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1764630173915" alt="战略领导力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2185,7 +2209,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/streamline-authentication.md" title="简化身份验证 — 从服务帐户(JWT)迁移到OAuth服务器到服务器凭据" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1763766205934" alt="简化身份验证 — 从服务帐户(JWT)迁移到OAuth服务器到服务器凭据"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1764630173923" alt="简化身份验证 — 从服务帐户(JWT)迁移到OAuth服务器到服务器凭据"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2208,7 +2232,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/target-personalization.md" title="Target Personalization — “推荐”和“类别亲和度”快速入门" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1763766205925" alt="Target Personalization — “推荐”和“类别亲和度”快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1764630173932" alt="Target Personalization — “推荐”和“类别亲和度”快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2231,7 +2255,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/turning-data-into-action.md" title="衡量的战略力量 — 将数据转化为行动" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1763766205952" alt="衡量的战略力量 — 将数据转化为行动"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1764630173907" alt="衡量的战略力量 — 将数据转化为行动"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2254,7 +2278,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/use-case-mapping.md" title="Real-Time CDP — 将用例映射到解决方案功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1763766205961" alt="Real-Time CDP — 将用例映射到解决方案功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1764630173948" alt="Real-Time CDP — 将用例映射到解决方案功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2277,7 +2301,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/web-sdk-migration.md" title="Web SDK Migration Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1763766205976" alt="Web SDK Migration Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1764630173940" alt="Web SDK Migration Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2300,7 +2324,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-admin-guardianship.md" title="Workfront系统和群组管理员监护的基础知识" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1763766205988" alt="Workfront系统和群组管理员监护的基础知识"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1764630173956" alt="Workfront系统和群组管理员监护的基础知识"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2323,7 +2347,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="使用Adobe Workfront实现效率最大化 — 精益团队网络研讨会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1763766205997" alt="使用Adobe Workfront实现效率最大化 — 精益团队网络研讨会"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1764630173965" alt="使用Adobe Workfront实现效率最大化 — 精益团队网络研讨会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2346,7 +2370,7 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-mastery.md" title="Workfront掌握 — 成功策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1763766206005" alt="Workfront掌握 — 成功策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630173974" alt="Workfront掌握 — 成功策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2364,6 +2388,34 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
             </div>
         </div>
     </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+
+
+>>
+    &lt;div class=&quot;card-image&quot;>
+    &lt;figure class=&quot;image x-is-16by9&quot;>
+    &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Mastery - Strategies for Success&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success&quot;
+    style=&quot;width： 100%；ash-ratio： 16 / 9； object-fit； object-fit： cover： cover；over；over；over； overflow； hidden； display： block： block； margin： margin： auto；&quot;>
+    &lt;/a>
+    &lt;/figure>
+    &lt;/div>
+    &lt;div class=&quot;card-content is-padded-small&quot; style=&quot;display： flex； flex-direction： column； flex-grow： 1； justify-content： space-between；&quot;>
+    &lt;div class=&quot;headline is-size-6 has-text-weight-bold&quot;>
+    &lt;a href=&quot;2024/workfront-mastery.md&quot; target=&quot; tage=&quot;referrer&quot; title=&quot;Workfront Mastery - Stery Stery Stery - Workfront Stery Stery&quot;>Strategies Mastery Mastery成功&lt;/a>
+    &lt;/p>
+    &lt;p class=&quot;is-size-6&quot;>让您的团队拥有充分利用Adobe Workfront的策略。 
+    在此会议中，我们的专家将引导您了解可带来价值、简化治理并推动采用的最佳实践。&lt;/p>
+    &lt;/div>
+    &lt;a href=&quot;2024/workfront-mastery.md&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot; class=&quot;spectrum-Button spectrum-Button—outline spectrum-Button—primary spectrum-Button—sizeM&quot; style=&quot;align-self： flex-start； margin-top： 1rem；&quot;>
+    &lt;spectrum class=&quot;spectrum-Button-label has-no-wraw has-text-weight-bold&quot;>观看&lt;/span>
+    &lt;/a>
+    &lt;/div>
+    &lt;/div>
+    &lt;/div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
