@@ -24,11 +24,11 @@ ht-degree: 0%
 如果您错过了实时会话，请查看[HMac的SNHU幻灯片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf)，并观看随选录制。
 * （注意：本幻灯片中的所有项目只是示例）
 
-有关Workfront Planning即将推出的功能的详细信息，请务必将Experience League上的[Adobe Workfront Planning发布活动页面](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)加入书签。
+有关Workfront Planning即将推出的功能的详细信息，请务必将Experience League上的[Adobe Workfront Planning发布活动页面](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)加入书签。
 
 您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)的评论中！
 
-每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/en/events)以了解最新会话。
+每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 
 
 

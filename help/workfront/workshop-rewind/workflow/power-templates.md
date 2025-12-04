@@ -25,6 +25,6 @@ ht-degree: 0%
 
 正在寻找活动期间共享的更多资源？  查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981)！
 
-每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/en/events)以了解最新会话。
+每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 
 

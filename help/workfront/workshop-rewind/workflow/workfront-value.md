@@ -27,6 +27,6 @@ ht-degree: 0%
 
 想要一个可自定义的幻灯片组，并在会话期间共享备注和最佳实践？  查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706)以了解更多资源！
 
-每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/en/events)以了解最新会话。
+每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 
 

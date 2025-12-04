@@ -27,5 +27,5 @@ ht-degree: 0%
 
 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029)以取得可下载的内容，并随附zip培训资料文件！
 
-每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/en/events)以了解最新会话。
+每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 
