@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Customer Journey Analytics可帮助您跨平台整合见解，从而让营销人员能够根据行为数据创建分段受众。 了解如何通过Adobe Real-Time Customer Data Platform和Adobe Journey Optimizer利用共享受众实现全渠道个性化、简化营销活动并最大化客户洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477449/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477471/?captions=chi_hans&learn=on&enablevpops)
