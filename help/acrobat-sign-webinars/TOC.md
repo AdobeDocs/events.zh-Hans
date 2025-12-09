@@ -1,9 +1,9 @@
 ---
 user-guide-title: Acrobat Sign网络研讨会
 user-guide-description: 向Adobe专家学习如何在Acrobat Sign中掌握新的电子签名工作流。
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 + [创建和使用工作流](./skill-builders/create-use-workflows.md)
 + [Document Builder](./skill-builders/document-builder.md)
 + [公证集成](./skill-builders/notarize.md)
++ [优化移动设备电子签名](./skill-builders/mobile-e-signing.md)
 + [发布可填写的、可签名的Web表单](./skill-builders/fillable-signable-web-form.md)
 + [提升Acrobat Sign管理体验](./skill-builders/acrobat-sign-admin-experience.md)
 + [准备您的协议以进行电子签名](./skill-builders/e-signature-setup.md)

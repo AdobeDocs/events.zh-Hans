@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '563'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
       + [建立执行赞助](2025/cja-success.md)
       + [变更管理策略](2025/cja-adoption.md)
       + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
+      + [使用CJA在30分钟内创建选件](2025/cja-shared-audiences.md)
       + [为CJA成功设计运营模型](2025/cja-operating-model.md)
       + [基础体系结构](2025/cja-vision.md)
       + [从Adobe Analytics迁移到CJA](2025/analytics-to-cja-migration.md)
