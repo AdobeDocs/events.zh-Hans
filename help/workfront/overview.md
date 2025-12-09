@@ -3,9 +3,9 @@ title: Adobe Workfront按需研讨会
 description: Workfront Events是一个视频库，专家和同行可以在其中就如何使用Workfront增强为组织完成的工作分享他们的想法和想法。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '860'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7版本网络研讨会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1763675711841" alt="Adobe Workfront 25.7版本网络研讨会"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1765315875998" alt="Adobe Workfront 25.7版本网络研讨会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,13 +51,13 @@ ht-degree: 2%
 
 ## 车间倒带
 
-通过我们精选的特色活动，探索您的Adobe Workfront社区中的最新内容。 我们每月会举办免费的现场会议，其中涵盖各种主题，以帮助您充分利用Workfront。 错过了现场活动？ 没问题！ 赶快观看展示客户案例、经验证的最佳实践和有价值的经验教训的即时录像。 想要实时连接吗？ 加入即将举办的实时活动，提问、分享见解并与同行协作。 请定期访问[Experience League Workfront Events页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)，查看后续内容！
+通过我们精选的特色活动，探索您的Adobe Workfront社区中的最新内容。 我们每月会举办免费的现场会议，其中涵盖各种主题，以帮助您充分利用Workfront。 错过了现场活动？ 没问题！ 赶快观看展示客户案例、经验证的最佳实践和有价值的经验教训的即时录像。 想要实时连接吗？ 加入即将举办的实时活动，提问、分享见解并与同行协作。 请定期访问[Experience League Workfront Events页面](https://experienceleague.adobe.com/en/events?filters=Workfront)，查看后续内容！
 
 <!-- CARDS 
 
 * workshop-rewind/planning/team-success-workfront-planning.md
 * workshop-rewind/fusion/event-costs.md
-* workshop-rewind/workflow/data-connect.md
+* workshop-rewind/workflow/creative-briefs.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -67,7 +67,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="快速开始，智能扩展 — 通过Workfront规划激活团队级别的成功" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1763675712244" alt="快速开始，智能扩展 — 通过Workfront规划激活团队级别的成功"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1765315876609" alt="快速开始，智能扩展 — 通过Workfront规划激活团队级别的成功"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/event-costs.md" title="Workfront Fusion Fix — 爱立信解锁真实事件成本的更智能方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1763675712238" alt="Workfront Fusion Fix — 爱立信解锁真实事件成本的更智能方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1765315876620" alt="Workfront Fusion Fix — 爱立信解锁真实事件成本的更智能方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,12 +108,12 @@ ht-degree: 2%
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock the Power of Workfront Data Connect">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reimagining Creative Briefs in Workfront">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/workflow/data-connect.md" title="充分发挥Workfront Data Connect的优势" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469965/?format=jpeg&nocache=1763675712257" alt="充分发挥Workfront Data Connect的优势"
+                    <a href="workshop-rewind/workflow/creative-briefs.md" title="在Workfront中重新构想Creative简报" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477114/?format=jpeg&nocache=1765315876590" alt="在Workfront中重新构想Creative简报"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,11 +121,11 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" title="充分发挥Workfront Data Connect的优势">解锁Workfront Data Connect的功能</a>
+                        <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" title="在Workfront中重新构想Creative简报">在Workfront中重新设想Creative简报</a>
                     </p>
-                    <p class="is-size-6">了解Adobe Workfront Data Connect如何与BI工具集成，以解锁见解、跟踪性能并推动更明智的业务决策。</p>
+                    <p class="is-size-6">了解Kohler如何使用Workfront转换创意简报，以简化流程并提高效率。</p>
                 </div>
-                <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -155,7 +155,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="前3项 — Creative使用Blueprint的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465322/?captions=chi_hans&format=jpeg&nocache=1763675712911" alt="前3项 — Creative使用Blueprint的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1765315877555" alt="前3项 — Creative使用Blueprint的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="对比！  — 组与团队" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467363/?captions=chi_hans&format=jpeg&nocache=1763675712903" alt="对比！  — 组与团队"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1765315877551" alt="对比！  — 组与团队"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Workfront Expert Insights系列是您解锁Workfront资深实践者实用策略�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="专家洞察 — 与Leslie Spier共同采用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469937/?captions=chi_hans&format=jpeg&nocache=1763675713371" alt="专家洞察 — 与Leslie Spier共同采用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1765315878072" alt="专家洞察 — 与Leslie Spier共同采用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Workfront Expert Insights系列是您解锁Workfront资深实践者实用策略�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="专家见解 — 由Jaime Davidson进行的采用率调查" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469960/?captions=chi_hans&format=jpeg&nocache=1763675713377" alt="专家见解 — 由Jaime Davidson进行的采用率调查"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1765315878064" alt="专家见解 — 由Jaime Davidson进行的采用率调查"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Workfront Expert Insights系列是您解锁Workfront资深实践者实用策略�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="专家见解 — 与Natalie Mitchell一起打造敏捷体验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469926/?captions=chi_hans&format=jpeg&nocache=1763675713389" alt="专家见解 — 与Natalie Mitchell一起打造敏捷体验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1765315878067" alt="专家见解 — 与Natalie Mitchell一起打造敏捷体验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
