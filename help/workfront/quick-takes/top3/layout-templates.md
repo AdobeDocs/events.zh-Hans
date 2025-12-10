@@ -19,7 +19,7 @@ ht-degree: 0%
 
 毫不奇怪，作为系统管理员，布局模板可以使您的Adobe Workfront实例更符合您的特定需求，因此请查看您使用布局模板的3大理由！
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477050/?captions=chi_hans&learn=on&enablevpops)
 
 有关更多资源，请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)！
 

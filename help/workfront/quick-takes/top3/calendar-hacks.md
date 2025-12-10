@@ -24,7 +24,7 @@ ht-degree: 1%
 * 直接在日程表上显示请求（新员工入门示例）
 * 还有小费！
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477073/?captions=chi_hans&learn=on&enablevpops)
 
 有关更多资源，请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)！
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 这一次，我将分享我最喜欢的充分利用计划报告的方法。 在视频中，我演示了如何使用此功能从您构建的所有精彩报告中获取更多信息的示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477085/?captions=chi_hans&learn=on&enablevpops)
 
 有关更多资源，请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)！
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Adobe Workfront研讨会是熟悉我们产品的绝佳方式。 请观看快速视频，了解您应该参加研讨会的3大原因！
 
->[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477037/?captions=chi_hans&learn=on&enablevpops)
 
 完成后，转到[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)以注册参加未来的研讨会。
 
