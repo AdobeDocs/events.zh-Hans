@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: b875b460b7226e625b65e11588cd9e01d11cac7f
+source-git-commit: b818f0896871c9ea771e5a4694ec8b496cb06abd
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 产品支持代理如何为用户提供主动和自助支持以及自动案例创建和跟踪
 * 即将推出的创新和功能，可进一步简化用户的支持管理
 
-[![ExL LIVE 2024年1月17日](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
+[![ExL LIVE 2024年1月17日](assets/WebBanner_Dec16_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
 
-[单击以在YouTube上设置提醒！](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
+[立即注册此活动！](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
