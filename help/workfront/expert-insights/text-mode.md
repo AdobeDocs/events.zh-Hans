@@ -36,10 +36,10 @@ ht-degree: 0%
 
 正在寻找其他资源？ 我们找到他们了！
 * [客户面板：从经验丰富的Workfront管理员那里获得的经验教训](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine分享了更多见解！
-* [引用报告中的收藏集](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API Explorer](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [引用报告中的收藏集](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API Explorer](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
 * [报告指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* 如果您是初次接触报告，请开始阅读Nichole的“透视”文章，[在Adobe Workfront中创建简单、有效的报告的步骤](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
+* 如果您是初次接触报告，请开始阅读Nichole的“透视”文章，[在Adobe Workfront中创建简单、有效的报告的步骤](https://experienceleague.adobe.com/zh-hans/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
 
 有关更多资源（包括复制/粘贴文本模式），请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)！
 
@@ -57,4 +57,4 @@ Katherine是IQVIA Digital的Workfront解决方案工程师和Fusion开发人员�
 
 您是否在活动期间或专家分析视频中分享精彩故事？ 请通过[CSatScale@adobe.com](mailto:CSatScale@adobe.com)联系我们的团队。
 
-如果您喜欢了解新创意和创意方法，请不要忘记在[Experience League活动页面](https://experienceleague.adobe.com/en/events)上注册即将举办的研讨会。
+如果您喜欢了解新创意和创意方法，请不要忘记在[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)上注册即将举办的研讨会。

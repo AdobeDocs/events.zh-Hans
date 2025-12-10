@@ -21,5 +21,5 @@ Adobe Workfront研讨会是熟悉我们产品的绝佳方式。 请观看快速�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-完成后，转到[Experience League活动页面](https://experienceleague.adobe.com/en/events?filters=Workfront)以注册参加未来的研讨会。
+完成后，转到[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)以注册参加未来的研讨会。
 

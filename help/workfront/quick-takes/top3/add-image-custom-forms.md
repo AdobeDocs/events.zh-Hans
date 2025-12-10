@@ -25,4 +25,4 @@ ht-degree: 0%
 
 有关更多资源，请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)！
 
-如果您喜欢了解新创意和创意方法，请不要忘记在[Experience League活动页面](https://experienceleague.adobe.com/en/events)上注册即将举办的研讨会。
+如果您喜欢了解新创意和创意方法，请不要忘记在[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)上注册即将举办的研讨会。
