@@ -94,7 +94,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="Adobe项目中的AI — 实践案例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="Adobe项目中的AI — 实践案例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477635/?captions=chi_hans&format=jpeg&nocache=1765499677692" alt="Adobe项目中的AI — 实践案例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="AI编码之争 — 好、坏、丑" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="AI编码之争 — 好、坏、丑"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477658/?captions=chi_hans&format=jpeg&nocache=1765499677608" alt="AI编码之争 — 好、坏、丑"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +278,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="浏览Adobe Experience Manager代理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="浏览Adobe Experience Manager代理"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477670/?captions=chi_hans&format=jpeg&nocache=1765499677627" alt="浏览Adobe Experience Manager代理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
