@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列技术深入探讨。
 breadcrumb-title: AEM GEM活动
 solution: Experience Manager
-source-git-commit: 78e56de853566bed74975bb7ef44f2cbd53cde8d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -34,14 +34,11 @@ ht-degree: 2%
    + [适用于内部部署和AMS环境的AEM最佳实践分析器](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [客户用例和正在使用的AEM Headless实施](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [深入了解 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [集成AEM和CIF框架，打造丰富的沉浸式电子商务体验](gems2022/aem-and-cif-framework-integration.md)
    + [使用AEM Headless和App Builder更快地构建网站](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-   + [Adobe Experience Manager as a Cloud Service：《2021年回顾与2022年展望》](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5走向世界 — 翻译集成和最佳实践](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-   + [Experience Manager 6.5 [!DNL Sites]的新增功能](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM富文本编辑器(RTE)深入分析](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [深入了解ContextHub中商店、模块和区段的实施详细信息](gems2019/contexthub-deep-dive.md)
    + [使用AEM 6.5创建Headless全渠道体验](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
