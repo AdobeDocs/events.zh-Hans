@@ -163,7 +163,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="AI Commerce开发创新" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="AI Commerce开发创新"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477691/?captions=chi_hans&format=jpeg&nocache=1765499677619" alt="AI Commerce开发创新"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="使用Adobe Experience Manager进行AI内容发现" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager进行AI内容发现"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477750/?captions=chi_hans&format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager进行AI内容发现"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Adobe Experience Manager中的内容人工智能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的内容人工智能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477829/?captions=chi_hans&format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的内容人工智能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="大规模文档创作 — 智能、AI优化体验的基础" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="大规模文档创作 — 智能、AI优化体验的基础"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477818/?captions=chi_hans&format=jpeg&nocache=1765499677631" alt="大规模文档创作 — 智能、AI优化体验的基础"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="使用AEM Sites Optimizer优化代码" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="使用AEM Sites Optimizer优化代码"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477727/?captions=chi_hans&format=jpeg&nocache=1765499677637" alt="使用AEM Sites Optimizer优化代码"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

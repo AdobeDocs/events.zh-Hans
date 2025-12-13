@@ -19,7 +19,7 @@ ht-degree: 0%
 
 了解Adobe Commerce如何利用AI来转换应用程序开发和简化自定义设置。 了解自动代码分析、智能迁移报告和可快速生成JavaScript代码的自然语言提示。 该会议重点介绍了Adobe Commerce工具生态系统的创新，帮助团队高效地实现传统系统的现代化并减少技术债务。 加入对话并探索即将举办的活动，以掌握最新的促销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477672/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477691/?captions=chi_hans&learn=on&enablevpops)
 
 此会议 — 由AI支持的Commerce中Adobe App Builder扩展的开发 — 重点介绍了Commerce Cloud高级产品经理Matt Johnson，他介绍了Adobe Commerce如何构建一个AI驱动的工具生态系统，以帮助团队更快地识别旧自定义项并使之现代化。 了解自动代码分析、智能迁移报告和自然语言提示如何在几分钟内生成与App Builder兼容的JavaScript代码，从而简化现代化并减少技术债务。 在圣何塞现场录制。
 

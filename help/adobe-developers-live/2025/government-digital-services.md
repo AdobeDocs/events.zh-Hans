@@ -19,7 +19,7 @@ ht-degree: 0%
 
 了解AI如何通过集成Adobe Experience Manager和Microsoft SharePoint来转变政府数字服务。 了解自适应表单如何简化提交、验证和服务交付，提升公民体验和效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477752/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477807/?captions=chi_hans&learn=on&enablevpops)
 
 该会议 — 利用AI和Adobe-Microsoft集成来简化政府数字服务 — 由Ensemble的高级软件工程师Cristian Bota现场录制而成。 了解育空政府如何通过将Adobe Experience Manager Forms、Sites和Acrobat Sign政府版与Microsoft SharePoint Lists集成来转变对公共项目的访问方式。 了解AI如何通过Automated Forms Generator解释客户端要求，启用可简化整个Adobe-Microsoft生态系统提交、验证和服务交付的自适应表单。
 

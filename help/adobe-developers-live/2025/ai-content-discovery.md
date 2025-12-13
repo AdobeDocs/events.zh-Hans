@@ -19,7 +19,7 @@ ht-degree: 0%
 
 了解AI如何使用Adobe Experience Manager改变内容发现。 了解如何使用内容顾问进行语义搜索和AI支持的资源推荐。 此会议涵盖基于活动简报的发现和快速访问Dynamic Media演绎版，通过OpenAPI栈栈简化内容重复使用和交付。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477750/?captions=chi_hans&learn=on&enablevpops)
 
 此会话 — 具有渠道就绪型呈现的AI驱动内容发现 — 由Matt Briscoe、Deepa Gupta和Mathias Siegel主持，展示开发人员如何使用内容顾问通过语义搜索和AI支持的推荐来发现资源和内容片段。 了解如何通过OpenAPI栈栈，跨Scene7和DM进行基于活动简报的发现和快速访问Dynamic Media演绎版以简化内容重复使用和交付。 在圣何塞现场录制。
 

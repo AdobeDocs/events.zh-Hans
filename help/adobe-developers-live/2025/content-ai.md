@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Adobe Experience Manager Content AI通过利用现有内容进行语义搜索、生成性发现和自动内容变体来转换数字体验。 了解Content AI的架构和丰富管道如何提供智能的数字体验。 了解其有效管理内容并释放AI机会的功能，从而增强贵企业的数字转型。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477729/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477829/?captions=chi_hans&learn=on&enablevpops)
 
 本课程 — 利用Content AI在Adobe Experience Manager中引入内容智能 — 将邀请高级云软件工程师Fabrizio Fortino和Adobe软件开发经理Julia Daurer参加。 本演示文稿从巴塞尔现场录制，探讨Adobe Experience Manager Content AI如何使用现有客户内容来通过代理工作流增强语义搜索、创成发现和自动内容变体。 了解Content AI的架构、丰富管道以及用于交付智能数字体验的A/B测试功能。
 
