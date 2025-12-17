@@ -23,6 +23,6 @@ ht-degree: 0%
 
 正在寻找客户如何使用展示板的示例？ 看看美泰在2024年Adobe Summit董事会报告吧！ 
 
-[2024年峰会讲座：美泰如何利用Workfront的展示板](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[2024年峰会讲座：美泰如何利用Workfront的展示板](https://business.adobe.com/cn/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
 
 

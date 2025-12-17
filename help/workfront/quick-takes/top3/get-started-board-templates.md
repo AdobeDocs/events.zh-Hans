@@ -23,7 +23,7 @@ ht-degree: 0%
 
 本文提供了分步说明。
 
-[使用模板创建新讨论区](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[使用模板创建新讨论区](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
 您是否有想法和后续问题需要分享或关注该视频？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307)的评论中！
 

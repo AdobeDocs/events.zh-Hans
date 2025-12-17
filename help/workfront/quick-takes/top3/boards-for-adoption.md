@@ -29,9 +29,9 @@ ht-degree: 0%
 
 正如视频中承诺的那样，我们有许多资源需要共享，包括文章和简短的视频演示：
 
-* [开始使用Adobe Workfront中的讨论区](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Adobe Workfront讨论区的早期功能加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [创建或编辑展示板 — 包含每个展示板模板的描述](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront展示板 — 简短视频演示](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [开始使用Adobe Workfront中的讨论区](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=zh-Hans)
+* [Adobe Workfront讨论区的早期功能加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=zh-Hans)
+* [创建或编辑展示板 — 包含每个展示板模板的描述](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=zh-Hans)
+* [Adobe Workfront展示板 — 简短视频演示](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=zh-Hans)
 
 
