@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '569'
 ht-degree: 4%
 
 ---
@@ -59,7 +59,10 @@ ht-degree: 4%
       + [设计操作模型](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [利用NorthStar体系结构](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+      + [使营销活动符合现代化要求](2025/ajo-adobe-campaign.md)
       + [Adobe Journey Optimizer的价值路线图](2025/ajo-roadmap-to-value.md)
+   + Marketo {#marketo2025}
+      + [新建电子邮件编辑器](2025/marketo-new-email-editor.md)
    + 多解决方案 {#multisolution2025}
       + [内容供应链基础知识](2025/content-supply-chain-basics.md)
       + [利用AI分析优化数字体验](2025/accelerating-digital-experience-optimization.md)

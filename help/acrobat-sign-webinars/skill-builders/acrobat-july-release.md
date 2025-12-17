@@ -1,5 +1,5 @@
 ---
-title: 网络研讨会 — 了解我们的最新改进 — Adobe Acrobat Sign 2025年7月版
+title: 了解我们的最新改进 — Acrobat Sign 2025年7月版
 description: 了解Acrobat Sign的2025年7月更新 — PDF/A合规性、WhatsApp通知以及面向领导和管理员的增强型协议安全性。
 solution: Acrobat Sign
 feature-set: Document Cloud
@@ -10,15 +10,15 @@ doc-type: Event
 duration: 3588
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-19007
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-
-# 网络研讨会：了解我们的最新改进： Adobe Acrobat Sign 2025年7月版
+# 了解我们的最新改进 — Acrobat Sign 2025年7月版
 
 探索为领导、管理和推动Acrobat Sign取得成功的人构建的新特性和功能。
 

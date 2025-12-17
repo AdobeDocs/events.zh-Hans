@@ -1,10 +1,10 @@
 ---
 user-guide-title: Acrobat Sign网络研讨会
 user-guide-description: 向Adobe专家学习如何在Acrobat Sign中掌握新的电子签名工作流。
-source-git-commit: d0f48c3f308badf6e06e17e369765aa4a53ceb27
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 + [概述](overview.md)
 + 发布网络研讨会 {#releases}
-   + [Adobe Acrobat Sign 2025年10月版](skill-builders/acrobat-sign-october-2025-release.md)
-   + [Adobe Acrobat Sign 2025年7月版](skill-builders/acrobat-july-release.md)
+   + [2025 年 10 月](skill-builders/acrobat-sign-october-2025-release.md)
+   + [2025 年 7 月](skill-builders/acrobat-july-release.md)
 + 创新 — 新功能亮点 {#newfeatures}
    + [优化移动设备电子签名](./skill-builders/mobile-e-signing.md)
 + 101 — 用户入门 {#getstartedusers}

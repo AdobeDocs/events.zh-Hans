@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '460'
 ht-degree: 1%
 
 ---
@@ -24,38 +24,74 @@ ht-degree: 1%
 + 车间倒带 {#workshop-rewind}
    + 融合 {#fusion}
       + [自动化命名约定](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [自动化工作流程](workshop-rewind/fusion/automate-work-processes.md)
+      + [Fusion的好处和最佳实践](workshop-rewind/fusion/benefits-best-practices.md)
       + [数据导入](workshop-rewind/fusion/data-imports.md)
+      + [Fusion的好处和使用案例](workshop-rewind/fusion/case-for-fusion.md)
       + [融合解码](workshop-rewind/fusion/fusion-decoded.md)
       + [Workfront Fusion如何帮助人类](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [轻松导航多选字段的更改](workshop-rewind/fusion/mulit-select-fields.md)
+      + [主动异常处理](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [简化工作流](workshop-rewind/fusion/automate-workflows.md)
       + [解锁真实事件成本](workshop-rewind/fusion/event-costs.md)
+      + [升级到事件订阅V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + 规划 {#planning}
       + [Workfront Planning中的最新信息](workshop-rewind/planning/workfront-planning.md)
+      + [Adobe Workfront规划演示](workshop-rewind/planning/planning-demo.md)
       + [SNHU的Creative用例](workshop-rewind/planning/planning-reimagined.md)
       + [Workfront规划的团队级成功](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront计划发行版和路线图](workshop-rewind/planning/planning-release-roadmap.md)
    + 工作流 {#workflow}
       + [Blueprint](workshop-rewind/workflow/blueprints.md)
-      + [重新设想Creative简介](workshop-rewind/workflow/creative-briefs.md)
+      + [提高效率](workshop-rewind/workflow/cognizant-project-excellence.md)
+      + [Workfront中的更改管理](workshop-rewind/workflow/change-management.md)
+      + [Content Supply chain集成](workshop-rewind/workflow/content-supply-chain.md)
       + [定义并传达Workfront价值](workshop-rewind/workflow/workfront-value.md)
+      + [Workfront中的有效沟通技巧](workshop-rewind/workflow/communication-tips.md)
       + [管理、执行和采用提示](workshop-rewind/workflow/governance-execution-adoption.md)
+      + [群组管理要点](workshop-rewind/workflow/group-admins.md)
+      + [Workfront管理员的经验教训](workshop-rewind/workflow/lessons-learned-admins.md)
       + [掌握电子邮件通知](workshop-rewind/workflow/email-notifications.md)
       + [掌握EXISTS语句](workshop-rewind/workflow/master-exists-statements.md)
+      + [最大化Workfront价值](workshop-rewind/workflow/value-realization.md)
+      + [克服变革的阻力](workshop-rewind/workflow/overcome-resistance-to-change.md)
       + [电源模板](workshop-rewind/workflow/power-templates.md)
       + [项目模板](workshop-rewind/workflow/project-templates.md)
+      + [重新设想Creative简介](workshop-rewind/workflow/creative-briefs.md)
+      + [资源管理基础知识](workshop-rewind/workflow/resource-management.md)
+      + [获得高管赞助](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [自学成功](workshop-rewind/workflow/self-taught-to-success.md)
+      + [使用Workfront报表进行春季清理](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10个文本模式提示](workshop-rewind/workflow/text-mode-tips.md)
+      + [其他10个文本模式提示](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [将用户混淆转换为置信度](workshop-rewind/workflow/avalara-user-transformation.md)
+      + [Workfront计算字段疑难解答](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [解锁Workfront讨论区](workshop-rewind/workflow/unlock-boards.md)
       + [充分发挥Workfront Data Connect的优势](workshop-rewind/workflow/data-connect.md)
+      + [使用Workfront进行有效重组](workshop-rewind/workflow/effective-reorgs.md)
       + [Workfront + AEM本机集成](workshop-rewind/workflow/aem-native-integration.md)
+      + [Workfront报表 — 年终策略](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + 快速获取 {#quicktakes}
    + 前3项 {#top3}
+      + [创建共享列报表](quick-takes/top3/shared-column-report.md)
       + [使用Blueprint的Creative方法](quick-takes/top3/blueprints.md)
+      + [Creative使用Workfront展示板的方法](quick-takes/top3/creative-approaches-boards.md)
+      + [Workfront展示板模板快速入门](quick-takes/top3/get-started-board-templates.md)
+      + [在Workfront中最大限度地优化报表计划](quick-takes/top3/report-scheduling.md)
+      + [使用公司的理由](quick-takes/top3/why-use-companies.md)
+      + [从里程碑开始](quick-takes/top3/get-started-milestones.md)
+      + [参加Workfront研讨会的首要原因](quick-takes/top3/reason-attend-workshop.md)
+      + [使用布局模板的几大原因](quick-takes/top3/layout-templates.md)
+      + [资源池的几大原因](quick-takes/top3/resource-pools.md)
       + [办公时间的3大方法](quick-takes/top3/office-hours.md)
       + [3大日历攻击](quick-takes/top3/calendar-hacks.md)
+      + [使用Workfront展示板的3大理由](quick-takes/top3/boards-for-adoption.md)
       + [在自定义Forms中使用图像](quick-takes/top3/add-image-custom-forms.md)
-      + [使用布局模板的几大原因](quick-takes/top3/layout-templates.md)
-      + [参加Workfront研讨会的首要原因](quick-takes/top3/reason-attend-workshop.md)
-      + [在Workfront中最大限度地优化报表计划](quick-takes/top3/report-scheduling.md)
+      + 观看我的工作 {#watchmework}
+         + [Workfront主要技巧](quick-takes/top3/watch-me-work-1.md)
+         + [主要项目管理功能](quick-takes/top3/watch-me-work-2.md)
+         + [Workfront中面向工作人员的3大功能](quick-takes/top3/watch-me-work-3.md)
    + 对比！ {#versus}
       + [组与团队](quick-takes/versus/groups-vs-teams.md)
 + 专家见解 {#expert-insights}
