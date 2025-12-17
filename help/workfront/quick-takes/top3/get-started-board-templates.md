@@ -19,7 +19,7 @@ ht-degree: 0%
 
 欢迎收看“On-Demand Workfront CSM”Cynthia Boon！ 对使用Workfront展示板感兴趣，但不确定从哪里开始？ 最简单的入门方法是使用预建模板！
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470141/?captions=chi_hans&learn=on&enablevpops)
 
 本文提供了分步说明。
 

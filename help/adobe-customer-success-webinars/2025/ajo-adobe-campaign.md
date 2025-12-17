@@ -20,7 +20,7 @@ ht-degree: 1%
 
 了解Adobe Journey Optimizer和Adobe Campaign如何协作来转变营销活动执行情况。 该会议演示了Journey Optimizer的实时参与功能与Campaign强大的管理功能相结合的协同效应。 获得切实可行的策略以简化工作流，提高灵活性，并解锁更深入的客户洞察，确保有意义的交互。 了解如何协调这些工具以实现无缝的跨渠道体验，从而改善每次客户互动的个性化和时机。 此集成有助于更快、更准确地交付具有影响力的营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477903/?captions=chi_hans&learn=on&enablevpops)
 
 ## 关键要点
 

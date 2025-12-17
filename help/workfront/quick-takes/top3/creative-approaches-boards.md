@@ -19,7 +19,7 @@ ht-degree: 0%
 
 又是我，你们的“On-Demand Workfront CSM” Cynthia Boon和我希望通过关于使用Workfront展示板的创造性想法来激励你们。  现在，我在视频中提到了，但为了以防万一，这里有个快速提醒，您不需要组建敏捷团队就可以使用展示板功能。  如果项目任务列表不适合您的团队，请尝试使用展示板！ 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470175/?captions=chi_hans&learn=on&enablevpops)
 
 正在寻找客户如何使用展示板的示例？ 看看美泰在2024年Adobe Summit董事会报告吧！ 
 

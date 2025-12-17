@@ -23,7 +23,7 @@ ht-degree: 0%
 * 项目经理/规划者
 * 工作人员/请求者
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470186/?captions=chi_hans&learn=on&enablevpops)
 
 ## 其他资源
 

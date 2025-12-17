@@ -23,7 +23,7 @@ ht-degree: 4%
 
 在您的项目仪表板上包括里程碑报告或共享此报告（更好，自动计划定期交付）是一种让相关方(甚至非Workfront用户)参与项目进度的好方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470164/?captions=chi_hans&learn=on&enablevpops)
 
 ## 其他资源
 

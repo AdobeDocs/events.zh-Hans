@@ -23,7 +23,7 @@ ht-degree: 0%
 
 关于如何使用文本模式将信息合并到报表中，我们收到了许多问题，所以我们提供了分步视频以及下面的一些资源来帮助您入门。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470130/?captions=chi_hans&learn=on&enablevpops)
 
 正在查找更多内容？ 我们在&#x200B;**Experience League社区帖子**&#x200B;上有[三个额外提示](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)！
 

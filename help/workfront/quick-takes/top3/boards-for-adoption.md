@@ -23,7 +23,7 @@ ht-degree: 0%
 
 如果您没有机会尝试使用展示板功能，请不要担心！ 在此视频中，我分享了如何向您的用户授予访问权限，以及他们快速入门的几种方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470108/?captions=chi_hans&learn=on&enablevpops)
 
 ## 其他资源
 
