@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: b818f0896871c9ea771e5a4694ec8b496cb06abd
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 营销和客户体验团队面临着巨大压力，需要用更少的资源和更短的时间表提供高度个性化的多渠道营销活动。 然而，他们的时间往往耗尽了故障排除和支持管理等运营负担，使他们无法专注于具有战略意义的、影响力巨大的客户体验工作。 产品支持代理由Adobe Experience Platform Agent Orchestrator提供支持，旨在为这些团队提供其Adobe Experience Platform应用程序中的问题排除故障、诊断和上报的交互方式，从而实现更快的解决速度并提高运营效率。
 
-参加该实时会议，产品支持代理背后的产品团队将探索：
+查看此实时会话，产品支持代理负责的产品团队探索了以下内容：
 * 产品支持代理概述
 * 产品支持代理如何为用户提供主动和自助支持以及自动案例创建和跟踪
 * 即将推出的创新和功能，可进一步简化用户的支持管理
 
-[![ExL LIVE 2024年1月17日](assets/WebBanner_Dec16_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[立即注册此活动！](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+[让讨论在社区讨论中继续进行！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
