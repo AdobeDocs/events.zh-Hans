@@ -33,12 +33,12 @@ ht-degree: 4%
 
 ## 其他资源
 
-* [发送电子邮件给Designer概述](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI 助手](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [可自定义的片段](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [条件内容](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [品牌主题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [新旧电子邮件Designer的功能比较](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [发送电子邮件给Designer概述](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [可自定义的片段](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [条件内容](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [品牌主题](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [新旧电子邮件Designer的功能比较](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current)
-* [Champion深入分析：发现Marketo Engage中的新电子邮件Designer](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Champion深入分析：发现Marketo Engage中的新电子邮件Designer](https://experienceleague.adobe.com/zh-hans/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [通过问答加入社区对话](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
