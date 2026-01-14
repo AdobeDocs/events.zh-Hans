@@ -19,4 +19,4 @@ ht-degree: 0%
 
 在当今的数字世界中，跨渠道和区域提供高性能体验至关重要。 了解为什么组织采用现代交付模型来提高速度和灵活性。 了解Headful、Headless、混合和Edge交付服务之间的差异。 探索核心组件和本地化框架如何支持多品牌和多区域策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478785/?captions=chi_hans&learn=on&enablevpops)
