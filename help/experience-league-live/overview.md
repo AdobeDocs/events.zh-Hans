@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
+source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 16%
 
 ---
@@ -32,7 +32,7 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>请查看Audience Agent在几分钟内揭示受众见解并创建现成的受众。 </strong></a>
       <br/><em>与Shelby Mansuri、Keara Fausett和Alyssa Espiritu</em>
       <br/><em>2026年1月28日8:30 PT</em>
-      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">设置提醒</a>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">立即注册！</a></b>
     </div>
   </td>
 </tr>
@@ -97,5 +97,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
