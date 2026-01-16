@@ -24,8 +24,8 @@ ht-degree: 1%
 ## 一些有用链接
 
 * [教程：使用Web SDK实施Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans){target="_blank"}
-* [在Web SDK中自动收集信息](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [在Web SDK中自动收集信息](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=zh-Hans){target="_blank"}
 * [免费的Web SDK配置](https://adobe.ly/websdkaccess){target="_blank"}
-* [有关Web SDK中第一方设备ID的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debugger概述和下载](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [有关Web SDK中第一方设备ID的信息](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=zh-Hans){target="_blank"}
+* [Adobe Experience Platform Debugger概述和下载](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=zh-Hans){target="_blank"}
 * [移动SDK文档](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
