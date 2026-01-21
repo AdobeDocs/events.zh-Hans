@@ -39,7 +39,7 @@ ht-degree: 7%
    + 2023 {#2023}
       + [利用AEM核心组件实现卓越开发人员体验](experience-manager/2023/core-components.md)
       + [深入了解AEM Sites的工具](experience-manager/2023/aem-sites-tools.md)
-      + 在Cloud Service中[有效的安全策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [在Cloud Service中有效的安全策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [掌握内容和体验片段](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + 基因人工智能 {#genai}
    + 2025 {#2025}
