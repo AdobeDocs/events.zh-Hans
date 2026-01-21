@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + 由Adobe澳新银行解决方案工程总监Jason Ford主持
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455464/?captions=chi_hans&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

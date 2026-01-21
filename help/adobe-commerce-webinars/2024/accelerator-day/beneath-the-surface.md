@@ -28,6 +28,6 @@ ht-degree: 0%
 + Omaya Robinson，PowerBoard创始团队负责人，产品总监 — CBA
 + Luke Jericho，组长，电子商务主管 — CBA
 
->[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455486/?captions=chi_hans&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

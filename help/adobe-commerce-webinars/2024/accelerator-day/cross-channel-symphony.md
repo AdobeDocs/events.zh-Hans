@@ -28,6 +28,6 @@ ht-degree: 0%
 + Matt Palmer，Adobe高级合作伙伴销售经理
 + Graham Bell，DotDigital澳新银行销售总监
 
->[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455521/?captions=chi_hans&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

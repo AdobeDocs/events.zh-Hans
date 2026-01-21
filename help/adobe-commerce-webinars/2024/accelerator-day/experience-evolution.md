@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + 由Adobe企业Commerce专家Mike Lynch主持
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454448/?captions=chi_hans&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

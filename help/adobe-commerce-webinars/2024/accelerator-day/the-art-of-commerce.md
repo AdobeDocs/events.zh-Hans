@@ -24,6 +24,6 @@ ht-degree: 0%
 
 + 由Adobe高级解决方案工程师Carl Screwvala主持
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455498/?captions=chi_hans&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)
