@@ -1,7 +1,8 @@
 ---
 user-guide-title: Acrobat Sign网络研讨会
 user-guide-description: 向Adobe专家学习如何在Acrobat Sign中掌握新的电子签名工作流。
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+solution: Document Cloud
+source-git-commit: 1f319b1ce03161122a26d569f1d17181b45f983f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
