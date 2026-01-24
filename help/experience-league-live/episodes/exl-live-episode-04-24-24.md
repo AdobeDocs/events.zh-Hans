@@ -28,6 +28,6 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX “有疑问？”]
 
-**在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}上继续讨论此主题。**
+**在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=zh-Hans#M205){target="_blank"}上继续讨论此主题。**
 
 >[!ENDSHADEBOX]

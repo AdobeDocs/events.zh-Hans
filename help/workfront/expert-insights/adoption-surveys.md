@@ -36,7 +36,7 @@ ht-degree: 0%
 * [Workfront管理员聊天 — 认知者](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront用户采用率调查](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-想了解有关采用和常规入门的更多信息？ 请查看我们的博客！ - [新Workfront客户！ 欢迎访问Adobe Workfront客户成功入门博客！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+想了解有关采用和常规入门的更多信息？ 请查看我们的博客！ - [新Workfront客户！ 欢迎访问Adobe Workfront客户成功入门博客！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=zh-Hans)
 
 ## 关于扬声器
 

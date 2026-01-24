@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ## 需要您的帮助！
 
-Ewan在视频中提到，他正在制作Fusion最佳实践指南，他非常乐意收到您的反馈！  如果您使用Fusion支持您的流程，请在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)中分享您的建议、建议和技巧，然后他将尽量加入这些内容！
+Ewan在视频中提到，他正在制作Fusion最佳实践指南，他非常乐意收到您的反馈！  如果您使用Fusion支持您的流程，请在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=zh-Hans)中分享您的建议、建议和技巧，然后他将尽量加入这些内容！
 
 ## 建议
 
 * Fusion是进程的可视表示形式。 文档是您的朋友！ 说到文档，请保存有关如何构建流程的详细信息。  更棒的是，用视频记录你自己走过他们！
 * 测量重复性工作的工作量和小时数
-* Ewan提到的Adobe Workfront ROI计算器已附加到[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)。
+* Ewan提到的Adobe Workfront ROI计算器已附加到[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=zh-Hans)。
 * 使用Fusion解决您的跨职能难题，节省时间（和金钱）并防止错误。
 
 ## 资源

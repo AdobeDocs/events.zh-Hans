@@ -41,7 +41,7 @@ ht-degree: 0%
 
 有兴趣听听麦达林的更多提示吗？ 在Workfront社区中了解她的一系列提示和技巧！ 
 
-* [星期二技术字节](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [星期二技术字节](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=zh-Hans#M2742)
 
 ## 关于扬声器 
 

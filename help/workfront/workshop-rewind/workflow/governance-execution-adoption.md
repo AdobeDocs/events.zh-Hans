@@ -25,7 +25,7 @@ ht-degree: 0%
 
 如果你不能参加现场直播，别担心。 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf)并观看随选录制。
 
-正在从聊天中查找事件和资源摘要？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766)！
+正在从聊天中查找事件和资源摘要？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=zh-Hans)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 

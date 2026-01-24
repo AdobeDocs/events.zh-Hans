@@ -29,7 +29,7 @@ ht-degree: 1%
 - [Adobe Workfront规划概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [Workfront计划API概述](https://developer.adobe.com/wf-planning/api/v1/)
 - [Workfront工作流API资源管理器](https://developer.adobe.com/workfront/api-explorer/)
-- 您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!)每月添加新活动的评论中，因此请务必查看“Experience League活动”页面以查看最新的会话。
+- 您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!?profile.language=zh-Hans)每月添加新活动的评论中，因此请务必查看“Experience League活动”页面以查看最新的会话。
 
 
 

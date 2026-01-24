@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 
-回答您关于该版本的问题，并在[Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en)中讨论该版本。
+回答您关于该版本的问题，并在[Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=zh-Hans)中讨论该版本。

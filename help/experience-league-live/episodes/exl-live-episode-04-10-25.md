@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**继续讨论Experience League [社区帖子。](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
+**继续讨论Experience League [社区帖子。](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le?profile.language=zh-Hans[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
 
 ## 其他资源
 

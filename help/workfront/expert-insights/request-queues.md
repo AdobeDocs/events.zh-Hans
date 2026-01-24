@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # 专家洞察 — 与Lyndsy Denk的请求队列
 
-欢迎使用Expert Insights！  我是Cynthia Boon，您的“On-Demand”Workfront CSM，对于本集，我们有Workfront名人，[@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167)！ 我们讨论了Lyndsy的Workfront故事，然后深入探讨了她的技术支持请求队列。
+欢迎使用Expert Insights！  我是Cynthia Boon，您的“On-Demand”Workfront CSM，对于本集，我们有Workfront名人，[@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=zh-Hans)！ 我们讨论了Lyndsy的Workfront故事，然后深入探讨了她的技术支持请求队列。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 * 了解请求队列文档： [创建队列主题](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Lyndsy针对[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)的网络研讨会演示文稿：与最终用户通信（此页面还包括指向[最终用户Comms指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)的链接）
+* Lyndsy针对[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=zh-Hans)的网络研讨会演示文稿：与最终用户通信（此页面还包括指向[最终用户Comms指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=zh-Hans)的链接）
 
-* Lyndsy的[技能交流演示资源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* Lyndsy的[技能交流演示资源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=zh-Hans#M3642)
 
-* 还有，别忘了查看[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798)“向我询问有关Workfront Proof的任何信息”页面，Lyndsy以及Monique Evans和Richard Carlson回答了您有关“校对”的问题！
+* 还有，别忘了查看[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=zh-Hans)“向我询问有关Workfront Proof的任何信息”页面，Lyndsy以及Monique Evans和Richard Carlson回答了您有关“校对”的问题！
 
 ## 关于扬声器 
 

@@ -27,5 +27,5 @@ ht-degree: 0%
 
 观看上面的视频，观看此实时流活动，其中Adobe[!DNL Analytics]专家提供了一些关于在Analysis Workspace和[!DNL Analytics]功能板应用程序中自定义和访问见解的绝佳提示。
 
-有疑问吗？ 在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037)上继续讨论此主题。
+有疑问吗？ 在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=zh-Hans#M3037)上继续讨论此主题。
 

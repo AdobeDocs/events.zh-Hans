@@ -25,7 +25,7 @@ ht-degree: 0%
 除了随选录音之外，我们还提供了幻灯片以及在聊天中分享的提示： 
 
 * [幻灯片组PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
+* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=zh-Hans)
 
 下面是聊天中分享的提示快速摘要： 
 

@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ## 资源
 
-功能警报！  查看[新工作时间字段](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519)的详细信息：现在您可以调整用户容量并根据用户计划计算可用性。
+功能警报！  查看[新工作时间字段](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=zh-Hans#M519)的详细信息：现在您可以调整用户容量并根据用户计划计算可用性。
 
 正在寻找方法更好地分析您的数据以确保您已准备就绪？ 请查看现成安装Blueprint的目录！
 
-[使用Workfront Blueprint优化您的工作管理环境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[使用Workfront Blueprint优化您的工作管理环境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=zh-Hans)
 
 正在寻找资源规划者和工作负载均衡器之间的区别？ 下面是一些简短视频：
 

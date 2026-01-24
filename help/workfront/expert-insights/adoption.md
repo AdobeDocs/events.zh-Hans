@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 资源
 
-* 正在查找更多示例？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314)，了解评论中分享的更多想法！
+* 正在查找更多示例？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=zh-Hans)，了解评论中分享的更多想法！
 * [关于Blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=zh-Hans)
 * [上一笔记报告](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=zh-Hans)
 * [向视图添加基本条件格式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=zh-Hans)

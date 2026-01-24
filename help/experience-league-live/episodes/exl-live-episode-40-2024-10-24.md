@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**若要继续讨论，请访问我们在Experience League社区中的[讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}。**
+**若要继续讨论，请访问我们在Experience League社区中的[讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=zh-Hans#M636){target="_blank"}。**
 
 **显示详细信息**：
 获得对企业数据仓库的扩展访问权限，以组成受众，并增强品牌启动和即时的体验。

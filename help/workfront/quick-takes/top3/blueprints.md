@@ -26,8 +26,8 @@ ht-degree: 0%
 
 对最新的Blueprint感兴趣？
 
-* [Blueprint已发布：面向新用户的Workfront培训](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [Blueprint已发布：人员管理器仪表板](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
+* [Blueprint已发布：面向新用户的Workfront培训](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734?profile.language=zh-Hans)
+* [Blueprint已发布：人员管理器仪表板](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545?profile.language=zh-Hans#M3247)
 * [可用蓝图的完整列表](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
 如果您喜欢了解新创意和创意方法，请不要忘记注册我们[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)即将举办的研讨会。 我们希望很快见到你！

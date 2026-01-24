@@ -25,7 +25,7 @@ ht-degree: 0%
 ## 资源
 
 * [幻灯片组PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Adobe+Workfront+Data+Connect+052925.pdf)
-* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)
+* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=zh-Hans)
 
 ## 概要
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 * **当前功能** Data Connect当前支持超过110个Workfront对象（10月启动时增至70个），每4小时刷新一次数据。 它提供三种类型的视图：当前状态、每日历史记录快照以及用于历史分析的事务性事件数据。
 * **客户用例**&#x200B;客户正在使用Data Connect监视用户活动、确定流程瓶颈、状态时间跟踪、合规性检查、SLA跟踪、容量规划，以及将Workfront数据与现有数据仓库中的外部数据集联接起来。 
 
-如果您对Matt有任何后续问题或者希望共享您如何使用Data Connect，请回复此[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)！
+如果您对Matt有任何后续问题或者希望共享您如何使用Data Connect，请回复此[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=zh-Hans)！
 
 
 我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)以获取完整列表并注册。

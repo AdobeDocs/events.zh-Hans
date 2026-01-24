@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-正在查找更多内容？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)！
+正在查找更多内容？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910?profile.language=zh-Hans)！

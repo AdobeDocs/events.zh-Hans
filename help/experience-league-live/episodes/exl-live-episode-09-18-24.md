@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**若要继续讨论，请访问Experience League社区上的[讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}。**
+**若要继续讨论，请访问Experience League社区上的[讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=zh-Hans#M550){target="_blank"}。**
 
 
 **显示详细信息**：

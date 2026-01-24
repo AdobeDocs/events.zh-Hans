@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-加入我们，加入[Adobe Journey Optimizer社区向我询问任何问题！](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) 11月12日星期三太平洋时间上午8点至上午9点。 Adobe Journey Optimizer专家将加入我们：Cole Connelly (@coleconnelly) — 高级产品经理，Huong Vu (@HuongVu) — 产品营销经理，Namita Krishnan (@Namita_Krishnan) — 产品经理，Brent Kostak (@bkostak) — 高级产品营销经理，David Arbor (@user03474) — 高级研究科学家，Justin Grover (@justin_grover) — 首席产品经理，Sandra Hausmann (@SHausmann) — 高级技术营销工程师和Daniel Wright (@dwright) — 高级技术营销工程师。
+加入我们，加入[Adobe Journey Optimizer社区向我询问任何问题！](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=zh-Hans) 11月12日星期三太平洋时间上午8点至上午9点。 Adobe Journey Optimizer专家将加入我们：Cole Connelly (@coleconnelly) — 高级产品经理，Huong Vu (@HuongVu) — 产品营销经理，Namita Krishnan (@Namita_Krishnan) — 产品经理，Brent Kostak (@bkostak) — 高级产品营销经理，David Arbor (@user03474) — 高级研究科学家，Justin Grover (@justin_grover) — 首席产品经理，Sandra Hausmann (@SHausmann) — 高级技术营销工程师和Daniel Wright (@dwright) — 高级技术营销工程师。
 
 我们将在此实时聊天中回答您的问题。
 

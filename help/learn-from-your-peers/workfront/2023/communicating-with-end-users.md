@@ -26,6 +26,6 @@ ht-degree: 0%
 * 关于决定使用哪些渠道进行通信的提示
 * 如何以反复的方式思考您的沟通策略，从您所处的位置开始，并在您发展过程中不断成熟
 
-您还可以从以下网站下载“通信指南”，其中包含您的同行与其用户共享的实际通信的想法和示例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+您还可以从以下网站下载“通信指南”，其中包含您的同行与其用户共享的实际通信的想法和示例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=zh-Hans
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

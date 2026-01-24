@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**继续讨论Experience League [社区帖子。](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}**
+**继续讨论Experience League [社区帖子。](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=zh-Hans){target=“_blank”}**
 
 ## 其他资源
 

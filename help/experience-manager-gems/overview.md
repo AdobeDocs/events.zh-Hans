@@ -300,7 +300,7 @@ ht-degree: 2%
 
 ## 继续讨论
 
-在我们的[Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中，您可以与其他开发人员联系并继续AEM讨论。  您可以与同行和Adobe员工建立网络，以获得从实施到扩展产品使用的指导和最佳实践。  快速获得您的问题的答案，并向Adobe提供您的产品创意和有价值的反馈。
+在我们的[Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hans)中，您可以与其他开发人员联系并继续AEM讨论。  您可以与同行和Adobe员工建立网络，以获得从实施到扩展产品使用的指导和最佳实践。  快速获得您的问题的答案，并向Adobe提供您的产品创意和有价值的反馈。
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -349,7 +349,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hans) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions

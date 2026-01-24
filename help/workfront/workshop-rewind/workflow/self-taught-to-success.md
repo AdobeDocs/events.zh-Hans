@@ -27,6 +27,6 @@ ht-degree: 0%
 
 如果您有兴趣分享您的故事或用例，请向我们发送电子邮件：csatscale@adobe.com。
 
-您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174)的评论中！
+您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174?profile.language=zh-Hans)的评论中！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。

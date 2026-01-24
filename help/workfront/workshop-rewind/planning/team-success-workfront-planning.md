@@ -35,7 +35,7 @@ ht-degree: 1%
 
 ### 学习
 
-* [用Adobe Workfront计划绘制课程成功图表](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [用Adobe Workfront计划绘制课程成功图表](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=zh-Hans)
 * [指南 — 您的Workfront规划GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### 规划培训视频

@@ -30,4 +30,4 @@ ht-degree: 0%
 
 这个夏季活动将提升您的全渠道营销策略，并充分利用本季的参与机会。 不要错过这个提升客户历程和营销活动的机会，以推动Adobe Journey Optimizer取得成功。
 
-**在Journey Optimizer社区论坛的[Adobe Journey Optimizer社区问答喝咖啡休息时间](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931)继续讨论。**
+**在Journey Optimizer社区论坛的[Adobe Journey Optimizer社区问答喝咖啡休息时间](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=zh-Hans[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931)继续讨论。**

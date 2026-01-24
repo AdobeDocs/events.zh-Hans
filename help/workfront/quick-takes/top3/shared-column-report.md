@@ -25,6 +25,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470130/?captions=chi_hans&learn=on&enablevpops)
 
-正在查找更多内容？ 我们在&#x200B;**Experience League社区帖子**&#x200B;上有[三个额外提示](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)！
+正在查找更多内容？ 我们在&#x200B;**Experience League社区帖子**&#x200B;上有[三个额外提示](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=zh-Hans)！
 
 

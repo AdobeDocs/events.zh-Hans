@@ -20,8 +20,8 @@ ht-degree: 9%
 跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe产品团队展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。
 
 与其他开发人员联系并加入Experience League社区的会话对话。
-* [Adobe Developer App Builder完成会话列表](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM完成会话列表](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [Adobe Developer App Builder完成会话列表](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=zh-Hans)
+* [AEM完成会话列表](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=zh-Hans#M120517)
 
 ## 高亮
 

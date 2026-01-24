@@ -24,7 +24,7 @@ ht-degree: 8%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-参加我们于6月25日星期三上午8点至上午9点举行的[Adobe Journey Optimizer社区问我任何事](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-journey-optimizer-product-experts/ev-p/757473)，继续对话。
+参加我们于6月25日星期三上午8点至上午9点举行的[Adobe Journey Optimizer社区问我任何事](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-?profile.language=zh-Hans[...]with-journey-optimizer-product-experts/ev-p/757473)，继续对话。
 
 ## 想要了解更多信息？
 

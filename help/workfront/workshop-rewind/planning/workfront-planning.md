@@ -25,7 +25,7 @@ ht-degree: 0%
 如果您错过了我们的讲座，我们将提供幻灯片组的链接以及Experience League社区帖子，其中提供了其他资源。
 
 * [幻灯片组PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/062625+Summoning+Success+-+Unlocking+the+Latest+in+Workfront+Planning.pdf)
-* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676)
+* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676?profile.language=zh-Hans)
 
 你才刚开始吗？  查看[指南 — 您的Workfront规划GPS！](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 

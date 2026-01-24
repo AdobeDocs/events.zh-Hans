@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX “有疑问？”]
 
-继续讨论[Experience League社区论坛讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)。
+继续讨论[Experience League社区论坛讨论](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=zh-Hans#M3582)。
 
 >[!ENDSHADEBOX]
 

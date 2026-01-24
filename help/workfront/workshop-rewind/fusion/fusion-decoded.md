@@ -27,6 +27,6 @@ ht-degree: 0%
 
 查看当前可用的Adobe Workfront [Fusion模板](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)。
 
-[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)上提供了更多资源链接！
+[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=zh-Hans)上提供了更多资源链接！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。

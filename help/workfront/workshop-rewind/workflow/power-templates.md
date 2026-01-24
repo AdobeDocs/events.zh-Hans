@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477115/?learn=on&enablevpops)
 
-正在寻找活动期间共享的更多资源？  查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981)！
+正在寻找活动期间共享的更多资源？  查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981?profile.language=zh-Hans)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 

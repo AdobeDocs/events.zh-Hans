@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX “有疑问？”]
 
-在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488)上继续讨论此主题。
+在Adobe Experience League [社区帖子](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=zh-Hans#M488)上继续讨论此主题。
 
 >[!ENDSHADEBOX]
 

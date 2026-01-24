@@ -26,5 +26,5 @@ ht-degree: 0%
 
 在此Experience League实时会话中，产品专家将向您展示Real-Time CDP和Journey Optimizer中的“计算属性”如何帮助您使用简单的UI将行为聚合创建为配置文件属性，用于增强分段和个性化。
 
-**在节目的[Experience League社区Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**&#x200B;上继续讨论此主题。
+**在节目的[Experience League社区Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=zh-Hans#M5){target="_blank"}**&#x200B;上继续讨论此主题。
 

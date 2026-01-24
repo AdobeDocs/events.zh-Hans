@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-错过了现场直播吗？ 别担心！ 查看Skye和Nathan的[演示文稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550)，并观看随附的按需录制。
+错过了现场直播吗？ 别担心！ 查看Skye和Nathan的[演示文稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=zh-Hans)，并观看随附的按需录制。
 
 您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)的评论中！
 
