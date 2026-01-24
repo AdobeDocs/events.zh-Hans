@@ -20,4 +20,4 @@ ht-degree: 0%
 
 探索优化内容供应链的实用路线图。 了解集成工作流与规划、创建和生产、资产管理、交付与激活以及报告和见解如何产生可衡量的结果。 探索常见的行业模式，将目标映射到Adobe解决方案，并使用路线图指导您的后续步骤并衡量影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479096/?captions=chi_hans&learn=on&enablevpops)
