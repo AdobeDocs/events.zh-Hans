@@ -23,12 +23,12 @@ ht-degree: 11%
 
 ## 其他资源
 
-* [Experience League — 浏览AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites创作文档](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites开发文档](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites管理文档](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites部署文档](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [Experience League — 浏览AEM](https://experienceleague.adobe.com/zh-hans#recommended/solutions/experience-manager)
+* [AEM Sites创作文档](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=zh-Hans)
+* [AEM Sites开发文档](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=zh-Hans)
+* [AEM Sites管理文档](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=zh-Hans)
+* [AEM Sites部署文档](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hans)
 * [AEM as a Cloud Service教程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=zh-Hans)
-* [AEM Assets 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [AEM Foundation 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [AEM Assets 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=zh-Hans)
+* [AEM Forms 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=zh-Hans)
+* [AEM Foundation 教程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=zh-Hans)
