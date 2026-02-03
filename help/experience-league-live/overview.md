@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 17%
+source-wordcount: '218'
+ht-degree: 14%
 
 ---
 
@@ -33,6 +33,21 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
       <br/><em>与Anjul Bhambri和Daniel Wright</em>
       <br/><em>2026年3月3日太平洋时间9:00</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">了解有关此会话的更多信息！</a></b>
+    </div>
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
+      <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>了解Journey Optimizer中的Campaign Orchestration如何管理您的大型一对多多渠道营销项目 — 从受众创建到启动。</strong></a>
+      <br/><em>与Sandra Hausmann、Bridgette Darling、Chakravarthy Kalva和Lee Henderson一起</em>
+      <br/><em>2026年3月12日8:30 PT</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">了解有关此会话的更多信息！</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +102,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
