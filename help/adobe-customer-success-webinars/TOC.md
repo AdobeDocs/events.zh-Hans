@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
+source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '615'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 
 + [Adobe客户成功网络研讨会](overview.md)
 + 2026 {#2026}
+   + Customer Journey Analytics {#cja2026}
+      + [为Customer Journey Analytics创建BRD-SDR文件](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
       + [最大化内容供应链](2026/value-with-content-supply-chain.md)
       + [AEM Sites的现代投放模型](2026/modern-delivery-model-aem.md)
@@ -22,6 +24,7 @@ ht-degree: 5%
       + [嵌入式智能转变](2026/embedded-intelligence.md)
    + General {#general2026}
       + [假期成功的AI策略](2026/2025-holiday-results.md)
+      + [内容Supply chain的基础架构](2026/csc-architecture.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [使用Adobe Experience Platform丰富Adobe Commerce](2025/enriching-adobe-commerce.md)
@@ -59,8 +62,8 @@ ht-degree: 5%
       + [数据Distiller 101](2025/data-distiller-101.md)
       + [身份图形用例和疑难解答](2025/identity-graph.md)
       + [赢得AEP项目的执行赞助](2025/exec-sponsorship-aep-projects.md)
-   + GenStudio for Performance Marketing {#genstudio2025}
-      + [内容供应链与Adobe GenStudio](2025/csc-gen-studio.md)
+   + 用于性能营销的 GenStudio {#genstudio2025}
+      + [内容Supply chain和Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing操作模型](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [建立执行赞助](2025/build-executive-sponsorship-ajo.md)
@@ -73,14 +76,14 @@ ht-degree: 5%
    + Marketo {#marketo2025}
       + [新建电子邮件编辑器](2025/marketo-new-email-editor.md)
    + 多解决方案 {#multisolution2025}
-      + [内容供应链基础知识](2025/content-supply-chain-basics.md)
+      + [内容Supply chain基础知识](2025/content-supply-chain-basics.md)
       + [利用AI分析优化数字体验](2025/accelerating-digital-experience-optimization.md)
       + [通过Personalization和数据增强忠诚度计划](2025/enhance-loyalty-programs.md)
       + [增强Personalization](2025/enhancing-personalization.md)
       + [GenAI试验](2025/gen-ai-experimentation.md)
       + [掌握顺序逻辑 — 可视化框架](2025/mastering-sequential-logic.md)
       + [掌握顺序逻辑 — 开始停止](2025/sequential-logic-start-stop.md)
-   + 目标 {#target2025}
+   + Target {#target2025}
       + [AI和Adobe Target](2025/ai-adobe-target.md)
    + General {#general2025}
       + [2024年假期结果和2025年趋势](2025/adobe-digital-insights.md)
@@ -122,7 +125,7 @@ ht-degree: 5%
    + [掌握Adobe Admin Console](2024/adobe-admin-console.md)
    + [掌握Cookie和数据隐私](2024/mastering-cookies-data-privacy.md)
    + [掌握顺序逻辑](2024/sequential-logic.md)
-   + [内容供应链的组织就绪性](2024/organizational-readiness-content-supply-chain.md)
+   + [内容Supply chain的组织准备工作](2024/organizational-readiness-content-supply-chain.md)
    + [Real-Time Customer Data Platform与Marketo集成](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform迁移准备工作](2024/rtcdp-migration-readiness.md)
    + [战略领导力](2024/strategic-leadership.md)
