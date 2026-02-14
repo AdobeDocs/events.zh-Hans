@@ -43,7 +43,7 @@ Core是一位真正的战略客户经理，他为我们在如何使用Adobe解�
 ### 产品演示
 
 * [Workfront](https://business.adobe.com/cn/product-demos/workfront/interactive-tour.html) — 因为需要交互式[产品演示]来说明企业工作管理解决方案中可以存在的范围。  
-* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) — 我喜欢这项功能有多全面，可以让我们的客户开始将他们的需求与目前存在于Adobe上的解决方案联系起来。
+* [GenStudio](https://business.adobe.com/cn/resources/sdk/getting-started-with-adobe-genstudio.html) — 我喜欢这项功能有多全面，可以让我们的客户开始将他们的需求与目前存在于Adobe上的解决方案联系起来。
 
 ## 关于扬声器 
 
