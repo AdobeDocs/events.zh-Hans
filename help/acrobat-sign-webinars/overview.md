@@ -115,7 +115,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="使用Acrobat Sign优化移动设备电子签名" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1771611514396" alt="使用Acrobat Sign优化移动设备电子签名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477542/?captions=chi_hans&format=jpeg&nocache=1771611514396" alt="使用Acrobat Sign优化移动设备电子签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -157,7 +157,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101 — 快速入门" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1771611514858" alt="Acrobat Sign 101 — 快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455475/?captions=chi_hans&format=jpeg&nocache=1771611514858" alt="Acrobat Sign 101 — 快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -180,7 +180,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="有关创作环境的高级培训" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1771611514865" alt="有关创作环境的高级培训"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455917/?captions=chi_hans&format=jpeg&nocache=1771611514865" alt="有关创作环境的高级培训"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Acrobat Sign的高级报表功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1771611515223" alt="Acrobat Sign的高级报表功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454415/?captions=chi_hans&format=jpeg&nocache=1771611515223" alt="Acrobat Sign的高级报表功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -306,7 +306,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="发送文档供签名高级提示" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1771611515708" alt="发送文档供签名高级提示"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454890/?captions=chi_hans&format=jpeg&nocache=1771611515708" alt="发送文档供签名高级提示"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,7 +329,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="只需单击一下即可收集多个签名" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1771611515721" alt="只需单击一下即可收集多个签名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454904/?captions=chi_hans&format=jpeg&nocache=1771611515721" alt="只需单击一下即可收集多个签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,7 +352,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="适用于Adobe Acrobat Sign的Document Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1771611515715" alt="适用于Adobe Acrobat Sign的Document Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454923/?captions=chi_hans&format=jpeg&nocache=1771611515715" alt="适用于Adobe Acrobat Sign的Document Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -375,7 +375,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="发布可填写的、可签名的Web表单" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1771611515744" alt="发布可填写的、可签名的Web表单"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455460/?captions=chi_hans&format=jpeg&nocache=1771611515744" alt="发布可填写的、可签名的Web表单"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -398,7 +398,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="由Microsoft Power Automate提供支持的工作流自动化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1771611515735" alt="由Microsoft Power Automate提供支持的工作流自动化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454934/?captions=chi_hans&format=jpeg&nocache=1771611515735" alt="由Microsoft Power Automate提供支持的工作流自动化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
