@@ -20,7 +20,7 @@ ht-degree: 0%
 
 了解如何使用行之有效的更改管理镜头将您的企业带入数据驱动型内容Supply chain。 本会议将演示如何协调领导者、装备团队和采用新工作方式的硬性连接，以使团队、自动化和共享数据能够实际转化为更快的面市时间、更高的资产重复利用率和更强的治理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479827/?captions=chi_hans&learn=on&enablevpops)
 
 * **引领这一转变，而不仅仅是工具**&#x200B;从商业角度了解如何构建向自动内容Supply chain的转变框架，以构建真正的认同感 — 澄清“为什么现在”，让执行官保持一致，并将早期试点转化为更广泛组织的动力。
 
