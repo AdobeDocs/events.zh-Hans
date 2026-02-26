@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '639'
 ht-degree: 5%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 5%
 + 2026 {#2026}
    + Customer Journey Analytics {#cja2026}
       + [为Customer Journey Analytics创建BRD-SDR文件](2026/brd-sdr-file-best-practices.md)
+      + [解锁身份](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
       + [在Edge Delivery Services中创作](2026/authoring-eds.md)
       + [最大化内容供应链](2026/value-with-content-supply-chain.md)
