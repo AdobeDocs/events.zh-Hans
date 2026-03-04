@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
+source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 25%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE是Experience League团队制作的直播节目。  利用这个机会，您可以与 Adobe 产品专家联系，并学习适用于 Adobe Experience Cloud 应用程序的可操作的提示、技巧和策略。
+Experience League LIVE 是 Experience League 团队制作的直播节目。  利用这个机会，您可以与 Adobe 产品专家联系，并学习适用于 Adobe Experience Cloud 应用程序的可操作的提示、技巧和策略。
 
 
 
@@ -25,28 +25,13 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-03-26.md"><strong>与Adobe Experience Cloud高级副总裁Anjul Bhambhri一起参加有洞察力的问答会，了解Adobe对创新代理人工智能功能的大胆设想。</strong></a>
-      <br/><em>与Anjul Bhambri、Gina Casagrande和Daniel Wright</em>
-      <br/><em>2026年3月3日太平洋时间9:00</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">了解有关此会话的更多信息！</a></b>
-    </div>
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
       <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>了解Journey Optimizer中的Campaign Orchestration如何管理您的大型一对多多渠道营销项目 — 从受众创建到启动。</strong></a>
-      <br/><em>与Sandra Hausmann、Bridgette Darling、Chakravarthy Kalva和Lee Henderson一起</em>
-      <br/><em>2026年3月12日8:30 PT</em>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>了解Journey Optimizer中的Campaign Orchestration如何管理您大型的一对多多渠道营销计划 — 从受众创建到启动。</strong></a>
+      <br/><em>与Sandra Hausmann、Bridgette Darling、Chakravarthy Kalva和Lee Henderson</em>
+      <br/><em>2026年3月12日太平洋时间8:30</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">了解有关此会话的更多信息！</a></b>
     </div>
   </td>
@@ -102,5 +87,5 @@ Experience League LIVE是Experience League团队制作的直播节目。  利用
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
