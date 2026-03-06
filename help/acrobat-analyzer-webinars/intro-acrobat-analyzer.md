@@ -7,7 +7,7 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2026-03-06T00:00:00Z
 jira: KT-20491
-source-git-commit: 7f12b01387d93419193a45625633231e1ab6214b
+source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 加入我们，了解Adobe Acrobat Analyzer — 这是Acrobat Sign的一项新GenAI功能，旨在从大量文档中提取结构化、可审核的分析，帮助业务团队自动化工作流，降低风险，并快速做出大规模决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480894/?learn=on&enablevpops)
 
 此网络研讨会将展示Adobe Acrobat Analyzer如何让企业内的每个功能均可访问Document Intelligence。 在本网络研讨会中，您将了解：
 
