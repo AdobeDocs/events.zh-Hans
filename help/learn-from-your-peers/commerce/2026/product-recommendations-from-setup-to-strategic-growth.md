@@ -8,9 +8,9 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
+source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -37,3 +37,6 @@ Michael和Manav被公认为推动整个商业生态系统创新的顶级从业�
 ## 其他资源
 
 * [演示幻灯片](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
+* [与Manav Padhariya和Michael Schenck的研讨会后办公时间](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-product-recommendations-from-setup-to-strategic-growth-webinar-office-hours/)
+* [Adobe Commerce用户组](https://commerce-augs.adobe.com/)
+* [Adobe Commerce的Adobe Summit技能交流](https://reg.adobe.com/flow/adobe/as26/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search.sessiontype=option_1672965503153&search.product=1615933990427001wslv)
