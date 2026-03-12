@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 从 [!DNL Experience Makers Learn from your peers]开始的录制集合
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '354'
 ht-degree: 7%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 7%
       + [可能的文件访问](analytics/2022/mission-possible.md)
       + [用数据讲述有影响力的故事](analytics/2022/stories-with-data.md)
 + Commerce {#commerce}
+   + 2026 {#2026}
+      + [Adobe Commerce产品建议 — 从设置到战略增长](commerce/2026/product-recommendations-from-setup-to-strategic-growth.md)
    + 2025 {#2025}
       + [Adobe Commerce和App Builder Essentials — 从基础知识到影响](commerce/2025/commerce-and-app-builder.md)
    + 2024 {#2024}
@@ -39,7 +41,7 @@ ht-degree: 7%
    + 2023 {#2023}
       + [利用AEM核心组件实现卓越开发人员体验](experience-manager/2023/core-components.md)
       + [深入了解AEM Sites的工具](experience-manager/2023/aem-sites-tools.md)
-      + [在Cloud Service中有效的安全策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [掌握内容和体验片段](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + 基因人工智能 {#genai}
    + 2025 {#2025}
@@ -64,7 +66,7 @@ ht-degree: 7%
       + [如何使您的 [!DNL Adobe Marketo Engage] 内容可扩展](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [元数据混乱](https://experienceleague.adobe.com/zh-hans/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [元数据混乱](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [阐明影响 — 如何衡量和共享Workfront价值](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [通过自动化简化资源规划](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
