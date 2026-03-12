@@ -1,6 +1,6 @@
 ---
-title: Experience League直播活动
-description: 一组指向先前Experience League LIVE活动的链接
+title: Experience League LIVE Events
+description: A collection of links to previous Experience League LIVE events
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 25%
+source-wordcount: '154'
+ht-degree: 31%
 
 ---
 
@@ -21,19 +21,12 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 
 
-## 即将举行的Experience League LIVE活动
+## Upcoming Experience League LIVE events
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
-      <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>了解Journey Optimizer中的Campaign Orchestration如何管理您大型的一对多多渠道营销计划 — 从受众创建到启动。</strong></a>
-      <br/><em>与Sandra Hausmann、Bridgette Darling、Chakravarthy Kalva和Lee Henderson</em>
-      <br/><em>2026年3月12日太平洋时间8:30</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">了解有关此会话的更多信息！</a></b>
-    </div>
+    <td style="vertical-align: top;">
+      Come back to this page soon for upcoming Experience League LIVE shows!
   </td>
 </tr>
 </table>
@@ -56,28 +49,28 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE 4月21日" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>最新Adobe Real-Time CDP版本如何推动您的业务发展</strong>
+        <strong>How the latest Adobe Real-Time CDP releases can move the needle for your business</strong>
       </a>
-      <br/><em>与Nina Caruso、Rudi Shumpert和Doug Moore一起</em>
-      <br/><em>2024年6月26日</em>
+      <br/><em>with Nina Caruso, Rudi Shumpert, and Doug Moore</em>
+      <br/><em>June 26, 2024</em>
     </div>
   </td>
 
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League直播5月26日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League LIVE May 26" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">
-        <strong>在Journey Optimizer中新增基于代码的体验渠道</strong>
+        <strong>New Code-Based Experience Channel in Journey Optimizer</strong>
       </a>
-      <br/><em>与Sandra Hausmann、Robert Calangiu和Brent Kostak</em>
-      <br/><em>2024年4月24日</em>
+      <br/><em>with Sandra Hausmann, Robert Calangiu, and Brent Kostak</em>
+      <br/><em>April 24, 2024</em>
     </div>
   </td>
   </tr>
@@ -87,5 +80,5 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans).
 
