@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 从 [!DNL Experience Makers Learn from your peers]开始的录制集合
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+source-git-commit: 986f7ff44677a9654a0285290ff9c26eeef04a51
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 7%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 7%
    + 2024 {#2024}
       + [Agile SDLC中的通信、要求和测试](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + 2026 {#2026}
+      + [使用Dynamic Media扩展全渠道体验](experience-manager/2026/omnichannel-dynamic-media.md)
    + 2025 {#2025}
       + [元数据的混乱局面已成定局](experience-manager/2025/metadata-mayhem.md)
       + [AEM智能标记](experience-manager/2025/smart-tags.md)
@@ -41,7 +43,7 @@ ht-degree: 7%
    + 2023 {#2023}
       + [利用AEM核心组件实现卓越开发人员体验](experience-manager/2023/core-components.md)
       + [深入了解AEM Sites的工具](experience-manager/2023/aem-sites-tools.md)
-      + [在Cloud Service中有效的安全策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [掌握内容和体验片段](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + 基因人工智能 {#genai}
    + 2025 {#2025}
@@ -66,7 +68,7 @@ ht-degree: 7%
       + [如何使您的 [!DNL Adobe Marketo Engage] 内容可扩展](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [元数据混乱](https://experienceleague.adobe.com/zh-hans/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [元数据混乱](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [阐明影响 — 如何衡量和共享Workfront价值](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [通过自动化简化资源规划](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
