@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE Events
-description: A collection of links to previous Experience League LIVE events
+title: Experience League直播活动
+description: 一组指向先前Experience League LIVE活动的链接
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 31%
+source-wordcount: '171'
+ht-degree: 28%
 
 ---
 
@@ -21,12 +21,20 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 
 
-## Upcoming Experience League LIVE events
+## 即将举行的Experience League LIVE活动
 
 <table>
 <tr>
-    <td style="vertical-align: top;">
-      Come back to this page soon for upcoming Experience League LIVE shows!
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-08-26.md">
+      <img alt="Experience League LIVE 4月21日" src="episodes/assets/April-8-2026-WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>客户参与的新用例： iOS Live活动、Web推送和永久消息</strong>
+      </a>
+      <br/><em>与Don Huynh， Robert Calangiu， Brent Kostak</em>一起
+      <br/><em>2026年4月8日</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -49,28 +57,28 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE 4月21日" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>How the latest Adobe Real-Time CDP releases can move the needle for your business</strong>
+        <strong>最新Adobe Real-Time CDP版本如何推动您的业务发展</strong>
       </a>
-      <br/><em>with Nina Caruso, Rudi Shumpert, and Doug Moore</em>
-      <br/><em>June 26, 2024</em>
+      <br/><em>与Nina Caruso、Rudi Shumpert和Doug Moore一起</em>
+      <br/><em>2024年6月26日</em>
     </div>
   </td>
 
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League LIVE May 26" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League直播5月26日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">
-        <strong>New Code-Based Experience Channel in Journey Optimizer</strong>
+        <strong>在Journey Optimizer中新增基于代码的体验渠道</strong>
       </a>
-      <br/><em>with Sandra Hausmann, Robert Calangiu, and Brent Kostak</em>
-      <br/><em>April 24, 2024</em>
+      <br/><em>与Sandra Hausmann、Robert Calangiu和Brent Kostak</em>
+      <br/><em>2024年4月24日</em>
     </div>
   </td>
   </tr>
@@ -80,5 +88,5 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 >[!TIP]
 >
->For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/zh-hans#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans).
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
