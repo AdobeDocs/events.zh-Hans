@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 1%
 + [Workfront按需研讨会](overview.md)
 
 + 发布网络研讨会 {#releases}
+   + [2026年第二季度发布网络研讨会](releases/26-q2-release-webinar.md)
+   + [2026年第一季度发布网络研讨会](releases/26-q1-release-webinar.md)
    + [2025年第四季度发布网络研讨会](releases/25-q4-release-webinar.md)
    + [25.7版本](releases/25-7-release-webinar.md)
    + [25.4版本](releases/25-4-release-webinar.md)
@@ -23,22 +25,29 @@ ht-degree: 1%
    + [24.1发行版](releases/24-1-release-webinar.md)
 + 车间倒带 {#workshop-rewind}
    + 融合 {#fusion}
+      + [使用Workfront Fusion自动化品牌化PDF](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [自动化命名约定](workshop-rewind/fusion/automating-naming-conventions.md)
       + [自动化工作流程](workshop-rewind/fusion/automate-work-processes.md)
       + [Fusion的好处和最佳实践](workshop-rewind/fusion/benefits-best-practices.md)
       + [数据导入](workshop-rewind/fusion/data-imports.md)
       + [Fusion的好处和使用案例](workshop-rewind/fusion/case-for-fusion.md)
       + [融合解码](workshop-rewind/fusion/fusion-decoded.md)
+      + [Fusion解码的第2部分 — 开始构建](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Workfront Fusion如何帮助人类](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [轻松导航多选字段的更改](workshop-rewind/fusion/mulit-select-fields.md)
       + [主动异常处理](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [施耐德电气推动Workfront效率的提升](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [简化工作流](workshop-rewind/fusion/automate-workflows.md)
+      + [提示、技巧和发行亮点](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [解锁真实事件成本](workshop-rewind/fusion/event-costs.md)
       + [升级到事件订阅V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + 规划 {#planning}
       + [Workfront Planning中的最新信息](workshop-rewind/planning/workfront-planning.md)
       + [Adobe Workfront规划演示](workshop-rewind/planning/planning-demo.md)
+      + [构建基本实施](workshop-rewind/planning/base-implementation.md)
+      + [连接计划、工作流和画布功能板](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [锡拉丘兹如何利用Planning](workshop-rewind/planning/syracuse-planning.md)
       + [SNHU的Creative用例](workshop-rewind/planning/planning-reimagined.md)
       + [Workfront规划的团队级成功](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront计划发行版和路线图](workshop-rewind/planning/planning-release-roadmap.md)
@@ -47,6 +56,7 @@ ht-degree: 1%
       + [提高效率](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Workfront中的更改管理](workshop-rewind/workflow/change-management.md)
       + [Content Supply chain集成](workshop-rewind/workflow/content-supply-chain.md)
+      + [数据收集](workshop-rewind/workflow/data-collection.md)
       + [定义并传达Workfront价值](workshop-rewind/workflow/workfront-value.md)
       + [Workfront中的有效沟通技巧](workshop-rewind/workflow/communication-tips.md)
       + [管理、执行和采用提示](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 1%
       + [项目模板](workshop-rewind/workflow/project-templates.md)
       + [重新设想Creative简介](workshop-rewind/workflow/creative-briefs.md)
       + [资源管理基础知识](workshop-rewind/workflow/resource-management.md)
+      + [加速采用和价值的资源](workshop-rewind/workflow/accelerate-adoption.md)
+      + [重新思考资源管理](workshop-rewind/workflow/rethink-resource-management.md)
       + [获得高管赞助](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [自学成功](workshop-rewind/workflow/self-taught-to-success.md)
       + [使用Workfront报表进行春季清理](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10个沟通技巧](workshop-rewind/workflow/10-communication-tips.md)
       + [10个文本模式提示](workshop-rewind/workflow/text-mode-tips.md)
       + [其他10个文本模式提示](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [将用户混淆转换为置信度](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Workfront计算字段疑难解答](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [将Blueprint转换为培训方案](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [了解统一审批](workshop-rewind/workflow/unified-approvals.md)
       + [解锁Workfront讨论区](workshop-rewind/workflow/unlock-boards.md)
       + [充分发挥Workfront Data Connect的优势](workshop-rewind/workflow/data-connect.md)
       + [使用Workfront进行有效重组](workshop-rewind/workflow/effective-reorgs.md)
