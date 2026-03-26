@@ -25,7 +25,7 @@ ht-degree: 1%
 
 如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Success+Toolkit+Slide+Deck+021226.pdf)并观看随选录制。
 
-正在从活动中查找更多资源吗？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480)！
+正在从活动中查找更多资源吗？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480?profile.language=zh-Hans)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 
