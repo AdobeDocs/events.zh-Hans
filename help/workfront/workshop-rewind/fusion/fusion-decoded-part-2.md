@@ -20,7 +20,7 @@ ht-degree: 3%
 
 深入了解Fusion解码第2部分，了解Fusion工作流和系统的基本构建策略。 本课程专为寻求增强知识并改进Fusion实施的管理员、开发人员和领导人员而设计。 观看研讨会回顾以获得切实可行的见解和技巧。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481848/?captions=chi_hans&learn=on&enablevpops)
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 

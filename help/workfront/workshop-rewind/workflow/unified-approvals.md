@@ -19,6 +19,6 @@ ht-degree: 4%
 
 了解统一审批的主要方面，包括方向、报告和即将推出的功能。 本研讨会回顾提供了宝贵的见解，可帮助您及时了解信息并优化工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481859/?captions=chi_hans&learn=on&enablevpops)
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
