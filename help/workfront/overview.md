@@ -51,7 +51,7 @@ ht-degree: 2%
 
 ## 车间倒带
 
-通过我们精选的特色活动，探索您的Adobe Workfront社区中的最新内容。 我们每月会举办免费的现场会议，其中涵盖各种主题，以帮助您充分利用Workfront。 错过了现场活动？ 没问题！ 赶快观看展示客户案例、经验证的最佳实践和有价值的经验教训的即时录像。 想要实时连接吗？ 加入即将举办的实时活动，提问、分享见解并与同行协作。 请定期访问[Experience League Workfront Events页面](https://experienceleague.adobe.com/en/events?filters=Workfront)，查看后续内容！
+通过我们精选的特色活动，探索您的Adobe Workfront社区中的最新内容。 我们每月会举办免费的现场会议，其中涵盖各种主题，以帮助您充分利用Workfront。 错过了现场活动？ 没问题！ 赶快观看展示客户案例、经验证的最佳实践和有价值的经验教训的即时录像。 想要实时连接吗？ 加入即将举办的实时活动，提问、分享见解并与同行协作。 请定期访问[Experience League Workfront Events页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)，查看后续内容！
 
 <!-- CARDS 
 
