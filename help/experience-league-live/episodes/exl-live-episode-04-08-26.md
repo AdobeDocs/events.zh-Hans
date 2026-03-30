@@ -7,9 +7,10 @@ feature: Channel Configuration
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
-source-git-commit: 8fb6d38bd2b8cd12d72ba777c617d20b96b23c13
+exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
+source-git-commit: e52dfcf3727825ea194768cd5e74ad276c8656cf
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -20,10 +21,10 @@ ht-degree: 0%
 <br>
 </br>
 
-[![4月8日ExL现场活动横幅](assets/April-8-2026-WebBanner.jpg)](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
+[![4月8日ExL现场活动横幅](assets/April-8-2026-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other){target=“_blank”}
 <br>
 </br>
-<b>[为节目设置提醒！](https://youtube.com/live/hLVIIul_2_g)</b>
+<b>[立即注册！](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other)</b>
 
 <br>
 </br>
@@ -36,4 +37,3 @@ ht-degree: 0%
 - Web推送通知：通过直接在Web浏览器中联系客户，将参与度扩展到移动应用程序之外，即使网站没有主动使用与Journey Optimizer中的移动推送相同的用户工作流打开，也可以直接吸引访客
 
 - 消息收件箱：创建永久的品牌收件箱，客户可以在其中重新访问重要消息、个性化内容和选件，从而减少错过的通知，同时提高相关性和用户体验。
-
