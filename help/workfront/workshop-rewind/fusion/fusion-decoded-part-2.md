@@ -1,27 +1,29 @@
 ---
 title: Fusion解码的第2部分 — 开始构建
-description: 探索Fusion解码第2部分的关键见解，并学习基础构建策略。 管理员、开发人员和领导者的理想选择。
+description: EDiscover Fusion Decoded Part 2中的高级功能和方案，包括自动化、项目命名和CSV上传。
 feature: Workfront Fusion
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 13
-last-substantial-update: 2026-03-26T00:00:00Z
-jira: KT-20611
+duration: 3914
+last-substantial-update: 2026-04-03T00:00:00Z
+jira: KT-20754
 exl-id: 4ffc94ab-8e8f-46d4-b1b6-fe47626cd86e
-hide: true
-hidefromtoc: true
-source-git-commit: bc12861cad5ee726f9afe065155e03f4095e647e
+source-git-commit: 042c6c63a6b60c77e51d50a59ae9b5fd6fc5f7ca
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 3%
+source-wordcount: '209'
+ht-degree: 1%
 
 ---
 
-# Fusion解码的第2部分 — 开始构建
+# Fusion解码的第2部分 — 让我们开始构建
 
-深入了解Fusion解码第2部分，了解Fusion工作流和系统的基本构建策略。 本课程专为寻求增强知识并改进Fusion实施的管理员、开发人员和领导人员而设计。 观看研讨会回顾以获得切实可行的见解和技巧。
+在[第1](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded)部分中，Jen Desmond向我们展示了Fusion的威力，以及它可以为任何组织做些什么。 观看本系列第2部分内容，了解如何进入现成的模板以向您展示如何使用它们快速启动自动化历程。 了解模板如何消除胡乱猜测、缩短设置时间，以及帮助您满怀信心地启动真正的自动化，而无需从头开始。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481848/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
+
+如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf)并观看随选录制。
+
+正在寻找更多资源或活动中的常见问题解答？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
