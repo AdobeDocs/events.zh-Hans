@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3199
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19788
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 17044e9c-9a18-4873-9368-accb7351734d
+source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 0%
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
-
 
 # Fusion Decoded：它是什么以及每个组织为何可以使用它
 
@@ -25,8 +25,10 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-查看当前可用的Adobe Workfront [Fusion模板](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)。
+您是否喜欢此讲座，并希望从Jen了解更多信息？ 请务必观看系列中的第二个会话，[Fusion解码第2部分 — 让我们开始生成](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)！
 
-[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=zh-Hans)上提供了更多资源链接！
+并且别忘了查看当前可用的Adobe Workfront [Fusion模板](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)的列表。
+
+[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)上提供了更多资源链接！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
