@@ -34,9 +34,9 @@ ht-degree: 0%
 ## 资源
 
 Jen还分享了一些她最喜欢的资源，包括为什么融合模板、蓝图和共享的最佳实践可以产生所有这些影响。 在此处了解详情：
-* [可用Fusion模板列表](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [可用Blueprint的列表](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Experience League Workfront社区](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [可用Fusion模板列表](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [可用Blueprint的列表](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Experience League Workfront社区](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=zh-Hans)
 
 但等等！  她有更多的建议要分享！
 
