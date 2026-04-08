@@ -8,7 +8,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
+source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 向同行学习网络研讨会：Adobe Commerce产品推荐 — 从设置到战略增长
 
-与Adobe Commerce支持者Manav Padhariya和Michael Schenck一起参加一个教育课程，内容是如何将Adobe Commerce产品推荐从一个基本功能转变为强大的人工智能原生业务增长战略推动力。
+与Adobe Commerce支持者Manav Padhariya和Michael Schenck一起参加一个教育会议，了解如何将Adobe Commerce产品推荐从一个基本功能转变为强大的人工智能原生业务增长战略推动力。
 
 Michael和Manav被公认为推动整个商业生态系统创新的顶级从业者，他们展示了如何通过与业务目标协调来战略性编排产品推荐，从而通过、AOV和客户保留率直接提高库存销售。
 
