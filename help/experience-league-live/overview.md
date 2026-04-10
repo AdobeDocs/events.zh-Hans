@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: 85c30a3089b44ab1067f602d01de6d8d2a1efce4
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 28%
+source-wordcount: '168'
+ht-degree: 29%
 
 ---
 
@@ -25,16 +25,7 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-08-26.md">
-      <img alt="Experience League LIVE 4月21日" src="episodes/assets/April-8-2026-WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>客户参与的新用例： iOS Live活动、Web推送和永久消息</strong>
-      </a>
-      <br/><em>与Don Huynh， Robert Calangiu， Brent Kostak</em>一起
-      <br/><em>2026年4月8日</em>
-    </div>
+    <td style="vertical-align: top;">即将推出更多节目！ 请经常返回此页面，以便您能够查看即将举行的演出以及回顾过去的演出。
   </td>
 </tr>
 </table>
@@ -63,7 +54,7 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
       <a href="episodes/exl-live-episode-06-26-24.md">
         <strong>最新Adobe Real-Time CDP版本如何推动您的业务发展</strong>
       </a>
-      <br/><em>与Nina Caruso、Rudi Shumpert和Doug Moore一起</em>
+      与Nina Caruso、Rudi Shumpert和Doug Moore一起<br/><em></em>
       <br/><em>2024年6月26日</em>
     </div>
   </td>
@@ -88,5 +79,5 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
