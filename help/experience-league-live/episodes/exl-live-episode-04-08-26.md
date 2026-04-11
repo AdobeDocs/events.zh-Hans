@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483389/?quality=12&learn=on)
 
-在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581){target="_blank"}中继续讨论该节目。
+在[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581?profile.language=zh-Hans){target="_blank"}中继续讨论该节目。
 
 <br>
 </br>
