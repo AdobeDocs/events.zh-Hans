@@ -21,7 +21,7 @@ ht-degree: 0%
 
 在本剧中，Adobe技术成功顾问Jen Desmond令人难以置信，她将与我们分享她从首次Workfront用户到可信任专家的历程，以及关于管理更改和有意增长实例的实用建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483121/?captions=chi_hans&learn=on&enablevpops)
 
 您将获得一些深思熟虑的见解，包括：
 
