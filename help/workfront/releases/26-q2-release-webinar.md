@@ -23,6 +23,6 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483385/?learn=on&enablevpops)
 
-正在查找更多信息？ 查看Experience League中的[发行说明](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview)，并查看[社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769)，其中包含幻灯片组、单个演示视频等内容的链接！
+正在查找更多信息？ 查看Experience League中的[发行说明](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview)，并查看[社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769)，其中包含幻灯片组、单个演示视频等内容的链接！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。

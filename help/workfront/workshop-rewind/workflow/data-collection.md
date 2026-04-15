@@ -23,7 +23,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-本会议扩展了先前研讨会[Workfront管理、执行和采用方面的专业提示](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption)中的讨论。
+本会议扩展了先前研讨会[Workfront管理、执行和采用方面的专业提示](https://experienceleague.adobe.com/zh-hans/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption)中的讨论。
 
 如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf)并观看随选录制。
 

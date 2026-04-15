@@ -36,5 +36,5 @@ ht-degree: 18%
 
 ## 有用的资源
 
-[Data Warehouse Manager导览](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[连接您的数据](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Data Warehouse Manager导览](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=zh-Hans)
+[连接您的数据](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=zh-Hans)

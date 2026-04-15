@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # Workfront规划Smart Start — 构建基础实施
 
-加入我们的Adobe产品管理团队，因为他们分享开始Workfront Planning实施的最佳实践。  有关Workfront Planning即将推出的功能的详细信息，请务必将Experience League上的[Adobe Workfront Planning发布活动](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)页面加入书签。
+加入我们的Adobe产品管理团队，因为他们分享开始Workfront Planning实施的最佳实践。  有关Workfront Planning即将推出的功能的详细信息，请务必将Experience League上的[Adobe Workfront Planning发布活动](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)页面加入书签。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477113/?learn=on&enablevpops)
 

@@ -19,9 +19,9 @@ ht-degree: 1%
 
 # 快速且功能完善：Adobe Workfront中的Blueprint
 
-Adobe Workfront中的[Blueprint库](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)会不断扩展，并包含一些新的现成模板和功能板。 借助快速安装过程，您可以减少设置所花费的时间，并将更多时间用于完成工作。
+Adobe Workfront中的[Blueprint库](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)会不断扩展，并包含一些新的现成模板和功能板。 借助快速安装过程，您可以减少设置所花费的时间，并将更多时间用于完成工作。
 
-Workfront客户成功团队分享了您需要了解的有关[Blueprint](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview)的所有信息 — 它们是什么、其工作方式，以及您如何立即开始使用它们以最大限度地提升贵组织的价值。
+Workfront客户成功团队分享了您需要了解的有关[Blueprint](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview)的所有信息 — 它们是什么、其工作方式，以及您如何立即开始使用它们以最大限度地提升贵组织的价值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477130/?learn=on&enablevpops)
 

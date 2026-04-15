@@ -25,7 +25,7 @@ ht-degree: 1%
 
 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf)并观看随选录制。
 
-Fusion需要时间和练习，因此如果您刚刚开始，可以详细了解（免费！） [Experience League上的Fusion培训](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)，请随时向[Workfront Fusion社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2)的其他客户寻求帮助。
+Fusion需要时间和练习，因此如果您刚刚开始，可以详细了解（免费！） [Experience League上的Fusion培训](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)，请随时向[Workfront Fusion社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2)的其他客户寻求帮助。
 
 如需更多资源并深入了解其用例，请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981)！
 

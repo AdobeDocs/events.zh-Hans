@@ -26,9 +26,9 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-您是否喜欢此讲座，并希望从Jen了解更多信息？ 请务必观看系列中的第二个会话，[Fusion解码第2部分 — 让我们开始生成](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)！
+您是否喜欢此讲座，并希望从Jen了解更多信息？ 请务必观看系列中的第二个会话，[Fusion解码第2部分 — 让我们开始生成](https://experienceleague.adobe.com/zh-hans/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)！
 
-并且别忘了查看当前可用的Adobe Workfront [Fusion模板](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)的列表。
+并且别忘了查看当前可用的Adobe Workfront [Fusion模板](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)的列表。
 
 [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)上提供了更多资源链接！
 

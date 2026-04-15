@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # Fusion解码的第2部分 — 让我们开始构建
 
-在[第1](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded)部分中，Jen Desmond向我们展示了Fusion的威力，以及它可以为任何组织做些什么。 观看本系列第2部分内容，了解如何进入现成的模板以向您展示如何使用它们快速启动自动化历程。 了解模板如何消除胡乱猜测、缩短设置时间，以及帮助您满怀信心地启动真正的自动化，而无需从头开始。
+在[第1](https://experienceleague.adobe.com/zh-hans/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded)部分中，Jen Desmond向我们展示了Fusion的威力，以及它可以为任何组织做些什么。 观看本系列第2部分内容，了解如何进入现成的模板以向您展示如何使用它们快速启动自动化历程。 了解模板如何消除胡乱猜测、缩短设置时间，以及帮助您满怀信心地启动真正的自动化，而无需从头开始。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
 
