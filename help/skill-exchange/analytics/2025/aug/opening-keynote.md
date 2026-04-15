@@ -25,7 +25,7 @@ ht-degree: 0%
 研究方法与Storytelling Craft：将数据调查结果转换为针对利益相关者的引人入胜的描述。
 技术能力和情商：以同理心提供支持和解决方案，而不仅仅是技术技能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471202/?captions=chi_hans&learn=on&enablevpops)
 
 ## 解锁Analytics以获得人为影响
 

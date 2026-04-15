@@ -22,7 +22,7 @@ ht-degree: 0%
 
 加入我们，了解Adobe Acrobat Analyzer — 这是Acrobat Sign的一项新GenAI功能，旨在从大量文档中提取结构化、可审核的分析，帮助业务团队自动化工作流，降低风险，并快速做出大规模决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481448/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481470/?captions=chi_hans&learn=on&enablevpops)
 
 此网络研讨会将展示Adobe Acrobat Analyzer如何让企业内的每个功能均可访问Document Intelligence。 在本网络研讨会中，您将了解：
 

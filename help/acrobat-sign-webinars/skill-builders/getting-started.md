@@ -21,7 +21,7 @@ ht-degree: 12%
 
 了解Acrobat Sign的基础知识，以开始快速获取签名文档。 我们将向您展示如何：准备和发送您的文档以进行电子签名查看您的签名者所看到的内容管理和跟踪协议的进度创建您自己的签名等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455475/?captions=chi_hans&learn=on)
 
 ## 要点
 

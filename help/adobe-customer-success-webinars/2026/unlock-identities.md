@@ -22,7 +22,7 @@ ht-degree: 1%
 
 本会议探讨Customer Journey Analytics (CJA)如何通过打破数据孤岛并实现跨渠道和设备身份拼合来释放统一的客户洞察。 推荐任何想要了解连接客户数据、提高归因准确性并推动更明智业务决策的实际策略的人。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480162/?captions=chi_hans&learn=on&enablevpops)
 
 ## 关键要点
 

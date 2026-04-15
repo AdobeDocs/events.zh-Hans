@@ -28,4 +28,4 @@ ht-degree: 1%
 * 了解提供正确上下文和确保有效数据使用的最佳实践。
 * 了解Adobe Analytics和Customer Journey Analytics如何帮助您提升团队的数据处理能力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453597/?captions=chi_hans&learn=on)

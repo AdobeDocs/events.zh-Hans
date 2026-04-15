@@ -21,7 +21,7 @@ ht-degree: 2%
 
 统一审批代表Workfront中审批的未来。 加入我们的Adobe产品管理团队，参加信息性会议，因为他们在Workfront中分享产品方向以供审批，该课程与今天的校对有何不同，以及随着时间的推移会是什么样的。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481859/?captions=chi_hans&learn=on&enablevpops)
 
 如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf)并观看随选录制。
 

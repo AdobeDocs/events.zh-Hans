@@ -21,7 +21,7 @@ ht-degree: 0%
 
 了解三种设置文档进行电子签名的简单方法。 无论是PDF、Microsoft 365文件还是简单的图像文件，该会话都将为您提供获得文档签名所需的工具。 我们将介绍三种方法：Adobe Acrobat Sign的简单拖放创作环境在Adobe Acrobat中设置PDF表单使用文本标记加快文档创作速度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455959/?captions=chi_hans&learn=on)
 
 ## 将文本标记与Microsoft Word结合使用有什么好处？
 

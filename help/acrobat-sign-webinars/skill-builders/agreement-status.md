@@ -21,6 +21,6 @@ ht-degree: 0%
 
 了解协议管理工具和最佳实践的细节，以便您随时了解协议的状态。 该会议将涵盖：您可以对“管理”选项卡中的文档执行哪些操作，如何处理和使用Web表单和批量发送中的数据，以及如何搜索和筛选以查找所需的文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455011/?captions=chi_hans&learn=on)
 
 在此会议中，该发言人讨论了如何使用Adobe Acrobat Sign管理和跟踪协议。 它们解释&#x200B;了不同的协定状态，说明了可对进行中的协定采取的行动，并为进一步学习提供了资源。

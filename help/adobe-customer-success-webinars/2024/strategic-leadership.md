@@ -27,4 +27,4 @@ ht-degree: 0%
 - 为长期成功做好准备
 - 有效推动战略计划
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456793/?captions=chi_hans&learn=on)

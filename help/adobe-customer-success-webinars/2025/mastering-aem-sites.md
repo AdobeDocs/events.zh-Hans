@@ -29,4 +29,4 @@ ht-degree: 0%
 * 构建用户友好的导航以实现最佳站点体验
 * 在AEM Sites中打造SEO基础
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464325/?captions=chi_hans&learn=on&enablevpops)

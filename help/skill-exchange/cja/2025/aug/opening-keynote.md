@@ -21,7 +21,7 @@ ht-degree: 0%
 
 开幕主题演讲
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471134/?captions=chi_hans&learn=on&enablevpops)
 
 ## 释放卓越的分析师：基本技能
 

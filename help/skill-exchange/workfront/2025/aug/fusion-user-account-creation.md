@@ -32,7 +32,7 @@ ht-degree: 1%
 * 使用Fusion在Admin Console中自动创建帐户
 * 正在使用Fusion更新Workfront配置文件的其他详细信息
 
->[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471581/?captions=chi_hans&learn=on&enablevpops)
 
 ## 管理员和扩展的最佳实践
 
