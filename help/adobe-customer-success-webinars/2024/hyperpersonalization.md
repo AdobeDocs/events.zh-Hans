@@ -1,6 +1,8 @@
 ---
 title: Personalization成熟度 — 实现超个性化的途径
-description: 了解超个性化这一新时代。 我们将在个性化成熟度模型的基础上更进一步，讨论常用拦截器，并提供入门的战术提示。关键讨论点 — 现代客户历程​实现超个性化的途径​如何入门
+description: 了解超个性化这一新时代。 我们将为个性化成熟度模型奠定基础，讨论常用拦截器，并提供入门的战术提示。关键讨论点 — 现代客户​实现超个性化的途径​如何入门
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2360
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15559
 exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 了解超个性化这一新时代。 我们将为个性化成熟度模型奠定基础，讨论常用拦截器，并提供入门的战术提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457355/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
 
 ## 主要讨论点
 

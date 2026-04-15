@@ -2,19 +2,20 @@
 title: 在AEM Sites中构建有效网页
 description: 请参加我们初学者友好的AEM Sites网络研讨会，了解页面创建、基本组件、内容结构和响应式设计，其中涉及AEM创作、可编辑模板、核心组件和页面发布等要点。
 feature: Authoring, Editable Templates, Core Components
+topic: Development, Headless
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3015
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17376
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: c9375be0-285e-4132-a6d1-82a7fcc59d45
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
-
 
 # 在AEM Sites中构建有效网页
 
@@ -29,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444455/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **AMP创作简介**&#x200B;该会议强调让初学者掌握在Adobe Experience Manager (AEM)中创建和管理内容的基础知识的重要性。 了解创作环境对于简化工作流和利用强大功能至关重要。
 

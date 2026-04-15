@@ -2,6 +2,7 @@
 title: 快速开始，智能扩展 — 通过Workfront规划激活团队级别的成功
 description: 了解Adobe Workfront Planning的团队优先方法如何加快采用速度、减少阻力，并为企业范围的成功构建可扩展的基础。
 feature: Workfront Planning
+topic: Performance, Administration, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,10 +10,10 @@ duration: 3470
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18628
 exl-id: 79a28ff0-7f89-4d71-80e4-6f9cd5c07380
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 1%
+source-wordcount: '421'
+ht-degree: 14%
 
 ---
 
@@ -35,16 +36,16 @@ ht-degree: 1%
 
 ### 学习
 
-* [用Adobe Workfront计划绘制课程成功图表](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=zh-Hans)
+* [绘制Adobe Workfront规划成功之路的图表](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
 * [指南 — 您的Workfront规划GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### 规划培训视频
 
-* [将Planning添加到实例（许可证计划等）](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
+* [将Planning添加到实例（许可计划等）](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
 * [创建Workspace （Planning基础入门）](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [创建和管理记录类型](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [创建和管理表视图](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [文档： Adobe Workfront规划概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning发布活动](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [文档：Adobe Workfront规划概述](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning发布活动](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-我们即将推出更多有关Workfront计划的活动，请务必定期查看Experience League[上的](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)活动页面，以免错过！
+我们即将推出更多有关Workfront计划的活动，请务必定期查看Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)上的[活动页面，以免错过！

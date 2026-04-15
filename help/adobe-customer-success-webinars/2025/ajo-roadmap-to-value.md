@@ -2,23 +2,25 @@
 title: Adobe Journey Optimizer价值实现系列 — 第1场会议的Adobe Journey Optimizer价值实现路线图
 description: 了解如何设计Adobe Journey Optimizer用例转出策略来推动可衡量的成果。 探索实践提示和真实示例，以释放商业价值。
 solution: Journey Optimizer
+feature: Journeys
+topic: Development
 role: Leader, User
 level: Beginner
 doc-type: Event
 duration: 2860
 last-substantial-update: 2025-10-22T00:00:00Z
 jira: KT-19457
-source-git-commit: 049b74b1b3e2ef9c511cba258c6d98bb60eca152
+exl-id: dc476481-677b-4b60-ada9-9ca27212edea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Journey Optimizer (AJO)价值实现系列 — 第1场会议：AJO的价值路线图
 
-在本系列的开幕会议上，我们将回顾推出用例的策略为何对于通过Adobe Journey Optimizer (AJO)实现价值如此关键。 此网络研讨会将提供实践指导和真实示例，帮助您构建AJO用例路线图。目标是让您和您的团队获得可衡量的成果并确保在价值交付方面保持一致。 AJO具有巨大的潜力，制定清晰的路线图将允许您和您的团队确定快速入门，制定与您的KBO相一致的有意义的用例，从而充分利用您的投资。
+在本系列的开幕会议上，我们将回顾推出用例的策略为何对于通过Adobe Journey Optimizer (AJO)实现价值如此关键。 此网络研讨会将提供实践指导和真实示例，帮助您构建AJO用例路线图。目的是让您和您的团队获得可衡量的成果并确保在价值交付方面保持一致。 AJO具有巨大的潜力，制定清晰的路线图将允许您和您的团队确定快速入门，制定与您的KBO相一致的有意义的用例，从而充分利用您的投资。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476067/?learn=on&enablevpops)
 
@@ -33,4 +35,3 @@ ht-degree: 0%
 * **持续改进**&#x200B;根据结果和反馈监控、优化和调整用例。
 
 遵循这些步骤可确保每个计划都能带来实实在在的业务价值，并支持长期成功。
-

@@ -3,19 +3,20 @@ title: Adobe Workfront Fusion基础知识和最佳实践
 description: 了解Workfront Fusion基础知识，以自动化工作流，提高生产效率，并将工具与低代码解决方案、模板和最佳实践集成。
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18020
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront Fusion基础知识和最佳实践
 
@@ -29,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458043/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **集成的重要性**&#x200B;工具的无缝集成对于改进协作、减少耗时流程和提高效率至关重要。 Workfront Fusion等工具有助于连接多个应用程序和自动化工作流。
 
@@ -40,4 +41,3 @@ ht-degree: 0%
 * **最佳实践**&#x200B;将服务帐户用于Fusion连接，而不是个人帐户，维护正确的命名惯例，并定期清理未使用的方案、连接和Webhook以避免混乱。
 
 * **模板和学习** Fusion模板是新用户学习如何有效构建场景的良好起点。 它们提供了预定义的工作流，可以对其进行自定义以满足特定需求。
-

@@ -2,6 +2,8 @@
 title: 推动客户在支付方领域的参与
 description: 了解AEM Forms如何通过简化理赔流程和客户注册、提高转化率、效率和法规遵从性，彻底改变健康保险行业中的客户参与度。
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Headless, Integrations
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
 exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
-source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444127/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **支付者领域的挑战和机遇**&#x200B;医疗保健行业在管理数字信息和表单的指数级增长方面面临着挑战，这会导致低效和高成本。 需要简化流程，降低成本，提高客户参与度。
 

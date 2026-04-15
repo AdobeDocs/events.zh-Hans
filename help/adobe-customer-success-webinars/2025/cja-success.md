@@ -2,25 +2,26 @@
 title: 为支持Adobe Customer Journey Analytics取得成功而建立管理层赞助
 description: 了解获得Adobe Customer Journey Analytics成功执行赞助的策略。 推动协调、确保预算安全，并推动数据驱动型决策。
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # 为支持Adobe Customer Journey Analytics (CJA)取得成功而建立管理层赞助
 
 在第四届会议上，我们深入探讨缺乏强有力的执行支持将如何拖延决策、预算分配和变革管理。 在本网络研讨会中，我们探究了执行领导人在倡导Adobe Customer Journey Analytics计划、协调跨职能团队以及推动可衡量的业务成果方面扮演的关键角色。 学习切实可行的策略，以吸引高级利益相关者参与，有效沟通价值，并构建数据驱动型决策文化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470864/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## 制定业务案例
 

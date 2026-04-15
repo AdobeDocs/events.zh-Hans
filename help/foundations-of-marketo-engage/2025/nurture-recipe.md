@@ -1,6 +1,7 @@
 ---
 title: 创建您的培养方法
 description: 在Marketo Engage中掌握培养 — 学习策略、自动化、个性化和性能跟踪以提高参与度和结果。
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19288
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # 创建您的培养方法
 
@@ -42,5 +43,3 @@ ht-degree: 0%
 * **绩效衡量**&#x200B;深入了解如何跟踪、分析和优化培养活动的绩效。
 
 本课程非常适合于希望在Marketo中打下坚实基础并通过更智能的培养推动可衡量的结果的营销人员。
-
-

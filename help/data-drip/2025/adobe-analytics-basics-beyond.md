@@ -1,6 +1,8 @@
 ---
 title: Adobe Analytics基础知识及更多功能
 description: 加入Taylor Walker和Vishnu Pillai的网络研讨会，以掌握Adobe Analytics、优化工作区、导出数据和集成工具。 立即观看，以获得专家见解
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3437
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17172
 exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443028/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **Adobe Analytics简介**&#x200B;该会议重点介绍了Adobe Analytics的基础知识和高级功能，包括如何开始使用并有效利用平台。
 
@@ -34,7 +36,7 @@ ht-degree: 0%
    * **Workspace**&#x200B;主要关注的是Adobe Analytics中的工作区，包括如何导航和使用不同的面板、可视化图表和组件。
    * **培训和学习路径**&#x200B;强调提供培训教程、学习路径以及Experience League和Adobe Analytics YouTube页面等资源以供进一步学习。
    * **数据导出选项**&#x200B;关于使用数据馈送、Data Warehouse、FTP和SFTP导出数据的讨论，以及设置数据馈送的演示。
-   * **Customer Journey Analytics (CJA)** CJA简介及其与Adobe Analytics的集成，提供更加全面的数据视图。
+   * **Customer Journey Analytics (CJA)**&#x200B;介绍CJA及其与Adobe Analytics的集成，以便更加全面地查看数据。
 
 * **最佳实践**&#x200B;有关使用标记、文件夹和共享选项保持项目有条不紊且可访问的建议。
 

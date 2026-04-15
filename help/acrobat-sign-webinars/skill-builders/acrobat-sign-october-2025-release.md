@@ -1,19 +1,21 @@
 ---
 title: 新增功能 — Acrobat Sign 2025年10月版
 description: 从2025年10月版开始，探索Acrobat Sign的最新功能，提升用户体验和合规性。
+feature: Sign
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2811
 last-substantial-update: 2025-12-01T00:00:00Z
 jira: KT-19843
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: c60fe81b-8d81-466e-b6e4-bfb4ca10652b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # 新增功能 — Acrobat Sign 2025年10月版
 

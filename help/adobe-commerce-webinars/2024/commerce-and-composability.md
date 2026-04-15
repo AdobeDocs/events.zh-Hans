@@ -1,6 +1,8 @@
 ---
 title: 利用Commerce和可组合性实现多种业务模式
 description: 会议主要侧重于在Adobe Commerce中启用多种业务模型，重点介绍B2B商业增长趋势，强调简化集成以实现无缝升级的重要性，通过演示展示个性化B2B到B2C的交互，讨论Adobe Commerce的全渠道支持和API网格集成等功能，强调可组合商业服务的好处，引入App Builder以在平台中进行可扩展的自定义和订阅管理。
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
 exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

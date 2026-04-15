@@ -1,19 +1,21 @@
 ---
 title: 使用Workfront Fusion + JSONata运行JSON
 description: 该课程将逐步介绍读取JSON路径表示法、了解数据类型以及在Fusion中选择正确起始路径的基础知识。
+feature: Workfront Fusion, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3618
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19780
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 28081dcd-a5d1-4444-850a-237e2378e308
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 0%
+source-wordcount: '216'
+ht-degree: 1%
 
 ---
-
 
 # 使用Workfront Fusion + JSONata运行JSON
 
@@ -25,7 +27,6 @@ ht-degree: 0%
 
 如果您无法现场观看，请不要担心 — 请查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf)并观看随选录制。
 
-查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029?profile.language=zh-Hans)以取得可下载的内容，并随附zip培训资料文件！
+查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029)以取得可下载的内容，并随附zip培训资料文件！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
-

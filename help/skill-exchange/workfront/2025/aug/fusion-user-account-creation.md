@@ -3,6 +3,7 @@ title: 使用Fusion自动创建Workfront用户帐户
 description: 了解如何使用Adobe Workfront Fusion和API自动创建用户帐户，将设置时间从22分钟缩短到60秒以下，并提高效率。
 solution: Workfront
 feature: Workfront Fusion, Workfront API
+topic: Integrations, Development
 speaker-name-1: Kurt Jones
 speaker-company-1: J.P. Morgan
 speaker-title-1: Payments
@@ -13,10 +14,10 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18876
 exl-id: e8ac62c5-75e5-41d2-94c8-25bcaacd5668
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 0%
+source-wordcount: '258'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +32,7 @@ ht-degree: 0%
 * 使用Fusion在Admin Console中自动创建帐户
 * 正在使用Fusion更新Workfront配置文件的其他详细信息
 
->[!VIDEO](https://video.tv.adobe.com/v/3471581/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
 
 ## 管理员和扩展的最佳实践
 

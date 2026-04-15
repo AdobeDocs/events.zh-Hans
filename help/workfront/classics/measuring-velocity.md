@@ -1,15 +1,17 @@
 ---
 title: 咨询专家 — 测量速度
 description: 了解如何使用 [!DNL Workfront] 报告测量和跟踪速度。 该研讨会于2019年8月14日录制。
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >自2019年介绍自定义字段计算以来，其语法已发生更改，但介绍中提供的概念和其他说明仍准确无误。
->&#x200B;>**以下包含的计算已更新以反映最新的语法规则。**
+>**以下包含的计算已更新以反映最新的语法规则。**
 
 **首次提交日期**
 
@@ -273,7 +275,7 @@ Task >> Tammy字段不为空
 
 **答案**
 
-可以。您需要创建文档报告。 您每次运行报告时，似乎都需要提供特定的文档名称。 如果是这种情况，我建议转到报告选项并选择报告提示。 为Document >> Name添加提示。
+可以。 您需要创建文档报告。 您每次运行报告时，似乎都需要提供特定的文档名称。 如果是这种情况，我建议转到报告选项并选择报告提示。 为Document >> Name添加提示。
 
 **问题**
 
@@ -393,7 +395,7 @@ Workfront没有任何内置的Velocity报表，因此我建议您和您的团队
 
 **答案**
 
-可以。每次将状态更改为“当前”时，您都会获得新的基线，并且它将是新的默认值。 但所有以前的基线仍然存在，您可以手动将原始基线再次设置为默认基线。
+可以。 每次将状态更改为“当前”时，您都会获得新的基线，并且它将是新的默认值。 但所有以前的基线仍然存在，您可以手动将原始基线再次设置为默认基线。
 
 **问题**
 
@@ -409,7 +411,7 @@ Workfront没有任何内置的Velocity报表，因此我建议您和您的团队
 
 **答案**
 
-可以。您需要创建文档报告。 您每次运行报告时，似乎都需要提供特定的文档名称。 如果是这种情况，我建议转到报告选项并选择报告提示。 为Document >> Name添加提示。
+可以。 您需要创建文档报告。 您每次运行报告时，似乎都需要提供特定的文档名称。 如果是这种情况，我建议转到报告选项并选择报告提示。 为Document >> Name添加提示。
 
 **问题**
 

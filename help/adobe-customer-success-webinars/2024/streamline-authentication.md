@@ -1,19 +1,22 @@
 ---
 title: 简化身份验证 — 从服务帐户(JWT)迁移到OAuth服务器到服务器凭据
-description: 由高级现场工程师Jeff Homequest和Marco Lara领导的Adobe网络研讨会，重点讨论了从服务帐户JWT迁移到OAuth服务器到服务器凭据的问题，重点介绍了弃用截止日期2025年1月、迁移步骤、OAuth的好处以及AEM的特殊注意事项，并为该过程提供了广泛的支持和文档。
+solution: Experience Manager
+feature: Developer Tools, Security
+description: Adobe网络研讨会由高级现场工程师Jeff Homequest和Marco Lara主持，重点讨论了从服务帐户JWT迁移到OAuth服务器到服务器凭据的问题，重点介绍了弃用截止日期2025年1月、迁移步骤、OAuth的好处以及AEM的特殊注意事项，并为该过程提供了大量支持和文档。
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3292
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16629
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 97e2a2de-1cb4-4f2f-8c9b-47ee40227625
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # 简化身份验证：从服务帐户(JWT)迁移到OAuth服务器到服务器凭据
 
@@ -21,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440936/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **会议录制和幻灯片**&#x200B;会议已录制，录制链接将在结束时提供。
 * **演讲人简介** Jeff Homequest和Marco Lara是Adobe的高级现场工程师，他们主持了网络研讨会。
@@ -35,8 +38,8 @@ ht-degree: 0%
    * 2023年5月1日 — 宣布未来弃用。
    * 2024年6月2日 — 创建新服务帐户凭据的最后日期。
    * 2025年1月27日 — 服务帐户以及使用它们的API将停止运行。
-* **AEM的&#x200B;特殊注意事项**&#x200B;网络研讨会讨论了迁移对AEM云和本地客户的影响，包括特定的授权模式和配置。
+* **AEM的特殊注意事项**&#x200B;网络研讨会讨论了迁移对AEM Cloud和本地客户的影响，包括特定的授权模式和配置。
 * **自动生成的集成**&#x200B;自动生成的集成将由Adobe在截止日期前自动迁移。
-* **支持和文档** Adobe为迁移过程提供了详尽的文档和支持。 客户可以联系Adobe代表或专业服务部门寻求帮助。
+* **支持和文档** Adobe为迁移过程提供了广泛的文档和支持。 客户可以联系Adobe代表或专业服务部门寻求帮助。
 * **测试和验证**&#x200B;建议在迁移后删除旧的JWT凭据之前彻底测试集成。
 * **自定义集成**&#x200B;具有自定义集成的客户应尽快识别并规划迁移，尤其是涉及第三方供应商时。

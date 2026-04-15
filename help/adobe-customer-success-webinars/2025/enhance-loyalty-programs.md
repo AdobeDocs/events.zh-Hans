@@ -1,23 +1,25 @@
 ---
-title: 借助Adobe解决方案的强大功能，通过Personalization和数据增强忠诚度计划
+title: 利用Adobe解决方案的强大功能，通过Personalization和数据增强忠诚度计划
 description: 了解Adobe解决方案如何通过个性化和数据增强忠诚度计划，从而支持客户在各种行业中从认知到维系的历程。
+feature: Work Management, Strategic Planning
+topic: Personalization, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2872
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17217
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: e03bd4d1-c84e-4cf1-9021-76b420e8542a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
+# 利用Adobe解决方案的强大功能，通过Personalization和数据增强忠诚度计划
 
-# 借助Adobe解决方案的强大功能，通过Personalization和数据增强忠诚度计划
-
-在此会议中，我们将探讨Adobe解决方案如何支持您的客户历程以提高忠诚度意识、加入和维系。 我们将展示不同行业中不同类型的忠诚度计划。 然后，我们将重点介绍Adobe的解决方案如何能够为使用数据和个性化策略的营销人员增强这些计划。
+在此会议中，我们将探讨Adobe解决方案如何支持您的客户历程以提高忠诚度意识、加入和维系。 我们将展示不同行业中不同类型的忠诚度计划。 然后，我们将重点介绍Adobe的解决方案可怎样为使用数据和个性化策略的营销人员增强这些计划。
 
 ## 概述
 
@@ -27,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443130/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **客户忠诚度计划的重要性**&#x200B;几乎80%的消费者参与了一个或多个忠诚度计划，将客户维系率提高5%可带来25%到95%的利润增长。
 
@@ -35,6 +37,6 @@ ht-degree: 0%
 
 * **忠诚度计划的主要支柱**&#x200B;有效的忠诚度计划建立在三个主要支柱之上**新颖性和知名度、效用以及社区和归属感。 这些支柱有助于创造令人难忘的经验，提供实际的激励措施，培养归属感。
 
-* **使用Adobe解决方案** Adobe可提供多种解决方案来增强忠诚度计划，包括整体忠诚度配置文件、实时分段、跨历程见解、受众共享、内容供应链管理和全渠道编排。
+* **使用Adobe解决方案** Adobe提供了多种解决方案来增强忠诚度计划，包括整体忠诚度配置文件、实时分段、跨历程见解、受众共享、内容supply chain管理和全渠道编排。
 
 * **客户历程和Personalization**&#x200B;个性化客户历程至关重要。 这包括定向注册电子邮件、实时忠诚度福利消息、个性化优惠以及特定级别的独家优惠，以便有效吸引和留住客户。

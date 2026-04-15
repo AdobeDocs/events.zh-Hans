@@ -2,6 +2,7 @@
 title: Adobe Commerce创新焦点网络研讨会
 description: 加入我们，获取有关如何采用最新功能和架构以便为客户提供最佳体验并发展业务的灵感！在此网络研讨会中。
 solution: Commerce
+feature: Integration, B2B
 topic: Commerce
 role: Admin, Developer, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
 exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---

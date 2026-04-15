@@ -1,18 +1,20 @@
 ---
 title: Adobe Workfront 2025年第四季度发布网络研讨会
 description: 此网络研讨会重点介绍新的增强功能，包括新的请求体验、AI查看器、工作负载均衡器更新以及Planning和Fusion功能
+feature: Workfront Fusion, Resource Management, Strategic Planning
+topic: Performance
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3447
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19784
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 32b3a3ff-358e-4c1c-be15-19d9a79f9c2d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '222'
+ht-degree: 9%
 
 ---
-
 
 # Adobe Workfront 2025年第四季度发布网络研讨会
 
@@ -24,9 +26,6 @@ Workfront第四季度版本于2025年10月16日部署。   此网络研讨会与
 
 另外，请务必查看Experience League上的[发行说明](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)，因为并非所有功能都包括在网络研讨会中。
 
-正在寻找该会话的问答和成绩单？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946?profile.language=zh-Hans)！
+正在寻找该会话的问答和成绩单？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
-
-
-

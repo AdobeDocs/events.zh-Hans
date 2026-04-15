@@ -2,19 +2,20 @@
 title: 通过自动化简化资源规划
 description: 了解德勤如何使用Fusion在Workfront中自动进行资源规划和PTO跟踪。 探索提高准确性、可见性和团队采用率的现实提示。
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19421
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # 通过自动化简化资源规划
 
@@ -39,4 +40,3 @@ ht-degree: 0%
 * **利益相关者参与** Collaboration和创造性的问题解决对于根据团队需求定制解决方案至关重要。
 
 采用自动化不仅可减少手动工作量，还可以使团队能够更有效地管理资源并适应不断变化的项目需求。
-

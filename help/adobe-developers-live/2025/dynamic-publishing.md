@@ -1,19 +1,21 @@
 ---
 title: Edge上的动态发布与BYOM
 description: 了解BYOM和App Builder如何在边缘实现动态内容交付，从而通过Adobe Experience Manager和Edge Delivery增强数字体验。
+feature: Edge Delivery Services, Developer Tools, Authoring
+topic: Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1372
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19986
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: ff1da36d-31ae-4feb-9d1d-87be65b7307e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # Edge中的BYOM和App Builder动态发布
 

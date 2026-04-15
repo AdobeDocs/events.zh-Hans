@@ -1,7 +1,9 @@
 ---
 title: Real-time CDP迁移准备工作
-description: 迁移到Real-time CDP所需的工作量、组织结构发生了变化以及需要为Adobe Audience Manager支持提供额外的Adobe资源
+description: 迁移到Real-time CDP所需的工作量、组织结构发生了变化以及用于Adobe Audience Manager支持的其他Adobe资源
 solution: Real-Time Customer Data Platform
+feature: Audiences
+topic: Migration
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -10,16 +12,16 @@ jira: KT-13899
 thumbnail: 3423829.jpeg
 exl-id: 26b27608-f2e8-4452-9258-92353dfd2ec5
 duration: 2774
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Real-time CDP迁移准备工作
 
-了解如何迁移到AdobeReal-time CDP。
+了解如何迁移到Adobe Real-time CDP。
 
 * 迁移的工作量
 * 通过迁移实现组织转变

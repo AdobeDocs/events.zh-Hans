@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
 exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 作为Adobe Workfront系统管理员，您不仅了解软件并实施功能。 系统管理员负责与最终用户明确沟通联系，了解贵组织使用Workfront的原因 — 以及这对他们有何好处。
 
-在这个按需网络研讨会中，Workfront的客户成功经理（以及以前的客户！）Cynthia Boon和Leslie Spier将与Truist的数据平台工程师副总裁Karlton Harrison一起参加。 他们两人在该领域有多年的经验，他们将涵盖：
+在这个按需网络研讨会中，客户成功经理Cynthia Boon和Leslie Spier（以及以前的客户！） Truist的数据平台工程师副总裁Karlton Harrison将加入Workfront。 他们两人在该领域有多年的经验，他们将涵盖：
 
 * 如何确定最终用户采用率低的原因
 * 记录和传达采用期望的提示

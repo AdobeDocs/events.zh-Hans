@@ -3,19 +3,20 @@ title: 稳定客户混乱 — 在Adobe Journey Optimizer中处理复杂历程的
 description: 了解在Adobe Journey Optimizer中细分复杂历程、使用标记和简化数据管理以实现无缝编排的实用提示。
 solution: Experience Platform, Journey Optimizer
 feature: Journeys
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18849
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: e2b632ee-aa96-41db-8587-f880595a5143
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
-
 
 # 缓解客户混乱：在Adobe Journey Optimizer (AJO)中处理复杂历程的提示
 

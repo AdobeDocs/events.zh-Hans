@@ -1,6 +1,8 @@
 ---
 title: 增强精益团队的能力
 description: 了解产品集成如何简化数字工作流管理、增强团队协作、确保您拥有高效的团队并扩展业务流程。
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
 exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
-source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '775'
 ht-degree: 0%
 
 ---
@@ -28,25 +30,25 @@ ht-degree: 0%
 
 * 为了克服这些挑战，精益团队可以简化任务、提高效率、改善生活质量、缩小技能差距并利用Adobe解决方案提供的关键产品功能和集成。
 
-* Adobe Creative Cloud提供了Creative Cloud库等功能（允许用户在一个集中的位置存储和管理资源），并与Microsoft Teams和Slack等第三方平台集成，以实现协作和高效的创作流程。
+* Adobe Creative Cloud提供了Creative Cloud libraries等功能以及与Microsoft Teams和Slack等第三方平台的集成，这些功能允许用户在一个集中的位置存储和管理资源，以实现协作和高效的创作流程。
 
 * Adobe Experience Manager (AEM)提供工作流、内容片段和注释等功能，以提高内容速度、简化流程并改进协作和资源管理。
 
 * 培训和文档记录，以及制定标准和治理，对于增强精干团队的能力、促进持续改进以及确保可扩展性和效率至关重要。 还可以建立一个英才中心，以促进最佳做法和知识共享。
 
-## Creative Cloud库如何帮助管理资源？
+## Creative Cloud Libraries如何帮助管理资源？
 
-* 集中存储：Creative Cloud库允许用户在一个集中的位置存储和管理自己的资产，如图像、图形、颜色和文本样式。 这使团队成员能够轻松地跨各种项目和应用程序访问和使用资产。
+* 集中式存储：Creative Cloud库允许用户在一个集中的位置存储和管理自己的资产，如图像、图形、颜色和文本样式。 这使团队成员能够轻松地跨各种项目和应用程序访问和使用资产。
 
 * 品牌一致性：通过使用Creative Cloud库，团队成员可以通过在不同项目中访问和使用同一组资源来确保品牌一致性。 这样便无需搜索或重新创建资产，从而节省时间并保持一致的视觉标识。
 
-* 简化的创作过程：Creative Cloud库使用户能够将资源直接拖放到其项目中。 这简化了创作过程，并减少了完成任务（如添加图像或应用特定颜色或文本样式）所需的时间。
+* 简化的创作流程：通过Creative Cloud Libraries，用户可将资源直接拖放到其项目中。 这简化了创作过程，并减少了完成任务（如添加图像或应用特定颜色或文本样式）所需的时间。
 
-* Collaboration和实时更新：Creative Cloud库通过允许用户与他人共享库或资源来促进团队成员之间的协作。 这可确保每个人都在使用相同的材料集，并且支持实时更新。 当一个团队成员更新共享库中的资产时，访问该资产的所有用户都可以自动使用该更改。
+* Collaboration和实时更新： Creative Cloud库通过允许用户与他人共享库或资源，为团队成员之间的协作提供便利。 这可确保每个人都在使用相同的材料集，并且支持实时更新。 当一个团队成员更新共享库中的资产时，访问该资产的所有用户都可以自动使用该更改。
 
-* 版本控制：通过Creative Cloud库，可以更轻松地管理资源的不同版本。 这降低了与资产不一致的风险，并确保团队成员始终使用最新版本。
+* 版本控制： Creative Cloud Libraries使管理资产的不同版本变得更轻松。 这降低了与资产不一致的风险，并确保团队成员始终使用最新版本。
 
-总体而言，Creative Cloud库有助于简化资源管理、改善协作并提高创作流程的效率。
+总体而言，Creative Cloud Libraries有助于简化资源管理、改善协作并提高创作流程的效率。
 
 ## 与精益团队一起运营时面临哪些挑战？
 
@@ -60,6 +62,6 @@ ht-degree: 0%
 
 * Collaboration与沟通：高效的协作和沟通是精益团队高效运作的关键。 但是，如果没有足够的人员来管理不同的工作流，跨不同项目进行协调和确保所有团队成员一致可能比较困难。 如果团队分散或远程工作，这一挑战就更加复杂。
 
-* 这些挑战可以通过以下方式克服：简化任务、提高效率、改善生活质量、缩小技能差距以及利用Adobe解决方案提供的关键产品功能和集成。
+* 可以通过简化任务、提高效率、改善生活质量、缩小技能差距以及利用Adobe解决方案提供的关键产品功能和集成来克服这些挑战。
 
 * 此外，建立标准和治理、提供培训和文档以及创建卓越中心有助于克服这些挑战，提高精干团队的效率和生产率。

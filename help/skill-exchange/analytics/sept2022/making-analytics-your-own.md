@@ -2,6 +2,8 @@
 title: 技能交流活动2022年9月Analytics发展，打造您自己的Adobe Analytics
 description: 您拥有Adobe Analytics；现在通过利用您的用户和业务特有的功能和策略来打造您自己的存储库。
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11440
 thumbnail: 3411012.jpeg
 exl-id: cb40d86a-dbb2-4ea2-a866-9eb47157cd5e
 duration: 2523
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

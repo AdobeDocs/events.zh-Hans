@@ -1,14 +1,16 @@
 ---
 title: 咨询专家 — 了解混合和容量
 description: 了解如何衡量企业内的混合和容量。 该网络研讨会于2019年10月2日录制。
+feature: Resource Management, Reports and Dashboards, Work Management
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
 exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
 duration: 4239
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '2229'
+source-wordcount: '2238'
 ht-degree: 0%
 
 ---
@@ -31,7 +33,7 @@ ht-degree: 0%
 
 **问题**
 
-如果您的部门/组织工作负载是项目/任务和问题/请求的混合，您建议如何获得WPI的高级审核(在Workfront报表中)。
+如果您的部门/组织工作负载是项目/任务和问题/请求的混合，您建议如何获得WPI的高级审核（在Workfront报表中）。
 
 **答案**
 
@@ -120,7 +122,7 @@ Helen
 
 **答案**
 
-不会。在我们的示例中，我们使用计划小时数来显示战略和运营任务的计划工作量。 这使我们能够轻松比较它们，无论是过去、现在还是将来。 您还可以使用实际小时数来比较战略任务和运营任务，但仅适用于过去的任务，因为实际小时数是人员报告的实际执行任务所用的时间。
+不是。 在我们的示例中，我们使用计划小时数来显示战略和运营任务的计划工作量。 这使我们能够轻松比较它们，无论是过去、现在还是将来。 您还可以使用实际小时数来比较战略任务和运营任务，但仅适用于过去的任务，因为实际小时数是人员报告的实际执行任务所用的时间。
 
 **问题**
 

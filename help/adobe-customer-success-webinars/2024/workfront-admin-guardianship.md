@@ -2,6 +2,8 @@
 title: Workfront系统和群组管理员监护的基础知识
 description: 探索确定Workfront系统和组管理员之间的适当平衡、分配工作负载和维护数据完整性以高效安全地扩展企业的最佳实践。
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Performance, Administration, Certification
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
 exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---

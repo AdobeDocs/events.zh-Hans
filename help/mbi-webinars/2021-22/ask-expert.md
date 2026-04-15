@@ -5,14 +5,17 @@ landing-page-description: 观看这些录制的网络研讨会，深入了解Com
 short-description: 观看这些录制的网络研讨会，深入了解Commerce Intelligence产品团队，包括通过智能数据实现业务转型。
 kt: 10404
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce, Performance
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a8676c0c-ba3b-4543-87f5-edd57ec6aeeb
 duration: 6683
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -51,7 +54,7 @@ _咨询专家_&#x200B;由两个会话组成：
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新用户，[入门视频系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=zh-Hans)将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
+>如果您是Commerce Intelligence的新用户，[入门视频系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html)将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
-- [Commerce Intelligence简介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=zh-Hans)
-- [Commerce Intelligence支持](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=zh-Hans)
+- [Commerce Intelligence简介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Commerce Intelligence支持](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

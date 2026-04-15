@@ -3,15 +3,17 @@ title: 关于请求队列的网络研讨会
 description: 向同行学习如何最大化Workfront请求队列。 在我们的按需网络研讨会中，从迪士尼的“黄鞋”中发现各种用途和最佳实践。
 role: Admin
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
 exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: 建立管理层支持以推动在整个内容Supply chain中取得成功
 description: 了解管理层赞助如何通过务实的策略推动内容supply chain取得成功，从而确保领导力支持并使团队保持一致。
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 2502
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20311
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+exl-id: e84d484b-3b00-4073-8781-3671449c207c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
-
 
 # 建立管理层支持以推动在整个内容Supply chain中取得成功
 

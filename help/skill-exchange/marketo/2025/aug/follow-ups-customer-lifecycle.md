@@ -2,6 +2,8 @@
 title: Experience Makers聚焦 — 简化客户生命周期中的后续工作
 description: 了解可执行与请求营销活动如何简化工作流、提高数据准确性并增加与实时多渠道策略的互动。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Commerce
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18867
 exl-id: 1659fd7b-c12d-4ea0-bba1-e3f583edf949
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---
@@ -28,9 +30,9 @@ ht-degree: 1%
 
 ## 其他资源
 
-* [可执行的营销活动](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
-* [您需要了解的有关Marketo Engage中新的可执行活动类型的一切](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
-* [可执行活动：了解可执行文件如何提高效率和影响](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
+* [可执行活动](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [您需要了解的关于Marketo Engage中新的可执行促销活动类型的一切](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
+* [可执行活动：了解可执行文件如何提高效率和改善影响](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
 ## 掌握电子邮件之外的多渠道生命周期参与
 
@@ -38,8 +40,8 @@ ht-degree: 1%
 
 ## 其他资源
 
-* [在电子邮件之外深入研究：使用应用程序通知、Dynamic Chat和消息传送应用程序进行多渠道营销](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
+* [深入研究，不仅仅局限于电子邮件：通过应用程序通知、Dynamic Chat和消息传送应用程序进行多渠道营销](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [全渠道参与](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [如何创建应用程序内消息](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [如何创建推送通知](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [如何创建应用程序内消息](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [如何创建推送通知](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [如何创建WhatsApp模板](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

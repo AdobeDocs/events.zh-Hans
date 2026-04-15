@@ -3,19 +3,20 @@ title: 在Edge Delivery Services中创作
 description: 探索Edge Delivery Services中的创作策略，将基于文档的创作和通用编辑器与AEM Sites进行比较。
 solution: Experience Manager
 feature: Universal Editor, Edge Delivery Services
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3734
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20322
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: 1afff015-5b4b-41cc-9b64-646f4ec02a4e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # 在Edge Delivery Services中创作
 
@@ -29,4 +30,3 @@ ht-degree: 0%
 * **了解您的拍摄者**&#x200B;了解Edge Delivery Services环境中基于文档的创作、通用编辑器站点和文档创作的核心优势、弱点和限制。
 * **为正确的斗争选择正确的武器**&#x200B;了解哪些创作模型适合哪些用例（营销活动、常青内容、企业站点、试验、本地化），以及如何根据您团队的技能调整这些模型。
 * **治安官如何保持平静**&#x200B;了解文档创作如何充当各种创作方法的协调者 — 强制实施一致性、简化工作流，以及让您安全地选择所需的工具而不会失去控制。
-

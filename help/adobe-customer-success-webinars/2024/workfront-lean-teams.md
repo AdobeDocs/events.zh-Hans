@@ -2,6 +2,8 @@
 title: 使用Adobe Workfront实现效率最大化 — 精益团队网络研讨会
 description: 探索使用由行业专家提供的精益方法在Adobe Workfront中提高生产率和简化运营的策略和实用方法。
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

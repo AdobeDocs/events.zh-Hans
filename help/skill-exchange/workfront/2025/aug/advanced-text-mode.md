@@ -3,6 +3,7 @@ title: 使用高级文本模式提升Workfront报表
 description: 了解如何掌握Adobe Workfront文本模式以合并列、构建自定义值表达式和创建动态提示以实现更智能的报表。
 solution: Workfront
 feature: Text Mode Reporting
+topic: Administration, Integrations
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
 role: User
@@ -12,9 +13,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
 exl-id: 22811352-8232-44b6-af8c-89483a729838
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -32,9 +33,9 @@ ht-degree: 0%
 
 ## 将数据转换为可操作的故事
 
-通过结合技术专业知识和讲故事，释放Workfront报表的强大功能。
+通过结合技术专业知识与storytelling，释放Workfront报表的强大功能。
 
-* **高级文本模式**&#x200B;启用超过默认UI限制的灵活的自定义报表。
+* **高级文本模式**启用超过默认UI限制的灵活的自定义报表。
 * **合并列**&#x200B;减少杂乱并增强可读性，允许您在单个视图中呈现关键项目详细信息。
 * **值表达式**&#x200B;直接在您的报表中提供实时见解，例如项目状态和计划计算。
 * **自定义提示**&#x200B;使用户能够动态筛选报告并与报告交互，以满足不同的团队需求。

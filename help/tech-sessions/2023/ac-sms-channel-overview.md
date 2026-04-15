@@ -3,6 +3,7 @@ title: 短信渠道概述和疑难解答提示
 description: 涵盖短信架构、配置短信渠道、配置SMPP外部帐户、创建短信投放和疑难解答。
 feature-set: Campaign
 feature: SMS, Architecture, Troubleshooting, External Account
+topic: Development
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-13814
 thumbnail: 3422741.jpeg
 exl-id: a5b8c8b5-9dad-4996-95db-e366189a6cab
 duration: 2216
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%

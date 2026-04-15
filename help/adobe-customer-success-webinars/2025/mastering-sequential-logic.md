@@ -1,20 +1,22 @@
 ---
-title: 掌握AA和CJA中的顺序逻辑 — 可视化框架
-description: 学习如何掌握Adobe Analytics中的顺序逻辑，并通过可视化框架进行Customer Journey Analytics，以便将场景转换为切实可行的计划并构建有效的顺序区段。
+title: 掌握AA和CJA中的顺序逻辑 — 一个可视化框架
+description: 学习如何使用可视框架掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑，以便将场景转换为切实可行的计划并构建有效的顺序区段。
 solution: Analytics
+feature: Segmentation, Visualizations
+topic: Migration, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3331
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17216
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: c0cc6c9d-863b-4651-8d0e-d05c7813c285
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # 掌握AA和CJA中的顺序逻辑：可视化框架
 
@@ -26,7 +28,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443129/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **Analytics中的顺序逻辑**&#x200B;会话侧重于使用“then”运算符掌握顺序逻辑以启用高值分析。 这包括了解如何定义和分析数据中的事件序列。
 

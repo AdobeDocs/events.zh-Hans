@@ -1,6 +1,8 @@
 ---
 title: 商机生命周期
 description: 在这场深入讨论中，了解如何通过战略潜在客户生命周期模型有效地吸引和培育潜在客户，该模型由Marketo Champion提供建议，用于避免在继承、优化或设计新模型时常见的隐患。
+feature: Programs, Reporting
+topic: Development
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-13697
 thumbnail: KT-13697.jpeg
 exl-id: 03258f9b-ca5d-406b-a260-e41bc04396f8
 duration: 2916
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

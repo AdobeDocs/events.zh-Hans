@@ -1,20 +1,22 @@
 ---
 title: 体验创客聚焦 — 充分利用AEM — 实践者效率指南
-description: 获得宝贵的见解以优化AEM中的数字资产管理策略。 在本课程中，AEM Champions将分享关于实施稳健资产治理策略的关键知识。 通过确保法规遵从性、安全性和版本控制，您将能够让您的团队无缝工作，同时保护其宝贵的数字资源生命周期、版本控制和用于AdobeAEM中的治理的功能
+description: 获得宝贵的见解以优化AEM中的数字资产管理策略。 在本课程中，AEM Champions将分享关于实施稳健资产治理策略的关键知识。 通过确保法规遵从性、安全性和版本控制，您将能够让您的团队无缝工作，同时保护其宝贵的数字资源Adobe AEM中的生命周期、版本控制和治理功能
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Security, Administration
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2612
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16092
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: d2f864b0-27da-45db-b319-deef87758fef
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 1%
 
 ---
-
 
 # 体验创客聚焦：充分利用AEM：实践者效率指南
 
@@ -35,7 +37,7 @@ ht-degree: 1%
 ### 关键要点
 
 * 通过将GenAI与AEM Sites和Assets结合使用，提高团队效率
-* 如何通过内容治理和可编辑模板优化内容供应链。
+* 如何通过内容治理和可编辑模板优化您的内容supply chain。
 * 何时以及在何处使用核心组件与自定义。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433165/?learn=on)

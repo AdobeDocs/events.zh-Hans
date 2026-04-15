@@ -2,6 +2,8 @@
 title: Marketo和Mochas — 成熟度第2部分 — 优化您的Marketo使用
 description: 与Adobe的业务顾问Cynthia Chang和Carly Gaver一起参加Marketo成熟度系列的第2部分，重点讨论数据管理、CRM集成和活动优化，以通过实时问答增强您的Marketo使用情况。
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ ht-degree: 0%
 ## 讨论的主要主题
 
 **Marketo成熟度级别**
-侧重于通过Marketo成熟度级别进行爬网、漫游和运行阶段，以优化营销使用。
+侧重于通过Marketo成熟度级别优化抓取、推广和运行阶段。
 
 **数据管理和数据标准化**
 强调通过数据管理和数据标准化流程在Marketo中提供干净和可操作数据的重要性。
@@ -34,7 +36,7 @@ ht-degree: 0%
 **CRM集成**
 涵盖了使用Marketo的本机集成功能（如聊天机器人和网络研讨会）对CRM集成进行的高效管理。
 
-**促销活动管理优化**
+**营销活动管理优化**
 提供了通过项目模板、内容库和智能列表优化促销活动管理的提示。
 
 **智能营销活动处理**

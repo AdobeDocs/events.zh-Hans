@@ -3,23 +3,24 @@ title: Edge Delivery Services的真实历程
 description: Ensemble与PGA Tour的协作利用Adobe Experience Manager headless和Edge交付服务来高效地管理和更新16个活动站点，重点强调模块性、可重用性和快速部署，并规划将来使用Helix 5和通用编辑器来增强内容管理。
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Headless, Integrations, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 820
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16538
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 8f972775-9641-475d-83dc-f8d7e7e19a89
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-
 # Edge Delivery Services的真实历程
 
-与Adobe合作伙伴Ensemble首席软件开发人员Mark McConnell一起分享将客户引入Edge Delivery Services生态系统的示例。 了解此创新如何补充Adobe Experience Manager投资以实现现实世界的成功。
+与Adobe合作伙伴Ensemble的首席软件开发人员Mark McConnell一起分享将客户引入Edge Delivery Services生态系统的示例。 了解此创新如何补充Adobe Experience Manager投资以实现现实世界的成功。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439421/?learn=on&enablevpops)
 
@@ -27,7 +28,7 @@ ht-degree: 0%
 
 在Adobe Developers Live社区[讨论](https://adobe.ly/4ffJtT8)中继续对话。
 
-## 主要要点
+## 关键要点
 
 * **演示者和背景** Mark McConnell，Ensemble软件开发人员，使用Adobe产品在PGA导览中讨论了他们的工作。
 * **项目概述** Ensemble已与PGA Tour合作超过三年，开发其主要网站、移动应用程序和各种特定于锦标赛的网站。
@@ -45,5 +46,4 @@ ht-degree: 0%
 * **未来计划**
    * 将站点更新为新的AMP页面和AMP Live域。
    * 探索使用Helix 5和通用编辑器以实现更好的内容管理。
-* **成功因素** Ensemble、PGA导览、Adobe之间的Collaboration以及AEM Sites和Edge交付服务之间的协同作用促成了他们的成功。
-
+* Ensemble、PGA导览、Adobe之间的&#x200B;**成功因素** Collaboration以及AEM站点和边缘交付服务之间的协同增效促成了他们的成功。

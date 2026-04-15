@@ -2,6 +2,7 @@
 title: 专家洞察 — 与Leslie Spier共同采用
 description: 向Leslie Spier学习采用策略，以提升Workfront参与度、改进流程并肯定用户贡献。
 feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
 speaker-title-1: Customer Success Manager
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 875
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18615
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: 1e6c3720-61d1-4d6e-ac7e-85df816f9780
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
-
 
 # 专家洞察 — 与Leslie Spier共同采用
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 
 和我一起加入您的Workfront点播CSM，我与Leslie讨论为什么采用是如此重要的主题，以及一些我们最喜欢的策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469937/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
 
 ## 提示、建议等
 
@@ -48,16 +49,16 @@ ht-degree: 0%
    * 新功能发布可为系统管理员提供新的叙述并可能解决挑战。  如果您传达的是更改，那么您将获得功劳！ 
 
 * 说到认可，请别忘了使用Workfront的强大功能来识别您的用户！ 
-   * 当他们提出想法、关注甚至抱怨时，他们就会提供时间和反馈的礼物。 这些是你的无名英雄，任何贡献都不算太小！ 
+   * 当他们提出想法、关注甚至抱怨时，他们就会提供时间和反馈的礼物。 这些是你的无名英雄，任何贡献都不算太小！  
 
 ## 资源
 
-* 正在查找更多示例？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=zh-Hans)，了解评论中分享的更多想法！
-* [关于Blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=zh-Hans)
-* [上一笔记报告](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=zh-Hans)
-* [向视图添加基本条件格式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=zh-Hans)
-* [将功能板添加到左侧导航面板](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=zh-Hans)
-* [布局模板 — 固定](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=zh-Hans)
+* 正在查找更多示例？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314)，了解评论中分享的更多想法！
+* [关于Blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [上一注释报告](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [向视图添加基本条件格式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [将功能板添加到左侧导航面板](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [布局模板 — 固定](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## 关于扬声器
 

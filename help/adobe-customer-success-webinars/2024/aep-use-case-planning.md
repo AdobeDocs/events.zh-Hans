@@ -1,7 +1,9 @@
 ---
 title: 从愿景到价值 — AEP用例规划
-description: AEP用例规划会议涵盖价值映射、策略协调以及通过KPI实现业务价值的最大化。 它有助于企业根据业务成果调整目标，并利用Adobe解决方案提供有影响力的客户体验。
+description: AEP用例规划课程涵盖价值映射、战略协调和通过KPI实现业务价值的最大化。 它有助于企业根据业务成果调整目标，并利用Adobe解决方案提供有影响力的客户体验。
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%

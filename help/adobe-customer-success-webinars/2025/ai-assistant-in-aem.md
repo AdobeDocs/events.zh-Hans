@@ -2,6 +2,7 @@
 title: AEM 中的 AI 助手
 description: 了解AEM的AI助手如何简化创作和管理任务。 探索其范围、设置，并通过实时演示观看其实际操作。
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19626
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
-
 
 # AEM 中的 AI 助手
 
@@ -45,8 +46,7 @@ ht-degree: 2%
 
 * **清除提示**&#x200B;为最准确的响应提供具体、定义明确的问题。
 * **优化交互**&#x200B;根据需要调整提示以深入查看或澄清；审查为置信度提供的源。
-* **范围感知**&#x200B;助理仅在受支持的产品和知识库中回答；它无法访问自定义组织数据或不支持的产品(例如，Photoshop插件)。
+* **范围感知**&#x200B;助理仅在受支持的产品和知识库中回答；它无法访问自定义组织数据或不支持的产品（例如，Photoshop插件）。
 * **无内容生成**&#x200B;目前，助理不生成或创作内容，主要侧重于知识和支持。
 
 未来的增强功能：正在考虑其他特性和更广泛的功能，并期待随着产品的发展进行更新。
-

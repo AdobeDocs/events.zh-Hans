@@ -1,19 +1,21 @@
 ---
 title: 基础Marketo用户组 — 专业考试准备
 description: 获取专家指导、学习提示和AI支持的学习支持，以便您放心地参加这个重点突出的准备课程，从而顺利完成Marketo Engage专业考试。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Performance, Certification
 role: User
 level: Beginner
 doc-type: Event
 duration: 3115
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19483
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: dc33d6a9-1675-4791-a9f2-a64251f346bd
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # 基础Marketo用户组：专业考试准备
 
@@ -40,4 +42,3 @@ ht-degree: 0%
 * **冠军和用户组内容**&#x200B;查看博客、录音和讨论，以获得实用技巧和考试级别解释。
 
 这些资源在整个认证历程中提供了坚实的基础和持续支持。
-

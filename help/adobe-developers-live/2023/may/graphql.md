@@ -1,6 +1,7 @@
 ---
 title: 了解GraphQL API性能选项和查询优化
 description: 了解GraphQL API性能选项和查询优化了解如何根据我们最近发布的最佳实践创建高性能GraphQL查询。 基于GraphQL的Headless内容交付速度可能很快，但在某些情况下还可能导致性能瓶颈。 所有这些都取决于您开发GraphQL查询的方式。 在本课程中，您将了解最新AEM GraphQL功能的详细信息，以及如何利用这些功能微调GraphQL查询以高效交付您的内容！
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13362
 thumbnail: 3419948.jpeg
 exl-id: 47e32914-4899-48f5-91e7-598788adf361
 duration: 1713
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

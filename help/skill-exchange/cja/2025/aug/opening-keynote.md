@@ -1,25 +1,27 @@
 ---
 title: Customer Journey Analytics开幕主题演讲
-description: 探索上下文流利、同理心和讲故事等基本技能，通过Adobe Customer Journey Analytics提升您的影响力。
+description: 探索情境流畅、同理心和storytelling等基本技能，提升您对Adobe Customer Journey Analytics的影响力。
+feature: Basics, Use Cases
+topic: Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 806
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18809
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 74c03cda-645e-4f93-a44f-b7f7fcaaa813
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Customer Journey Analytics开幕主题演讲
 
 开幕主题演讲
 
->[!VIDEO](https://video.tv.adobe.com/v/3471134/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
 
 ## 释放卓越的分析师：基本技能
 

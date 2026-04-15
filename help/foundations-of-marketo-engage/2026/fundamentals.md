@@ -1,19 +1,21 @@
 ---
 title: 第1次会议（2026年） — Marketo Engage的基础知识
 description: 了解Marketo Engage的基础知识，包括导航、核心功能和自动化工具，以便放心地管理您的营销活动。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3560
 last-substantial-update: 2026-03-31T00:00:00Z
 jira: KT-20742
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+exl-id: a7748412-2baf-4ec1-8fca-5499150af7c6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
 
 ---
-
 
 # 2026年第1次会议：Marketo Engage的基础知识
 
@@ -30,5 +32,3 @@ ht-degree: 1%
 
 * Marketo Engage的新用户或刚开始使用该平台的用户。
 * 希望使用核心功能建立信任且实际操作经验有限的从业者。
-
-

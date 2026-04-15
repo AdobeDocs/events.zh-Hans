@@ -2,6 +2,7 @@
 title: 身份图形用例和疑难解答
 description: 了解Adobe Experience Platform Identity服务如何加强分段、激活和配置文件合并洞察，以解决现实世界的营销挑战。
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19286
-source-git-commit: ae72352725cfb057cab771b08c4419c11e17e385
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # 身份图形用例和疑难解答
 
@@ -46,4 +47,3 @@ ht-degree: 0%
 * **图形折叠和修正**&#x200B;共享设备、未验证的数据或实施错误可能会分割配置文件；模拟工具和修复作业有助于恢复准确性。
 
 了解这些概念可以让组织最大限度地实现数据价值、确保合规性和提供个性化体验。
-

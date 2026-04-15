@@ -2,6 +2,8 @@
 title: 从混乱到清晰 — 提高数据质量
 description: 在此会话中，您将了解制定和执行数据清理计划的实用提示和策略示例报告可用于发现数据质量问题使所有角色的用户都能整理和维护数据奖金！ 为画布功能板不断增长的功能准备数据
 solution: Workfront
+feature: Reports and Dashboards, Work Management
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
 exl-id: 81e527b6-f261-48db-8b87-7d1301f380d9
-source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---

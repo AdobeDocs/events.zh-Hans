@@ -3,6 +3,7 @@ title: 如何将资源摄取和处理到Experience Manager Assets as a Cloud Ser
 description: 我们有多种方法可以让客户将资产导入Adobe Experience Manager，并在Adobe Experience Manager Assets中处理一次。 客户如何为其用例选择正确的方法？ 他们如何能够利用平台的导入和处理功能实现投资价值的最大化并缩短实现价值的时间？ 了解Adobe Experience Manager Assets Cloud Service平台的新功能。
 solution: Experience Manager,Experience Manager Assets
 feature: Asset Ingestion
+topic: Development, Headless
 role: User
 level: Beginner
 version: Experience Manager as a Cloud Service
@@ -10,10 +11,10 @@ kt: 9180
 type: Event
 exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d
 duration: 1797
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 7%
 
 ---
 
@@ -27,6 +28,6 @@ ht-degree: 3%
 
 ## 其他资源
 
-- [Adobe Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hans)
-- [Adobe Experience Manager Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=zh-Hans)
-- [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=zh-Hans)
+- [Adobe Experience Manager 文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager Cloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager 教程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

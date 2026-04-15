@@ -2,19 +2,21 @@
 title: 为支持Adobe Journey Optimizer取得成功而建立管理层赞助
 description: 了解执行领导人如何倡导AJO计划、让团队保持一致并通过赞助者参与和领导力战略推动成果。
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # VRA讲座#4：为支持Adobe Journey Optimizer (AJO)成功构建执行赞助
 
@@ -50,4 +52,3 @@ ht-degree: 0%
 * **关系构建**&#x200B;促进透明度，设定明确的期望并保持持续的沟通，将行政支持转化为战略合作伙伴关系。
 
 使用利益相关者战略图可帮助组织选择正确的执行发起人和盟友，从而确保成功实施和持续更改。
-

@@ -4,6 +4,7 @@ description: 与Fahd Siddiqui一起参加2023年11月6日录制的Adobe Develope
 solution: Commerce
 feature-set: Commerce
 feature: Catalog Service, Price Indexer, B2B
+topic: Commerce, Development
 role: Developer
 level: Beginner
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-14427
 thumbnail: 3425623.jpeg
 exl-id: f3a27b87-0911-46fa-b7c3-e880f5a1a11d
 duration: 1566
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 与Fahd Siddiqui一起参加2023年11月6日录制的Adobe Developers Live的这一启发性会议，探讨Adobe Commerce的创新目录和价格索引服务如何重塑B2B数字商务。 了解管理不断增长的产品分类所面临的挑战，以及Adobe Commerce为提供快速、高效的购物体验提供的解决方案。 对于希望提升自身在B2B商业技术动态领域的专业知识的开发人员而言，此课程至关重要。
 
-在[Experience League社区](https://adobe.ly/3rJfZcN)中继续对话。
+在[Experience League Communities](https://adobe.ly/3rJfZcN)中继续对话。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425623/?learn=on)

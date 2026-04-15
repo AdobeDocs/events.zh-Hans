@@ -1,19 +1,21 @@
 ---
 title: 解锁效率 — Adobe Workfront中人工智能驱动的自动化
 description: 了解Adobe Workfront中人工智能驱动的自动化如何简化项目管理、提高效率并支持更智能、数据驱动的决策。
+feature: Resource Management
+topic: Administration, Integrations
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3379
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18241
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 7d8d5e87-52d9-4b4a-a123-b9e2a3e4f065
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # 解锁效率：Adobe Workfront中的AI驱动自动化
 

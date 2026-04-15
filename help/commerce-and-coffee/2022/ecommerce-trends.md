@@ -2,6 +2,7 @@
 title: Commerce和咖啡 — E-Commerce趋势
 description: 本会议深入探讨当今电子商务的5大趋势。 我们将围绕主要趋势讨论战略和战术，以及实施这些趋势对您的业务的影响。 然后，Cory将进行事件滚动条、类别权限、B2B功能等的演示。 演示和演示还附有与Corey一起进行的实时问答。
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11652
 thumbnail: 3412701.jpeg
 exl-id: 47859ed1-8c50-4866-b710-f2da41ea06bb
 duration: 3705
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---

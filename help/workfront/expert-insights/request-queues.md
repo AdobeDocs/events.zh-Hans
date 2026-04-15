@@ -2,6 +2,7 @@
 title: 专家洞察 — 与Lyndsy Denk的请求队列
 description: Workfront专家关于使用Lyndsy Denk构建技术支持队列、路由请求和控制面板见解的提示。
 feature: Requests
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Lyndsy Dent
@@ -12,16 +13,16 @@ duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
 exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 0%
+source-wordcount: '485'
+ht-degree: 3%
 
 ---
 
 # 专家洞察 — 与Lyndsy Denk的请求队列
 
-欢迎使用Expert Insights！  我是Cynthia Boon，您的“On-Demand”Workfront CSM，对于本集，我们有Workfront名人，[@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=zh-Hans)！ 我们讨论了Lyndsy的Workfront故事，然后深入探讨了她的技术支持请求队列。
+欢迎使用Expert Insights！  我是Cynthia Boon，您的“On-Demand”Workfront CSM，对于本集，我们有Workfront名人，[@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167)！ 我们讨论了Lyndsy的Workfront故事，然后深入探讨了她的技术支持请求队列。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -36,15 +37,15 @@ ht-degree: 0%
 
 如承诺的那样，下面是我们讨论的资源，以及几个用于“请求队列”和“队列主题”的额外链接：
 
-* 有关如何[管理继承的实例](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的资源，包括网络研讨会的链接和有关[Blueprint教程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的详细信息
+* 有关如何[管理继承的实例](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的资源，包括网络研讨会的链接和有关[Blueprint教程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的详细信息
 
-* 了解请求队列文档： [创建队列主题](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* 了解请求队列文档： [创建队列主题](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Lyndsy针对[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=zh-Hans)的网络研讨会演示文稿：与最终用户通信（此页面还包括指向[最终用户Comms指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=zh-Hans)的链接）
+* Lyndsy针对[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)的网络研讨会演示文稿：与最终用户通信（此页面还包括指向[最终用户Comms指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)的链接）
 
-* Lyndsy的[技能交流演示资源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=zh-Hans#M3642)
+* Lyndsy的[技能交流演示资源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
 
-* 还有，别忘了查看[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=zh-Hans)“向我询问有关Workfront Proof的任何信息”页面，Lyndsy以及Monique Evans和Richard Carlson回答了您有关“校对”的问题！
+* 还有，别忘了查看[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798)“向我询问有关Workfront Proof的任何信息”页面，Lyndsy以及Monique Evans和Richard Carlson回答了您有关“校对”的问题！
 
 ## 关于扬声器 
 

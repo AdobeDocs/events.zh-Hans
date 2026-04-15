@@ -3,15 +3,16 @@ title: 简化您的第一步数据管理
 description: 数据量不断增加，因此公司要高效地捕获数字交互数据并将该数据发送到适当的营销部门……（请用60到160个字符描述）
 solution: Real-Time Customer Data Platform
 feature: Data Governance
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
 duration: 3818
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---

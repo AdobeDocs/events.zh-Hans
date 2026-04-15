@@ -2,6 +2,8 @@
 title: 使用AEM Forms在Financial Services中个性化数字通信
 description: 了解AEM Forms如何帮助金融服务提供个性化、可扩展的通信，从而提高参与度、效率和合规性。
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Personalization, Integrations, Performance
 role: Developer, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458104/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **金融服务现代化面临的挑战**&#x200B;由于多个系统存在大量表单、IT驱动更新速度慢，以及与扩展旧系统相关的成本高昂，金融机构在表单和通信现代化方面面临着重大障碍。 这些挑战导致丧失机会，如未捕获的成本节约和收入增长。
 

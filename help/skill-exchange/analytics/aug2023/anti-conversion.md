@@ -3,6 +3,7 @@ title: 分析反转化因素以改善客户体验
 description: 在任何行业，持续改善现场体验都非常重要。 反转化的目的是找出对您的客户现场体验产生负面影响的因素，以解决这些问题。 您可以查看许多量度来改善您的体验。 在本次研讨会中，我们将重点讨论： — 如何使用错误率来获得洞察 — 找出客户混淆的领域以改进客户历程 — 提供在您的组织中实施反转化的提示
 feature-set: Analytics
 feature: Metrics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14657
 thumbnail: 3425991.jpeg
 exl-id: 13b7b639-c833-4f3e-b4f9-ec9e2cee2505
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

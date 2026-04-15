@@ -2,6 +2,7 @@
 title: 专家见解 — 非传统Workfront工作流程，与Kiersten Kollins合作
 description: 了解DSW的Kiersten Kollins如何使用非传统的Adobe Workfront工作流、自定义报表和Fusion自动化来优化营销操作并提高团队效率。
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 欢迎再观看Expert Insights一集！  我是Cynthia Boon，您的On-Demand Workfront CSM。 想过其他客户如何使用Workfront吗？ 正在寻找解决您的组织挑战和支持您的流程的独特方法吗？  
 
-我们很幸运，五月份邀请了DSW的高级营销运营技术师Kiersten Kollins参加我们的零售业圈活动，她在活动中分享了他们非传统的Workfront工作流来管理团队的工作。 
+我们很幸运，五月份邀请了DSW的高级营销运营技术师Kiersten Kollins参加我们的零售业圈活动，她在活动中分享了他们非传统的Workfront工作流来管理团队的工作。  
 
 她分享的所有奇妙创意都会让你感到惊讶，包括： 
 
@@ -33,11 +34,11 @@ ht-degree: 0%
 * 启动Creative Brief审阅以满足其用户和项目的需求。 
 * *奖金！*&#x200B;她还分享了她最喜欢的Fusion用例之一！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469949/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## 资源
 
-在活动期间，Kiersten提到了我们附加到[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=zh-Hans)的两个资源。
+在活动期间，Kiersten提到了我们附加到[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315)的两个资源。
 * **示例报表** — 工作时间后的任务报表 
 * **DSW反馈路由护栏**&#x200B;这是如何教用户如何在Workfront中提供更新的绝佳示例！ 
 

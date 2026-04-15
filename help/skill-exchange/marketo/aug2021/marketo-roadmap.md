@@ -2,13 +2,15 @@
 title: 您的Marketo路线图
 description: Marketo可自定义且可扩展，因此带来了大量机会。 但与此同时，规划不善或缺乏规划可能会导致……（请用60到160个字符描述）
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
 exl-id: b1b3d59a-6c45-4712-9eb8-d44406a6a4e9
 duration: 2379
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

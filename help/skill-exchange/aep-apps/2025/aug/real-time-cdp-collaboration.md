@@ -2,19 +2,21 @@
 title: 使用Adobe的Real-Time CDP Collaboration充分利用您的媒体投资
 description: 了解如何使用Adobe Real-Time CDP Collaboration通过优质发布者和第一方数据激活、衡量和优化CTV促销活动。
 solution: Experience Platform, Real-Time Customer Data Platform, Real-Time Customer Data Platform Collaboration
+feature: Audiences
+topic: Security, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18848
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: e5632e05-e6e8-4b00-9037-a065ed80da54
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
-
 
 # 使用Adobe的Real-Time CDP Collaboration充分利用您的媒体投资
 

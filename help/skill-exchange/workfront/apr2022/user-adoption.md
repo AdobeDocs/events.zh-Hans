@@ -2,13 +2,15 @@
 title: 克服用户采用情况的注意事项
 description: 采用诸如Workfront之类的工作管理解决方案有很多方面，但最基础的功能之一就是了解组织中的哪些人将会使用该解决方案。
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10311
 thumbnail: 342522.jpeg
 exl-id: 6f77698c-9955-4555-a293-3dcd43de285f
 duration: 2992
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%

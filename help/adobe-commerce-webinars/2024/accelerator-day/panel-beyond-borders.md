@@ -1,6 +1,7 @@
 ---
 title: 超越国界 — 未来商业预测
 description: 由Adobe的Allyce Truscott主持的小组讨论，主题是在当前经济环境下运营在线业务的挑战和解决方案。
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -9,11 +10,11 @@ duration: 2234
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15539
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/zh-hans/docs/events/apac-commerce-recordings/2024/overview"
+badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
 exl-id: 44174e44-f84e-4a94-ab4b-2c31f2684612
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -28,6 +29,6 @@ ht-degree: 0%
 + 卡罗莱纳·德·菲格雷多 — 克莉斯比·克雷梅
 + 侯赛因·穆斯塔法
 
->[!VIDEO](https://video.tv.adobe.com/v/3457243/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

@@ -1,7 +1,8 @@
 ---
-title: 通过AEM中的内容个性化推动业务价值
+title: 在AEM中通过内容个性化推动业务价值
 description: 了解如何跨Adobe Experience Manager和Adobe Target使用个性化功能来提供丰富且引人注目的体验，这些体验保证能够转化。
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
 role: User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
@@ -9,14 +10,14 @@ kt: 10948
 thumbnail: 346384.jpeg
 exl-id: 8bbd96e2-5a74-46a7-a622-b8f3f1a85e5f
 duration: 2309
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# 通过AEM中的内容个性化推动业务价值
+# 在AEM中通过内容个性化推动业务价值
 
 了解如何跨Adobe Experience Manager和Adobe Target使用个性化功能来提供丰富且引人注目的体验，这些体验保证能够转化。
 

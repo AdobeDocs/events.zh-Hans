@@ -2,6 +2,7 @@
 title: 使用Adobe Target的AI驱动的Personalization最大化用户体验
 description: John Magnusson关于Adobe Target人工智能驱动的个性化的讲座重点讲述了关键功能和示例，强调了Engage、Expand和Embed框架。
 solution: Target
+feature: Segments, Profiles
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3186
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16627
 exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440934/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **会话的焦点**&#x200B;会话侧重于通过Adobe Target的AI驱动型个性化来最大化用户体验。
 * **演示者** John Magnusson，Adobe数据和集成团队的解决方案客户成功经理，主持了会议。
@@ -41,4 +42,4 @@ ht-degree: 0%
 * **Experience League**&#x200B;建议用作有关实施Adobe Target功能的详细文档和指导的资源。
 * **问答要点**
    * Adobe Target可以在电子邮件渠道中实施，并与Marketo集成。
-   * Target可以创建自己的统一客户配置文件集，并与CDP或Adobe受众集成，以实现更强大的个性化。行动要求**我们鼓励与会者识别Adobe Target个性化工具的用例，并使用定义的策略、设计、执行、分析和操作周期来应用这些用例。
+   * Target可创建自己的统一客户配置文件集，并与CDP或Adobe受众集成以实现更强大的个性化。**我们鼓励与会者识别Adobe Target个性化工具的用例，并使用定义的策略、设计、执行、分析和操作周期来应用这些用例。

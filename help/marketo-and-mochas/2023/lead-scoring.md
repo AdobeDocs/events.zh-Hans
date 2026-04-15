@@ -1,6 +1,8 @@
 ---
 title: Marketo和Mochas — 潜在客户得分
-description: 在Marketo和Mochas中通过Cynthia Chang和Kelvin Ieng了解领先得分的好处，包括策略、设置和实时演示Marketo Engage，以及关键技巧和实时问答。
+description: 在Marketo和Mochas中通过Cynthia Chang和Kelvin Ieng了解领先得分的好处，包括策略、设置和实时演示，以及关键技巧和实时问答。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

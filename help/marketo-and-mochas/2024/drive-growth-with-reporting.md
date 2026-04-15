@@ -2,6 +2,8 @@
 title: Marketo和Mochas — 通过报表推动增长（成熟度第3点）
 description: 与Adobe的业务顾问Cynthia Chang和Carly Gaver一起参加Marketo成熟度网络研讨会系列的第3部分，通过实时问答，探索如何利用Marketo的报告工具推动业务增长、监控绩效并提供有效的量度。
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 成熟度第三部分为Marketo成熟度系列的第三部分，侧重于通过报告推动增长。 总结一下，
 
-* 第1部分重点讨论了爬网阶段，为Marketo实例奠定了基础。
+* 第一部分重点介绍了抓取阶段，为Marketo实例奠定了基础。
 * 第2部分介绍了演示阶段，优化并扩展了使用范围。
 * 第3部分侧重于运行阶段、扩展和提高效率。
 
@@ -36,7 +38,7 @@ ht-degree: 0%
 * Cynthia在Adobe工作了两年，之前在咨询业工作，并且是Marketo客户。
 * Carly在Adobe工作了三年，在数字营销和营销自动化方面拥有丰富的经验。
 
-## 主要要点
+## 关键要点
 
 * **监控**&#x200B;持续监视实例的性能，包括可投放性和数据库运行状况。
 * **审核**&#x200B;正在审核用户访问权限、权限和CRM同步。

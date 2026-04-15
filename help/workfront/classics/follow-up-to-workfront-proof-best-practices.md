@@ -1,14 +1,16 @@
 ---
 title: 咨询专家 — 跟进Workfront Proof最佳实践
 description: 了解为何应使用自动化工作流模板、如何创建这些模板，以及如何调整验证设置以确保隐私。 该网络研讨会于2020年3月4日录制。
+feature: System Setup and Administration
+topic: Security
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
 duration: 4083
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1649'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -51,7 +53,7 @@ ht-degree: 0%
 
 **答案**
 
-我建议将验证创建者/所有者的“电子邮件”警报设置为“决策”。 我建议为电子邮件警报将所有其他验证收件人设置为“已禁用”(即使电子邮件警报设置为已禁用，他们仍会收到“新验证”、“新版本”、“延迟验证”和“@Mention电子邮件通知”)。 此设置可确保电子邮件警报具有针对性，并将电子邮件数量降至最低。
+我建议将验证创建者/所有者的“电子邮件”警报设置为“决策”。 我建议为电子邮件警报将所有其他验证收件人设置为“已禁用”（即使电子邮件警报设置为已禁用，他们仍会收到“新验证”、“新版本”、“延迟验证”和“@Mention电子邮件通知”）。 此设置可确保电子邮件警报具有针对性，并将电子邮件数量降至最低。
 
 **问题**
 

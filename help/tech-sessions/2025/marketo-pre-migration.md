@@ -2,6 +2,8 @@
 title: Marketo迁移到Adobe Admin Console — （预迁移）
 description: Adobe正在将Marketo Engage迁移到Admin Console，以便更好地管理用户。 了解自动和自助迁移类型、先决条件、迁移后更改、最佳实践、常见隐患以及支持。 访问Adobe Experience League网站上的会议录像。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2280
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17483
 exl-id: 9c3da83f-9e02-4a2e-9784-10213facf056
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -32,7 +34,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449712/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 ### 迁移目的和概述
 
@@ -46,7 +48,7 @@ Adobe正在将Marketo Engage迁移到Admin Console，以便将所有产品整合
 ### 迁移的先决条件
 
 * 系统管理员必须完成同意电子邮件。
-* 必须在Admin Console(而不是Marketo实例)中设置SSL。
+* 必须在Admin Console（而不是Marketo实例）中设置SSL。
 
 ### 迁移后更改
 

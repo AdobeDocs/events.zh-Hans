@@ -2,6 +2,8 @@
 title: 培养敏捷营销组织
 description: 关于培养敏捷营销组织的会议强调了敏捷营销的原则、它的好处、传统瀑布方法的挑战、文化转变和变革管理的需要，以及成功的敏捷营销所必须的角色和结构。
 solution: General
+feature: Personalization, Analytics Basics
+topic: Personalization, Performance, Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
 exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444450/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **Agile营销原则** Agile营销将原则应用到Agile软件开发到营销流程，侧重于迭代开发、客户中心、透明度、数据驱动型决策和持续改进。
 

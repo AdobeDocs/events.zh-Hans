@@ -1,20 +1,22 @@
 ---
 title: 打开主题演讲 — 使团队拥有数据权限
-description: 了解数据民主化的重要性及其解决的问题。了解提供正确上下文和确保有效数据使用的最佳实践。 了解Adobe Analytics和Customer Journey Analytics如何帮助您让团队拥有数据。
+description: 了解数据民主化的重要性及其解决的问题。了解提供正确上下文和确保有效数据使用的最佳实践。 了解Adobe Analytics和Customer Journey Analytics如何帮助您提升团队的数据处理能力。
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 642
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15979
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 9d52c522-8600-4812-997c-dc0182e79236
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
-
 
 # 开幕式主题演讲：让团队拥有数据
 
@@ -24,6 +26,6 @@ ht-degree: 1%
 
 * 了解数据民主化的重要性及其解决的问题。
 * 了解提供正确上下文和确保有效数据使用的最佳实践。
-* 了解Adobe Analytics和Customer Journey Analytics如何帮助您让团队拥有数据。
+* 了解Adobe Analytics和Customer Journey Analytics如何帮助您提升团队的数据处理能力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453597/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)

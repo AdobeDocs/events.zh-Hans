@@ -2,6 +2,7 @@
 title: 创建和使用从头到尾的工作流
 description: 了解工作流的创建和使用。
 feature: Workflow
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
 exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 调用所有Acrobat Sign管理员和最终用户/个人参与者。 该课程将介绍工作流的创建和使用。 作为Acrobat Sign组或帐户管理员，了解如何定义预设工作流以自动将待签名的文档路由到正确的参与方，然后授予对整个Acrobat Sign组的访问权限。 作为最终用户，了解如何使用这些工作流确保文档在第一次和每次都正确签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454912/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
 
 ## 涵盖的主题
 

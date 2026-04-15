@@ -2,19 +2,21 @@
 title: Beyond The Launch - Marketo Engage的电子邮件Designer的发展情况
 description: 了解Marketo Engage的Email Designer如何发生转变，提供对营销人员友好的工具来增强电子邮件的创建，而无需使用HTML编码。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Migration, Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2515
 last-substantial-update: 2026-01-09T00:00:00Z
 jira: KT-20063
-source-git-commit: f04cc6261536cb98fdbbc78f31463e2daf8e0e65
+exl-id: 6a4502e0-494f-466c-9290-afab570111f0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 4%
+source-wordcount: '348'
+ht-degree: 5%
 
 ---
-
 
 # Beyond The Launch： Marketo Engage的电子邮件Designer如何演变
 
@@ -33,12 +35,12 @@ ht-degree: 4%
 
 ## 其他资源
 
-* [发送电子邮件给Designer概述](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI 助手](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [可自定义的片段](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [条件内容](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [品牌主题](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [新旧电子邮件Designer的功能比较](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [通过电子邮件发送Designer概述](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI 助手](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [可自定义的片段](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [条件内容](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [品牌主题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [新旧电子邮件Designer的功能比较](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current)
-* [Champion深入分析：发现Marketo Engage中的新电子邮件Designer](https://experienceleague.adobe.com/zh-hans/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Champion深入研究：探索Marketo Engage中的新电子邮件Designer](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [通过问答加入社区对话](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)

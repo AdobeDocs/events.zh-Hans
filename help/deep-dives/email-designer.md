@@ -2,19 +2,20 @@
 title: 在Marketo Engage中了解新电子邮件Designer
 description: 与Marketo Engage专家一起探索Adobe的新电子邮件设计器。 了解功能、最佳实践、提示、迁移策略等，以增强您的电子邮件营销。
 feature: Email Editor
+topic: Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3725
 last-substantial-update: 2025-04-02T00:00:00Z
 jira: KT-17621
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+exl-id: 8924f69c-0158-4962-b4a5-5d26f7b3c5f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # 在Marketo Engage中了解新电子邮件Designer
 

@@ -2,6 +2,8 @@
 title: 通过Marketo Engage解锁全球营销 — Adobe Champion深入探讨 — 2024年8月
 description: 参加8月的深入探讨，以通过Marketo Engage解锁全球营销产品，内容涵盖数据结构、法律合规性、带有区段的营销活动支持、代码片段、动态内容等，并深入了解如何为多个品牌和实例优化工作区和分区。
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
 exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%

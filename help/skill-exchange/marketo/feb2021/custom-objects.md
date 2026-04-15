@@ -2,15 +2,17 @@
 title: 用绳索探寻定制物品和速度
 description: 一对多关系数据加上经过时间测试的模板引擎 — 高级电子邮件内容的完美标记团队。 了解CO架构设计的策略 — 排序、筛选和聚合CO记录，检测记录更新，以及使用JSON集成伪CO。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations
 role: Developer
 level: Beginner
 kt: 9708
 thumbnail: 340313.jpeg
 exl-id: 573d9faa-8259-451a-b729-6714f4172780
 duration: 3981
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

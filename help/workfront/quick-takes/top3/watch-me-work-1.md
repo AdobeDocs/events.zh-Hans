@@ -1,19 +1,21 @@
 ---
 title: Workfront主要技巧
 description: 探索Workfront中系统管理员、项目经理和工作人员的顶级功能。 了解Cynthia Boone如何有效使用这些工具。
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 202
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18649
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: feec04be-df91-4493-a1e9-dd552d6ffee4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # 3大特别版！ 观看我的工作 — 3种方式[第1段视频]
 
@@ -23,8 +25,8 @@ ht-degree: 0%
 * 项目经理/规划者
 * 工作人员/请求者
 
->[!VIDEO](https://video.tv.adobe.com/v/3470186/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
 
 ## 其他资源
 
-正在查找更多内容？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910?profile.language=zh-Hans)！
+正在查找更多内容？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)！

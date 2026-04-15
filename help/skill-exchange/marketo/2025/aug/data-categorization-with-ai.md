@@ -2,6 +2,7 @@
 title: 使用优化的AI模型改进Marketo Engage中的数据分类
 description: 了解如何在Marketo Engage中使用优化的AI模型来检测垃圾邮件、将职称与角色匹配以及使用Webhook对打开的文本字段进行分类。
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -41,7 +42,7 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [针对Marketo Engage优化的AI模型](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
+* [适用于Marketo Engage的细调AI模型](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
 * [Webhook快速入门指南](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
 * [将ChatGPT与Marketo Engage集成](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
 * [自助服务流程步骤指南](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

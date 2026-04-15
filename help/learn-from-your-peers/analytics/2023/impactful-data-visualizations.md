@@ -2,6 +2,7 @@
 title: Adobe Analytics中有影响的数据可视化图表的艺术与科学
 description: 探索Adobe Analytics可视化图表和具有影响力的数据storytelling。 了解如何将数据转换为引人入胜且讲述故事的视觉效果，让您能够使用Analysis Workspace准确传递洞察信息并产生影响力。
 feature: Visualizations, Analysis Workspace
+topic: Migration, Integrations
 role: User
 solution: Analytics
 level: Beginner, Intermediate, Experienced
@@ -11,7 +12,7 @@ last-substantial-update: 2023-12-08T00:00:00Z
 jira: KT-14618
 thumbnail: 3425943.jpeg
 exl-id: 55966d3c-1527-4691-8683-1a65b40cd327
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

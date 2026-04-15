@@ -3,6 +3,7 @@ title: 在Adobe Identity上为Marketo Engage做准备
 description: 参加此培训课程，为将Marketo Engage订阅迁移到Adobe Identity做好准备，侧重于用户迁移、关键操作和管理员的基本资源，提供有关导航迁移控制台和了解每个里程碑的更改的指南。
 solution: Marketo Engage
 feature: Administration
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,19 +11,19 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # 在Adobe Identity上为Marketo Engage做准备
 
-这是关于[Adobe Marketo Engage订阅与Adobe Identity Management System](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)集成的迁移的培训。 该内容最适合Marketo Engage管理员。 本培训将使您具备必要的知识，帮助您跨职能做好组织准备，并就这一即将到来的更改对内部用户进行教育。
+这是关于[Adobe Marketo Engage订阅与Adobe Identity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)集成的迁移的培训。 该内容最适合Marketo Engage管理员。 本培训将使您具备必要的知识，帮助您跨职能做好组织准备，并就这一即将到来的更改对内部用户进行教育。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432363/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## 概述
 

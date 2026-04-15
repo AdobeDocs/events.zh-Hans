@@ -1,16 +1,18 @@
 ---
 title: 营销渠道和归因建模
 description: 在Adobe Analytics的专业指导下释放其设置营销渠道并利用归因建模的强大功能
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -43,7 +45,7 @@ ht-degree: 0%
 
 * **录音和资源**&#x200B;网络研讨会正在录制中，将通过电子邮件发送。 会话期间还有讲义和资源可供下载。
 
-## 主要要点
+## 关键要点
 
 * **营销渠道**
 

@@ -2,19 +2,20 @@
 title: 分析的架构 — 如何处理Customer Journey Analytics数据模型
 description: 了解如何使用事件层级、归因和KPI来构建CJA数据模型，以解锁更深入的客户历程洞察。
 feature: Attribution
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18813
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 704ff998-840a-4815-a24f-f08b625b14f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
-
 
 # 分析的架构：如何处理Customer Journey Analytics数据模型
 

@@ -1,8 +1,9 @@
 ---
-title: 解决电子邮件以外的Adobe历程
+title: 解决电子邮件以外的历程
 description: 了解如何使用Adobe Journey Optimizer设计和测试多渠道历程，使用测试用户档案、事件数据和现实情景实现最佳参与。
 solution: Journey Optimizer
 feature: Email, Direct Mail, Journeys
+topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,14 +11,14 @@ duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18850
 exl-id: e611a377-0e3c-4ccd-ac9c-280638b6ea36
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-# 解决电子邮件以外的Adobe历程
+# 解决电子邮件以外的历程
 
 本会议通过一个具体的示例探讨了如何解决Adobe Journey Optimizer中的实际挑战。 它重点介绍了跨电子邮件、语音和直邮构建多接触点历程的策略，以创建一致的客户体验。 与会者将从产品所有者的角度获得切实可行的见解和方法以优化历程。
 

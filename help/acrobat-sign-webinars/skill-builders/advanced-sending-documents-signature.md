@@ -2,6 +2,7 @@
 title: 发送文档供签名高级提示
 description: 了解如何发送给多个收件人可用的收件人角色（签名者、表单填写者、委派者等）添加CC字段密码保护等。
 feature: Sign
+topic: Security, Administration
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1143
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15295
 exl-id: 15b61eb5-3a5f-4dbe-94ac-2d4a20976566
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 更深入地了解在发送协议进行签名时可用的所有选项。 在此会话中，您将了解：发送给多个收件人可用的收件人角色（签名者、表单填写者、委派者等）添加CC字段密码保护等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454890/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
 
 此网络研讨会提供了有关Acrobat Sign高级功能的见解，这些功能可用于设置多参与者工作流、配置收件人角色以及利用收件人组和私人消息。 此学习有助于简化发送文档供签名的过程，并改善签名参与者之间的协作。
 

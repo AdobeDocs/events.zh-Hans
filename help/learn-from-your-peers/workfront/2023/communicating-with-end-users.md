@@ -3,15 +3,17 @@ title: 与最终用户沟通网络研讨会
 description: 在我们的按需网络研讨会中，探索与Workfront用户沟通的各种策略。 向IDEXX、Adobe和Adobe Workfront专家学习有效渠道、通信类型以及迭代地发展您的策略。
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
 exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ ht-degree: 0%
 * 关于决定使用哪些渠道进行通信的提示
 * 如何以反复的方式思考您的沟通策略，从您所处的位置开始，并在您发展过程中不断成熟
 
-您还可以从以下网站下载“通信指南”，其中包含您的同行与其用户共享的实际通信的想法和示例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=zh-Hans
+您还可以从以下网站下载“通信指南”，其中包含您的同行与其用户共享的实际通信的想法和示例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

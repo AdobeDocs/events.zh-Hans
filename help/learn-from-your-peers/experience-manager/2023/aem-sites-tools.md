@@ -1,8 +1,9 @@
 ---
 title: 深入了解AEM Sites的工具
-description: 有效利用工具和转变AEM Sites体验的最佳实践。 标记类型了解不同的标记类型如何增强内容组织和可发现性。  设置和应用标记获得对高效标记实施的动手见解，以节省时间并提高生产效率。  文件夹元数据架构通过文件夹元数据架构发现结构化内容管理的强大功能。元数据架构通过熟悉元数据架构设计提升内容相关性和用户体验。 设置报表通过设置综合报表，利用数据驱动型分析进行战略决策。您可以在此处访问演示幻灯片。
+description: 有效利用工具和转变AEM Sites体验的最佳实践。 标记类型了解不同的标记类型如何增强内容组织和可发现性。  设置和应用标记获得对高效标记实施的动手见解，以节省时间并提高生产效率。  文件夹元数据架构通过文件夹元数据架构发现结构化内容管理的强大功能。元数据架构通过掌握元数据架构设计来提高内容相关性和用户体验。 设置报表通过设置综合报表，利用数据驱动的见解制定战略决策。您可以在此处访问演示幻灯片。
 feature-set: Experience Manager
 feature: Tagging
+topic: Development, Headless
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 solution: Experience Manager
@@ -12,9 +13,9 @@ jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

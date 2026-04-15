@@ -3,6 +3,7 @@ title: 充分利用Marketo Measure
 description: 使用渠道映射、分段、自定义阶段映射和接触点抑制的最佳实践优化Marketo Measure。 使用特定规则、对数据进行分类并以逻辑方式排定暂存的优先级。 抑制不需要的接触点以清除数据。 利用boomerang阶段等工具并为复杂配置提交支持案例。 访问Adobe Experience页面上的会议录像。
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---

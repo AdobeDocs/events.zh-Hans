@@ -2,6 +2,7 @@
 title: 为XDM架构建模的最佳实践和见解
 description: 在AEP中通过XDM架构、身份管理和最佳实践进行主数据建模，以实现可扩展、实时的个性化和分段。
 solution: Experience Platform
+feature: Personalization
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
 exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458042/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 **Adobe Experience Platform (AEP)中的数据建模**
 

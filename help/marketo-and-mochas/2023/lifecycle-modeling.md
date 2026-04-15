@@ -1,6 +1,8 @@
 ---
 title: 客户历程管理 — 生命周期建模
 description: 探索透明度如何在Cynthia Chang和James Leedom共享生命周期设置、历程分段策略并演示Marketo Engage的生命周期建模器、报告和分析工具时，构建营销可信度。
+feature: Reporting
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ ht-degree: 0%
 最近，透明度已成为成功营销战略的最宝贵属性之一。 在本次会议期间，我们讨论了建立信誉的所有关键问题，并了解何时使用哪些工具。 Adobe自己的营销自动化业务顾问Cynthia Chang和Marketo客户技术顾问James Leedom帮助您提前回答这些问题：
 
 * 潜在客户当前处于购买历程的哪个阶段？
-* 漏斗中从阶段到阶段的转化率是多少？
+* funnel中从阶段到阶段的转化率是多少？
 * 潜在客户在客户历程中的移动速度如何？
 * 需要多少个MQL才能获得X美元？
 

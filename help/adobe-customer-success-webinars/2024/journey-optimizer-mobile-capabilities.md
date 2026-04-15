@@ -2,19 +2,21 @@
 title: Journey Optimizer Mobile功能
 description: 这个Adobe Journey Optimizer介绍性会议将使初学者能够创建短信和推送渠道客户体验，从而通过个性化产生效果。 我们将讨论片段使用和个性化。
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer Mobile功能
 
@@ -37,7 +39,7 @@ ht-degree: 0%
 **推送通知配置**
 
 * 定义受众、计划并生成包含个性化内容和媒体的推送通知。
-* 利用创作AI(如Firefly)根据品牌样式创建个性化图像。
+* 利用创作AI（如Firefly）根据品牌样式创建个性化图像。
 
 **应用程序开发和服务**
 

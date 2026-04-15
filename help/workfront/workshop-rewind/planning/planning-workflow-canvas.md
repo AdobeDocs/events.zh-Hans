@@ -1,19 +1,21 @@
 ---
 title: Workfront的强大三驾马车 — 连接规划、工作流和画布功能板
 description: 了解如何在Workfront中集成规划、工作流和画布功能板以简化项目管理。
+feature: Reports and Dashboards, Work Management, Strategic Planning
+topic: Integrations, Security, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3585
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20609
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 1038eeb7-584f-421c-88cd-9084746a5974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 2%
 
 ---
-
 
 # Workfront的强大三驾马车 — 连接规划、工作流和画布功能板
 
@@ -21,8 +23,6 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-是否希望从活动中获取更多资源，包括会话期间共享的幻灯片组？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=zh-Hans)！
+是否希望从活动中获取更多资源，包括会话期间共享的幻灯片组？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
-
-

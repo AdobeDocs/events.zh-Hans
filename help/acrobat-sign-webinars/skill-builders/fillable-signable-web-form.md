@@ -1,7 +1,8 @@
 ---
-title: Post可填写、可签名的Web表单
+title: 发布可填写的、可签名的Web表单
 description: 了解如何创建一个Web表单，让任何人都可以完成并签名 — 而无需启动交易，甚至无需知道签名者的电子邮件地址。
 feature: Sign, Form
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,18 +10,18 @@ duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
 exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-# Post可填写、可签名的Web表单
+# 发布可填写的、可签名的Web表单
 
 了解如何创建一个Web表单，让任何人都可以完成并签名 — 而无需启动交易，甚至无需知道签名者的电子邮件地址。 您还将看到如何准备文档模板，该模板可用于个人签名交易以及发布到唯一URL以进行广泛共享。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455460/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
 
 ## 要点
 
@@ -33,4 +34,4 @@ ht-degree: 0%
 * 从您的计算机或云存储中附加文档或表单。
 * 表单字段可手动放置或使用Adobe Sensei自动检测。
 * 通过重命名、调整字段分配、指定字段类型以及使字段为必填字段自定义表单字段。
-* Adobe提供帮助中心、Experience League、支持社区、技能培养网络研讨会和资源中心等资源，以了解有关文档流程的更多信息。
+* Adobe提供帮助中心、Experience League、支持社区、技能培养网络研讨会和资源中心等资源，以了解有关文档过程的更多信息。

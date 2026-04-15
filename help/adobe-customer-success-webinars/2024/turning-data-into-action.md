@@ -1,6 +1,8 @@
 ---
 title: 衡量的战略力量 — 将数据转化为行动
 description: 有效的衡量战略通过让利益相关者参与、确保数据熟悉度和培养对决策的信心来建立信任和增强权能，而信任则通过透明度、数据治理和利益相关者协调建立起来，而增强权能则通过培训、可访问的工具和可操作的数据来实现，所有这些都有助于通过业务影响和运营效率展示分析的价值。
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 **测量策略**
 

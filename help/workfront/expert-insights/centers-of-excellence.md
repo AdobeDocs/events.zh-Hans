@@ -2,6 +2,7 @@
 title: 专家洞察 — 治理和卓越中心，Danielle Johnston
 description: 探索Danielle Johnston关于使用Workfront建立治理和卓越中心的策略，以推动采用和积极变革。
 feature: Strategic Planning
+topic: Performance, Administration
 speaker-name-1: Danielle Johnston
 speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 942
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18619
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: d7ebb12d-102d-41a4-86a6-95f49384172f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # 专家洞察 — 治理和卓越中心，Danielle Johnston
 
@@ -43,4 +44,3 @@ Danielle是一位客户成功经理，在过去的一年中，她帮助多个客
 ## 有什么要分享的吗？
 
 您是否在活动期间或专家分析视频中分享精彩故事？ 请通过[CSatScale@adobe.com](mailto:CSatScale@adobe.com)联系我们的团队。
-

@@ -2,19 +2,21 @@
 title: 现代方法 — Adobe Commerce中的有效可扩展性
 description: 在不进行核心修改的情况下有效自定义Adobe Commerce的最佳实践减少技术负债和避免直接集成的重要性如何将Adobe Commerce与其他Adobe产品连接起来以获得更好的性能和用户体验
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Development
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2507
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16083
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 568993c6-3090-42e1-8f7f-5d9cc9623838
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 现代方法：Adobe Commerce中的有效可扩展性
 

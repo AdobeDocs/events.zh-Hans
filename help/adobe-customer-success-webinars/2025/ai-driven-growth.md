@@ -1,6 +1,7 @@
 ---
 title: 零售业领导者 — 人工智能驱动的增长和最佳业绩手册
 description: 在此2025年Adobe网络研讨会中，了解零售商如何使用AI支持的流量来提高忠诚度、参与度和转化率。
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # 零售业领导者：人工智能驱动的增长和最佳业绩手册
 
@@ -37,7 +38,7 @@ ht-degree: 0%
 ## 逐步应用AI策略
 
 1. **跟踪AI流量**&#x200B;设置Analytics以识别来自AI平台的访问（使用LLM区段、UTM）。
-1. **优化内容**&#x200B;通过清晰的标题和常见问题解答构建产品页面，以便轻松进行AI爬网。
+1. **优化内容**&#x200B;通过清晰的标题和常见问题解答构建产品页面，以便轻松抓取AI。
 1. **扩展范围**&#x200B;在社交媒体、博客和评论网站上共享产品信息以提高可见性。
 1. **利用影响者**&#x200B;与社交媒体创建者合作，以开展联盟营销活动和获取用户生成的内容。
 1. **增强忠诚度计划**&#x200B;使用客户数据使奖励个性化并鼓励重复购买。

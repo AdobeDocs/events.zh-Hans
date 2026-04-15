@@ -1,14 +1,16 @@
 ---
 title: 咨询专家 — 评估质量和参与度
 description: 了解如何构建可回答质量和参与度问题的报表。 该网络研讨会于2019年11月13日录制。
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
 exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
 duration: 3980
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1217'
 ht-degree: 0%
 
 ---
@@ -65,7 +67,7 @@ QA Engineer
 
 **答案**
 
-可以。您可以创建一个任务报告，以显示当前正在处理的里程碑任务以及与其关联的任务。 您可以在表格或列表报告中执行此操作。
+可以。 您可以创建一个任务报告，以显示当前正在处理的里程碑任务以及与其关联的任务。 您可以在表格或列表报告中执行此操作。
 
 **问题**
 

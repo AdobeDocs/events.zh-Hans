@@ -2,6 +2,7 @@
 title: 魔术按钮及其构建方法
 description: 利用Adobe的UI可扩展性增强工作流和用户体验，从而允许通过Adobe App Builder进行自定义集成，使用“魔术按钮”简化复杂的任务，并支持与企业系统的无缝集成，同时允许将来扩展到更多Adobe服务。
 solution: Experience Manager
+feature: Developer Tools, Authoring
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 在Adobe Developers Live社区[讨论](https://adobe.ly/3Ywf6kg)中继续对话。
 
-## 主要要点
+## 关键要点
 
 * **UI可扩展性** Sarah，Adobe产品经理，讨论了UI可扩展性的概念，该概念允许开发人员创建自定义集成和扩展以改进工作流和用户体验。
 * **魔术按钮**&#x200B;引入了“魔术按钮”的概念，它将复杂的工作流程简化为单个操作，从而提高效率并减少挫折感。

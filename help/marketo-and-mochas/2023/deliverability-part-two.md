@@ -1,6 +1,8 @@
 ---
 title: Marketo和Mochas — 可投放性（第2部分）
-description: 利用Marketo Deliverability Manager Sean Wirt探索电子邮件可投放性最佳实践，包括Gmail策略、Apple Mail隐私、共享与专用IP，以及Marketo Engage可投放性工具、种子列表、智能列表和报告的详细演示。
+description: 利用Marketo Deliverability Manager Sean Wirt探索电子邮件可投放性最佳实践，包括Gmail策略、Apple Mail隐私、共享与专用IP，以及Marketo Engage可投放性工具的详细演示、种子列表、智能列表和报告。
+feature: Smart Lists, Reporting
+topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3418668.jpeg
 event-start-time: 2023-4-24 08:30-8
 exl-id: 02bf8dc4-a08a-4c82-812f-6b3e10ec97a2
 duration: 3638
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

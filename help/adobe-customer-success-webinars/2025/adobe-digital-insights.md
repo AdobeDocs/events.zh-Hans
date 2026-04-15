@@ -2,6 +2,8 @@
 title: Adobe数字见解 — 揭开2024年假日业绩和2025年初趋势
 description: 加入Adobe的网络研讨会，深入了解2024年假日购物趋势和2025年初市场预测，探索高增长产品类别，并学习使用AI和高级技术打造个性化购物体验的最佳实践。
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **2024年假日季节表现** 2024年假日季节同比增长了8.7%，支出达到创纪录的2414亿美元，全年总支出达到1.05万亿美元。 关键驱动因素包括价格敏感度、社交和营销渠道以及移动购物。
 

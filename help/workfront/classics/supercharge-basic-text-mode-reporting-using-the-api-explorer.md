@@ -1,14 +1,16 @@
 ---
 title: 咨询专家 — 使用API Explorer进行超额基本文本模式报告
 description: 了解API Explorer及其使用方法，以及如何利用基本文本模式增强报表。 该网络研讨会录制于2020年1月22日。
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
 duration: 4068
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1667'
 ht-degree: 0%
 
 ---
@@ -276,7 +278,7 @@ description=允许您在鼠标悬停在列标题上时显示工具提示。
 
 **答案**
 
-可以。复选框字段中的选定选项全部位于一个字符串中，每个选项之间用逗号分隔。 您将使用SEARCH表达式查找第一个逗号在复选框字段中的位置，然后将该索引与LEFT表达式一起使用，显示从列表开头开始的字符数。 代码如下：
+可以。 复选框字段中的选定选项全部位于一个字符串中，每个选项之间用逗号分隔。 您将使用SEARCH表达式查找第一个逗号在复选框字段中的位置，然后将该索引与LEFT表达式一起使用，显示从列表开头开始的字符数。 代码如下：
 
 ```
 valueexpression=IF(SEARCH(",",{DE:Checkbox Field},0)>0,LEFT({DE:Checkbox Field},SEARCH(",",{DE:Checkbox Field},0)),{DE:Checkbox Field})

@@ -1,19 +1,21 @@
 ---
 title: Lights， Data， Insight — 揭示每个历程背后的故事
 description: 了解AEP和CJA如何统一数据、拼合身份并激活见解以实现实时个性化和更智能的客户历程。
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18811
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # 照明，数据， Insight：揭开每个历程背后的故事
 
@@ -27,7 +29,7 @@ ht-degree: 0%
 
 解锁Adobe Experience Cloud的强大功能，将零散的数据转换为可操作的客户洞察。
 
-* **以讲故事的方式提供数据**&#x200B;使用策略框架从分散的数据迁移到无缝的客户历程。
+* **Data as Storytelling**&#x200B;使用战略框架从分散的数据迁移到无缝的客户历程。
 * **统一工具**&#x200B;使CJA、Real-Time CDP、Target和Journey Optimizer协调一致，以便获得可衡量的体验。
 * **实施步骤**&#x200B;建立XDM架构，设置Web SDK，并优先考虑隐私和同意以符合道德的数据使用。
 * **分段和个性化**&#x200B;利用行为、人口统计和事务型数据实现动态受众定位。

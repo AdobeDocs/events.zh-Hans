@@ -2,19 +2,21 @@
 title: 卓越资源调配 — 自定义工作负载均衡器
 description: 当您选择一种工具而不是另一种工具（工作负载均衡器或资源规划者）时，或者当您同时可以使用这两种工具时如何自定义过滤器和视图以精确地查看您在报告中需要的数据为什么输入空闲时间对于精确的容量计划是关键如何使用Workfront的资源管理工具已允许Steve及其团队确定未来三个月的日常资源容量和未来资源计划
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2623
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16102
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: 16622bad-db10-4deb-9182-753d0abdcd55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # 卓越资源调配：自定义工作负载均衡器
 

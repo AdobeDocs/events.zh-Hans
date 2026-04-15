@@ -1,7 +1,8 @@
 ---
 title: 专家洞察 — 使用Nichole Vargas的报告实践
-description: 从Nichole Vargas学习最佳报告实践 — 利用计算字段、故事讲述提示和社区驱动型资源提升您的Workfront报告技能。
+description: 从Nichole Vargas学习最佳报表实践 — 利用计算字段、storytelling提示和社区驱动型资源提升您的Workfront报表技能。
 feature: Reports and Dashboards
+topic: Performance
 speaker-name-1: Nichole Vargas
 speaker-title-1: Senior Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 1547
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18616
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: dc1904fe-6403-42bd-91c8-d58a0ea73237
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # 专家洞察 — 使用Nichole Vargas的报告实践
 
@@ -27,7 +28,7 @@ ht-degree: 0%
 
 与Nichole聊天，了解她如何成为我们的报告大师、她最喜欢的功能与技巧，以及我们如何“更像Nichole”，欢迎光临您的On-Demand Workfront CSM！ 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469975/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
 
 ## 提示
 
@@ -41,15 +42,15 @@ ht-degree: 0%
 
 ## 资源
 
-* **博客** - [使用计算的自定义字段节省时间](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=zh-Hans)
-* **Article** - [计算的数据表达式]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=zh-Hans#:~:text=您可以使用生成新字段的数据表达式。&amp;text=有关创建的详细信息，请将数据添加到自定义表单。)
-* **事件跟进** - [计算自定义字段研讨会](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=zh-Hans)
-* **社区** - [报告指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=zh-Hans#M1406)
-* **博客** - [使用Workfront Blueprint优化您的工作管理环境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=zh-Hans)
+* **博客** - [使用计算的自定义字段节省时间](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
+* **Article** - [计算的数据表达式]（https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=您可以使用生成新字段的数据表达式。&amp;text=有关创建的详细信息，请将数据添加到自定义表单。）
+* **事件跟进** - [计算自定义字段研讨会](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
+* **社区** - [报告指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* **博客** - [使用Workfront Blueprint优化您的工作管理环境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *快速入门* — 在此博客中，您可以找到有关“系统维护功能板”和“使用情况功能板”报告包的更多信息。 
    * *额外小费！* — 订阅博客以在发布新Blueprint时发送通知。 
-* **文章** - [通配符筛选器变量](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=zh-Hans)
-* **文章** - [将基本条件格式添加到视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=zh-Hans)
+* **文章** - [通配符筛选器变量](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
+* **文章** - [将基本条件格式添加到视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
 
 ## 关于扬声器
 
@@ -58,4 +59,3 @@ ht-degree: 0%
 ## 有什么要分享的吗？
 
 您是否在活动期间或专家分析视频中分享精彩故事？ 请通过[CSatScale@adobe.com](mailto:CSatScale@adobe.com)联系我们的团队。
-

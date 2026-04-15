@@ -1,19 +1,21 @@
 ---
 title: Workfront管理员的经验教训
 description: 从经验丰富的Workfront管理员那里了解如何管理工作流程并有效推动系统采用。
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3817
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19756
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 6577b299-6deb-437a-9335-5ea05e4cc4b5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # 客户面板：从经验丰富的Workfront管理员那里汲取的经验教训
 

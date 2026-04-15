@@ -2,13 +2,15 @@
 title: 动态内容和Personalization的强大功能
 description: 在本课程中，了解如何利用动态内容将更有针对性、更相关的内容发送到数据库。
 solution: Marketo Engage
+feature: Reporting
+topic: Personalization
 role: User
 level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: f96fb348-ff59-4dac-ad7d-048a2ba96afc
 duration: 2343
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

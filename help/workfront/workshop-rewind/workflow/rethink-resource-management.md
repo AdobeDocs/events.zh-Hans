@@ -1,19 +1,21 @@
 ---
 title: Advisors Excel中资源管理的敏捷化方法的再思考
 description: 了解Advisors Excel如何使用Adobe Workfront中的Agile实践来转变资源管理。
+feature: Resource Management, Work Management
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3497
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20610
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: bc6198fe-caf9-4a2f-bb00-506adb96cc97
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 1%
 
 ---
-
 
 # Advisors Excel中资源管理的敏捷化方法的再思考
 
@@ -23,8 +25,6 @@ ht-degree: 1%
 
 如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf)并观看随选录制。
 
-正在从活动中查找更多资源吗？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316?profile.language=zh-Hans)！
+正在从活动中查找更多资源吗？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
-
-

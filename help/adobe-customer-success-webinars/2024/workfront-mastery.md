@@ -2,6 +2,8 @@
 title: Workfront掌握 — 成功策略
 description: 让您的团队拥有充分利用Adobe Workfront的潜力的策略。 在此会议中，我们的专家将引导您了解可带来价值、简化治理并推动采用的最佳实践。
 solution: Workfront
+feature: Reports and Dashboards, Work Management
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2132
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16415
 exl-id: d14b344c-5b41-4e9c-bae1-02db12771b48
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---

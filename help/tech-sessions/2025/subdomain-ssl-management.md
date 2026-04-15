@@ -1,21 +1,22 @@
 ---
 title: 技术研讨会 — Adobe Campaign子域和控制面板中的SSL管理
-description: 了解如何在Adobe Campaign控制面板中委派和配置子域、设置SSL证书以及监控配置以确保安全电子邮件可投放性。
+description: 了解如何在控制面板中委派和配置子域、设置SSL证书以及监控配置以确保安全电子邮件可投放性。
 solution: Campaign
 feature: Subdomains and Certificates
+topic: Security, Certification, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3409
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-18866
-source-git-commit: 18ce421793d97372198151afc92b24f3bed053a8
+exl-id: 2ccb1f70-17fe-444e-b819-2e6daeb8f79d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # 技术讲座：控制面板中的Adobe Campaign子域和SSL管理
 

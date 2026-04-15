@@ -2,6 +2,8 @@
 title: 影响洞察 — 制定有效测量的策略
 description: 实施良好的衡量战略可提高运营效率、促进数据驱动型决策并改善客户体验，从而为组织提供竞争优势。
 solution: General
+feature: Analytics Basics
+topic: Performance, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
 exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444457/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **测量策略的定义**&#x200B;测量策略是一个结构化的协作框架，它指导组织如何收集、分析和使用数据来根据业务目标评估其性能。 它可以协调团队，培育数据驱动型决策文化，并推动持续改进。
 

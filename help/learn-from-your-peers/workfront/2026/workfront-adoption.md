@@ -1,6 +1,8 @@
 ---
 title: 配置可持续的Workfront采用 — 从架构到日常使用
 description: 探索可持续Workfront采用的策略，包括治理、模板、自动化和用户参与，以取得长期成功。
+feature: Workfront Fusion, System Setup and Administration
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,13 +11,13 @@ last-substantial-update: 2026-04-08T00:00:00Z
 hidefromtoc: true
 hide: true
 jira: KT-20786
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # 配置可持续的Workfront采用：从架构到日常使用
 
@@ -33,6 +35,3 @@ Workfront的采用不是一次性推出，而是一项长期战略。 由于Work
 * 提供提示来标准化接收和工作流程，以便工作始终如一地进入系统、高效移动，并为领导提供他们所需的可见性，而不会给团队带来摩擦
 * 使用自动化推动参与和问责制的切实可行方法
 * 一个清晰、可操作的框架，用于评估和改善采用情况，帮助团队识别风险领域并优先进行适当的改进
-
-
-

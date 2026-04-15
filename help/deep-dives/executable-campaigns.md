@@ -1,6 +1,8 @@
 ---
 title: 可执行活动 — 了解可执行文件如何提高效率和影响
-description: 与Chris Willis、Courtny Edwards-Jones和Jane Musatova一起参与此AdobeChampion深入探讨，了解Marketo中的可执行活动如何简化流程、确保数据准确性和自动化复杂的工作流程，并提供实际示例，侧重于最大程度地减少错误和积压。
+description: 与Chris Willis、Courtny Edwards-Jones和Jane Musatova一起参加这场Adobe Champion深入探讨，了解Marketo中的可执行活动如何通过实际示例简化流程、确保数据准确性和自动化复杂的工作流程，并侧重于最大程度地减少错误和积压。
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -20,12 +22,12 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
-**由**&#x200B;克里斯·威利斯主持
+**由**克里斯·威利斯主持
 **发言人** Courtny Edwards-Jones和Jane Musatova
 
 ## 概述
 
-在本期AdobeChampion深入分析中，我们将讨论Marketo中可执行营销活动的使用，并提供有关如何使用这些活动来简化流程并确保数据准确性的示例。 可执行营销活动是一种以同步方式运行流的智能营销活动，它允许不同步骤之间存在依赖关系。 在继续下一步之前，可以使用它们自动重试失败的流程，例如数据标准化或商机资格鉴定。 本文档还介绍了父营销活动和嵌套可执行文件的使用，以及可执行营销活动的限制，例如无法使用Webhook或等待步骤。
+在本期Adobe Champion深入分析中，我们将讨论Marketo中可执行营销活动的使用，并提供有关如何使用这些活动来简化流程并确保数据准确性的示例。 可执行营销活动是一种以同步方式运行流的智能营销活动，它允许不同步骤之间存在依赖关系。 在继续下一步之前，可以使用它们自动重试失败的流程，例如数据标准化或商机资格鉴定。 本文档还介绍了父营销活动和嵌套可执行文件的使用，以及可执行营销活动的限制，例如无法使用Webhook或等待步骤。
 
 ## 使用可执行活动的目的是什么？
 

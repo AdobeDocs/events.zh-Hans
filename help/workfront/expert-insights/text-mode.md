@@ -1,19 +1,21 @@
 ---
 title: Katherine Lanning的主文本模式
 description: 借助Katherine Lanning的专家见解，探索Workfront中文本模式的强大功能。
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights：文本模式与Katherine Lanning
 
@@ -35,13 +37,13 @@ ht-degree: 0%
 ## 资源
 
 正在寻找其他资源？ 我们找到他们了！
-* [客户面板：从经验丰富的Workfront管理员那里获得的经验教训](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=zh-Hans#M3487) - Katherine分享了更多见解！
-* [引用报告中的收藏集](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API Explorer](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [报告指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=zh-Hans#M1406)
-* 如果您是初次接触报告，请开始阅读Nichole的“透视”文章，[在Adobe Workfront中创建简单、有效的报告的步骤](https://experienceleague.adobe.com/zh-hans/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
+* [客户面板：从经验丰富的Workfront管理员那里获得的经验教训](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine分享了更多见解！
+* [在报表中引用收藏集](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API资源管理器](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [报告指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* 如果您是初次接触报告，请开始阅读Nichole的“透视”文章，[在Adobe Workfront中创建简单、有效的报告的步骤](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
 
-有关更多资源（包括复制/粘贴文本模式），请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=zh-Hans#M4848)！
+有关更多资源（包括复制/粘贴文本模式），请查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)！
 
 
 ## 关于扬声器

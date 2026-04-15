@@ -1,19 +1,21 @@
 ---
 title: 您的梦想Workfront报告存在！ 掌握EXISTS语句的两个方法
 description: 技术知识和实际应用向我们展示如何使用EXISTS语句构建更智能的报告
+feature: Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3755
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19787
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 3b5deff5-6732-427a-bc6b-d08abecd6cdc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '203'
+ht-degree: 1%
 
 ---
-
 
 # 您的梦想Workfront报告存在！ 掌握EXISTS语句的两个方法
 
@@ -23,9 +25,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-错过了现场直播吗？ 别担心！ 查看Skye和Nathan的[演示文稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=zh-Hans)，并观看随附的按需录制。
+错过了现场直播吗？ 别担心！ 查看Skye和Nathan的[演示文稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550)，并观看随附的按需录制。
 
 您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)的评论中！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
-

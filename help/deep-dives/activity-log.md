@@ -3,6 +3,7 @@ title: 在活动日志中记录复杂流程
 description: 与Beth Massura、Jimmy Spencer和主持人Cory Bayless一起参加这次深入探讨，以发现适用于Marketo中复杂多分支流程的创新故障排除技术，使用活动日志注释来跟踪流程的开始、结束、失败和成功位置。
 solution: Marketo Engage
 feature: Audit Trail
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-08T00:00:00Z
 jira: KT-14922
 thumbnail: 3427149.jpeg
 exl-id: df731e4b-3a3c-4cdf-8901-d803e9a4ae64
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

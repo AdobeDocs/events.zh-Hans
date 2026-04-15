@@ -1,19 +1,21 @@
 ---
 title: 快速开发环境(RDE)快照用于快速云开发
 description: 探索在AEM Cloud中使用RDE快照进行快速开发。 了解如何高效地冻结、恢复和创新您的开发周期。
+feature: Edge Delivery Services, Release Information
+topic: Administration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2501
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19985
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e8998e51-b661-42ab-a6c4-1cb85e3d9386
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # 冻结、恢复、创新：快速开发环境的动手快照用于云开发
 

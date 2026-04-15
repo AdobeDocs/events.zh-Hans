@@ -2,19 +2,21 @@
 title: Experience Makers Spotlight — 将流程流转变为Workfront入选
 description: Accenture的Adobe Workfront解决方案架构师Victoria Linn如何将业务需求转化为为营销领域的创意和运营团队量身定制的有效请求队列。  Quad的Workfront顾问Madalyn Destafney就创建模板时应考虑的事项和要避免的常见隐患提供了专家提示，因为即使是在单个实例中，也没有一种万能的方法。
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 2741
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16103
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: a3494fbd-803f-4ac3-8d40-c99d61b9d69e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # Experience Makers Spotlight：将流程流转变为Workfront入选
 

@@ -3,6 +3,7 @@ title: 2023年8月增长轨道 — 体验创客聚焦
 description: 提升 — 教导Workspace的临时用户
 feature-set: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14659
 thumbnail: 3425993.jpeg
 exl-id: 5d4eb37a-4ef9-47a1-b012-f8b3cd810ddc
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
@@ -22,4 +23,4 @@ ht-degree: 0%
 
 提升 — 教导Workspace的临时用户
 
->[!VIDEO](https://video.tv.adobe.com/v/3456694/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

@@ -1,6 +1,8 @@
 ---
 title: 为什么AEM在云中功能更强大
 description: 使用Adobe关于规划、迁移和准备情况评估工具的专家指导过渡到云
+feature: Release Information
+topic: Security, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2653
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17167
 exl-id: db9ef66b-45ab-4586-8d02-91bdfcf2fdfc
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443023/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **性能改进**&#x200B;由于更好的架构、资产处理和全球数据中心，云服务客户在页面加载时间方面体验了400%的改进。
 

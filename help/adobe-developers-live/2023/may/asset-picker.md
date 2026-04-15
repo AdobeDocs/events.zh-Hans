@@ -1,6 +1,7 @@
 ---
 title: 如何将我们最新的Assets选取器嵌入到其他UI/产品中，并使用API与第三方应用程序集成
-description: 如何将我们最新的Assets选取器嵌入到其他UI/产品中，并使用APIL与第三方应用程序集成了解如何在将资产集成到其他应用程序时受益于您拥有的所有选项。 您觉得将AEM AssetsCloud Service与这些CMS集成是否非常困难？ 您是否希望了解如何在几分钟内而不是数小时/数天内编写稳定、可测试和可维护的AEM Assets集成？ 我们将通过体验将两个React项目（目标选择器和资产选择器）转换为模块化、独立且易于实施的前端组件，来展示微前端技术的强大功能和多功能性。
+description: 如何将我们最新的Assets选取器嵌入到其他UI/产品中，并使用APIL与第三方应用程序集成了解如何在将资产集成到其他应用程序时受益于您拥有的所有选项。 您觉得将AEM Assets云服务与这些CMS集成是否非常困难？ 您是否希望了解如何在几分钟内而不是数小时/数天内编写稳定、可测试和可维护的AEM Assets集成？ 我们将通过体验将两个React项目（目标选择器和资产选择器）转换为模块化、独立且易于实施的前端组件，来展示微前端技术的强大功能和多功能性。
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: assets
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13359
 thumbnail: 3419940.jpeg
 exl-id: df951e01-fa11-4315-a4d0-5cb0950d90ce
 duration: 2737
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 如何将我们最新的Assets选取器嵌入到其他UI/产品中，并使用API与第三方应用程序集成
 
-了解在将资产集成到其他应用程序时，如何从您拥有的所有选项中获益。 您觉得将AEM AssetsCloud Service与这些CMS集成是否非常困难？ 您是否希望了解如何在几分钟内而不是数小时/数天内编写稳定、可测试和可维护的AEM Assets集成？ 我们将通过体验将两个React项目（目标选择器和资产选择器）转换为模块化、独立且易于实施的前端组件，来展示微前端技术的强大功能和多功能性。 →继续对话，网址： https://adobe.ly/3LqELUM
+了解在将资产集成到其他应用程序时，如何从您拥有的所有选项中获益。 您觉得将AEM Assets云服务与这些CMS集成是否非常困难？ 您是否希望了解如何在几分钟内而不是数小时/数天内编写稳定、可测试和可维护的AEM Assets集成？ 我们将通过体验将两个React项目（目标选择器和资产选择器）转换为模块化、独立且易于实施的前端组件，来展示微前端技术的强大功能和多功能性。 →继续对话，网址： https://adobe.ly/3LqELUM
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419940/?learn=on)

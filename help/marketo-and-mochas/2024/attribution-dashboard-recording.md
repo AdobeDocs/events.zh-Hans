@@ -1,8 +1,9 @@
 ---
 title: Marketo和Mochas — 归因功能板录制的基础知识
-description: 与Adobe的高级业务顾问Cynthia Chang和技术顾问James Leedom一起深入了解有关掌握Marketo的归因模型和性能分析(MPI)功能板（涵盖设置、项目跟踪、数据同步，以及展示营销对收入和客户获取的影响）的课程。
+description: 与Adobe高级业务顾问Cynthia Chang和技术顾问James Leedom一起参加一个深入课程，内容涉及如何掌握Marketo的归因模型和性能分析(MPI)功能板，以及设置、项目跟踪、数据同步和展示营销对收入和客户获取的影响。
 feature-set: Marketo Engage
 feature: Performance Insights
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14947
 thumbnail: 3427255.jpeg
 exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

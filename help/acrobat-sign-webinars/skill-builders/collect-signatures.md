@@ -2,6 +2,7 @@
 title: 只需单击一下即可收集多个签名
 description: 了解Acrobat Sign中的批量发送功能如何节省您的时间。
 feature: Sign
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1108
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15297
 exl-id: c1774a2e-478b-4bec-be9f-69db9e0ef615
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 了解Acrobat Sign中的批量发送功能如何节省您的时间。 如果您需要多个人在企业范围的策略更新、NDA或任何其他文档的唯一副本上签名，批量发送允许您准备文件一次，通过一次单击发送给多个签名者，并轻松跟踪响应。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454904/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
 
 ## 要点
 

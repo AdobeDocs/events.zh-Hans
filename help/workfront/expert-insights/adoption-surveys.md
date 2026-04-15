@@ -8,6 +8,7 @@ speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
 feature: Workfront Integrations and Apps
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -15,9 +16,9 @@ duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
 exl-id: 75153967-b82d-4221-b44b-73aabb74402f
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -26,17 +27,17 @@ ht-degree: 0%
 
 这是您的随选Workfront CSM，现在我要看新视频！  这一次，我们有一个来自优秀客户的报告，来自Cognizant的Jaime Davidson！  在11月的Connect活动上，她衷心地投入时间和专业知识，分享了她在实施Workfront采用率调查方面的经验和资源。 *奖金！*&#x200B;我们自己的Workfront CSM，Danielle Johnston也分享她的见解和推荐！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469960/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## 资源
 
 在演示期间，Jaime和Danielle讨论了一些补充资源，我们将其超链接如下。
 
-* [Workfront收养调查指南](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
+* [Workfront采用率调查指南](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
 * [Workfront管理员聊天 — 认知者](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront用户采用率调查](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-想了解有关采用和常规入门的更多信息？ 请查看我们的博客！ - [新Workfront客户！ 欢迎访问Adobe Workfront客户成功入门博客！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=zh-Hans)
+想了解有关采用和常规入门的更多信息？ 请查看我们的博客！ - [新Workfront客户！ 欢迎访问Adobe Workfront客户成功入门博客！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## 关于扬声器
 

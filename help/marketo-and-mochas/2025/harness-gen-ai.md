@@ -1,6 +1,7 @@
 ---
 title: Marketo和Mochas — 在Adobe Marketo Engage中利用GenAI
 description: 了解Adobe Marketo Engage中的GenAI如何加快营销活动创建、增强个性化效果，并使团队能够专注于战略和创造力。
+feature: Programs, Reporting
 topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19502
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: 59540237-f65f-46bf-a53f-1612fb64a069
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # Marketo和Mochas：在Adobe Marketo Engage中利用GenAI
 
@@ -41,5 +42,3 @@ AI正在快速重塑网络营销，推动向更智能、更高效、高度个性
 * **代理AI** Adobe Experience Platform和Marketo Engage中的新增代理功能可自动执行任务、消除瓶颈以及实现意图驱动的实时交互。
 
 了解这些趋势有助于组织保持竞争力并充分释放人工智能在营销中的潜力。
-
-

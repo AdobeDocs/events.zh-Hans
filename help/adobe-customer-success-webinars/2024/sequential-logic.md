@@ -1,6 +1,8 @@
 ---
 title: 掌握Adobe Analytics和Customer Journey Analytics中的顺序逻辑 — 基础
-description: 掌握AA和CJA中的顺序分段和过滤器，并具有Andy Powers会话中涵盖的基本方面、实际示例和业务应用程序。
+description: 掌握AA和CJA中的顺序分段和过滤器，包括基础方面、实际示例和业务应用程序，如Andy Powers会话中所述。
+feature: Basics, Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
 exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
-source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -23,8 +25,8 @@ ht-degree: 0%
 
 ## 关键要点
 
-* **会话焦点**&#x200B;会话侧重于在Customer Journey Analytics(CJA)中掌握顺序逻辑和分析，由Andy Powers领导。
-* **顺序逻辑基础知识**&#x200B;会话涵盖分析和CJA中顺序分段和过滤的基本方面，包括：
+* **会话焦点**&#x200B;会话侧重于在Andy Powers领导的Customer Journey Analytics (CJA)中掌握顺序逻辑和分析。
+* **顺序逻辑基础知识**&#x200B;该会话涵盖Analytics和CJA中的顺序分段和过滤的基本方面，包括：
 
    * 使用“then”运算符。
    * “after”和“within”修饰符的工作方式。
@@ -34,5 +36,5 @@ ht-degree: 0%
 * **复杂性和实践**&#x200B;主题很复杂，需要实践才能掌握。 Andy建议从已知的小数据集开始，以验证和了解区段定义。
 * **业务应用程序**&#x200B;顺序逻辑可帮助回答各种业务问题，例如特定事件后的客户行为、根据操作顺序比较组以及分析客户历程。
 * **高级主题**&#x200B;未来的会话可能会涵盖更高级的主题，例如使用序列中的排除、非重复实例以及其他提示和示例。
-* **反馈请求*&#x200B;要求与会者填写一项调查，以提供关于该会话的反馈并表达对未来主题的兴趣。
-* **资源**&#x200B;提供了指向序列区段或筛选器的分析和CJA两端的资源的链接以供进一步研究。
+* **&#x200B;反馈请求*要求与会者填写一项调查，以提供关于该会话的反馈并表达对未来主题的兴趣。
+* **资源**&#x200B;提供了指向序列区段或筛选器的Analytics和CJA两端的资源的链接以供进一步研究。

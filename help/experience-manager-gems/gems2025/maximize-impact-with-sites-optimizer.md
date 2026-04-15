@@ -2,6 +2,8 @@
 title: AEM GEM — 通过AEM Sites Optimizer最大程度地发挥Web体验的影响
 description: 通过为营销和开发团队提供的实时见解和推荐，了解Sites Optimizer如何使用AI提升网站性能、SEO和用户参与度。
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance, Development
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,13 +11,13 @@ doc-type: Event
 duration: 2763
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18392
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+exl-id: 3372bb66-928c-42b3-b069-14e77b95b5c4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # AEM GEM — 通过AEM Sites Optimizer最大程度地发挥Web体验的影响
 

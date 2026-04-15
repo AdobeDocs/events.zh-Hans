@@ -1,6 +1,8 @@
 ---
 title: B2B电子商务的Commerce和咖啡策略
 description: Corey Gelato重点讲述了可最大程度地发挥Adobe Commerce原生B2B功能的战略（包括自助服务选项、共享目录、报价和快速订购），同时探讨了推动增长的关键电子商务趋势，并为成功推介B2B业务。
+feature: B2B
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3568
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15908
 exl-id: 3b43fbb1-cc8f-4ac7-85bb-e1f410722edc
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---

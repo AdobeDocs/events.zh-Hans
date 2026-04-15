@@ -1,22 +1,24 @@
 ---
-title: 使用Adobe Customer Journey Analytics历程画布推动CX取得成功
+title: 使用历程画布推动CX取得成功
 description: 了解历程画布如何通过Adobe Customer Journey Analytics帮助规划理想用户路径与真实用户路径、揭示分歧并推动可衡量的CX改进
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
 
-
-# 使用Adobe Customer Journey Analytics历程画布推动CX取得成功
+# 使用历程画布推动CX取得成功
 
 在本次研讨会中，我们将探讨Adobe Customer Journey Analytics (CJA)及其历程画布的强大功能，以推动更深入、以结果为导向的客户体验(CX)战略。 我们将重点讨论一个实用的框架，用于映射和比较“快乐路径”（您的理想用户历程）与实际用户行为，找出在哪里会发生摩擦、流失或偏离意图。
 
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 最后，我们将深入探讨在整个组织中扩展这些洞察信息的策略，方法是将历程画布调查结果关联到精细的仪表板，从而实现每个接触点的持续优化。 无论您是CJA的新手还是经验丰富的从业者，此课程都将为您提供一套清晰的方法，让您能够使用历程画布提升您的CX计划并获得切实的成果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471224/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## 历程画布：从分析到激活
 
@@ -37,7 +39,7 @@ ht-degree: 0%
 ## 为统一分析合并数据孤岛
 
 * 使用Adobe Analytics Connectors可将多个报表包摄取到Experience Platform中，而无需使用新标记。
-* 将不同的字段(例如，不同的eVar数字)映射到统一的架构中，以便进行一致的分析。
+* 将不同的字段（例如，不同的eVar数字）映射到统一的架构中，以便进行一致的分析。
 * 查询服务可协调并提取常用字段，从而为Customer Journey Analytics (CJA)创建单个数据集。
 * 实现跨渠道分析、历程重叠和统一报告 — 实现“访问网站A和网站B的用户”等见解。
 * 无需全局标记或重新实施Web SDK；此过程在实施后即可进行，并且可扩展性强。

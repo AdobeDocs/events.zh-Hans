@@ -3,6 +3,7 @@ title: 分析数据
 description: 自由格式表是Analysis Workspace的灵活基础 — 掌握这些功能强大的表将在Workspace历程中走得更远。区段是一种高度灵活的数据过滤和挖掘方法，可以在指标级别全局应用，也可以用作独立维度。 面板提供复杂分析的快捷方式 — 尤其是快速分析面板，是轻松回答您的业务面临问题的绝佳选择
 feature-set: Analytics
 feature: Freeform Tables, Metrics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,7 +12,7 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14653
 thumbnail: 3425987.jpeg
 exl-id: 548d16b0-0f13-479b-ac99-69f94c6f9c0a
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

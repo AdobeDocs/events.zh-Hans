@@ -1,7 +1,8 @@
 ---
 title: Adobe Experience Manager开幕主题演讲
-description: 了解Adobe Experience Manager如何随着AI不断发展。 探索代理工作流、AI搜索、大规模个性化以及更智能的内容优化。
+description: 了解Adobe Experience Manager如何随着AI不断发展。 探索代理工作流、AI 搜索、大规模个性化以及更智能的内容优化。
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03T00:00:00Z
 jira: KT-18861
-source-git-commit: 247ffab879bedf7d4e0d5258325d63af2916684a
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # 开幕主题演讲
 
@@ -25,11 +26,11 @@ ht-degree: 0%
 
 * AI代理和Experience Hub如何简化内容生成和工作流。
 * AI驱动型激活的作用，它可以在每个渠道和设备之间提供正确的内容。
-* AI搜索如何提高资产发现、重复使用和内容速度。
-* 新的优化工具(如Sites Optimizer和Content Advisor )提供了更好的参与和转化率。
+* AI 搜索如何提高资源发现、重用和内容速度。
+* 新的优化工具（如Sites Optimizer和Content Advisor ）提供了更好的参与和转化率。
 * 如何安全有效地扩展一对一个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471406/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
 
 
 ## 开启内容体验的未来

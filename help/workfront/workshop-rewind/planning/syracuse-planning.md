@@ -1,19 +1,21 @@
 ---
 title: 关系构建器 — 雪城大学如何利用Workfront Planning连接工作
 description: 了解雪城大学如何利用Workfront Planning加强协作并提高运营效率。
+feature: Strategic Planning
+topic: Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3551
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20599
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 9634e4cd-f25a-4cae-80a2-f6aa69c1461f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 2%
 
 ---
-
 
 # 关系构建器 — 雪城大学如何利用Workfront Planning连接工作
 
@@ -26,5 +28,3 @@ ht-degree: 2%
 如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120925+-+The+Relationship+Builder+-+How+Syracuse+University+leverages+Workfront+Planning+to+Connect+Work.pdf)并观看随选录制。
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
-
-

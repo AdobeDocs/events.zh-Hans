@@ -2,6 +2,8 @@
 title: 释放多流历程的强大功能 — 参与计划的高级应用
 description: 使用不同业务模型中的示例定义客户历程阶段。  将客户历程Blueprint转换为多流参与计划。  利用本机报告功能跨客户生命周期分析您的参与计划。
 solution: Marketo Engage
+feature: Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2384
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15999
 exl-id: 4ea88475-d316-47e2-8851-2712f07632e4
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

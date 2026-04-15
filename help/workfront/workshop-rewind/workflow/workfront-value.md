@@ -1,19 +1,21 @@
 ---
 title: 完美推介 — 定义和传达Workfront价值
 description: 我们一起放映幻灯片以创建可自定义的幻灯片组，以帮助定义贵组织的Workfront“原因”、报告您的结果和以引起高管、同行和最终用户共鸣的方式传达您的胜利。
+feature: Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3490
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19782
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 4f4356ef-05bc-4aad-b098-8e3ecfb3521a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
-
 
 # 完美推介：定义和传达Workfront价值
 
@@ -25,8 +27,6 @@ ht-degree: 0%
 
 查看[演示幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf)并观看随选录制。
 
-想要一个可自定义的幻灯片组，并在会话期间共享备注和最佳实践？  查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=zh-Hans)以了解更多资源！
+想要一个可自定义的幻灯片组，并在会话期间共享备注和最佳实践？  查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706)以了解更多资源！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
-
-

@@ -1,30 +1,32 @@
 ---
-title: Target Personalization - Recommendations快速入门和类别亲和度
-description: 了解如何为Recommendations快速入门奠定坚实的基础。 更好地了解支持Recs的算法，以及如何成功利用Recs。
+title: Target Personalization — “推荐”和“类别亲和度”快速入门
+description: 了解如何为开始使用Recommendations奠定坚实的基础。 更好地了解支持Recs的算法，以及如何成功利用Recs。
 solution: Target
+feature: Segments, Profiles
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 1932
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16034
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+exl-id: 037f8493-dc3e-4af6-8a2b-76877a7611ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
+# Target Personalization：推荐和类别亲和度快速入门
 
-# Target Personalization： Recommendations快速入门和类别亲和度
-
-了解如何为Recommendations快速入门奠定坚实的基础。 更好地了解支持Recs的算法，以及如何成功利用Recs。
+了解如何为开始使用Recommendations奠定坚实的基础。 更好地了解支持Recs的算法，以及如何成功利用Recs。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432999/?learn=on)
 
-## 主要要点
+## 关键要点
 
-* Rex中的Recommendations提供了大规模个性化功能，允许根据选定的算法（例如基于行为、基于热门程度、内容相似度等）对数百个或数千个项目进行智能推荐。
+* Rex中的推荐提供了大规模个性化功能，允许根据选定的算法（如基于行为、基于热门程度、内容相似度等）对数百个或数千个项目进行智能推荐。
 * Rex提供了自定义选项，例如排序、权重、排除规则等，使其成为用于个性化促销控制的强大工具。
 * Rex非常适用于跨数千或数百万个项目推荐大量产品或内容项目，从而根据用户配置文件提供个性化推荐。
 * Rex可能不适用于具有少量选件、快速变化的目录项目、低交互频率或个性化主要基于用户特征（如忠诚度区段或地理位置）的情况。

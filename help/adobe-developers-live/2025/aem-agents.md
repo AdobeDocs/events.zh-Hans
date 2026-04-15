@@ -1,19 +1,21 @@
 ---
 title: 浏览Adobe Experience Manager代理
 description: 了解AEM代理如何通过AI和GitHub集成来简化站点迁移，从而增强数字体验并减少交付时间。
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1170
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19974
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+exl-id: fb65b8a2-149b-4cb7-bb69-2605ad4b79f3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Manager Agent简介
 
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 该会议在圣何塞现场录制，会上引入了Adobe Experience Manager Agents，这是一项AI支持的功能，可转变网站迁移。 通过无缝GitHub集成，AEM代理可以自动执行块映射、内容导入和样式设置到干净的最佳实践代码中，从而加快对Edge Delivery Services的载入。 了解开发人员如何简化迁移、缩短交付时间以及启动针对搜索和创新型引擎优化的站点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477670/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477620/?learn=on&enablevpops)
 
 特别感谢我们的赞助商Algolia和Ensemble对Adobe Developers Live 2025的支持。
 

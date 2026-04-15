@@ -2,6 +2,7 @@
 title: 技能交流主题演讲 — 使用AI、Adobe Experience Platform创造体验的未来
 description: Klaasjan Tukker分享有关数据、个性化、组织准备情况以及AI助手在加速体验创建中的作用的见解。 了解从业者如何掌握提示、利用代理编排并提升技能以保持领先地位。
 solution: Experience Platform, Customer Journey Analytics, Journey Optimizer, Real-Time Customer Data Platform
+feature: AI Assistant, Agentic AI, Audiences, Basics
 topic: Personalization, Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18846
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: fe32abfa-2dfa-4d56-8f1c-c9dca734da28
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # 技能交流主题演讲 — 使用AI、Adobe Experience Platform创造体验的未来
 

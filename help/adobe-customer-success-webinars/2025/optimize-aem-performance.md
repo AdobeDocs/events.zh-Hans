@@ -1,6 +1,7 @@
 ---
 title: 优化AEM性能 — 缓存策略和技术
 description: 该会话涵盖了缓存策略和技术、缓存机制和层、动态内容处理、调试缓存问题以及在Dispatcher和CDN之间同步缓存失效。
+feature: Edge Delivery Services, Release Information
 topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3764
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17373
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 5606a250-ab06-417b-8abf-a30543cb5f16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # 优化AEM性能：缓存策略和技术
 
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444452/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **缓存策略和技术**&#x200B;该会话侧重于用于优化性能的各种缓存策略和技术，包括不同层（如浏览器、CDN和Dispatcher）的缓存。
 

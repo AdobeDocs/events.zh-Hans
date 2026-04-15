@@ -3,6 +3,7 @@ title: 为您的Workfront组织打造卓越中心做好准备
 description: 了解如何通过治理策略、执行资助和采用最佳实践来启动和扩展Workfront卓越中心。
 solution: Workfront
 feature: Get Started with Workfront
+topic: Performance, Administration, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
 exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ ht-degree: 0%
 * **人员配置注意事项**&#x200B;通过确定管理员实践的关键角色和职责，探索人员配置您的CoE的关键方面。 了解如何构建能够有效支持和推动欧洲委员会举措的团队。
 * **提示和技巧**&#x200B;获得管理和维护CoE的实用见解和最佳实践。 发现克服共同挑战、促进协作和确保持续改进的战略。 加入我们，为您自己提供在Workfront组织内打造蓬勃发展的卓越中心所需的知识和工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471594/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
 
 ## 启动COE的关键步骤
 

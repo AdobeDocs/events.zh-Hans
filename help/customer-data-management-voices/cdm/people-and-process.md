@@ -3,16 +3,17 @@ title: CDP最佳实践 — 人员和流程
 description: 了解如何通过投资于技术背后的人员和流程来充分利用CDP。 Adobe的Nina Caruso分享了如何设置您的组织……（请用60到160个字符描述）
 solution: Real-Time Customer Data Platform
 feature: Data Governance
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
 exl-id: 172f471d-0e54-4b44-be21-39ac481054f3
 duration: 2982
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '140'
+ht-degree: 1%
 
 ---
 
@@ -25,5 +26,5 @@ ht-degree: 7%
 ## 其他信息
 
 * [简化您的第一步数据管理](first-mile.md)
-* [提升营销人员作为数据管理员的角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=zh-Hans)
-* [负责任的客户数据管理的 10 个注意事项](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hans)
+* [提升营销人员作为数据管理者的角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [负责任的客户数据管理的10个注意事项](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

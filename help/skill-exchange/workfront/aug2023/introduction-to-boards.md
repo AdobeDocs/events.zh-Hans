@@ -3,6 +3,7 @@ title: 讨论区简介
 description: 讨论区允许团队通过创建虚拟讨论区来显示任务、项目和其他工作项，从而以更直观的方式管理工作。 无论您是系统管理员、项目经理还是个人投稿人，展示板都会提供灵活而直观的工作管理方式。
 solution: Workfront
 feature: Work Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14560
 thumbnail: 3425791.jpeg
 exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
 duration: 2314
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

@@ -2,19 +2,21 @@
 title: 赢得Adobe Experience Platform项目的执行赞助
 description: 了解如何通过将愿景与业务目标保持一致、获得高管支持并使用AEP/RT-CDP提升价值，将激情项目转化为有影响力的计划。
 solution: Experience Platform
+feature: Personalization
+topic: Personalization, Integrations, Administration
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18018
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # 赢得Adobe Experience Platform (AEP)项目的执行赞助
 
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458041/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **AEP和Real-Time-CDP的核心功能**&#x200B;这些平台提供可实时操作的用户档案、数据集成和统一、客户细分、个性化、预测分析和强大的数据管理。 这些功能可以帮助企业降低成本、提高效率并推动收入增长。
 

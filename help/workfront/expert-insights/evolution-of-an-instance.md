@@ -1,6 +1,8 @@
 ---
 title: Jen Desmond的专家见解
 description: 与Jen Desmond一起讨论实例的演变，并分享有关变更管理和用户参与的见解。
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 1201
 last-substantial-update: 2026-04-03T00:00:00Z
 jira: KT-20745
 exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
-source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 在本剧中，Adobe技术成功顾问Jen Desmond令人难以置信，她将与我们分享她从首次Workfront用户到可信任专家的历程，以及关于管理更改和有意增长实例的实用建议。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483121/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
 
 您将获得一些深思熟虑的见解，包括：
 
@@ -34,9 +36,9 @@ ht-degree: 0%
 ## 资源
 
 Jen还分享了一些她最喜欢的资源，包括为什么融合模板、蓝图和共享的最佳实践可以产生所有这些影响。 在此处了解详情：
-* [可用Fusion模板列表](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [可用Blueprint的列表](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Experience League Workfront社区](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=zh-Hans)
+* [可用Fusion模板列表](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [可用Blueprint的列表](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Experience League Workfront社区](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 但等等！  她有更多的建议要分享！
 

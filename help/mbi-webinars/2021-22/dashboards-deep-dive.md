@@ -5,14 +5,17 @@ landing-page-description: 观看本网络研讨会录制视频，引导您了解
 short-description: 观看本网络研讨会录制视频，引导您了解每个Commerce Intelligence帐户在设置过程中包含的四个功能板。
 kt: 10496
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: f11829c9-3c7b-4da5-8ad8-762086a820b9
 duration: 2932
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -35,5 +38,5 @@ ht-degree: 0%
 
 ## 有用的资源
 
-[仪表板](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=zh-Hans)
-[导出图表数据](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=zh-Hans)
+[仪表板](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[导出图表数据](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

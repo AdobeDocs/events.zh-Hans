@@ -1,19 +1,21 @@
 ---
 title: 从里程碑开始
 description: 探索在Workfront中实施里程碑报告的简单步骤，以便有效跟踪和报告项目。
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Administration, Integrations
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 208
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18644
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: be789393-37e5-477c-b836-7e289e6cb17b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 4%
+source-wordcount: '200'
+ht-degree: 9%
 
 ---
-
 
 # 前3项 — 如何开始使用里程碑
 
@@ -21,16 +23,14 @@ ht-degree: 4%
 
 这是一份非常棒的报告，可供您更高级别的领导层，甚至可供请求者用于查找项目状态，但可能不需要查看项目的完整详细信息的人员。
 
-在您的项目仪表板上包括里程碑报告或共享此报告（更好，自动计划定期交付）是一种让相关方(甚至非Workfront用户)参与项目进度的好方法。
+在您的项目仪表板上包括里程碑报告或共享此报告（更好，自动计划定期交付）是一种让相关方（甚至非Workfront用户）参与项目进度的好方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470164/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
 
 ## 其他资源
 
 有关里程碑的详细信息，请查看以下免费资源：
 
-* [创建里程碑路径和里程碑步骤](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [使用里程碑视图](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
-* [发送和共享报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
-
-
+* [创建里程碑路径和里程碑步骤](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [使用里程碑视图](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [发送和共享报表](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)

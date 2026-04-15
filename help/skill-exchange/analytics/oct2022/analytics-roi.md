@@ -2,6 +2,8 @@
 title: ADOBE ANALYTICS ROI
 description: 加入我们，我们将重点关注Mandy George & Kaya Walton、两位专家客户和Adobe Analytics用户。 每位专家都将分享其优秀的Adobe Analytics使用提示或技巧。 他们讲座后，有机会在现场提问。 你可不想错过这个。
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11534
 thumbnail: 3411898.jpeg
 exl-id: 593550f8-ddc9-4552-a7d2-b96d7522fa20
 duration: 2244
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

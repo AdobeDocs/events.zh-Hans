@@ -2,13 +2,15 @@
 title: 提示与技巧 — 每个人都应了解的计算字段
 description: 您是否曾经在项目更新流的多个页面上滚动来查找项目移至当前状态的日期？ 这是非常好的……（请用60到160个字符描述）
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
 duration: 1955
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

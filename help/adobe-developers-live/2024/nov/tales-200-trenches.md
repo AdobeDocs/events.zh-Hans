@@ -3,23 +3,24 @@ title: 200条战壕的故事
 description: 通过优化性能、使用Google PageSpeed Insights、优化LCP和TBT等关键指标、高效管理资源以及遵循开发和图像优化的最佳实践，确保Web项目取得成功。
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 
-
 # 200条战壕的故事
 
-在完成200多个Edge Delivery Services项目后，Adobe高级工程师Kiran Murugulla和Adobe Experience Manager Cloud架构师Varun Mitra分享了所学到的关键经验教训。 探索通过卓越的核心Web动态提供快速、高性能体验背后的秘诀。
+在完成200多个Edge Delivery Services项目后，Adobe高级工程师Kiran Murugulla和Adobe Experience Manager Cloud架构师Varun Mitra分享了所学到的关键经验教训。 探索通过卓越的Core Web Vitals提供快速、高性能体验的秘诀。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 在Adobe Developers Live社区[讨论](https://adobe.ly/4fwWvvi)中继续对话。
 
-## 主要要点
+## 关键要点
 
 * **性能至关重要**&#x200B;性能，特别是网页的速度，被强调为成功的Web项目的一个关键因素。 首要目标是确保性能得分为100。
 * **开发实践**
@@ -50,4 +51,3 @@ ht-degree: 0%
    * 专注于移动优先的开发。
    * 确保内容结构对于作者来说是直观的。
 * **工具**&#x200B;使用Google Sheets和DSA等工具来跟踪网站性能分数随时间的变化。
-

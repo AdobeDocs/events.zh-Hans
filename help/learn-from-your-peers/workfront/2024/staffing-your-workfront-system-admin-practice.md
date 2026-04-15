@@ -3,6 +3,7 @@ title: 人员配备您的Workfront系统管理员实践网络研讨会
 description: 在按需网络研讨会中，向戴尔和Adobe Workfront专家了解系统管理员的战略重要性。 了解有关在Adobe Workfront中保护全职人数、利用组管理员角色以及定义角色配置文件以实现有效设置和可扩展性的提示。
 topic: Administration
 solution: Workfront
+feature: System Setup and Administration, Work Management
 role: Admin, Leader
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
 exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

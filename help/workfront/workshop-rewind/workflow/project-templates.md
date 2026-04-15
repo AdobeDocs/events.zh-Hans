@@ -2,19 +2,20 @@
 title: Workfront众源挑战 — 项目模板
 description: 了解Ologie如何简化Adobe Workfront项目模板，并提供实用提示来简化设置、改进报告和维护流程灵活性。
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Workfront众源挑战：项目模板
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 除了随选录音之外，我们还提供了幻灯片以及在聊天中分享的提示：  
 
 * [幻灯片组PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=zh-Hans)
+* [Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## 提示
 
@@ -37,6 +38,6 @@ ht-degree: 0%
 * 使用带有逻辑的自定义表单，以便在您构建项目时需要为客户端执行时 — 您需要问的所有问题、需要执行的所有步骤都在自定义表单详细信息中，以便“执行者”执行。 保持模板简单。 
 * 将视图与自定义表单数据一起使用，以便“需要完成的工作”可以位于自定义表单字段中，而不是位于需要标记为完成的任务中。 
 
-我们在聊天中看到的最大主题之一是，在尝试简化项目模板的同时，还要跟踪工作量，确保团队提供完成项目所需的所有步骤。 
+我们在聊天中看到的最大主题之一是，在尝试简化项目模板的同时，还要跟踪工作量，确保团队提供完成项目所需的所有步骤。  
 
- 我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?lang=zh-Hans&filters=Workfront)以获取完整列表并注册。
+ 我们希望在未来的客户成功研讨会上与您见面！  请务必查看Experience League上的[Workfront活动](https://experienceleague.adobe.com/events/?filters=Workfront)以获取完整列表并注册。

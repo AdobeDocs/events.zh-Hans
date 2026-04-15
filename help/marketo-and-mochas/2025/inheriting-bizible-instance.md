@@ -1,19 +1,21 @@
 ---
 title: Marketo Measure和Mochas — 继承新实例或当前Bizible实例
 description: 与Carly Gaver和Kate Colbert一起参加我们的Marketo Measure和Mochas网络研讨会，了解审核和优化Marketo Measure (Bizible)实例设置、配置、渠道和报告的最佳实践。
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3524
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18158
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: c479f24d-ee7c-4a18-95ac-991810b067a3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure和Mochas：继承新实例或当前Bizible实例
 

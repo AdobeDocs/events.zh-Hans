@@ -4,14 +4,15 @@ description: 了解如何在AEM Cloud Service中配置Adobe托管的CDN，以通
 role: Developer, User
 level: Intermediate
 feature: Edge Delivery Services
+topic: Security, Performance, Certification
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
 exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -31,7 +32,7 @@ ht-degree: 0%
 
 有问题吗，也许有意见？  加入[Experience League社区](https://adobe.ly/4haufPK)中的讨论！
 
-## 主要要点
+## 关键要点
 
 ### Adobe Managed CDN的主要功能
 

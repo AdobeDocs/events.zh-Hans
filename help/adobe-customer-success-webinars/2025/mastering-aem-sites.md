@@ -2,6 +2,8 @@
 title: 掌握AEM Sites — 模板、导航和SEO
 description: 了解AEM Sites基础知识 — 如何使用页面模板、设计直观的导航和应用关键的SEO实践来提高可视性和网站性能。
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, User
 level: Beginner, Intermediate
@@ -9,13 +11,13 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
+exl-id: 2f1f7a19-bd3a-4769-a820-9720c73b4c95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # 掌握AEM Sites：模板、导航和SEO的新手指南
 
@@ -27,4 +29,4 @@ ht-degree: 0%
 * 构建用户友好的导航以实现最佳站点体验
 * 在AEM Sites中打造SEO基础
 
->[!VIDEO](https://video.tv.adobe.com/v/3464325/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)

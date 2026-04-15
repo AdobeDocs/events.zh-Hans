@@ -1,6 +1,8 @@
 ---
 title: 优化和维护您的环境
 description: 借助有关效率、数据完整性和可扩展性的专家提示，优化Adobe Workfront。 了解工具、策略和持续改进实践。
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3655
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17168
 exl-id: 36805420-e73f-47f7-b853-f7df9a358b3d
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -43,7 +45,7 @@ ht-degree: 0%
 * 轮询问题以吸引参与者。
 
 
-## 主要要点
+## 关键要点
 
 会议的重点是优化和维护工作环境。
 

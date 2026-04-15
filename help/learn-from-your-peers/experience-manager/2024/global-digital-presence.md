@@ -2,6 +2,8 @@
 title: 通过全球组合大规模释放成功
 description: 使用自定义组件、蓝图、工作流和片段通过AEM扩展全局内容，以实现高效的控制、批准和区域灵活性。
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## 主要要点
+## 关键要点
 
 * **组件自定义和管理**&#x200B;这些选项允许区域细微差别和要求，允许特定于区域或全局的自定义，这有助于在一个位置满足各种需求。
 

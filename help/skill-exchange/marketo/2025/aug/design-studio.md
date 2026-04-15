@@ -3,19 +3,20 @@ title: 充分发挥Design Studio的全球营销运作功能
 description: 了解如何使用Marketo Engage中的Design Studio进行扩展。 探索封装、模板、表单和策略以减少技术债务并提高效率。
 solution: Marketo Engage
 feature: Design Studio
+topic: Integrations, Performance, Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18865
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 2b6ceeb6-4ab4-42c8-9183-2a8d3b4b64d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # 充分发挥Design Studio的全球营销运作功能
 

@@ -2,21 +2,22 @@
 title: 使用Marketo最大限度地提高电子邮件可投放性 — 触及受众的最佳实践
 description: 确保电子邮件可送达目标受众对于促进参与和实现营销目标至关重要。
 feature: Deliverability
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3641
 last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16364
-source-git-commit: c2a8ab10557ecf32d60b2f173c4eb5de9b9d3f81
+exl-id: b8b6d108-bdf0-49e9-8bd5-a2a35b1ebc22
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-
-# 通过Marketo Engage最大限度地提高电子邮件可投放性：可接触到受众的最佳实践
+# 使用Marketo Engage最大限度地提高电子邮件可投放性：触及受众的最佳实践
 
 确保电子邮件可送达目标受众对于促进参与和实现营销目标至关重要。 本网络研讨会深入探讨电子邮件可投放性的要点。 我们介绍了要避免的关键策略、技术注意事项和常见隐患。
 

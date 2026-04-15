@@ -3,6 +3,7 @@ title: Experience Makers焦点 — 为增长和持续效率做好准备
 description: 参加我们的Experience Makers Spotlight会议，从三家截然不同的组织那里了解他们如何实现增长与扩展其Workfront实例。
 solution: Workfront
 feature: System Setup and Administration
+topic: Administration
 role: User, Admin
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-14574
 thumbnail: 3425813.jpeg
 exl-id: fd18358c-1027-42b9-a9da-c8b7af2b6820
 duration: 3081
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
