@@ -48,4 +48,4 @@ ht-degree: 14%
 * [文档：Adobe Workfront规划概述](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 * [Adobe Workfront Planning发布活动](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-我们即将推出更多有关Workfront计划的活动，请务必定期查看Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)上的[活动页面，以免错过！
+我们即将推出更多有关Workfront计划的活动，请务必定期查看Experience League[&#128279;](https://experienceleague.adobe.com/events/?filters=Workfront)上的活动页面，以免错过！

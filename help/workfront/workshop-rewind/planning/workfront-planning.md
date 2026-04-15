@@ -30,4 +30,4 @@ ht-degree: 0%
 
 你才刚开始吗？  查看[指南 — 您的Workfront规划GPS！](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
-总是会添加新活动，因此请定期查看Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)上的[活动页面，以免错过！
+总是会添加新活动，因此请定期查看Experience League[&#128279;](https://experienceleague.adobe.com/events/?filters=Workfront)上的活动页面，以免错过！
