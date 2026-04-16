@@ -2929,11 +2929,11 @@ Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Exp
 
 
 
->>
+&#x200B;>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront精通 — 成功策略&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
-    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfront Mastery — 成功策略&quot;
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Workfront Mastery — 成功策略&quot;
     style=&quot;width： 100%；aspect-ratio： 16 / 9； object-fit： cover； overflow： hidden； display： block； margin： auto；&quot;>
     &lt;/a>
     &lt;/figure>
