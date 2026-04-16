@@ -2,9 +2,9 @@
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
 user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '661'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,10 @@ ht-degree: 5%
       + [内容Supply chain更改管理策略](2026/csc-change-management.md)
       + [内容Supply chain执行赞助](2026/csc-executive-sponsorship.md)
       + [内容Supply chain的基础架构](2026/csc-architecture.md)
+      + [GenAI流量更新](2026/gen-ai-traffic-update.md)
       + [内容Supply chain的操作模型](2026/csc-operating-model.md)
+   + Workfront {#workfront2026}
+      + [Workfront Proof以供审批](2026/workfront-proof-approvals.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [使用Adobe Experience Platform丰富Adobe Commerce](2025/enriching-adobe-commerce.md)
