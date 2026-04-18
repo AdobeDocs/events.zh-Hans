@@ -25,6 +25,6 @@ ht-degree: 1%
 
 如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/073125+The+Smart+Start+%E2%80%94+Building+Your+Base+Implementation.pdf)并观看随选录制。
 
-您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049)的评论中！
+您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049?profile.language=zh-Hans)的评论中！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。

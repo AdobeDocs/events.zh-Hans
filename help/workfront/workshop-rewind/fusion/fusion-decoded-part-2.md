@@ -25,6 +25,6 @@ ht-degree: 1%
 
 如果您错过了此次会议，请不要担心！ 查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf)并观看随选录制。
 
-正在寻找更多资源或活动中的常见问题解答？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622)！
+正在寻找更多资源或活动中的常见问题解答？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622?profile.language=zh-Hans)！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。

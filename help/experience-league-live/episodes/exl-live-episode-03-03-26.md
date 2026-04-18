@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-若要继续讨论此节目/主题，请访问[Experience League社区讨论。](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
+若要继续讨论此节目/主题，请访问[Experience League社区讨论。](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926?profile.language=zh-Hans){target="_blank"}
 
 ## 节目中的问题
 

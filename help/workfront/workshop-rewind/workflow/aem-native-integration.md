@@ -25,6 +25,6 @@ ht-degree: 2%
 
 如果您错过了现场活动，请查看[幻灯片组](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/AEM-WF_Native_Integration_10-23-25.pdf)并观看随选录制。 此事件提供了集成概览、有关如何准备的见解（包括映射流程、调整元数据、确保适当的权限等） 以及搭建的演练演示。
 
-您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361)的评论中！
+您是否有想法和后续活动中的问题需要分享？ 欢迎将它们放入[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361?profile.language=zh-Hans)的评论中！
 
 每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
