@@ -23,9 +23,9 @@ ht-degree: 9%
 
 希望了解有关管理问题、自定义Forms和项目模板的更多信息？ 查看更多资源：
 
-* 使用[超级模板了解客户如何管理他们的实际工作：IDEXX如何重新配置项目模板以实现全局成功](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)！
+* 使用[超级模板了解客户如何管理他们的实际工作：IDEXX如何重新配置项目模板以实现全局成功](https://experienceleague.adobe.com/zh-hans/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)！
 * 无论您喜好如何，都可以像专家一样了解如何[为问题管理](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues)创建自定义报告。
 
-对新的想法和方法感兴趣吗？ 在[Experience League活动页面](https://experienceleague.adobe.com/en/events?filters=Workfront)上注册我们即将举办的研讨会。 我们希望很快见到你！
+对新的想法和方法感兴趣吗？ 在[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)上注册我们即将举办的研讨会。 我们希望很快见到你！
 
 
