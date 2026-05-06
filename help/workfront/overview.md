@@ -162,7 +162,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="办公时间的3大方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="办公时间的3大方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470152/?captions=chi_hans&format=jpeg&nocache=1778106659577" alt="办公时间的3大方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
