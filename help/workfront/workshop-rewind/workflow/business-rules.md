@@ -21,8 +21,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486409/?learn=on&enablevpops)
 
-想要了解有关这些功能的更多信息？ 查看[创建和编辑Business Rules文档](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/business-rules)以自动验证并防止跨Workfront对象进行不需要的更改，并签出该文章以[将逻辑规则添加到自定义表单和字段](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/custom-forms/design-a-form/display-skip-logic-form-designer#add-advanced-display-logic-to-a-custom-form)以获取更多自定义信息。
+想要了解有关这些功能的更多信息？ 查看[创建和编辑Business Rules文档](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/business-rules)以自动验证并防止跨Workfront对象进行不需要的更改，并签出该文章以[将逻辑规则添加到自定义表单和字段](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/administration-and-setup/customize/custom-forms/design-a-form/display-skip-logic-form-designer#add-advanced-display-logic-to-a-custom-form)以获取更多自定义信息。
 
-正在寻找活动期间共享的更多资源？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-mastering-business-rules-validation-logic-in-adobe-workfront-may-7-2026-250357?tid=250357)！
+正在寻找活动期间共享的更多资源？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-mastering-business-rules-validation-logic-in-adobe-workfront-may-7-2026-250357?profile.language=zh-Hans&tid=250357)！
 
-每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/en/events?lang=en)以了解最新会话。
+每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events?lang=en)以了解最新会话。
