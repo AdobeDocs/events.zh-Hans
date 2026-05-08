@@ -29,7 +29,7 @@ ht-degree: 0%
 
 [单击此处下载会议演示文稿。](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
 
->[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481555/?captions=chi_hans&learn=on&enablevpops)
 
 * Adobe Experience Manager Dynamic Media如何使用配置文件设置、智能演绎版和实时优化来启用智能媒体分发。
 * 如何通过AEM核心组件激活Dynamic Media，并使用Dynamic Media Open API在整个企业内扩展其功能。
