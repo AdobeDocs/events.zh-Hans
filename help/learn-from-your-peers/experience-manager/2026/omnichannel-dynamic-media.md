@@ -9,13 +9,14 @@ role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3249
-last-substantial-update: 2026-05-07T00:00:00Z
+last-substantial-update: 2026-05-08T00:00:00Z
 jira: KT-20547
 hidefromtoc: false
 hide: false
-source-git-commit: 50d4363ee97c976798ca909d6812491d3fb3c7f9
+exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
+source-git-commit: 56874e42a46578aa02a0e8cb4c636e319aa8f0f2
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,9 @@ ht-degree: 0%
 
 加入Adobe Experience Manager Champion Vengadesh Shanmugavelu，了解有关在Adobe Experience Manager Assets中使用Dynamic Media的见解。 他将介绍扩展数字内容创建的关键要素，包括：
 
->[!VIDEO](https://video.tv.adobe.com/v/3481555/?captions=chi_hans&learn=on&enablevpops)
+[单击此处下载会议演示文稿。](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
 
 * Adobe Experience Manager Dynamic Media如何使用配置文件设置、智能演绎版和实时优化来启用智能媒体分发。
 * 如何通过AEM核心组件激活Dynamic Media，并使用Dynamic Media Open API在整个企业内扩展其功能。
