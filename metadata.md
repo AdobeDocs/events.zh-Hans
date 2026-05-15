@@ -6,19 +6,19 @@ feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaig
 description: Adobe直播活动的录制集合。
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/events.zh-Hans
+git-repo: https://github.com/AdobeDocs/events.en
 index: true
 auto-video-transcripts: true
-source-git-commit: 433f059df7163639c8c365b6c569b21e151529ea
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 85%
+source-wordcount: '79'
+ht-degree: 83%
 
 ---
 
 
-# 内部使用的元数据
+# 供内部使用的元数据
 
-metadata.md 文件包括可传递给存储库中用户指南 TOC.md 文件的存储库级别元数据。如果要更改任何用户指南的 metadata.md 内容，请在任意 TOC.md 文件中进行更改。
+metadata.md 文件包含存储库级别的元数据，这些元数据会被传送到存储库中的用户指南 TOC.md 文件。 如果要更改任何用户指南的 metadata.md 内容，请在任何 TOC.md 文件中进行更改。
 
-请参阅[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en)以获取 **solution**、**product** 和 **type** 的有效值的列表。
+查看[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=zh-hans)以获取&#x200B;**解决方案**、**产品**&#x200B;和&#x200B;**类型**&#x200B;的有效值列表。
