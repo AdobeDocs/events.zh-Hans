@@ -3,9 +3,9 @@ title: 在布鲁后面
 description: Brew是Commerce & Coffee的配套系列，专为希望掌握后端最佳实践、集成和高级功能以提升电子商务体验的技术密集型客户量身打造。
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '289'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 5%
 
 在Brew的背后，是Commerce &amp; Coffee的配套系列。 它专为具有技术背景的客户而设计，这些客户希望了解后端最佳实践、集成和高级功能，他们可以对其进行自定义以增强公司的电子商务体验。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

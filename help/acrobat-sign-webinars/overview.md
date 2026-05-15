@@ -2,7 +2,7 @@
 title: Acrobat Sign网络研讨会
 description: 向Adobe专家学习如何在Acrobat Sign中掌握新的电子签名工作流。
 exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
-source-git-commit: 23f0005edc68e39508f2435c5e633e9eb82456de
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 1%
@@ -16,7 +16,8 @@ ht-degree: 1%
 
 ## 发布网络研讨会 {#releases}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -101,7 +102,8 @@ ht-degree: 1%
 
 ## 创新 — 新功能亮点 {#newfeatures}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -163,7 +165,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="使用Acrobat Sign优化移动设备电子签名" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477542/?captions=chi_hans&format=jpeg&nocache=1778006131905" alt="使用Acrobat Sign优化移动设备电子签名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1778006131905" alt="使用Acrobat Sign优化移动设备电子签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +188,8 @@ ht-degree: 1%
 
 ## 101 — 用户入门 {#getstartedusers}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -205,7 +208,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101 — 快速入门" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455475/?captions=chi_hans&format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101 — 快速入门"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101 — 快速入门"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -228,7 +231,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="有关创作环境的高级培训" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455917/?captions=chi_hans&format=jpeg&nocache=1778006132196" alt="有关创作环境的高级培训"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1778006132196" alt="有关创作环境的高级培训"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,7 +254,8 @@ ht-degree: 1%
 
 ## 101 — 管理员入门指南 {#getstartedadmins}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -313,7 +317,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Acrobat Sign的高级报表功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454415/?captions=chi_hans&format=jpeg&nocache=1778006132401" alt="Acrobat Sign的高级报表功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1778006132401" alt="Acrobat Sign的高级报表功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -336,7 +340,8 @@ ht-degree: 1%
 
 ## 102 — 高级任务 {#advancedtasks}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -354,7 +359,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="发送文档供签名高级提示" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454890/?captions=chi_hans&format=jpeg&nocache=1778006132755" alt="发送文档供签名高级提示"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1778006132755" alt="发送文档供签名高级提示"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -377,7 +382,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="只需单击一下即可收集多个签名" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454904/?captions=chi_hans&format=jpeg&nocache=1778006132752" alt="只需单击一下即可收集多个签名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1778006132752" alt="只需单击一下即可收集多个签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -400,7 +405,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="适用于Adobe Acrobat Sign的Document Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454923/?captions=chi_hans&format=jpeg&nocache=1778006132748" alt="适用于Adobe Acrobat Sign的Document Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1778006132748" alt="适用于Adobe Acrobat Sign的Document Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -423,7 +428,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="发布可填写的、可签名的Web表单" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455460/?captions=chi_hans&format=jpeg&nocache=1778006132737" alt="发布可填写的、可签名的Web表单"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1778006132737" alt="发布可填写的、可签名的Web表单"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -446,7 +451,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="由Microsoft Power Automate提供支持的工作流自动化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454934/?captions=chi_hans&format=jpeg&nocache=1778006132743" alt="由Microsoft Power Automate提供支持的工作流自动化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1778006132743" alt="由Microsoft Power Automate提供支持的工作流自动化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

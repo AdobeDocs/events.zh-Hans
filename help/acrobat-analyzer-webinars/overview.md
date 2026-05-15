@@ -1,10 +1,11 @@
 ---
 title: Acrobat Analyzer网络研讨会
 description: 探索Adobe Acrobat Analyzer网络研讨会，了解Generative AI如何从文档中提取结构化、可审核的分析，以自动化工作流、降低风险和大规模加快企业决策。
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -12,7 +13,8 @@ ht-degree: 0%
 
 了解Adobe Acrobat Analyzer如何使用创作AI从大量文档中提取结构化、可审核的分析。 了解如何自动执行工作流，降低风险，并大规模实现更快、更智能的决策。 浏览我们即将召开的网络研讨会，了解如何在组织内转换文档智能。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,7 +48,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-

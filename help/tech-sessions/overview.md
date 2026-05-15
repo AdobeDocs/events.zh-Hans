@@ -3,9 +3,9 @@ title: Experience Cloud技术讲座
 description: 通过由Adobe Experience Cloud专家主持的现场和按需技术研讨会，提升您的Adobe技能。 随时获取切实可行的提示和策略以实现无缝学习体验。
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,8 @@ ht-degree: 2%
 
 ## 2025年届会
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -72,7 +73,7 @@ ht-degree: 2%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/subdomain-ssl-management.md" target="_blank" rel="referrer" title="技术研讨会 — Adobe Campaign子域和控制面板中的SSL管理">技术会议 — Adobe Campaign子域和控制面板中的SSL管理</a>
                     </p>
-                    <p class="is-size-6">了解如何在Adobe Campaign控制面板中委派和配置子域、设置SSL证书以及监控配置以确保安全电子邮件可投放性。</p>
+                    <p class="is-size-6">了解如何在控制面板中委派和配置子域、设置SSL证书以及监控配置以确保安全电子邮件可投放性。</p>
                 </div>
                 <a href="2025/subdomain-ssl-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -118,7 +119,7 @@ ht-degree: 2%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" title="Fastly和Adobe Commerce">Fastly和Adobe Commerce</a>
                     </p>
-                    <p class="is-size-6">借助Adobe支持策略、缓存提示和自助服务工具提升数字性能和安全性，从而实现可扩展的成功。**</p>
+                    <p class="is-size-6">借助Adobe支持策略、缓存提示和自助服务工具提升数字性能和安全性，从而取得可伸缩的成功。**</p>
                 </div>
                 <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -223,7 +224,8 @@ ht-degree: 2%
 
 ## 2024年届会
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ ht-degree: 2%
 
 ## 2023年届会
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

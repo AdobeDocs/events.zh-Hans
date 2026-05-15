@@ -1,7 +1,8 @@
 ---
 title: CX Analytics按需网络研讨会
-description: 浏览重点介绍产品发布、功能更新、Adobe解决方案集成、入门网络研讨会以及真实客户与合作伙伴成功案例的CX Analytics按需视频，以积累专业知识并了解最新的CX Analytics创新。
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: 浏览重点介绍产品发布、功能更新、Adobe解决方案集成、入门网络研讨会以及真实客户与合作伙伴成功案例的按需CX Analytics视频，以积累专业知识并及时了解最新的CX Analytics创新。
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # CX Analytics按需网络研讨会 {#cx-analytics-ondemand-webinars}
 
-探索精选的CX Analytics视频库，包括产品和功能发布、跨Adobe解决方案的“更好结合”故事、快速入门网络研讨会以及合作伙伴/客户成功案例。 可按需观看以提升您的分析专业知识，并通过定期添加新内容及时了解CX Analytics产品组合中的最新创新。
+探索精选的CX Analytics视频库，包括产品和功能发布、跨Adobe解决方案的“更好在一起”的故事、快速入门网络研讨会以及合作伙伴/客户成功案例。 您可以随时观看，以强化您的分析专业技能，并通过定期添加新内容及时了解CX Analytics产品组合中的最新创新。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

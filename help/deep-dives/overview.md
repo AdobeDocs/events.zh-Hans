@@ -3,18 +3,19 @@ title: Marketo深入探讨
 description: Deep Dives是一个视频库，专家和同行可以在其中分享他们关于如何最佳使用Adobe Marketo的想法和想法。
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1397'
 ht-degree: 1%
 
 ---
 
 # Marketo深入分析活动
 
-欢迎观看Deep Dives按需活动录像。 将这些资源与Adobe Marketo [文档](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hans)和[教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)结合使用，您将更好地了解如何使用Adobe Marketo支持您的业务。
+欢迎观看Deep Dives按需活动录像。 将这些资源与Adobe Marketo [文档](https://experienceleague.adobe.com/docs/marketo-engage.html)和[教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)结合使用，您将更好地了解如何使用Adobe Marketo支持您的业务。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -70,7 +71,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="在Adobe Identity上为Marketo Engage做准备" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432363/?captions=chi_hans&format=jpeg&nocache=1772063850796" alt="在Adobe Identity上为Marketo Engage做准备"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1772063850796" alt="在Adobe Identity上为Marketo Engage做准备"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,7 +94,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430737/?captions=chi_hans&format=jpeg&nocache=1772063850782" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1772063850782" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

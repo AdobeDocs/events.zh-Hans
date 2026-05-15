@@ -1,20 +1,21 @@
 ---
 title: 浓缩咖啡和Experience Manager
-description: 以Adobe专家为主题的Espressos & Experience Manager系列为来自所有技能级别的AEM(Sites和Assets)客户提供对常见用例、最佳实践和实时演示的洞察，最后是问答环节。
+description: 以Adobe专家为主题的Espressos & Experience Manager系列为来自所有技能级别的AEM（Sites和Assets）客户提供对常见用例、最佳实践和实时演示的洞察，最后是问答环节。
 duration: 15
 exl-id: ac3902e5-bf6a-456c-83c8-cfcff806875d
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Espressos和Experience Manager活动
 
-浓咖啡和Experience Manager系列拥有Adobe专家为您服务，并欢迎所有技能级别的现有AEM (Sites和Assets)客户。 该系列重点介绍一个常见客户用例，并分享反映事件主题的最佳实践。 演示之后，将进行现场演示或截屏，其中将展示如何根据最佳实践采取行动的示例。 每个活动都以现场问答会由Adobe专家来结束。
+浓咖啡和Experience Manager系列拥有Adobe专家为您服务，并欢迎所有技能级别的现有AEM （Sites和Assets）客户。 该系列重点介绍一个常见客户用例，并分享反映事件主题的最佳实践。 演示之后，将进行现场演示或截屏，其中将展示如何根据最佳实践采取行动的示例。 每个活动都以现场问答会由Adobe专家来结束。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

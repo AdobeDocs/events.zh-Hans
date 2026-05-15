@@ -3,9 +3,9 @@ title: Commerce和咖啡
 description: Adobe Commerce和Coffee系列重点介绍Commerce的战略和战术，并提供反映活动主题的统计数据。
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '846'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,8 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
 
 ## 2025年活动
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2025/peak-season.md
 * 2025/seo-growth.md
 * 2025/self-service-b2b.md
@@ -42,7 +43,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">探索通过Adobe Commerce扩展、个性化和优化您的商业体验的策略，其中涵盖B2B、SaaS工具、搜索和峰值后分析。</p>
                 </div>
                 <a href="2025/peak-season.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -65,7 +66,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">在此会议中，Corey Gelato和Agbi Bajrushi探索了SEO类型、关键原则和Adobe Commerce工具，如Meta Fields、Page Builder和电子商务的媒体最佳实践。</p>
                 </div>
                 <a href="2025/seo-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -88,7 +89,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">使用Adobe Commerce增强B2B体验！ 发现共享目录、公司管理、报价和自助服务工具等功能。 了解AI功能和B2B趋势。 实施自助服务的最佳实践并改善客户体验。 加入Adobe Summit ，获取更多见解和资源。</p>
                 </div>
                 <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -98,7 +99,8 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
 
 ## 2024年活动
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2024/ask-me-anything.md
 * 2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md
 * 2024/ecommerce-essentials.md
@@ -125,7 +127,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">Commerce和Coffee回答了参与者有关Adobe Commerce、探索公司层次结构、网站绩效指标、B2B个性化、实时搜索最佳实践和即将推出的产品增强功能的问题。</p>
                 </div>
                 <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -148,7 +150,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">Corey Gelato重点讲述了可最大程度地发挥Adobe Commerce原生B2B功能的战略（包括自助服务选项、共享目录、报价和快速订购），同时探讨了推动增长的关键电子商务趋势，并为成功推介B2B业务。</p>
                 </div>
                 <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -171,7 +173,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">Corey Gelato的讲座介绍了Adobe Commerce上的电子商务要点，重点讲述了用于个性化促销、忠诚度计划、优化付款和运送的策略，以及提高客户参与度、维系率和转化率的有效营销活动。</p>
                 </div>
                 <a href="2024/ecommerce-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -194,7 +196,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">Corey Gelato的课程通过优化网站性能、管理库存、增强客户对AI工具的参与度以及利用季后分析来提高维系率和忠诚度，为电子商务企业提供在旺季期间表现出色的战略。</p>
                 </div>
                 <a href="2024/peak-season-prep.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -217,7 +219,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">Commerce高级战略顾问Corey Gelato展示了Adobe Commerce的人工智能驱动工具，包括预测分析、产品推荐、实时搜索和聊天机器人，这些工具可增强个性化的电子商务体验和有针对性的营销活动。</p>
                 </div>
                 <a href="2024/personalize-ecommerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -227,7 +229,8 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
 
 ## 2023年活动
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2023/ask-me-anything.md
 * 2023/b2b.md
 * 2023/loyalty-retention.md
@@ -254,7 +257,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">在年终的Commerce和Coffee AMA中，Corey Gelato回答问题并展示了Adobe Commerce的功能，如Live Search、类别规则、客户细分和B2B引号，以帮助企业在旺季时表现出色。</p>
                 </div>
                 <a href="2023/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -277,7 +280,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">利用Cory Gelato探索Adobe Commerce的高级B2B功能，包括共享目录、报价、申请列表和审批工作流，同时学习相应策略以推动增长并在不断变化的B2B商业格局中保持竞争力。</p>
                 </div>
                 <a href="2023/b2b.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -300,7 +303,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">了解7种通过Corey Gelato提高客户忠诚度和维系率的策略，其中采用个性化、奖励计划和透明度等最佳实践，以及产品推荐、价格规则和促销活动等Adobe Commerce工具。</p>
                 </div>
                 <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -323,7 +326,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">发现用Corey Gelato推动自然电子商务增长的7种策略，包括SEO、社交媒体、网站优化，以及Adobe Commerce工具（如URL重写、Sitemap生成和元数据管理）。</p>
                 </div>
                 <a href="2023/organic-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -346,7 +349,7 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
                     <p class="is-size-6">与Corey Gelato一起探索旺季策略（包括促销、内容暂存和价格规则），以及实时演示和专家提示，以帮助您的电子商务网站全年保持竞争力。</p>
                 </div>
                 <a href="2023/peak-season-prep.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
         </div>
@@ -360,11 +363,11 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -373,11 +376,11 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -386,11 +389,11 @@ Commerce &amp; Coffee系列适用于所有技能水平和功能的现有Adobe Co
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=zh-Hans">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>

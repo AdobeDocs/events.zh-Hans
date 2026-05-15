@@ -3,9 +3,9 @@ title: 使用Workfront唤醒
 description: “唤醒与Workfront”系列展示了针对所有技能级别的项目管理和工作流最佳实践，其中包括可操作策略、Workfront关键功能的实时演示以及总结性问答会。
 duration: 15
 exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 “唤醒与Workfront的关系”系列可以为所有技能的客户重点介绍项目管理和工作流最佳实践，其重点在于可操作的战略以增强协作并提高效率。 会议包括Workfront关键功能的现场演示，确保与会者了解如何在自己的环境中应用所讨论的概念。 每个活动还以一个实时问答会话结束。
 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

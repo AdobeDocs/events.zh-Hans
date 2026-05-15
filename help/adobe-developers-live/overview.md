@@ -4,16 +4,16 @@ description: Adobe Developers Live中的会话录制集合
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '744'
 ht-degree: 5%
 
 ---
 
 # Adobe Developers Live {#overview}
 
-Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人员和体验构建者聚集在一起，以创造令人难以置信的端到端体验。该为期两天的会议将提供重要的开发人员更新、技术会议和社区交流机会。
+Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人员和体验构建者聚集在一起，以创造令人难以置信的端到端体验。 该为期两天的会议将提供重要的开发人员更新、技术会议和社区交流机会。
 
 跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe产品团队将展示跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。
 
@@ -21,7 +21,8 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
 
 ## Adobe Developers Live 2025 ：构建代理Web
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -58,7 +59,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/keynote.md" target="_blank" rel="referrer" title="构建Agentic Web主题演讲">正在生成Agentic Web主题演讲</a>
                     </p>
-                    <p class="is-size-6">利用Adobe对代理Web的愿景(包括AEM代理等)，探索AI在数字体验中的作用。</p>
+                    <p class="is-size-6">利用Adobe对代理Web的愿景（包括AEM代理等），探索AI在数字体验中的作用。</p>
                 </div>
                 <a href="2025/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
@@ -94,7 +95,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="Adobe项目中的AI — 实践案例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477635/?captions=chi_hans&format=jpeg&nocache=1765499677692" alt="Adobe项目中的AI — 实践案例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="Adobe项目中的AI — 实践案例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +118,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="AI编码之争 — 好、坏、丑" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477658/?captions=chi_hans&format=jpeg&nocache=1765499677608" alt="AI编码之争 — 好、坏、丑"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="AI编码之争 — 好、坏、丑"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +164,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="AI Commerce开发创新" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477691/?captions=chi_hans&format=jpeg&nocache=1765499677619" alt="AI Commerce开发创新"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="AI Commerce开发创新"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +187,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="使用Adobe Experience Manager进行AI内容发现" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477750/?captions=chi_hans&format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager进行AI内容发现"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager进行AI内容发现"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +210,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Adobe Experience Manager中的内容人工智能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477829/?captions=chi_hans&format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的内容人工智能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的内容人工智能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +233,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="大规模文档创作 — 智能、AI优化体验的基础" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477818/?captions=chi_hans&format=jpeg&nocache=1765499677631" alt="大规模文档创作 — 智能、AI优化体验的基础"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="大规模文档创作 — 智能、AI优化体验的基础"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +279,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="浏览Adobe Experience Manager代理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477670/?captions=chi_hans&format=jpeg&nocache=1765499677627" alt="浏览Adobe Experience Manager代理"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="浏览Adobe Experience Manager代理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +302,7 @@ Adobe Developers Live 将具有不同的背景和单一目的的 Adobe 开发人
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="使用AEM Sites Optimizer优化代码" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477727/?captions=chi_hans&format=jpeg&nocache=1765499677637" alt="使用AEM Sites Optimizer优化代码"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="使用AEM Sites Optimizer优化代码"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
