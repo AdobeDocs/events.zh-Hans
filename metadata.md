@@ -6,7 +6,7 @@ feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaig
 description: Adobe直播活动的录制集合。
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/events.en
+git-repo: https://github.com/AdobeDocs/events.zh-Hans
 index: true
 auto-video-transcripts: true
 source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
