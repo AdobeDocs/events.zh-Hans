@@ -31,5 +31,5 @@ ht-degree: 1%
 **其他资源**
 
 * [申请2026-2027Adobe冠军赛](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other)
-* [访问Adobe Experience League上的“Adobe冠军计划”页面](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other)
-* [从Adobe Experience League的角度查看冠军的贡献](https://experienceleague.adobe.com/en/perspectives)
+* [访问Adobe Experience League上的“Adobe冠军计划”页面](https://experienceleague.adobe.com/zh-hans/champions?cgen=X2PHHJ1W&mv=other)
+* [从Adobe Experience League的角度查看冠军的贡献](https://experienceleague.adobe.com/zh-hans/perspectives)
