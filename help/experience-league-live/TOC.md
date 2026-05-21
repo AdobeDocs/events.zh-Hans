@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 12%
+source-wordcount: '380'
+ht-degree: 16%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 12%
 
 + [概述](overview.md)
 + 集数 {#episodes}
+   + [在历程上线之前，高效地测试、模拟和验证历程](episodes/exl-live-episode-06-17-26.md)
    + [客户参与的新用例：iOS实时活动、Web推送和永久消息传递](episodes/exl-live-episode-04-08-26.md)
    + [了解Adobe Journey Optimizer中的Campaign编排](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agent可提升营销效率和改善业务成果](episodes/exl-live-episode-03-03-26.md)
@@ -39,7 +40,7 @@ ht-degree: 12%
    + [在Real-Time CDP中为营销人员引入面向受众的AI助手](episodes/exl-live-episode-11-13-24.md)
    + [揭示Adobe Journey Optimizer的内容卡片](episodes/exl-live-episode-10-30-24.md)
    + [在Experience Platform中使用联合受众组合来协调受众](episodes/exl-live-episode-40-2024-10-24.md)
-   + [AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放人工智能助理的强大功能](episodes/exl-live-episode-09-26-24.md)
+   + [AI Bash：在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](episodes/exl-live-episode-09-26-24.md)
    + [您是否已准备好提升您的移动分析应用程序？](episodes/exl-live-episode-09-18-24.md)
    + [Summer Spotlight - 三个必须尝试的 Adobe Journey Optimizer 功能](episodes/exl-live-episode-08-28-24.md)
    + [最新Adobe Real-Time CDP版本如何推动您的业务发展](episodes/exl-live-episode-06-26-24.md)
