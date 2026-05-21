@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 008061527b5d34bc29fe9a79554f4cbeadcfaea6
+source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '555'
 ht-degree: 1%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 1%
       + [解锁Workfront讨论区](workshop-rewind/workflow/unlock-boards.md)
       + [充分发挥Workfront Data Connect的优势](workshop-rewind/workflow/data-connect.md)
       + [使用Workfront进行有效重组](workshop-rewind/workflow/effective-reorgs.md)
+      + [Workfront管理员 — 10堂课](workshop-rewind/workflow/workfront-admin-10-lessons.md)
       + [Workfront + AEM本机集成](workshop-rewind/workflow/aem-native-integration.md)
       + [Workfront报表 — 年终策略](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + 快速获取 {#quicktakes}
