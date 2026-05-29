@@ -10,9 +10,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '106'
 ht-degree: 2%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 2%
    + [Admin Console迁移](admin-console.md)
    + [API](api.md)
    + [在Marketo中应用AI](applying-ai.md)
-   + [使用Webhook和自助服务流程步骤实现更智能的流程](building-smarter-flows.md)
    + [使用Marketo API自动化和简化Campaign操作](campaign-operations.md)
    + [认证](certification.md)
    + [在Marketo Engage中了解新电子邮件Designer](email-designer.md)
    + [电子邮件培养](email-nurture.md)
    + [可执行活动](executable-campaigns.md)
+   + [AI的基础知识](fundamentals-for-ai.md)
    + [IMS迁移已解压缩](ims-migration.md)
    + [继承实例](inheriting-an-instance.md)
    + [商机生命周期](lead-lifecycles.md)
@@ -40,5 +40,6 @@ ht-degree: 2%
    + [通过一支小型团队最大程度地提高您的实例](small-team-instance.md)
    + [在活动日志中记录复杂流程](activity-log.md)
    + [Salesforce后台同步升级和使用情况监控](salesforce-background-sync.md)
+   + [使用Webhook和自助服务流程步骤实现更智能的流程](building-smarter-flows.md)
    + [解锁全球营销](global-marketing.md)
    + [使用Webhook传输数据](webhooks.md)

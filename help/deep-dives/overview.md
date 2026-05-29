@@ -3,16 +3,16 @@ title: Marketo深入探讨
 description: Deep Dives是一个视频库，专家和同行可以在其中分享他们关于如何最佳使用Adobe Marketo的想法和想法。
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '1397'
-ht-degree: 1%
+source-wordcount: '1413'
+ht-degree: 0%
 
 ---
 
 # Marketo深入分析活动
 
-欢迎观看Deep Dives按需活动录像。 将这些资源与Adobe Marketo [文档](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hans)和[教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)结合使用，您将更好地了解如何使用Adobe Marketo支持您的业务。
+欢迎观看Deep Dives按需活动录像。 将这些资源与Adobe Marketo [文档](https://experienceleague.adobe.com/docs/marketo-engage.html)和[教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)结合使用，您将更好地了解如何使用Adobe Marketo支持您的业务。
 
 <!-- 
 CARDS
@@ -29,6 +29,7 @@ CARDS
 * email-designer.md 
 * email-nurture.md 
 * executable-campaigns.md 
+* fundamentals-for-ai.md
 * global-marketing.md 
 * ims-migration.md 
 * inheriting-an-instance.md 
@@ -48,7 +49,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="activity-log.md" title="在活动日志中记录复杂流程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1772063850788" alt="在活动日志中记录复杂流程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1780010007034" alt="在活动日志中记录复杂流程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +72,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="在Adobe Identity上为Marketo Engage做准备" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432363/?captions=chi_hans&format=jpeg&nocache=1772063850796" alt="在Adobe Identity上为Marketo Engage做准备"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1780010007038" alt="在Adobe Identity上为Marketo Engage做准备"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430737/?captions=chi_hans&format=jpeg&nocache=1772063850782" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1780010007041" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +118,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="applying-ai.md" title="在Marketo中应用AI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1772063850803" alt="在Marketo中应用AI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1780010007030" alt="在Marketo中应用AI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +141,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="building-smarter-flows.md" title="利用Webhook和自助式流程步骤(SSFS)实现构建更智能流程的自动化和创新" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480207/?format=jpeg&nocache=1772063850773" alt="利用Webhook和自助式流程步骤(SSFS)实现构建更智能流程的自动化和创新"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480207/?format=jpeg&nocache=1780010007053" alt="利用Webhook和自助式流程步骤(SSFS)实现构建更智能流程的自动化和创新"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +164,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="campaign-operations.md" title="使用Marketo API自动化和简化Campaign操作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1772063850810" alt="使用Marketo API自动化和简化Campaign操作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1780010007049" alt="使用Marketo API自动化和简化Campaign操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +187,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="certification.md" title="亲自投资 — Adobe [!DNL Marketo Engage]认证" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1772063850818" alt="亲自投资 — Adobe [!DNL Marketo Engage]认证"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1780010007067" alt="亲自投资 — Adobe [!DNL Marketo Engage]认证"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +210,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-designer.md" title="在Marketo Engage中了解新电子邮件Designer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1772063850855" alt="在Marketo Engage中了解新电子邮件Designer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1780010007076" alt="在Marketo Engage中了解新电子邮件Designer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +233,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-nurture.md" title="Adobe [!DNL Marketo Engage] Champion深入分析电子邮件培养" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1772063850834" alt="Adobe [!DNL Marketo Engage] Champion深入分析电子邮件培养"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1780010007062" alt="Adobe [!DNL Marketo Engage] Champion深入分析电子邮件培养"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -255,7 +256,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="executable-campaigns.md" title="可执行活动 — 了解可执行文件如何提高效率和影响" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1772063850826" alt="可执行活动 — 了解可执行文件如何提高效率和影响"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1780010007081" alt="可执行活动 — 了解可执行文件如何提高效率和影响"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,12 +274,35 @@ CARDS
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Fundamentals for AI">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="fundamentals-for-ai.md" title="适用于AI的Adobe Marketo Engage基础知识" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491592/?format=jpeg&nocache=1780010007057" alt="适用于AI的Adobe Marketo Engage基础知识"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        适用于AI的<a href="fundamentals-for-ai.md" target="_blank" rel="referrer" title="适用于AI的Adobe Marketo Engage基础知识">Adobe Marketo Engage基础知识</a>
+                    </p>
+                    <p class="is-size-6">了解如何针对AI功能优化Marketo实例。 探索基本设置实践，确保有效的AI集成和可扩展性。</p>
+                </div>
+                <a href="fundamentals-for-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="global-marketing.md" title="通过Marketo Engage解锁全球营销 — Adobe Champion深入探讨 — 2024年8月" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1772063850848" alt="通过Marketo Engage解锁全球营销 — Adobe Champion深入探讨 — 2024年8月"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1780010007070" alt="通过Marketo Engage解锁全球营销 — Adobe Champion深入探讨 — 2024年8月"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +325,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="ims-migration.md" title="IMS迁移解压缩 — 简化Marketo用户的过渡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1772063850863" alt="IMS迁移解压缩 — 简化Marketo用户的过渡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1780010007073" alt="IMS迁移解压缩 — 简化Marketo用户的过渡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +348,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="inheriting-an-instance.md" title="继承实例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1772063850869" alt="继承实例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1780010007083" alt="继承实例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -347,7 +371,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="lead-lifecycles.md" title="商机生命周期" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1772063850840" alt="商机生命周期"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1780010007079" alt="商机生命周期"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -370,7 +394,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo-forms-aem-forms.md" title="那到底是谁的表格？ 与AEM Forms相比，深入了解Marketo表单" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1772063850901" alt="那到底是谁的表格？ 与AEM Forms相比，深入了解Marketo表单"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1780010007087" alt="那到底是谁的表格？ 与AEM Forms相比，深入了解Marketo表单"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -378,7 +402,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo-forms-aem-forms.md" target="_blank" rel="referrer" title="那到底是谁的表格？ 与AEM Forms相比，深入了解Marketo表单">该表单是谁的？ 与AEM Forms</a>相比，深入了解Marketo表单
+                        <a href="marketo-forms-aem-forms.md" target="_blank" rel="referrer" title="那到底是谁的表格？ 与AEM Forms相比，深入了解Marketo表单">该表单是谁的？与AEM Forms相比，深入了解Marketo表单</a>
                     </p>
                     <p class="is-size-6">集成Marketo和AEM Forms以提供自定义PDF等个性化体验。 AEM Forms通过实时验证和集中管理来处理复杂表单。</p>
                 </div>
@@ -393,7 +417,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="maximize-email-deliverability.md" title="使用Marketo最大限度地提高电子邮件可投放性 — 触及受众的最佳实践" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1772063850893" alt="使用Marketo最大限度地提高电子邮件可投放性 — 触及受众的最佳实践"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1780010007182" alt="使用Marketo最大限度地提高电子邮件可投放性 — 触及受众的最佳实践"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -416,7 +440,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="pmcf-fields.md" title="利用PMCF字段实现可扩展性" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1772063850884" alt="利用PMCF字段实现可扩展性"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1780010007090" alt="利用PMCF字段实现可扩展性"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -439,7 +463,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="salesforce-background-sync.md" title="增强的可见性和控制 — Salesforce后台同步升级和使用情况监控" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1772063850916" alt="增强的可见性和控制 — Salesforce后台同步升级和使用情况监控"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1780010007203" alt="增强的可见性和控制 — Salesforce后台同步升级和使用情况监控"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -462,7 +486,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="small-team-instance.md" title="了解小型团队如何最大化其Adobe [!DNL Marketo Engage]实例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1772063850876" alt="了解小型团队如何最大化其Adobe [!DNL Marketo Engage]实例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1780010007189" alt="了解小型团队如何最大化其Adobe [!DNL Marketo Engage]实例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -485,7 +509,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="webhooks.md" title="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1772063850908" alt="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1780010007197" alt="Adobe Marketo Engage Champion深入研究 — 使用Webhook传输数据"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
