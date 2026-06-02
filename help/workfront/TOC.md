@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 1%
       + [Adobe Workfront规划演示](workshop-rewind/planning/planning-demo.md)
       + [构建基本实施](workshop-rewind/planning/base-implementation.md)
       + [连接计划、工作流和画布功能板](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Workfront Planning全局记录类型](workshop-rewind/planning/global-record-types.md)
       + [锡拉丘兹如何利用Planning](workshop-rewind/planning/syracuse-planning.md)
       + [SNHU的Creative用例](workshop-rewind/planning/planning-reimagined.md)
       + [Workfront规划的团队级成功](workshop-rewind/planning/team-success-workfront-planning.md)
