@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-正在寻找活动期间共享的更多资源？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)！
+正在寻找活动期间共享的更多资源？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827?profile.language=zh-Hans)！
 
-每月都会添加新活动，因此请查看[Experience League活动页面](https://experienceleague.adobe.com/en/events?lang=en)以了解最新会话。
+每月都会添加新活动，因此请查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events?lang=en)以了解最新会话。
