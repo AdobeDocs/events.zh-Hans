@@ -53,11 +53,11 @@ CARDS
 
 ## 车间倒带
 
-六月已到，最新版本的[Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)也是如此！ 本新闻稿是您了解Workfront全球范围内发生的最新新闻、更新、活动和其他内容的一站式服务。
+六月已到，最新版本的[Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?profile.language=zh-Hans&tid=250880)也是如此！ 本新闻稿是您了解Workfront全球范围内发生的最新新闻、更新、活动和其他内容的一站式服务。
 
 正在查找更多内容？ 通过我们精心挑选的按需活动，探索您的Adobe Workfront社区中的最新内容。 使用左侧导航菜单浏览“研讨会倒带”下的主题，其中按Fusion、Planning和Workflow对会议进行分组，以帮助您快速找到根据需求定制的内容。
 
-并确保参加即将举行的实时活动以提出问题、分享见解并与同行协作。 请定期访问[Experience League Workfront Events页面](https://experienceleague.adobe.com/en/events?filters=Workfront)，查看后续内容！
+并确保参加即将举行的实时活动以提出问题、分享见解并与同行协作。 请定期访问[Experience League Workfront Events页面](https://experienceleague.adobe.com/zh-hans/events?filters=Workfront)，查看后续内容！
 
 <!-- 
 CARDS 
