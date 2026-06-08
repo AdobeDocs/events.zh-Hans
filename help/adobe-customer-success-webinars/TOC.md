@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe客户成功网络研讨会
 breadcrumb-title: Adobe客户成功网络研讨会
-user-guide-description: Adobe客户成功引导的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+user-guide-description: 以客户成功为导向的网络研讨会，旨在让您能够优化对Adobe Experience Cloud的投资。 获得宝贵的见解以最大限度地实现价值并提高Adobe解决方案的采用率。
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 5%
       + [为Customer Journey Analytics创建BRD-SDR文件](2026/brd-sdr-file-best-practices.md)
       + [解锁身份](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [用AI代理和助理转换AEM](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [在Edge Delivery Services中创作](2026/authoring-eds.md)
       + [最大化内容供应链](2026/value-with-content-supply-chain.md)
       + [AEM Sites的现代投放模型](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 5%
    + Experience Platform {#aep2026}
       + [嵌入式智能转变](2026/embedded-intelligence.md)
    + General {#general2026}
+      + [释放智能人工智能的力量](2026/unlock-the-power-of-agentic-ai.md)
       + [假期成功的AI策略](2026/2025-holiday-results.md)
       + [内容Supply chain更改管理策略](2026/csc-change-management.md)
       + [内容Supply chain执行赞助](2026/csc-executive-sponsorship.md)
