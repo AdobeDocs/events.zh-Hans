@@ -6,16 +6,17 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
-source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
+source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # 如何在Adobe Target中利用Target MCP和其他主要新版本
 
-加入我们观看这个Experience League LIVE剧集，我们的专家将展示Adobe Target如何提供Target MCP，以便在代理的帮助下分析项目洞察，并构建和编辑活动，以及用于缩放优化的其他新功能。
+加入我们，参加下一场Experience League LIVE，我们的专家将带您了解我们进入新代理时代时的最新Adobe Target创新。 我们介绍了新的Target MCP，包括它是什么、如何访问它，以及它如何分析项目见解以及使用代理构建和编辑活动。 我们还提供了旨在帮助您扩展优化的其他新增功能和增强功能的演示。
 
 在本课程中，您将学习如何：
 
@@ -27,7 +28,6 @@ ht-degree: 0%
 
 不要错过这个机会来查看代理优化的最新信息，并让我们的专家现场回答您的问题。
 
+[设置YouTube提醒！](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
 [![ExL LIVE 2026年6月24日](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
-[设置YouTube提醒！](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
