@@ -7,7 +7,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
+source-git-commit: 6cf497c3898f0aa061f89b12cf6843b05232d63c
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 不要错过这个机会来查看代理优化的最新信息，并让我们的专家现场回答您的问题。
 
-[设置YouTube提醒！](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[设置YouTube提醒！](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
 
-[![ExL LIVE 2026年6月24日](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[![ExL LIVE 2026年6月24日](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
