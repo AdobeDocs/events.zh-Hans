@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
+source-git-commit: cd1d58a1d2e0135bc7ad80501bdc976c470896b8
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 47%
+source-wordcount: '107'
+ht-degree: 49%
 
 ---
 
@@ -24,19 +24,6 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 ## 即将举行的Experience League LIVE活动
 
 <table>
-<tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League直播6月17日" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-17-26.md">
-        <strong>如何在上线前高效地测试、模拟和验证历程</strong>
-      </a>
-      <br/><em>与Sandra Hausmann、Ariel Sultan和Nicolas Dufau</em>
-      <br/><em>2026年6月17日</em>
-    </div>
-  </td>
-</tr>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
       <img alt="Experience League直播6月24日" src="episodes/assets/webbanner-june-24-2026.png">
@@ -115,5 +102,5 @@ Experience League LIVE 是 Experience League 团队制作的直播节目。  利
 
 >[!TIP]
 >
->如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/zh-hans#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
+>如需其他学习方法，请查看我们的免费[课程](https://experienceleague.adobe.com/#dashboard/learning)以及个人[教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)。
 
