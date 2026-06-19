@@ -7,7 +7,7 @@ feature: Deliverability
 event-cta-url-live: https://youtube.com/live/lrdorB0LgFo
 event-start-time: 2026-07-16 08:30-7
 event-guests: Sandra Hausmann, Jyothitha Chandran, Tyson Wai, Chris Ivory
-source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
+source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -40,3 +40,4 @@ ht-degree: 0%
 非常适合就内容进行协作并想要减少团队间切换冲突的AEM作者和AJO从业者。
 
 **单击上图为节目设置提醒！**
+
