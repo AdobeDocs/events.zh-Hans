@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: b4b48b83a52b48c67d0d514600045b138ed24f36
+source-git-commit: 218fd488296922bf242f13ede602ae50896fedab
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 1%
       + [10个沟通技巧](workshop-rewind/workflow/10-communication-tips.md)
       + [10个文本模式提示](workshop-rewind/workflow/text-mode-tips.md)
       + [其他10个文本模式提示](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [跟踪您的Sys管理员值](workshop-rewind/workflow/system-admin-value.md)
       + [将用户混淆转换为置信度](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Workfront计算字段疑难解答](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
       + [将Blueprint转换为培训方案](workshop-rewind/workflow/blueprints-to-planning.md)
