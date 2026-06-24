@@ -25,6 +25,6 @@ ht-degree: 1%
 
 从基础知识到实际应用程序，本会议将在每天与其Workfront API合作的专家的指导下，为您提供一条了解API世界的清晰、易懂的途径。 无论您是初次使用API，还是希望扩展您的技术工具包，此会话都将帮助您在概念与功能之间建立起联系。
 
-正在寻找活动期间共享的更多资源？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328)！
+正在寻找活动期间共享的更多资源？ 查看[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328?profile.language=zh-Hans)！
 
-每月都会添加新活动，因此请查看[Experience League活动页面](https://experienceleague.adobe.com/en/events)以了解最新会话。
+每月都会添加新活动，因此请查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
