@@ -23,7 +23,7 @@ ht-degree: 2%
 
 在本次研讨会中，Nuria将介绍一些真实的示例，说明小巧的有意配置如何能够揭示成本节约、效率提升并加强Workfront系统管理员的作用。 无论您是Workfront的新手还是经验丰富的管理员，在离开时都会想到一些切实可行的想法，以更好地倡导您的工作、发现增长机会，并成为您组织中更具战略性的合作伙伴。
 
-正在查找更多内容？ 继续对话[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?tid=251357)！
+正在查找更多内容？ 继续对话[Experience League社区帖子](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?profile.language=zh-Hans&tid=251357)！
 
-每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/en/events)以了解最新会话。
+每月都会添加新活动，因此请务必查看[Experience League活动页面](https://experienceleague.adobe.com/zh-hans/events)以了解最新会话。
 
