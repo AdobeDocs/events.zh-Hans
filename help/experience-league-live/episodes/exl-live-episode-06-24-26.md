@@ -27,5 +27,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-有关[Adobe Target MCP服务器](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)的详细信息，请访问产品文档。
-有问题吗？在[社区论坛](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358)中询问他们 — 我们的专家正在积极监控此剧集的讨论会话。
+有关[Adobe Target MCP服务器](https://experienceleague.adobe.com/zh-hans/docs/target/using/mcp/target-mcp)的详细信息，请访问产品文档。
+有问题吗？在[社区论坛](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358?profile.language=zh-Hans)中询问他们 — 我们的专家正在积极监控此剧集的讨论会话。
